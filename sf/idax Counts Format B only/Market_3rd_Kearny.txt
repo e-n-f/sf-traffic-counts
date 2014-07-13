@@ -1,0 +1,165 @@
+ www.idaxdata.com
+
+
+                                               3rd St
+                                              Market St
+                                                                                                                                      Date: Wed, Apr 09, 2014
+                 N                              Peak Hour                                                                     Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                Peak Hour: 5:00 PM to 6:00 PM
+
+
+
+
+                                                    0
+
+
+
+                                                                     1,588
+                             3rd St
+
+
+
+
+                                                    0
+                                            0
+
+
+
+                                                             0
+
+
+
+
+                                                                                                                                                                      0
+                                                                                                                                                                             0
+                                                                                                                                                                 0
+                                                                                                 Market St
+
+                                                                                                 114
+    309                                                                                                            359                                               972
+                         1                      TEV: 2,513                                       245                                          0                                                    0
+
+
+
+
+                                                                                                                                                                                 747
+                                                                                                                                                           819
+                                                PHF: 0.94                                        0                                           66                                                    366
+    520              519
+                                                                                                                   616                        0                                                    0
+                         0                                                                                                                                           2,232
+
+                 Market St
+                                                                                        3rd St
+                                                        64
+
+
+
+                                                                             97
+                                                                 1,473
+
+
+
+
+                                                                                                                     HV %:           PHF
+
+
+
+
+                                                                                                                                                                             9
+                                                                                                                                                                 8
+                                                                                                                                                                      13
+                                                                                                             EB      16.0%           0.90
+                                                                                                             WB      22.6%           0.94
+                                                                   1,634
+
+
+
+
+                                                                                                             NB      3.4%            0.91
+                                                    0
+
+
+
+
+                                                                                                             SB           -            -
+                                                                                                           TOTAL     8.8%            0.94
+Two-Hour Count Summaries
+                              Market St                                      Market St                               3rd St                         3rd St
+    Interval                                                                                                                                                                     15-min             Rolling
+                             Eastbound                                       Westbound                             Northbound                     Southbound
+      Start                                                                                                                                                                       Total            One Hour
+                     LT         TH                  RT           LT             TH     RT                    LT        TH     RT               LT     TH     RT
+    4:00 PM          0                114               0          0              74                 19       8          293           26      0       0               0               534
+    4:15 PM          0                144               0          0              51                 15       9          327           27      0       0               0               573
+    4:30 PM          0                129               0          0              49                 23       9          348           34      0       0               0               592
+    4:45 PM          0                129               0          0              46                 18      15          339           26      0       0               0               573          2,272
+    5:00 PM          0                118               0          0              59                 34      21          335           38      0       0               0               605          2,343
+    5:15 PM          1                134               0          0              51                 34      20          408           19      0       0               0               667          2,437
+    5:30 PM          0                145               0          0              56                 30      13          372           16      0       0               0               632          2,477
+    5:45 PM          0                122               0          0              79                 16      10          358           24      0       0               0               609          2,513
+  Count Total        1                1,035             0          0              465                189     105     2,780           210       0       0               0           4,785
+           All       1                519               0          0              245                114     64      1,473             97      0       0               0           2,513
+ Peak
+           HV        0                 83               0          0              60                 21       2          49            5       0       0               0               220
+ Hour
+          HV%        0%               16%               -          -              24%                18%     3%          3%          5%        -       -                -              9%
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+    Interval                 Heavy Vehicle Totals                                                          Bicycles                                 Pedestrians (Crossing Leg)
+      Start          EB       WB     NB     SB    Total                            EB                WB       NB    SB         Total        East     West      North     South                           Total
+    4:00 PM          26               28      13             0             67       18               12       7      0          37          171       162               167                  297      797
+    4:15 PM          26               14      10             0             50       10                3       3      0          16          154       182               128                  242      706
+    4:30 PM          22               24      21             0             67       17                4       5      0          26          102       160               137                  232      631
+    4:45 PM          22               20      16             0             58       13                4       8      0          25          112       190               139                  255      696
+    5:00 PM          18               17        8            0             43       13               41       5      0          59          124       210               224                  532      1,090
+    5:15 PM          24               24      15             0             63       17               80       6      0         103          215       215               210                  579      1,219
+    5:30 PM          20               23      22             0             65       18               107      7      0         132          204       204               247                  565      1,220
+    5:45 PM          21               17      11             0             49       18               138     12      0         168          204       190               291                  556      1,241
+  Count Total        179          167         116            0           462       124               389     53      0         566          1,286    1,513             1,543             3,258        7,600
+    Peak Hr          83               81      56             0           220        66               366     30      0         462          747       819               972              2,232        4,770
+
+ Deon Fouche: 415 - 757 - 7714                                                                                                                                   deon.fouche@idaxdata.com
+ www.idaxdata.com
+
+
+
+
+Two-Hour Count Summaries - Heavy Vehicles
+                      Market St             Market St               3rd St                 3rd St
+   Interval                                                                                                 15-min    Rolling
+     Start            Eastbound             Westbound             Northbound             Southbound          Total   One Hour
+                 LT      TH       RT   LT      TH       RT   LT      TH        RT   LT      TH        RT
+    4:00 PM       0       26      0    0       20       8    0       12        1    0        0         0      67
+    4:15 PM       0       26      0    0       11       3    0       10        0    0        0         0      50
+    4:30 PM       0       22      0    0       16       8    1       18        2    0        0         0      67
+    4:45 PM       0       22      0    0       16       4    0       16        0    0        0         0      58        242
+   5:00 PM        0       18      0    0       14       3    0        7        1    0        0         0      43        218
+   5:15 PM        0       24      0    0       17       7    2       11        2    0        0         0      63        231
+   5:30 PM        0       20      0    0       15       8    0       21        1    0        0         0      65        229
+   5:45 PM        0       21      0    0       14       3    0       10        1    0        0         0      49        220
+ Count Total      0      179      0    0       123      44   3       105       8    0        0         0      462
+  Peak Hour       0       83      0    0       60       21   2       49        5    0        0         0      220
+
+
+Two-Hour Count Summaries - Bikes
+                      Market St             Market St               3rd St                 3rd St
+   Interval                                                                                                 15-min    Rolling
+     Start            Eastbound             Westbound             Northbound             Southbound          Total   One Hour
+                 LT      TH       RT   LT      TH       RT   LT      TH        RT   LT      TH        RT
+    4:00 PM       0       18      0    0       12       0    2        0        5    0        0         0      37
+    4:15 PM       0       10      0    0        3       0    0        1        2    0        0         0      16
+    4:30 PM       0       17      0    0        4       0    2        2        1    0        0         0      26
+    4:45 PM       0       13      0    0        4       0    3        0        5    0        0         0      25        104
+   5:00 PM        0       13      0    0       41       0    1        4        0    0        0         0      59        126
+   5:15 PM        0       17      0    0       80       0    3        2        1    0        0         0      103       213
+   5:30 PM        0       18      0    0       107      0    0        3        4    0        0         0      132       319
+   5:45 PM        0       18      0    0       138      0    4        4        4    0        0         0      168       462
+ Count Total      0      124      0    0       389      0    15      16        22   0        0         0      566
+  Peak Hour       0       66      0    0       366      0    8       13        9    0        0         0      462
+
+
+
+
+ Deon Fouche: 415 - 757 - 7714                                                                      deon.fouche@idaxdata.com
+
