@@ -1,0 +1,200 @@
+																																						
+																																						
+																																						
+																																						
+																							Date: 					"Wed, Apr 09, 2014"										
+								Peak Hour														Count Period: 						4:00 PM				to	6:00 PM					
+																							Peak Hour: 					4:15 PM				to	5:15 PM					
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																					HV %:			PHF														
+																			EB		6.9%			0.88														
+																			WB		-			-														
+																			NB		3.7%			0.98														
+																			SB		-			-														
+																			TOTAL		4.7%			0.96														
+Two-Hour Count Summaries																																						
+Interval         Start					Post St							Post St							Kearny St							Kearny St							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				43		118			0		0		0			0		0		252			9		0		0			0		422					
+	4:15 PM				36		120			0		0		0			0		0		314			10		0		0			0		480					
+	4:30 PM				41		94			0		0		0			0		0		317			8		0		0			0		460					
+	4:45 PM				50		129			0		0		0			0		0		308			8		0		0			0		495			"1,857"		
+	5:00 PM				49		108			0		0		0			0		0		309			4		0		0			0		470			"1,905"		
+	5:15 PM				43		92			0		0		0			0		0		320			12		0		0			0		467			"1,892"		
+	5:30 PM				45		97			0		0		0			0		0		310			5		0		0			0		457			"1,889"		
+	5:45 PM				53		125			0		0		0			0		0		321			8		0		0			0		507			"1,901"		
+Count Total					360		883			0		0		0			0		0		"2,451"			64		0		0			0		"3,758"					
+Peak Hour			All		176		451			0		0		0			0		0		"1,248"			30		0		0			0		"1,905"					
+			HV		13		30			0		0		0			0		0		45			2		0		0			0		90					
+			HV%		7%		7%			-		-		-			-		-		4%			7%		-		-			-		5%					
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.																																						
+																																						
+Interval         Start					Heavy Vehicle Totals										Bicycles										Pedestrians (Crossing Leg)													
+					EB		WB		NB		SB		Total		EB		WB		NB		SB		Total		East			West			North			South			Total	
+	4:00 PM				14		0		14		0		28		7		0		12		0		19		289			199			154			101			743	
+	4:15 PM				8		0		11		0		19		4		0		2		0		6		262			190			105			128			685	
+	4:30 PM				15		0		16		0		31		3		0		7		0		10		305			184			113			122			724	
+	4:45 PM				6		0		12		0		18		1		0		4		0		5		240			199			111			154			704	
+	5:00 PM				14		0		8		0		22		3		0		5		0		8		236			236			223			141			836	
+	5:15 PM				12		0		15		0		27		4		0		3		0		7		252			230			208			156			846	
+	5:30 PM				9		0		17		0		26		3		0		6		0		9		218			256			221			182			877	
+	5:45 PM				4		0		14		0		18		5		0		17		0		22		256			275			222			170			923	
+Count Total					82		0		107		0		189		30		0		56		0		86		"2,058"			"1,769"			"1,357"			"1,154"			"6,338"	
+Peak Hr					43		0		47		0		90		11		0		18		0		29		"1,043"		43	809		43	552		43	545		43	"2,949"	
+																																						
+																																						
+Two-Hour Count Summaries - Heavy Vehicles																																						
+Interval         Start					Post St							Post St							Kearny St							Kearny St							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				5		9			0		0		0			0		0		13			1		0		0			0		28					
+	4:15 PM				1		7			0		0		0			0		0		10			1		0		0			0		19					
+	4:30 PM				4		11			0		0		0			0		0		15			1		0		0			0		31					
+	4:45 PM				3		3			0		0		0			0		0		12			0		0		0			0		18			96		
+	5:00 PM				5		9			0		0		0			0		0		8			0		0		0			0		22			90		
+	5:15 PM				4		8			0		0		0			0		0		14			1		0		0			0		27			98		
+	5:30 PM				2		7			0		0		0			0		0		17			0		0		0			0		26			93		
+	5:45 PM				0		4			0		0		0			0		0		12			2		0		0			0		18			93		
+Count Total					24		58			0		0		0			0		0		101			6		0		0			0		189					
+Peak Hour					13		30			0		0		0			0		0		45			2		0		0			0		90					
+																																						
+Two-Hour Count Summaries - Bikes																																						
+Interval         Start					Post St							Post St							Kearny St							Kearny St							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				2		5			0		0		0			0		0		12			0		0		0			0		19					
+	4:15 PM				2		2			0		0		0			0		0		2			0		0		0			0		6					
+	4:30 PM				3		0			0		0		0			0		0		6			1		0		0			0		10					
+	4:45 PM				0		1			0		0		0			0		0		4			0		0		0			0		5			40		
+	5:00 PM				1		2			0		0		0			0		0		5			0		0		0			0		8			29		
+	5:15 PM				1		3			0		0		0			0		0		3			0		0		0			0		7			30		
+	5:30 PM				1		2			0		0		0			0		0		6			0		0		0			0		9			29		
+	5:45 PM				1		4			0		0		0			0		0		17			0		0		0			0		22			46		
+Count Total					11		19			0		0		0			0		0		55			1		0		0			0		86					
+Peak Hour					6		5			0		0		0			0		0		17			1		0		0			0		29					
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						

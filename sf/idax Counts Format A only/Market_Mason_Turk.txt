@@ -1,0 +1,200 @@
+																																						
+																																						
+																																						
+																																						
+																							Date: 					"Wed, Apr 09, 2014"										
+								Peak Hour														Count Period: 						4:00 PM				to	6:00 PM					
+																							Peak Hour: 					5:00 PM				to	6:00 PM					
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																					HV %:			PHF														
+																			EB		25.0%			0.90														
+																			WB		24.7%			0.80														
+																			SB		18.1%			0.91														
+																			TOTAL		23.2%			0.94														
+																																						
+Two-Hour Count Summaries																																						
+Interval         Start					Market St							Market St							Mason St							Mason St							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				0		60			0		0		40			22		0		0			0		15		0			23		160					
+	4:15 PM				0		56			0		0		52			18		0		0			0		18		0			21		165					
+	4:30 PM				0		56			0		0		40			21		0		0			0		16		0			26		159					
+	4:45 PM				0		45			0		0		42			22		0		0			0		10		0			20		139			623		
+	5:00 PM				0		62			0		0		48			26		0		0			0		22		0			21		179			642		
+	5:15 PM				0		58			0		0		47			20		0		0			0		10		0			26		161			638		
+	5:30 PM				0		59			0		0		46			11		0		0			0		20		0			24		160			639		
+	5:45 PM				0		45			0		0		72			18		0		0			0		21		0			16		172			672		
+Count Total					0		441			0		0		387			158		0		0			0		132		0			177		"1,295"					
+Peak Hour			All		0		224			0		0		213			75		0		0			0		73		0			87		672					
+			HV		0		56			0		0		57			14		0		0			0		27		0			2		156					
+			HV%		-		25%			-		-		27%			19%		-		-			-		37%		-			2%		23%					
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.																																						
+																																						
+Interval         Start					Heavy Vehicle Totals										Bicycles										Pedestrians (Crossing Leg)													
+					EB		WB		NB		SB		Total		EB		WB		NB		SB		Total		East			West			North			South			Total	
+	4:00 PM				17		16		0		6		39		28		50		0		4		82		33			22			198			0			253	
+	4:15 PM				16		17		0		7		40		13		43		0		4		60		36			34			189			0			259	
+	4:30 PM				14		16		0		9		39		30		42		0		5		77		36			23			143			0			202	
+	4:45 PM				11		20		0		5		36		26		43		0		7		76		43			18			167			0			228	
+	5:00 PM				17		13		0		10		40		26		79		0		6		111		46			24			216			0			286	
+	5:15 PM				12		27		0		3		42		40		98		0		1		139		33			25			151			0			209	
+	5:30 PM				18		12		0		7		37		36		125		0		9		170		42			36			190			0			268	
+	5:45 PM				9		19		0		9		37		39		183		0		7		229		47			43			185			0			275	
+Count Total					114		140		0		56		310		238		663		0		43		944		316			225			"1,439"			0			"1,980"	
+Peak Hr					56		71		0		29		156		141		485		0		23		649		168		56	128		56	742		56	0		56	"1,038"	
+																																						
+																																						
+Two-Hour Count Summaries - Heavy Vehicles																																						
+Interval         Start					Market St							Market St							Mason St							Mason St							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				0		17			0		0		13			3		0		0			0		5		0			1		39					
+	4:15 PM				0		16			0		0		15			2		0		0			0		6		0			1		40					
+	4:30 PM				0		14			0		0		12			4		0		0			0		8		0			1		39					
+	4:45 PM				0		11			0		0		16			4		0		0			0		5		0			0		36			154		
+	5:00 PM				0		17			0		0		10			3		0		0			0		10		0			0		40			155		
+	5:15 PM				0		12			0		0		20			7		0		0			0		2		0			1		42			157		
+	5:30 PM				0		18			0		0		11			1		0		0			0		7		0			0		37			155		
+	5:45 PM				0		9			0		0		16			3		0		0			0		8		0			1		37			156		
+Count Total					0		114			0		0		113			27		0		0			0		51		0			5		310					
+Peak Hour					0		56			0		0		57			14		0		0			0		27		0			2		156					
+																																						
+Two-Hour Count Summaries - Bikes																																						
+Interval         Start					Market St							Market St							Mason St							Mason St							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				0		28			0		0		49			1		0		0			0		0		0			4		82					
+	4:15 PM				0		13			0		0		39			4		0		0			0		0		0			4		60					
+	4:30 PM				0		30			0		0		40			2		0		0			0		0		0			5		77					
+	4:45 PM				0		26			0		0		41			2		0		0			0		0		0			7		76			295		
+	5:00 PM				0		26			0		0		76			3		0		0			0		1		0			5		111			324		
+	5:15 PM				0		40			0		0		97			1		0		0			0		0		0			1		139			403		
+	5:30 PM				0		36			0		0		121			4		0		0			0		1		0			8		170			496		
+	5:45 PM				0		39			0		0		175			8		0		0			0		1		0			6		229			649		
+Count Total					0		238			0		0		638			25		0		0			0		3		0			40		944					
+Peak Hour					0		141			0		0		469			16		0		0			0		3		0			20		649					
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						

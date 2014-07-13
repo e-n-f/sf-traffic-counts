@@ -1,0 +1,200 @@
+																																						
+																																						
+																																						
+																																						
+																							Date: 					"Tue, Apr 08, 2014"										
+								Peak Hour														Count Period: 						4:00 PM				to	6:00 PM					
+																							Peak Hour: 					5:00 PM				to	6:00 PM					
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																					HV %:			PHF														
+																			EB		3.5%			0.91														
+																			WB		5.2%			0.93														
+																			NB		1.6%			0.96														
+																			SB		-			-														
+																			TOTAL		2.6%			0.96														
+Two-Hour Count Summaries																																						
+Interval         Start					Mission St							Mission St							9th St							9th St							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				0		131			0		0		94			49		15		462			23		0		0			0		774					
+	4:15 PM				0		149			0		0		101			57		13		533			25		0		0			0		878					
+	4:30 PM				0		136			0		0		93			56		7		540			29		0		0			0		861					
+	4:45 PM				2		114			0		0		115			61		13		565			30		0		0			0		900			"3,413"		
+	5:00 PM				2		136			0		0		111			66		10		570			26		0		0			0		921			"3,560"		
+	5:15 PM				0		125			0		0		137			70		10		521			18		0		0			0		881			"3,563"		
+	5:30 PM				0		134			0		0		140			56		10		562			39		0		0			0		941			"3,643"		
+	5:45 PM				1		149			0		0		140			53		8		584			26		0		0			0		961			"3,704"		
+Count Total					5		"1,074"			0		0		931			468		86		"4,337"			216		0		0			0		"7,117"					
+Peak Hour			All		3		544			0		0		528			245		38		"2,237"			109		0		0			0		"3,704"					
+			HV		0		19			0		0		34			6		0		36			3		0		0			0		98					
+			HV%		0%		3%			-		-		6%			2%		0%		2%			3%		-		-			-		3%					
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.																																						
+																																						
+Interval         Start					Heavy Vehicle Totals										Bicycles										Pedestrians (Crossing Leg)													
+					EB		WB		NB		SB		Total		EB		WB		NB		SB		Total		East			West			North			South			Total	
+	4:00 PM				7		11		16		0		34		3		7		7		0		17		67			45			62			41			215	
+	4:15 PM				9		7		11		0		27		4		6		5		0		15		56			33			43			31			163	
+	4:30 PM				7		9		10		0		26		4		12		11		0		27		65			63			58			53			239	
+	4:45 PM				5		7		6		0		18		7		7		15		0		29		61			37			63			31			192	
+	5:00 PM				5		9		9		0		23		4		9		11		0		24		119			94			85			67			365	
+	5:15 PM				5		11		11		0		27		3		17		17		0		37		66			44			62			48			220	
+	5:30 PM				4		9		11		0		24		6		10		21		0		37		92			49			73			33			247	
+	5:45 PM				5		11		8		0		24		13		6		18		0		37		91			63			58			66			278	
+Count Total					47		74		82		0		203		44		74		105		0		223		617			428			504			370			"1,919"	
+Peak Hr					19		40		39		0		98		26		42		67		0		135		368		19	250		19	278		19	214		19	"1,110"	
+																																						
+																																						
+Two-Hour Count Summaries - Heavy Vehicles																																						
+Interval         Start					Mission St							Mission St							9th St							9th St							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				0		7			0		0		6			5		2		11			3		0		0			0		34					
+	4:15 PM				0		9			0		0		6			1		0		10			1		0		0			0		27					
+	4:30 PM				0		7			0		0		7			2		0		9			1		0		0			0		26					
+	4:45 PM				0		5			0		0		6			1		0		4			2		0		0			0		18			105		
+	5:00 PM				0		5			0		0		7			2		0		9			0		0		0			0		23			94		
+	5:15 PM				0		5			0		0		10			1		0		10			1		0		0			0		27			94		
+	5:30 PM				0		4			0		0		7			2		0		10			1		0		0			0		24			92		
+	5:45 PM				0		5			0		0		10			1		0		7			1		0		0			0		24			98		
+Count Total					0		47			0		0		59			15		2		70			10		0		0			0		203					
+Peak Hour					0		19			0		0		34			6		0		36			3		0		0			0		98					
+																																						
+Two-Hour Count Summaries - Bikes																																						
+Interval         Start					Mission St							Mission St							9th St							9th St							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				0		3			0		0		6			1		0		7			0		0		0			0		17					
+	4:15 PM				0		4			0		0		6			0		0		5			0		0		0			0		15					
+	4:30 PM				0		4			0		0		12			0		0		11			0		0		0			0		27					
+	4:45 PM				0		7			0		0		7			0		0		15			0		0		0			0		29			88		
+	5:00 PM				0		4			0		0		5			4		0		10			1		0		0			0		24			95		
+	5:15 PM				0		3			0		0		14			3		0		17			0		0		0			0		37			117		
+	5:30 PM				0		6			0		0		9			1		0		21			0		0		0			0		37			127		
+	5:45 PM				0		13			0		0		5			1		0		17			1		0		0			0		37			135		
+Count Total					0		44			0		0		64			10		0		103			2		0		0			0		223					
+Peak Hour					0		26			0		0		33			9		0		65			2		0		0			0		135					
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						

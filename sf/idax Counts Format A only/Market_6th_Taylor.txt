@@ -1,0 +1,200 @@
+																																						
+																																						
+																																						
+																																						
+																							Date: 					"Wed, Apr 09, 2014"										
+								Peak Hour														Count Period: 						4:00 PM				to	6:00 PM					
+																							Peak Hour: 					5:00 PM				to	6:00 PM					
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																					HV %:			PHF														
+																			EB		25.2%			0.91														
+																			WB		21.9%			0.88														
+																			NB		0.8%			0.91														
+																			SB		2.5%			0.95														
+																			TOTAL		6.7%			0.98														
+Two-Hour Count Summaries																																						
+Interval         Start					Market St							Market St							6th St							Golden Gate Ave							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				8		43			28		1		63			2		1		228			9		1		222			3		609					
+	4:15 PM				7		47			16		0		60			1		0		232			8		0		257			3		631					
+	4:30 PM				6		35			17		0		71			2		2		228			18		0		239			2		620					
+	4:45 PM				5		37			15		1		56			4		0		256			11		0		205			0		590			"2,450"		
+	5:00 PM				5		47			26		0		65			2		0		219			13		0		245			3		625			"2,466"		
+	5:15 PM				5		42			32		0		70			5		0		212			14		0		239			3		622			"2,457"		
+	5:30 PM				3		42			19		0		70			1		0		233			16		0		254			6		644			"2,481"		
+	5:45 PM				4		39			22		0		81			3		0		258			8		0		237			0		652			"2,543"		
+Count Total					43		332			175		2		536			20		3		"1,866"			97		1		"1,898"			20		"4,993"					
+Peak Hour			All		17		170			99		0		286			11		0		922			51		0		975			12		"2,543"					
+			HV		16		56			0		0		65			0		0		8			0		0		25			0		170					
+			HV%		94%		33%			0%		-		23%			0%		-		1%			0%		-		3%			0%		7%					
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.																																						
+																																						
+Interval         Start					Heavy Vehicle Totals										Bicycles										Pedestrians (Crossing Leg)													
+					EB		WB		NB		SB		Total		EB		WB		NB		SB		Total		East			West			North			South			Total	
+	4:00 PM				25		17		9		7		58		62		52		1		1		116		83			42			16			190			331	
+	4:15 PM				23		16		4		7		50		21		51		2		2		76		88			36			15			176			315	
+	4:30 PM				17		10		10		4		41		50		46		1		0		97		98			34			11			185			328	
+	4:45 PM				16		17		7		4		44		38		62		5		0		105		91			31			7			221			350	
+	5:00 PM				22		10		4		5		41		48		99		3		1		151		110			34			28			219			391	
+	5:15 PM				16		23		1		9		49		59		106		0		0		165		104			32			9			235			380	
+	5:30 PM				21		16		1		7		45		70		159		1		0		230		122			20			17			237			396	
+	5:45 PM				13		16		2		4		35		59		157		4		1		221		102			46			7			241			396	
+Count Total					153		125		38		47		363		407		732		17		5		"1,161"		798			275			110			"1,704"			"2,887"	
+Peak Hr					72		65		8		25		170		236		521		8		2		767		438		72	132		72	61		72	932		72	"1,563"	
+																																						
+																																						
+Two-Hour Count Summaries - Heavy Vehicles																																						
+Interval         Start					Market St							Market St							6th St							Golden Gate Ave							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				8		17			0		0		17			0		1		8			0		0		7			0		58					
+	4:15 PM				7		16			0		0		16			0		0		4			0		0		7			0		50					
+	4:30 PM				6		11			0		0		10			0		2		8			0		0		4			0		41					
+	4:45 PM				5		11			0		0		17			0		0		7			0		0		4			0		44			193		
+	5:00 PM				5		17			0		0		10			0		0		4			0		0		5			0		41			176		
+	5:15 PM				4		12			0		0		23			0		0		1			0		0		9			0		49			175		
+	5:30 PM				3		18			0		0		16			0		0		1			0		0		7			0		45			179		
+	5:45 PM				4		9			0		0		16			0		0		2			0		0		4			0		35			170		
+Count Total					42		111			0		0		125			0		3		35			0		0		47			0		363					
+Peak Hour					16		56			0		0		65			0		0		8			0		0		25			0		170					
+																																						
+Two-Hour Count Summaries - Bikes																																						
+Interval         Start					Market St							Market St							6th St							Golden Gate Ave							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				32		30			0		0		52			0		0		1			0		0		1			0		116					
+	4:15 PM				11		9			1		0		51			0		0		2			0		0		2			0		76					
+	4:30 PM				24		26			0		0		46			0		0		1			0		0		0			0		97					
+	4:45 PM				20		17			1		0		62			0		0		5			0		0		0			0		105			394		
+	5:00 PM				25		23			0		0		99			0		1		2			0		0		1			0		151			429		
+	5:15 PM				27		32			0		0		106			0		0		0			0		0		0			0		165			518		
+	5:30 PM				33		37			0		0		159			0		0		0			1		0		0			0		230			651		
+	5:45 PM				30		29			0		0		157			0		0		4			0		0		1			0		221			767		
+Count Total					202		203			2		0		732			0		1		15			1		0		5			0		"1,161"					
+Peak Hour					115		121			0		0		521			0		1		6			1		0		2			0		767					
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						

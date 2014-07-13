@@ -1,0 +1,200 @@
+																																						
+																																						
+																																						
+																																						
+																							Date: 					"Wed, Apr 09, 2014"										
+								Peak Hour														Count Period: 						4:00 PM				to	6:00 PM					
+																							Peak Hour: 					5:00 PM				to	6:00 PM					
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																					HV %:			PHF														
+																			EB		-			-														
+																			WB		0.0%			0.80														
+																			NB		2.6%			0.91														
+																			SB		3.7%			0.69														
+																			TOTAL		2.4%			0.91														
+Two-Hour Count Summaries																																						
+Interval         Start					Ellis St							Ellis St							Cyril Magnin St							Cyril Magnin St							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				0		0			0		0		29			2		101		45			32		9		0			14		232					
+	4:15 PM				0		0			0		0		21			4		103		46			35		10		0			11		230					
+	4:30 PM				0		0			0		0		25			3		107		47			40		4		0			12		238					
+	4:45 PM				0		0			0		0		39			5		102		38			28		9		0			13		234			934		
+	5:00 PM				0		0			0		0		32			3		108		33			28		8		0			14		226			928		
+	5:15 PM				0		0			0		0		17			10		122		38			27		21		0			18		253			951		
+	5:30 PM				0		0			0		0		26			5		112		48			32		17		0			5		245			958		
+	5:45 PM				0		0			0		0		31			11		123		54			31		15		0			10		275			999		
+Count Total					0		0			0		0		220			43		878		349			253		93		0			97		"1,933"					
+Peak Hour			All		0		0			0		0		106			29		465		173			118		61		0			47		999					
+			HV		0		0			0		0		0			0		15		3			2		3		0			1		24					
+			HV%		-		-			-		-		0%			0%		3%		2%			2%		5%		-			2%		2%					
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.																																						
+																																						
+Interval         Start					Heavy Vehicle Totals										Bicycles										Pedestrians (Crossing Leg)													
+					EB		WB		NB		SB		Total		EB		WB		NB		SB		Total		East			West			North			South			Total	
+	4:00 PM				0		0		5		1		6		0		2		4		0		6		188			16			116			204			524	
+	4:15 PM				0		0		6		0		6		0		2		5		1		8		150			10			101			130			391	
+	4:30 PM				0		1		6		0		7		0		3		1		1		5		171			13			122			114			420	
+	4:45 PM				0		0		2		3		5		0		6		0		0		6		126			17			94			105			342	
+	5:00 PM				0		0		7		0		7		0		2		5		0		7		142			15			97			126			380	
+	5:15 PM				0		0		5		2		7		0		4		6		0		10		181			18			119			111			429	
+	5:30 PM				0		0		4		1		5		0		4		5		0		9		199			13			101			86			399	
+	5:45 PM				0		0		4		1		5		0		5		6		0		11		166			18			121			108			413	
+Count Total					0		1		39		8		48		0		28		32		2		62		"1,323"			120			871			984			"3,298"	
+Peak Hr					0		0		20		4		24		0		15		22		0		37		688		0	64		0	438		0	431		0	"1,621"	
+																																						
+																																						
+Two-Hour Count Summaries - Heavy Vehicles																																						
+Interval         Start					Ellis St							Ellis St							Cyril Magnin St							Cyril Magnin St							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				0		0			0		0		0			0		3		2			0		1		0			0		6					
+	4:15 PM				0		0			0		0		0			0		6		0			0		0		0			0		6					
+	4:30 PM				0		0			0		0		0			1		5		0			1		0		0			0		7					
+	4:45 PM				0		0			0		0		0			0		2		0			0		1		0			2		5			24		
+	5:00 PM				0		0			0		0		0			0		5		1			1		0		0			0		7			25		
+	5:15 PM				0		0			0		0		0			0		4		1			0		2		0			0		7			26		
+	5:30 PM				0		0			0		0		0			0		3		0			1		1		0			0		5			24		
+	5:45 PM				0		0			0		0		0			0		3		1			0		0		0			1		5			24		
+Count Total					0		0			0		0		0			1		31		5			3		5		0			3		48					
+Peak Hour					0		0			0		0		0			0		15		3			2		3		0			1		24					
+																																						
+Two-Hour Count Summaries - Bikes																																						
+Interval         Start					Ellis St							Ellis St							Cyril Magnin St							Cyril Magnin St							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				0		0			0		0		2			0		4		0			0		0		0			0		6					
+	4:15 PM				0		0			0		0		2			0		2		3			0		0		0			1		8					
+	4:30 PM				0		0			0		0		3			0		0		1			0		0		0			1		5					
+	4:45 PM				0		0			0		0		6			0		0		0			0		0		0			0		6			25		
+	5:00 PM				0		0			0		0		2			0		3		2			0		0		0			0		7			26		
+	5:15 PM				0		0			0		0		4			0		6		0			0		0		0			0		10			28		
+	5:30 PM				0		0			0		0		4			0		5		0			0		0		0			0		9			32		
+	5:45 PM				0		0			0		0		5			0		6		0			0		0		0			0		11			37		
+Count Total					0		0			0		0		28			0		26		6			0		0		0			2		62					
+Peak Hour					0		0			0		0		15			0		20		2			0		0		0			0		37					
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						

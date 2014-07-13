@@ -1,0 +1,200 @@
+																																						
+																																						
+																																						
+																																						
+																							Date: 					"Wed, Apr 09, 2014"										
+								Peak Hour														Count Period: 						4:00 PM				to	6:00 PM					
+																							Peak Hour: 					5:00 PM				to	6:00 PM					
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																					HV %:			PHF														
+																			EB		3.0%			0.90														
+																			WB		1.4%			0.83														
+																			NB		100.0%			0.50														
+																			SB		3.7%			0.93														
+																			TOTAL		4.5%			0.93														
+Two-Hour Count Summaries																																						
+Interval         Start					Ellis St							Ellis St							Powell St							Powell St							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				3		40			0		0		16			2		0		4			0		62		3			12		142					
+	4:15 PM				2		41			0		0		12			5		0		3			0		62		1			15		141					
+	4:30 PM				5		42			0		0		9			3		0		1			0		68		3			17		148					
+	4:45 PM				3		33			0		0		24			2		0		4			0		56		3			22		147			578		
+	5:00 PM				2		37			0		0		18			3		0		1			0		55		3			18		137			573		
+	5:15 PM				2		37			1		0		10			2		0		0			0		74		3			17		146			578		
+	5:30 PM				5		41			0		0		15			1		0		3			0		71		2			16		154			584		
+	5:45 PM				8		32			0		0		20			1		0		4			0		73		3			19		160			597		
+Count Total					30		303			1		0		124			19		0		20			0		521		21			136		"1,175"					
+Peak Hour			All		17		147			1		0		63			7		0		8			0		273		11			70		597					
+			HV		1		4			0		0		0			1		0		8			0		2		11			0		27					
+			HV%		6%		3%			0%		-		0%			14%		-		100%			-		1%		100%			0%		5%					
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.																																						
+																																						
+Interval         Start					Heavy Vehicle Totals										Bicycles										Pedestrians (Crossing Leg)													
+					EB		WB		NB		SB		Total		EB		WB		NB		SB		Total		East			West			North			South			Total	
+	4:00 PM				1		0		4		4		9		2		1		2		1		6		482			776			146			164			"1,568"	
+	4:15 PM				1		0		3		4		8		0		1		3		1		5		454			713			154			168			"1,489"	
+	4:30 PM				1		0		1		3		5		0		1		0		2		3		460			764			172			155			"1,551"	
+	4:45 PM				1		0		4		7		12		0		4		1		0		5		418			928			173			113			"1,632"	
+	5:00 PM				1		1		1		3		6		0		3		0		2		5		398			473			136			113			"1,120"	
+	5:15 PM				2		0		0		4		6		0		3		0		1		4		479			485			182			66			"1,212"	
+	5:30 PM				1		0		3		3		7		1		1		0		1		3		552			605			146			122			"1,425"	
+	5:45 PM				1		0		4		3		8		1		1		0		1		3		360			625			133			128			"1,246"	
+Count Total					9		1		20		31		61		4		15		6		9		34		"3,603"			"5,369"			"1,242"			"1,029"			"11,243"	
+Peak Hr					5		1		8		13		27		2		8		0		5		15		"1,789"		5	"2,188"		5	597		5	429		5	"5,003"	
+																																						
+																																						
+Two-Hour Count Summaries - Heavy Vehicles																																						
+Interval         Start					Ellis St							Ellis St							Powell St							Powell St							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				0		1			0		0		0			0		0		4			0		1		3			0		9					
+	4:15 PM				0		1			0		0		0			0		0		3			0		2		1			1		8					
+	4:30 PM				0		1			0		0		0			0		0		1			0		0		3			0		5					
+	4:45 PM				0		1			0		0		0			0		0		4			0		4		3			0		12			34		
+	5:00 PM				0		1			0		0		0			1		0		1			0		0		3			0		6			31		
+	5:15 PM				0		2			0		0		0			0		0		0			0		1		3			0		6			29		
+	5:30 PM				0		1			0		0		0			0		0		3			0		1		2			0		7			31		
+	5:45 PM				1		0			0		0		0			0		0		4			0		0		3			0		8			27		
+Count Total					1		8			0		0		0			1		0		20			0		9		21			1		61					
+Peak Hour					1		4			0		0		0			1		0		8			0		2		11			0		27					
+																																						
+Two-Hour Count Summaries - Bikes																																						
+Interval         Start					Ellis St							Ellis St							Powell St							Powell St							15-min         Total			Rolling One Hour		
+					Eastbound							Westbound							Northbound							Southbound												
+					LT		TH			RT		LT		TH			RT		LT		TH			RT		LT		TH			RT							
+	4:00 PM				0		2			0		0		1			0		0		2			0		1		0			0		6					
+	4:15 PM				0		0			0		0		1			0		1		2			0		1		0			0		5					
+	4:30 PM				0		0			0		0		1			0		0		0			0		2		0			0		3					
+	4:45 PM				0		0			0		0		4			0		0		1			0		0		0			0		5			19		
+	5:00 PM				0		0			0		0		2			1		0		0			0		1		1			0		5			18		
+	5:15 PM				0		0			0		0		2			1		0		0			0		0		0			1		4			17		
+	5:30 PM				0		1			0		0		1			0		0		0			0		1		0			0		3			17		
+	5:45 PM				1		0			0		0		1			0		0		0			0		1		0			0		3			15		
+Count Total					1		3			0		0		13			2		1		5			0		7		1			1		34					
+Peak Hour					1		1			0		0		6			2		0		0			0		3		1			1		15					
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
