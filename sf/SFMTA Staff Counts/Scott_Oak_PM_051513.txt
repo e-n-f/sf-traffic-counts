@@ -1,0 +1,51 @@
+City and County of San Francisco																9		8		7																																				
+SF Municipal Transportation Agency																																																								
+																																																								
+												4												12																																
+												5												11																																
+Job Number:												6												10																																
+																																																								
+																																																								
+																1		2		3																																				
+																																																								
+Location:		Scott								at				Oak																																										
+																																																								
+Date:	"May 15, 2013"							Day:		Wednesday						Weather:				"clear, windy"																																				
+																																																								
+Observer:												Time:		5-6 PM																																										
+																																																								
+Remarks:																																																								
+																																																								
+																																																								
+																																																								
+		East Bound						West Bound						North Bound						South Bound						Ped 																														
+																																																								
+																																																								
+TIME		Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	EB Appr	WB Appr	NB Appr	SB Appr																											
+5:00-5:15		0	15	1	449	18	17	0	0	0	0	0	0	0	0	46	31	0	4	0	0	5	29	0	10	8	15	4	6		Comment: Resident upset with the lack of parking capacity.																									
+5:15-5:30		0	11	2	456	12	8	1	0	0	0	0	0	0	0	77	37	0	15	0	0	11	47	0	14	6	16	7	7																											
+5:30-5:45		0	13	1	418	26	13	0	0	0	0	0	0	4	0	103	42	0	9	0	0	8	54	0	11	13	23	14	11																											
+5:45-6:00		0	6	3	408	20	23	0	0	0	0	0	0	1	0	81	33	1	12	0		4	61	0	12	7	15	19	6																											
+Total		0	45	7	1731	76	61	1	0	0	0	0	0	5	0	307	143	1	40	0	0	28	191	0	47	34	69	44	30																											
+																																		S	S	S									S	S	S									
+																																		W	S	E									W	S	E									
+																																		0	28	0									0	191	47						Ped	30		
+																															E	N	0	Oak		Bike	0	N	W			E	N	45	Oak		Car	0	N	W			34	177	69	
+																															E	E	7	Scott		425	0	W	W			E	E	1731	Scott		2258	0	W	W				44		
+																															E	S	76		5/13	PM	1	S	W			E	S	61		5/13	PM	0	S	W						
+																																		5	307	1									0	143	40									
+																																		W	N	E									W	N	E									
+																																		N	N	N									N	N	N									
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								

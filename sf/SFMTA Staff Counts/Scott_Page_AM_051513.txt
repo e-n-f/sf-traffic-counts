@@ -1,0 +1,51 @@
+City and County of San Francisco																9		8		7																																				
+SF Municipal Transportation Agency																																																								
+																																																								
+												4												12																																
+												5												11																																
+Job Number:												6												10																																
+																																																								
+																																																								
+																1		2		3																																				
+																																																								
+Location:		Scott								at				Page																																										
+																																																								
+Date:	"May 15, 2013"							Day:		Wednesday						Weather:				Sunnyish																																				
+																																																								
+Observer:												Time:		8-9 AM																																										
+																																																								
+Remarks:																																																								
+																																																								
+																																																								
+																																																								
+		East Bound						West Bound						North Bound						South Bound						Ped 																														
+																																																								
+																																																								
+TIME		Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	EB Appr	WB Appr	NB Appr	SB Appr																											
+8:00-8:15		0	2	26	46	6	5	1	2	5	18	1	15	1	10	15	69	0	7	0	6	27	24	20	4	11	15	12	11																											
+8:15-8:30		0	2	37	28	10	4	1	1	0	12	4	6	3	6	25	55	1	3	0	7	27	37	26	7	13	9	10	9																											
+8:30-8:45		0	6	33	26	11	7	0	1	2	18	4	11	2	6	26	64	0	3	0	3	54	34	21	17	11	14	7	6																											
+8:45-9:00		0	3	52	25	7	4	0	0	3	16	4	9	1	9	22	52	2	2	0	7	49	34	20	6	12	5	8	3																											
+Total		0	13	148	125	34	20	2	4	10	64	13	41	7	31	88	240	3	15	0	23	157	129	87	34	47	43	37	29																											
+																																		S	S	S									S	S	S									
+																																		W	S	E									W	S	E									
+																																		0	157	87									23	129	34						Ped	29		
+																															E	N	0	Page		Bike	13	N	W			E	N	13	Page		Car	41	N	W			47	156	43	
+																															E	E	148	Scott		549	10	W	W			E	E	125	Scott		739	64	W	W				37		
+																															E	S	34		5/13	AM	2	S	W			E	S	20		5/13	AM	4	S	W						
+																																		7	88	3									31	240	15									
+																																		W	N	E									W	N	E									
+																																		N	N	N									N	N	N									
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								

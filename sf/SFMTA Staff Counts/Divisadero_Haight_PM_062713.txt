@@ -1,0 +1,51 @@
+City and County of San Francisco																9		8		7																																				
+SF Municipal Transportation Agency																																																								
+																																																								
+												4												12																																
+												5												11																																
+Job Number:												6												10																																
+																																																								
+																																																								
+																1		2		3																																				
+																																																								
+Location:		Divisadero								at				Haight																																										
+																																																								
+Date:	"June 27, 2013"							Day:		Thursday						Weather:				sunny																																				
+																																																								
+Observer:												Time:		5-6 PM																																										
+																																																								
+Remarks:																																																								
+																																																								
+																																																								
+																																																								
+		East Bound						West Bound						North Bound						South Bound						Ped 																														
+																																																								
+																																																								
+TIME		Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	EB Appr	WB Appr	NB Appr	SB Appr																											
+5:00			0		0		0		0		0		0		0		0		0		0		0		0	0	0	0	0																											
+5:15			0		34		21		1		41		7		41		103		5		10		158		15	16	34	25	24																											
+5:30			3		65		28		5		69		10		82		213		10		15		309		26	50	75	47	49																											
+5:45			3		98		37		9		107		17		128		316		16		22		495		38	82	114	75	90																											
+6:00/Total			5		129		51		12		144		25		171		430		19		37		659		47	96	155	89	110																											
+																																		S	S	S									S	S	S									
+																																		W	S	E									W	S	E									
+																																		0	0	0									37	659	47						Ped	110		
+																															E	N	0	Haight		Bike	0	N	W			E	N	5	Haight		Car	25	N	W			96	450	155	
+																															E	E	0	Divisadero		0	0	W	W			E	E	129	Divisadero		1729	144	W	W				89		
+																															E	S	0		5/13	PM	0	S	W			E	S	51		6/13	PM	12	S	W						
+																																		0	0	0									171	430	19									
+																																		W	N	E									W	N	E									
+																																		N	N	N									N	N	N									
+																																													2%	38%	3%									
+																																												0%				1%								
+																																												7%				8%								
+																																												3%				1%								
+																																													10%	25%	1%									
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								

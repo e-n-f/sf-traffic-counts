@@ -1,0 +1,51 @@
+City and County of San Francisco																9		8		7																																				
+SF Municipal Transportation Agency																																																								
+																																																								
+												4												12																																
+												5												11																																
+Job Number:												6												10																																
+																																																								
+																																																								
+																1		2		3																																				
+																																																								
+Location:		Divisadero								at				Oak																																										
+																																																								
+Date:	"July 17, 2013"							Day:		Wednesday						Weather:	64 degrees																																							
+																																																								
+Observer:												Time:		5-6 PM																																										
+																																																								
+Remarks:																																																								
+																																																								
+																																																								
+																																																								
+		East Bound						West Bound						North Bound						South Bound						Ped 																														
+																																																								
+																																																								
+TIME		Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	EB Appr	WB Appr	NB Appr	SB Appr																											
+5:00-5:15			31		379		49										94		13				141		52	37	26	13	19																											
+5:15-5:30			43		428		43										95		16				165		49	59	36	25	23																											
+5:30-5:45			36		390		51										107		9				180		49	50	17	23	27																											
+5:45-6:00			33		400		56										109		11				154		46	45	40	29	21																											
+Total		0	143	0	1597	0	199	0	0	0	0	0	0	0	0	0	405	0	49	0	0	0	640	0	196	191	119	90	90																											
+																																		S	S	S									S	S	S									
+																																		W	S	E									W	S	E									
+																																		0	0	0									0	640	196						Ped	90		
+																															E	N	0	Oak		Bike	0	N	W			E	N	143	Oak		Car	0	N	W			191	490	119	
+																															E	E	0	Divisadero		0	0	W	W			E	E	1597	Divisadero		3229	0	W	W				90		
+																															E	S	0		5/13	PM	0	S	W			E	S	199		7/13	PM	0	S	W						
+																																		0	0	0									0	405	49									
+																																		W	N	E									W	N	E									
+																																		N	N	N									N	N	N									
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								

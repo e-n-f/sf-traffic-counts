@@ -1,0 +1,51 @@
+City and County of San Francisco																9		8		7																																				
+SF Municipal Transportation Agency																																																								
+																																																								
+												4												12																																
+												5												11																																
+Job Number:												6												10																																
+																																																								
+																																																								
+																1		2		3																																				
+																																																								
+Location:		Scott								at				Waller																																										
+																																																								
+Date:	"July 9, 2013"							Day:		Tuesday						Weather:				"Clear, 62"																																				
+																																																								
+Observer:												Time:		5-6 PM																																										
+																																																								
+Remarks:																																																								
+																																																								
+																																																								
+																																																								
+		East Bound						West Bound						North Bound						South Bound						Ped 																														
+																																																								
+																																																								
+TIME		0	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	EB Appr	WB Appr	NB Appr	SB Appr																											
+5:00-5:15		0	1	0	2	0	1	0	7	0	2	0	6	0	0	1	29	0	2	0	2	2	44	1	6	2	13	5	0																											
+5:15-5:30		0	0	0	1	0	1	0	1	0	3	2	11	0	2	0	36	0	1	0	3	1	48	2	5	10	36	30	5																											
+5:30-5:45		0	7	0	7	3	3	0	2	0	0	0	0	1	7	0	49	0	0	0	4	0	44	0	0	14	19	13	14																											
+5:45-6:00		1	1	0	0	0	0	0	1	0	3	2	4	0	0	5	31	0	2	0	2	3	44	1	4	7	20	6	14																											
+Total		1	9	0	10	3	5	0	11	0	8	4	21	1	9	6	145	0	5	0	11	6	180	4	15	33	88	54	33																											
+																																		S	S	S									S	S	S									
+																																		W	S	E									W	S	E									
+																																		0	6	4									11	180	15						Ped	33		
+																															E	N	1	Waller		Bike	4	N	W			E	N	9	Waller		Car	21	N	W			33	208	88	
+																															E	E	0	Scott		25	0	W	W			E	E	10	Scott		429	8	W	W				54		
+																															E	S	3		7/13	PM	0	S	W			E	S	5		7/13	PM	11	S	W						
+																																		1	6	0									9	145	5									
+																																		W	N	E									W	N	E									
+																																		N	N	N									N	N	N									
+																																													3%	42%	3%									
+																																												2%				5%								
+																																												2%				2%								
+																																												1%				3%								
+																																													2%	34%	1%									
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								

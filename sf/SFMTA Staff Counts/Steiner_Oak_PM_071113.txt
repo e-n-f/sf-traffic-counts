@@ -1,0 +1,51 @@
+City and County of San Francisco																9		8		7																																				
+SF Municipal Transportation Agency																																																								
+																																																								
+												4												12																																
+												5												11																																
+Job Number:												6												10																																
+																																																								
+																																																								
+																1		2		3																																				
+																																																								
+Location:		Steiner								at				Oak																																										
+																																																								
+Date:	"July 11, 2013"							Day:		Thursday						Weather:	"Windy, 63 farenheight"			"clear, windy"																																				
+																																																								
+Observer:												Time:		5-6 PM																																										
+																																																								
+Remarks:		Backed up eastbound in intersection from 5 to 5:15																																																						
+																																																								
+																																																								
+																																																								
+		East Bound						West Bound						North Bound						South Bound						Ped 																														
+																																																								
+																																																								
+TIME		Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	EB Appr	WB Appr	NB Appr	SB Appr																											
+5:00-5:15			12		540		20										31		10				60		20	4	8	11	14																											
+5:15-5:30			6		434		13										35		4				63		15	13	6	7																												
+5:30-5:45			21		470		8										34		9				50		18	8	3	4																												
+5:45-6:00			14		426		8										38		6				38		14	3	9	6																												
+Total		0	53	0	1870	0	49	0	0	0	0	0	0	0	0	0	138	0	29	0	0	0	211	0	67	28	26	28	14																											
+																																		S	S	S									S	S	S									
+																																		W	S	E									W	S	E									
+																																		0	0	0									0	211	67						Ped	14		
+																															E	N	0	Oak		Bike	0	N	W			E	N	53	Oak		Car	0	N	W			28	96	26	
+																															E	E	0	Steiner		0	0	W	W			E	E	1870	Steiner		2417	0	W	W				28		
+																															E	S	0		5/13	PM	0	S	W			E	S	49		7/13	PM	0	S	W						
+																																		0	0	0									0	138	29									
+																																		W	N	E									W	N	E									
+																																		N	N	N									N	N	N									
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								

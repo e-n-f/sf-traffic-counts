@@ -1,0 +1,51 @@
+City and County of San Francisco																9		8		7																																				
+SF Municipal Transportation Agency																																																								
+																																																								
+												4												12																																
+												5												11																																
+Job Number:												6												10																																
+																																																								
+																																																								
+																1		2		3																																				
+																																																								
+Location:		Scott								at				Duboce																																										
+																																																								
+Date:	"July 10, 2013"							Day:		Wednesday						Weather:				Cloudy																																				
+																																																								
+Observer:												Time:		5:30-6 PM																																										
+																																																								
+Remarks:																																																								
+																																																								
+																																																								
+																																																								
+		East Bound						West Bound						North Bound						South Bound						Ped 																														
+																																																								
+																																																								
+TIME		Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	Bikes	Vehicle	EB Appr	WB Appr	NB Appr	SB Appr																											
+																																																								
+																																																								
+5:30-5:45			10		32		0				26		15								17				30	7			10																											
+5:45-6:00			14		42		0				23		11								19				31	7			14																											
+Total times 2		0	48	0	148	0	0	0	0	0	98	0	52	0	0	0	0	0	0	0	72	0	0	0	122	28	0	0	48																											
+																																		S	S	S									S	S	S									
+																																		W	S	E									W	S	E									
+																																		0	0	0									72	0	122						Ped	48		
+																															E	N	0	Duboce		Bike	0	N	W			E	N	48	Duboce		Car	52	N	W			28	76	0	
+																															E	E	0	Scott		0	0	W	W			E	E	148	Scott	Est.	540	98	W	W				0		
+																															E	S	0		5/13	PM	0	S	W			E	S	0		7/13	PM	0	S	W						
+																																		0	0	0									0	0	0									
+																																		W	N	E									W	N	E									
+																																		N	N	N									N	N	N									
+																																													13%	0%	23%									
+																																												9%				10%								
+																																												27%				18%								
+																																												0%				0%								
+																																													0%	0%	0%									
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								

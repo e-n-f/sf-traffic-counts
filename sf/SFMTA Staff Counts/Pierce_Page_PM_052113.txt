@@ -1,0 +1,51 @@
+City and County of San Francisco																9		8		7																																				
+SF Municipal Transportation Agency																																																								
+																																																								
+												4												12																																
+												5												11																																
+Job Number:												6												10																																
+																																																								
+																																																								
+																1		2		3																																				
+																																																								
+Location:		Pierce								at				Page																																										
+																																																								
+Date:	"May 21, 2013"							Day:		Tuesday						Weather:																																								
+																																																								
+Observer:												Time:		5-6 PM																																										
+																																																								
+Remarks:																																																								
+																																																								
+																																																								
+																																																								
+		East Bound						West Bound						North Bound						South Bound						Ped 																														
+																																																								
+																																																								
+TIME		Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	EB Appr	WB Appr	NB Appr	SB Appr																											
+5:00-5:15		0	2	7	20	2	1	0	1	8	18	0	1	6	6	0	1	0	4	0	3	3	11	1	4	14	9	12	4		Comment: The intersection is dangerous and needs a traffic circle.																									
+5:15-5:30		0	0	4	20	2	3	1	2	9	18	0	3	8	4	1	4	1	0	0	6	1	7	1	1	8	6	11	9																											
+5:30-5:45		0	1	8	23	5	5	0	2	8	30	0	1	7	1	3	3	2	1	0	3	0	20	0	5	13	24	8	10																											
+5:45-6:00		0	1	8	24	1	3	0	2	8	26	0	4	13	1	1	7	0	0	0	4	1	8	0	1	11	8	6	8																											
+Total		0	4	27	87	10	12	1	7	33	92	0	9	34	12	5	15	3	5	0	16	5	46	2	11	46	47	37	31																											
+																																		S	S	S									S	S	S									
+																																		W	S	E									W	S	E									
+																																		0	5	2									16	46	11						Ped	31		
+																															E	N	0	Page		Bike	0	N	W			E	N	4	Page		Car	9	N	W			46	161	47	
+																															E	E	27	Pierce		120	33	W	W			E	E	87	Pierce		316	92	W	W				37		
+																															E	S	10		5/13	PM	1	S	W			E	S	12		5/13	PM	7	S	W						
+																																		34	5	3									12	15	5									
+																																		W	N	E									W	N	E									
+																																		N	N	N									N	N	N									
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								

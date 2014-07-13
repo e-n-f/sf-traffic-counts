@@ -1,0 +1,51 @@
+City and County of San Francisco																9		8		7																																				
+SF Municipal Transportation Agency																																																								
+																																																								
+												4												12																																
+												5												11																																
+Job Number:												6												10																																
+																																																								
+																																																								
+																1		2		3																																				
+																																																								
+Location:		Scott								at				Haight																																										
+																																																								
+Date:	"June 27, 2013"							Day:		Thursday 						Weather:				"sunny, clear"																																				
+																																																								
+Observer:												Time:		5-6 PM																																										
+																																																								
+Remarks:																																																								
+																																																								
+																																																								
+																																																								
+		East Bound						West Bound						North Bound						South Bound						Ped 																														
+																																																								
+																																																								
+TIME		Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	Bikes	Vehicles	EB Appr	WB Appr	NB Appr	SB Appr																											
+5:00-5:15		0	5	7	50	0	5	0	1	4	42	62	7	0	7	3	29	0	1	0	3	9	47	19	3	12	18	33	15																											
+5:15-5:30		0	5	5	36	1	5	0	6	8	29	97	12	0	4	3	36	0	3	0	2	5	49	32	7	8	23	37	31																											
+5:30-5:45		0	5	6	36	1	2	0	1	3	39	90	7	0	4	0	28	0	2	0	6	8	40	25	3	16	23	26	32																											
+5:45-6:00		1	5	8	37	0	4	0	2	6	48	96	6	0	6	4	36	0	2	0	2	11	56	25	6	18	26	34	29																											
+Total		1	20	26	159	2	16	0	10	21	158	345	32	0	21	10	129	0	8	0	13	33	192	101	19	54	90	130	107																											
+																																		S	S	S									S	S	S									
+																																		W	S	E									W	S	E									
+																																		0	33	101									13	192	19						Ped	107		
+																															E	N	1	Haight		Bike	345	N	W			E	N	20	Haight		Car	32	N	W			54	381	90	
+																															E	E	26	Scott		539	21	W	W			E	E	159	Scott		777	158	W	W				130		
+																															E	S	2		6/13	PM	0	S	W			E	S	16		6/13	PM	10	S	W						
+																																		0	10	0									21	129	8									
+																																		W	N	E									W	N	E									
+																																		N	N	N									N	N	N									
+																																													2%	25%	2%									
+																																												3%				4%								
+																																												20%				20%								
+																																												2%				1%								
+																																													3%	17%	1%									
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
