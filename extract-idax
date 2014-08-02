@@ -1,0 +1,113 @@
+#!/usr/bin/perl
+
+use strict;
+
+my $date = "";
+my $streets = "";
+my $section = 0;
+my %val = ();
+my $fname = "";
+
+sub out {
+	for my $time (sort { $a <=> $b } (keys(%val))) {
+		print "$fname,$streets,x,$date,";
+
+		printf("%02d:%02d-%02d:%02d,",
+			$time / 60, $time % 60,
+			($time + 15) / 60, ($time + 15) % 60);
+
+		for my $dir ("Southbound", "Westbound", "Northbound", "Eastbound") {
+			for my $turn ("right", "through", "left") {
+				print "$val{$time}{$dir}{$turn},";
+			}
+		}
+
+		for my $turn ("walk", "bike") {
+			for my $dir ("North", "East", "South", "West") {
+				print "$val{$time}{$dir}{$turn},";
+			}
+		}
+
+		print "\n";
+	}
+}
+
+while (<>) {
+	chomp;
+	s/\015//g;
+	s/\t/   /g;
+	s/,//g;
+	s/"//g;
+
+	if (/Date: *(.*)/) {
+		out();
+		$date = $1;
+		$date =~ s/ *$//;
+		$streets = "";
+		$section = 0;
+		%val = ();
+		$fname = $ARGV;
+	}
+
+	if (/Count *Total/) {
+		$section = 0;
+	}
+
+	if (/^Two-Hour Count Summaries/) {
+		unless (/Heavy/ || /Bikes/) {
+			$streets = <>;
+			chomp $streets;
+			$streets =~ s/\015//g;
+			$streets =~ s/,//g;
+			$streets =~ s/\t/   /g;
+			$streets =~ s/^ *Interval * Start *//;
+			$streets =~ s/15-min.*//;
+			$streets =~ s/^ *//;
+			$streets =~ s/ *$//;
+			$streets =~ s/   */ \/ /g;
+			$section = "vehicle";
+		}
+	}
+
+	if (/Heavy Vehicle Totals.*Bicycles/) {
+		$section = "bikeped";
+	}
+
+	if (s/^ *([0-9]+):([0-9][0-9]) *([AP])M *//) {
+		my $time = $1 * 60 + $2;
+		if ($3 eq "P" && $1 != 12) {
+			$time += 60 * 12;
+		}
+		
+		if ($section ne 0) {
+			my @fields = split(/ +/);
+
+			if ($section eq "vehicle") {
+				# 12 for first hour, then 13 after totals begin
+				die if $#fields != 12 && $#fields != 13;
+
+				my $f = 0;
+				for my $dir ("Eastbound", "Westbound", "Northbound", "Southbound") {
+					for my $turn ("left", "through", "right") {
+						$val{$time}{$dir}{$turn} = $fields[$f++];
+					}
+				}
+			}
+
+			if ($section eq "bikeped") {
+				die if $#fields != 14;
+
+				my $f = 5;
+				for my $dir ("South", "North", "East", "West", "Total") {
+					$val{$time}{$dir}{"bike"} = $fields[$f++];
+				}
+
+				for my $dir ("East", "West", "North", "South") {
+					$val{$time}{$dir}{"walk"} = $fields[$f++];
+				}
+			}
+		}
+	}
+}
+
+out();
