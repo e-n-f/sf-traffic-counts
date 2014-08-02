@@ -1,0 +1,99 @@
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 Date: 	 $41,737.00	 	 
+ 	 	 	 	 	 			 Peak Hour	 	 	 	 	 	 	 Count Period: 	 11:00 AM	 to	 1:00 PM	 	 
+ 	 	 	 	 	 			 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 Peak Hour: 	 11:15 AM	 to	 12:15 PM	 	 
+ 	 	 	 	 	 			 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 			 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 			 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 			 	 	 	 	 	 	 	 	 									 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 			 	 	 	 	 	 	 	 	 									 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 									 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 				 	 	 HV %:	 PHF	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 				 EB	 22.8%	 0.93	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 				 WB	 26.1%	 0.89	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 				 SB	 21.9%	 0.87	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 				 TOTAL	 24.0%	 0.92	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 				 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ Two-Hour Count Summaries	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+Interval         Start
+ Market St	 Market St	 Jones St	 Jones St	
+15-min         Total
+Rolling One Hour
+ Eastbound	 Westbound	 Northbound	 Southbound	
+ LT	 TH	 RT	 LT	 TH	 RT	 LT	 TH	 RT	 LT	 TH	 RT	
+ 	 11:00 AM	 0	 41	 0	 0	 35	 10	 0	 0	 0	 5	 0	 11	 102	 	 
+ 	 11:15 AM	 0	 51	 0	 0	 41	 12	 0	 0	 0	 3	 0	 18	 125	 	 
+ 	 11:30 AM	 0	 53	 0	 0	 47	 11	 0	 0	 0	 3	 0	 15	 129	 	 
+ 	 11:45 AM	 0	 59	 0	 0	 45	 10	 0	 0	 0	 5	 0	 16	 135	 491	 
+ 	 12:00 PM	 0	 56	 0	 0	 31	 10	 0	 0	 0	 3	 0	 10	 110	 499	 
+ 	 12:15 PM	 0	 40	 0	 0	 32	 12	 0	 0	 0	 6	 0	 12	 102	 476	 
+ 	 12:30 PM	 0	 41	 0	 0	 36	 13	 0	 0	 0	 4	 0	 13	 107	 454	 
+ 	 12:45 PM	 0	 38	 0	 0	 37	 12	 0	 0	 0	 5	 0	 15	 107	 426	 
+Count Total	 0	 379	 0	 0	 304	 90	 0	 0	 0	 34	 0	 110	 917	 	 	 
+Peak Hour	 All	 0	 219	 0	 0	 164	 43	 0	 0	 0	 14	 0	 59	 499	 	 	 
+ HV	 0	 50	 0	 0	 37	 17	 0	 0	 0	 13	 0	 3	 120	 	 	 
+ HV%	 -	 0.228310502	 -	 -	 0.225609756	 0.395348837	 -	 -	 -	 0.928571429	 -	 0.050847458	 0.240480962	 	 	 
+ Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+Interval         Start
+ Heavy Vehicle Totals	 Bicycles	 Pedestrians (Crossing Leg)
+ EB	 WB	 NB	 SB	 Total	 EB	 WB	 NB	 SB	 Total	 East	 West	 North	 South	 Total
+ 	 11:00 AM	 11	 12	 0	 3	 26	 25	 11	 0	 5	 41	 37	 0	 123	 2	 162	 
+ 	 11:15 AM	 11	 14	 0	 4	 29	 33	 12	 0	 6	 51	 33	 0	 96	 0	 129	 
+ 	 11:30 AM	 11	 12	 0	 4	 27	 35	 20	 0	 3	 58	 38	 0	 110	 1	 149	 
+ 	 11:45 AM	 14	 12	 0	 5	 31	 30	 22	 0	 3	 55	 32	 0	 127	 1	 160	 
+ 	 12:00 PM	 14	 16	 0	 3	 33	 23	 25	 0	 2	 50	 67	 0	 161	 2	 230	 
+ 	 12:15 PM	 6	 14	 0	 4	 24	 33	 24	 0	 1	 58	 51	 0	 161	 2	 214	 
+ 	 12:30 PM	 12	 11	 0	 2	 25	 33	 22	 0	 3	 58	 59	 0	 160	 0	 219	 
+ 	 12:45 PM	 9	 14	 0	 5	 28	 33	 22	 0	 0	 55	 48	 0	 144	 0	 192	 
+ Count Total	 88	 105	 0	 30	 223	 245	 158	 0	 23	 426	 365	 0	 1,082	 8	 1,455	 
+ Peak Hr	 50	 54	 0	 16	 120	 121	 79	 0	 14	 214	 170	 0	 494	 4	 668	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ Two-Hour Count Summaries - Heavy Vehicles	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+Interval         Start
+Market St	 Market St	 Jones St	 Jones St	
+15-min         Total
+Rolling One Hour
+ Eastbound	 Westbound	 Northbound	 Southbound	
+ LT	 TH	 RT	 LT	 TH	 RT	 LT	 TH	 RT	 LT	 TH	 RT	
+ 	 11:00 AM	 0	 11	 0	 0	 8	 4	 0	 0	 0	 3	 0	 0	 26	 	 
+ 	 11:15 AM	 0	 11	 0	 0	 9	 5	 0	 0	 0	 3	 0	 1	 29	 	 
+ 	 11:30 AM	 0	 11	 0	 0	 8	 4	 0	 0	 0	 2	 0	 2	 27	 	 
+ 	 11:45 AM	 0	 14	 0	 0	 10	 2	 0	 0	 0	 5	 0	 0	 31	 113	 
+ 	 12:00 PM	 0	 14	 0	 0	 10	 6	 0	 0	 0	 3	 0	 0	 33	 120	 
+ 	 12:15 PM	 0	 6	 0	 0	 8	 6	 0	 0	 0	 4	 0	 0	 24	 115	 
+ 	 12:30 PM	 0	 12	 0	 0	 8	 3	 0	 0	 0	 2	 0	 0	 25	 113	 
+ 	 12:45 PM	 0	 9	 0	 0	 9	 5	 0	 0	 0	 3	 0	 2	 28	 110	 
+Count Total	 0	 88	 0	 0	 70	 35	 0	 0	 0	 25	 0	 5	 223	 	 	 
+ Peak Hour	 0	 50	 0	 0	 37	 17	 0	 0	 0	 13	 0	 3	 120	 	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ Two-Hour Count Summaries - Bikes	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+Interval         Start
+Market St	 Market St	 Jones St	 Jones St	
+15-min         Total
+Rolling One Hour
+ Eastbound	 Westbound	 Northbound	 Southbound	
+ LT	 TH	 RT	 LT	 TH	 RT	 LT	 TH	 RT	 LT	 TH	 RT	
+ 	 11:00 AM	 0	 25	 0	 0	 10	 1	 0	 0	 0	 3	 0	 2	 41	 	 
+ 	 11:15 AM	 0	 33	 0	 0	 12	 0	 0	 0	 0	 5	 0	 1	 51	 	 
+ 	 11:30 AM	 0	 35	 0	 0	 18	 2	 0	 0	 0	 0	 0	 3	 58	 	 
+ 	 11:45 AM	 0	 30	 0	 0	 18	 4	 0	 0	 0	 2	 0	 1	 55	 205	 
+ 	 12:00 PM	 0	 23	 0	 0	 23	 2	 0	 0	 0	 0	 0	 2	 50	 214	 
+ 	 12:15 PM	 0	 33	 0	 0	 22	 2	 0	 0	 0	 1	 0	 0	 58	 221	 
+ 	 12:30 PM	 0	 33	 0	 0	 17	 5	 0	 0	 0	 1	 0	 2	 58	 221	 
+ 	 12:45 PM	 0	 33	 0	 0	 15	 7	 0	 0	 0	 0	 0	 0	 55	 221	 
+Count Total	 0	 245	 0	 0	 135	 23	 0	 0	 0	 12	 0	 11	 426	 	 	 
+ Peak Hour	 0	 121	 0	 0	 71	 8	 0	 0	 0	 7	 0	 7	 214	 	 
+

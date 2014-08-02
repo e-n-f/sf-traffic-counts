@@ -53,9 +53,14 @@ while (<>) {
 		$section = 0;
 	}
 
-	if (/^Two-Hour Count Summaries/) {
+	if (/^ *Two-Hour Count Summaries/) {
 		unless (/Heavy/ || /Bikes/) {
 			$streets = <>;
+
+			while ($streets =~ /^\s*$/ || $streets =~ /Interval\s*Start\s*$/) {
+				$streets = <>;
+			}
+
 			chomp $streets;
 			$streets =~ s/\015//g;
 			$streets =~ s/,//g;
