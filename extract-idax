@@ -79,6 +79,8 @@ while (<>) {
 		if ($3 eq "P" && $1 != 12) {
 			$time += 60 * 12;
 		}
+
+		next if /VALUE/;
 		
 		if ($section ne 0) {
 			my @fields = split(/ +/);
