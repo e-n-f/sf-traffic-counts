@@ -1,0 +1,84 @@
+#!/usr/bin/perl
+
+use strict;
+
+my $date = "";
+my $streets = "";
+my $fname = "";
+
+while (<>) {
+	chomp;
+	s/\015//g;
+	s/,//g;
+	s/"//g;
+
+	if (/Date:\t([^\t]+)/) {
+		$date = $1;
+		$fname = $ARGV;
+	}
+
+	if (/Location:\t+(.*)/) {
+		$streets = $1;
+		$streets =~ s/\t+/ /g;
+		$streets =~ s/ *$//g;
+	}
+
+	if (/^([0-9]+):([0-9][0-9])/) {
+		next if /Total/;
+
+		my $time = $1 * 60 + $2;
+		if ($time < 7 * 60) {
+			$time += 12 * 60;
+		}
+
+		my @fields = split(/\t/);
+		my $f = 2;
+		my %val = ();
+
+		for my $direction ("EB", "WB", "NB", "SB") {
+			for my $turn ("left", "thru", "right") {
+				for my $mode ("bike", "vehicle") {
+					$val{$mode}{$direction}{$turn} = $fields[$f++];
+					# print "val{$mode}{$direction}{$turn} = $fields[$f - 1]\n";
+				}
+			}
+		}
+
+		for my $direction ("EB", "WB", "NB", "SB") {
+			for my $turn ("thru") {
+				for my $mode ("walk") {
+					$val{$mode}{$direction}{$turn} = $fields[$f++];
+					# print "val{$mode}{$direction}{$turn} = $fields[$f - 1]\n";
+				}
+			}
+		}
+
+		print "$fname,$streets,x,$date,";
+		printf("%02d:%02d-%02d:%02d,",
+			$time / 60, $time % 60,
+			($time + 15) / 60, ($time + 15) % 60);
+
+		for my $direction ("SB", "WB", "NB", "EB") {
+			for my $turn ("right", "thru", "left") {
+				print $val{"vehicle"}{$direction}{$turn};
+				print ",";
+			}
+		}
+
+		for my $direction ("SB", "WB", "NB", "EB") {
+			for my $turn ("thru") {
+				print $val{"walk"}{$direction}{$turn};
+				print ",";
+			}
+		}
+
+		for my $direction ("WB", "NB", "EB", "SB") {
+			for my $turn ("thru") {
+				print $val{"bike"}{$direction}{$turn};
+				print ",";
+			}
+		}
+
+		print "\n";
+	}
+}

@@ -1,3 +1,6 @@
 #!/bin/sh
 
-./extract-idax sf/idax\ Counts\ */*.txt > counts-sf.csv
+(
+	./extract-idax sf/idax\ Counts\ */*.txt
+	./extract-sfmta sf/SFMTA\ Staff\ Counts/*.txt
+) > counts-sf.csv
