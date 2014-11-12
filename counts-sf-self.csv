@@ -1,2 +1,8 @@
 id,name,id,date,time,SB-Right,SB-Thru,SB-Left,WB-Right,WB-Thru,WB-Left,NB-Right,NB-Thru,NB-Left,EB-Right,EB-Thru,EB-Left,N-Ped,E-Ped,S-Ped,W-Ped,N-Bike,E-Bike,S-Bike,W-Bike,lat,lon
 self,Grove St and Larkin St,San Francisco,2014-11-10,09:50-09:57,,,,,,,,,,,,,22,57,33,25,,,,,37.778656,-122.416575
+self,24th St and Noe St,San Francisco,2014-11-12,09:05-09:10,,,,,,,,,,,,,15,17,16,3,,,,,37.751439,-122.431885
+self,Jersey St and Noe St,San Francisco,2014-11-12,09:11-09:17,,,,,,,,,,,,,2,11,0,7,,,,,37.750625,-122.431799
+self,25th St and Noe St,San Francisco,2014-11-12,09:19-09:24,,,,,,,,,,,,,3,8,5,3,,,,,37.749836,-122.431735
+self,25th St and Sanchez St,San Francisco,2014-11-12,09:26-09:31,,,,,,,,,,,,,0,4,2,2,,,,,37.749980,-122.429514
+self,Jersey St and Sanchez St,San Francisco,2014-11-12,09:33-09:38,,,,,,,,,,,,,0,2,0,8,,,,,37.750777,-122.429578
+self,24th St and Sanchez St,San Francisco,2014-11-12,09:40-09:45,,,,,,,,,,,,,15,5,25,10,,,,,37.751575,-122.429675
