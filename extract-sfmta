@@ -73,10 +73,11 @@ while (<>) {
 		}
 
 		for my $direction ("WB", "NB", "EB", "SB") {
-			for my $turn ("thru") {
-				print $val{"bike"}{$direction}{$turn};
-				print ",";
+			my $sum = 0;
+			for my $turn ("thru", "left", "right") {
+				$sum += $val{"bike"}{$direction}{$turn};
 			}
+			print "$sum,";
 		}
 
 		print "\n";
