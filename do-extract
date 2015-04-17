@@ -3,6 +3,6 @@
 (
 	./extract-idax sf/idax\ Counts\ */*.txt
 	./extract-sfmta sf/SFMTA\ Staff\ Counts/*.txt
-) > counts-sf.csv
+) | ./geocode > counts-sf.csv
 
-cat sf.csv | ./process-sf > counts-sf-misc.csv
+cat sf.csv | ./process-sf | ./geocode > counts-sf-misc.csv

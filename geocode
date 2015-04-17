@@ -1,0 +1,29 @@
+#!/usr/bin/perl
+
+open(IN, "to-geocode");
+while (<IN>) {
+	chomp;
+	($name, $lat, $lon) = split(/,/);
+	$lon =~ s/ *//;
+	$lat{$name} = $lat;
+	$lon{$name} = $lon;
+}
+close(IN);
+
+while (<>) {
+	chomp;
+	@fields = split(/,/);
+
+	if ($lat{$fields[1]} ne "") {
+		$fields[5 + 12 + 8] = $lat{$fields[1]};
+		$fields[5 + 12 + 9] = $lon{$fields[1]};
+	}
+
+	for ($i = 0; $i <= $#fields; $i++) {
+		if ($i > 0) {
+			print ",";
+		}
+		print $fields[$i];
+	}
+	print "\n";
+}
