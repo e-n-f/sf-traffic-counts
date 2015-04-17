@@ -62,22 +62,22 @@ sf/idax Counts Format A only/Market_Mason_Turk.txt,Market St / Mason St,x,Wed Ap
 sf/idax Counts Format A only/Market_Mason_Turk.txt,Market St / Mason St,x,Wed Apr 09 2014,17:15-17:30,26,0,10,20,47,0,0,0,0,0,58,0,151,33,0,25,98,0,40,1,37.78319,-122.40914
 sf/idax Counts Format A only/Market_Mason_Turk.txt,Market St / Mason St,x,Wed Apr 09 2014,17:30-17:45,24,0,20,11,46,0,0,0,0,0,59,0,190,42,0,36,125,0,36,9,37.78319,-122.40914
 sf/idax Counts Format A only/Market_Mason_Turk.txt,Market St / Mason St,x,Wed Apr 09 2014,17:45-18:00,16,0,21,18,72,0,0,0,0,0,45,0,185,47,0,43,183,0,39,7,37.78319,-122.40914
-sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:00-16:15,14,137,42,0,75,0,0,0,0,42,77,0,100,109,354,152,36,0,11,10,37.78885,-122.40199
-sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:15-16:30,11,106,28,0,58,0,0,0,0,68,116,0,131,113,256,194,44,0,12,5,37.78885,-122.40199
-sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:30-16:45,11,109,29,0,62,0,0,0,0,67,83,0,119,127,323,185,37,0,10,7,37.78885,-122.40199
-sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:45-17:00,6,94,35,0,49,0,0,0,0,62,89,0,164,114,272,182,40,0,8,9,37.78885,-122.40199
-sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:00-17:15,18,145,30,0,63,0,0,0,0,58,94,0,198,188,373,276,85,0,17,7,37.78885,-122.40199
-sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:15-17:30,12,132,29,0,79,0,0,0,0,68,90,0,233,184,356,281,61,0,9,4,37.78885,-122.40199
-sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:30-17:45,15,118,26,0,83,0,0,0,0,51,101,0,287,183,318,280,81,0,11,15,37.78885,-122.40199
-sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:45-18:00,14,142,33,0,83,0,0,0,0,64,86,0,202,196,300,248,110,0,19,20,37.78885,-122.40199
-sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:00-16:15,14,137,42,0,75,0,0,0,0,42,77,0,100,109,354,152,36,0,11,10,37.78885,-122.40199
-sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:15-16:30,11,106,28,0,58,0,0,0,0,68,116,0,131,113,256,194,44,0,12,5,37.78885,-122.40199
-sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:30-16:45,11,109,29,0,62,0,0,0,0,67,83,0,119,127,323,185,37,0,10,7,37.78885,-122.40199
-sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:45-17:00,6,94,35,0,49,0,0,0,0,62,89,0,164,114,272,182,40,0,8,9,37.78885,-122.40199
-sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:00-17:15,18,145,30,0,63,0,0,0,0,58,94,0,198,188,373,276,85,0,17,7,37.78885,-122.40199
-sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:15-17:30,12,132,29,0,79,0,0,0,0,68,90,0,233,184,356,281,61,0,9,4,37.78885,-122.40199
-sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:30-17:45,15,118,26,0,83,0,0,0,0,51,101,0,287,183,318,280,81,0,11,15,37.78885,-122.40199
-sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:45-18:00,14,142,33,0,83,0,0,0,0,64,86,0,202,196,300,248,110,0,19,20,37.78885,-122.40199
+sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:00-16:15,14,137,42,0,75,0,0,0,0,42,77,0,100,109,354,152,36,0,11,10,37.78883,-122.40204
+sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:15-16:30,11,106,28,0,58,0,0,0,0,68,116,0,131,113,256,194,44,0,12,5,37.78883,-122.40204
+sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:30-16:45,11,109,29,0,62,0,0,0,0,67,83,0,119,127,323,185,37,0,10,7,37.78883,-122.40204
+sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:45-17:00,6,94,35,0,49,0,0,0,0,62,89,0,164,114,272,182,40,0,8,9,37.78883,-122.40204
+sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:00-17:15,18,145,30,0,63,0,0,0,0,58,94,0,198,188,373,276,85,0,17,7,37.78883,-122.40204
+sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:15-17:30,12,132,29,0,79,0,0,0,0,68,90,0,233,184,356,281,61,0,9,4,37.78883,-122.40204
+sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:30-17:45,15,118,26,0,83,0,0,0,0,51,101,0,287,183,318,280,81,0,11,15,37.78883,-122.40204
+sf/idax Counts Format A only/Market_Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:45-18:00,14,142,33,0,83,0,0,0,0,64,86,0,202,196,300,248,110,0,19,20,37.78883,-122.40204
+sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:00-16:15,14,137,42,0,75,0,0,0,0,42,77,0,100,109,354,152,36,0,11,10,37.78883,-122.40204
+sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:15-16:30,11,106,28,0,58,0,0,0,0,68,116,0,131,113,256,194,44,0,12,5,37.78883,-122.40204
+sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:30-16:45,11,109,29,0,62,0,0,0,0,67,83,0,119,127,323,185,37,0,10,7,37.78883,-122.40204
+sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,16:45-17:00,6,94,35,0,49,0,0,0,0,62,89,0,164,114,272,182,40,0,8,9,37.78883,-122.40204
+sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:00-17:15,18,145,30,0,63,0,0,0,0,58,94,0,198,188,373,276,85,0,17,7,37.78883,-122.40204
+sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:15-17:30,12,132,29,0,79,0,0,0,0,68,90,0,233,184,356,281,61,0,9,4,37.78883,-122.40204
+sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:30-17:45,15,118,26,0,83,0,0,0,0,51,101,0,287,183,318,280,81,0,11,15,37.78883,-122.40204
+sf/idax Counts Format A only/Market_New Montgomery.txt,Market St / Montgomery St,x,Wed Apr 09 2014,17:45-18:00,14,142,33,0,83,0,0,0,0,64,86,0,202,196,300,248,110,0,19,20,37.78883,-122.40204
 sf/idax Counts Format A only/Market_O'Farrell.txt,Market St / O'Farrell St,x,Wed Apr 09 2014,16:00-16:15,8,0,66,11,71,0,0,0,0,0,50,0,367,3,0,171,51,0,26,3,37.78673,-122.40468
 sf/idax Counts Format A only/Market_O'Farrell.txt,Market St / O'Farrell St,x,Wed Apr 09 2014,16:15-16:30,12,0,92,6,61,0,0,0,0,0,49,1,318,4,0,213,57,0,11,4,37.78673,-122.40468
 sf/idax Counts Format A only/Market_O'Farrell.txt,Market St / O'Farrell St,x,Wed Apr 09 2014,16:30-16:45,3,0,82,2,60,0,0,0,0,0,53,0,304,1,0,167,53,0,23,7,37.78673,-122.40468
@@ -350,14 +350,14 @@ sf/idax Counts both formats/Market_Jones_4_10_PM.xlsx.txt,Market St / Jones St,x
 sf/idax Counts both formats/Market_Jones_4_10_PM.xlsx.txt,Market St / Jones St,x,$41739.00,17:15-17:30,21,0,5,11,82,0,0,0,0,0,58,0,120,38,0,0,144,0,35,6,37.78092,-122.41204
 sf/idax Counts both formats/Market_Jones_4_10_PM.xlsx.txt,Market St / Jones St,x,$41739.00,17:30-17:45,30,0,7,11,49,0,0,0,0,0,62,0,154,47,3,0,127,0,36,3,37.78092,-122.41204
 sf/idax Counts both formats/Market_Jones_4_10_PM.xlsx.txt,Market St / Jones St,x,$41739.00,17:45-18:00,36,0,5,13,58,0,0,0,0,0,66,0,169,36,1,0,170,0,32,4,37.78092,-122.41204
-sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,16:00-16:15,14,137,42,0,75,0,0,0,0,42,77,0,100,109,354,152,36,0,11,10,37.78885,-122.40199
-sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,16:15-16:30,11,106,28,0,58,0,0,0,0,68,116,0,131,113,256,194,44,0,12,5,37.78885,-122.40199
-sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,16:30-16:45,11,109,29,0,62,0,0,0,0,67,83,0,119,127,323,185,37,0,10,7,37.78885,-122.40199
-sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,16:45-17:00,6,94,35,0,49,0,0,0,0,62,89,0,164,114,272,182,40,0,8,9,37.78885,-122.40199
-sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,17:00-17:15,18,145,30,0,63,0,0,0,0,58,94,0,198,188,373,276,85,0,17,7,37.78885,-122.40199
-sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,17:15-17:30,12,132,29,0,79,0,0,0,0,68,90,0,233,184,356,281,61,0,9,4,37.78885,-122.40199
-sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,17:30-17:45,15,118,26,0,83,0,0,0,0,51,101,0,287,183,318,280,81,0,11,15,37.78885,-122.40199
-sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,17:45-18:00,14,142,33,0,83,0,0,0,0,64,86,0,202,196,300,248,110,0,19,20,37.78885,-122.40199
+sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,16:00-16:15,14,137,42,0,75,0,0,0,0,42,77,0,100,109,354,152,36,0,11,10,37.78883,-122.40204
+sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,16:15-16:30,11,106,28,0,58,0,0,0,0,68,116,0,131,113,256,194,44,0,12,5,37.78883,-122.40204
+sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,16:30-16:45,11,109,29,0,62,0,0,0,0,67,83,0,119,127,323,185,37,0,10,7,37.78883,-122.40204
+sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,16:45-17:00,6,94,35,0,49,0,0,0,0,62,89,0,164,114,272,182,40,0,8,9,37.78883,-122.40204
+sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,17:00-17:15,18,145,30,0,63,0,0,0,0,58,94,0,198,188,373,276,85,0,17,7,37.78883,-122.40204
+sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,17:15-17:30,12,132,29,0,79,0,0,0,0,68,90,0,233,184,356,281,61,0,9,4,37.78883,-122.40204
+sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,17:30-17:45,15,118,26,0,83,0,0,0,0,51,101,0,287,183,318,280,81,0,11,15,37.78883,-122.40204
+sf/idax Counts both formats/Market_New Montgomery.xlsx.txt,Market St / Montgomery St,x,$41738.00,17:45-18:00,14,142,33,0,83,0,0,0,0,64,86,0,202,196,300,248,110,0,19,20,37.78883,-122.40204
 sf/SFMTA Staff Counts/Divisadero_Haight_PM_062713.txt,Divisadero at Haight,x,June 27 2013,17:15-17:30,15,158,10,7,41,1,5,103,41,21,34,0,24,34,25,16,0,0,0,0,37.77130,-122.43706
 sf/SFMTA Staff Counts/Divisadero_Haight_PM_062713.txt,Divisadero at Haight,x,June 27 2013,17:30-17:45,26,309,15,10,69,5,10,213,82,28,65,3,49,75,47,50,0,0,0,0,37.77130,-122.43706
 sf/SFMTA Staff Counts/Divisadero_Haight_PM_062713.txt,Divisadero at Haight,x,June 27 2013,17:45-18:00,38,495,22,17,107,9,16,316,128,37,98,3,90,114,75,82,0,0,0,0,37.77130,-122.43706
