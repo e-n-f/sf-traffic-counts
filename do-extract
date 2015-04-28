@@ -6,3 +6,5 @@
 ) | ./geocode > counts-sf.csv
 
 cat sf.csv | ./process-sf | ./geocode > counts-sf-misc.csv
+
+./extract-db > counts-sf-db.csv

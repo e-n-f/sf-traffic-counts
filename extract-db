@@ -1,0 +1,57 @@
+#!/usr/bin/perl
+
+open(IN, "sf-intersections");
+while (<IN>) {
+	chomp;
+	($name, $lat, $lon) = split(/,/);
+
+	$name =~ s/ \bAVE\b//g;
+	$name =~ s/ \bST\b//g;
+	$name =~ s/ \bBLVD\b//g;
+	$name =~ s/ \bLN\b//g;
+	$name =~ s/ \bDR\b//g;
+
+	$lat{$name} = $lat;
+	$lon{$name} = $lon;
+}
+close(IN);
+
+$t[20] = "08:00-09:00";
+$t[21] = "12:00-13:00";
+$t[22] = "17:00-18:00";
+
+open(IN, "sf/Ped volume - count database.txt");
+while (<IN>) {
+	chomp;
+	s/015//g;
+	s/,/ /g;
+	@fields = split(/\t/, $_);
+
+	$fields[1] =~ s/^ *//;
+	$fields[2] =~ s/^ *//;
+	$fields[1] =~ s/ *$//;
+	$fields[2] =~ s/ *$//;
+	$fields[1] =~ s/^0//;
+	$fields[1] =~ s/ St\.?//;
+	$fields[1] =~ s/ Ave\.?//;
+	$fields[2] =~ s/ St\.?//;
+	$fields[2] =~ s/ Ave\.?//;
+	$fields[1] =~ tr/a-z/A-Z/;
+	$fields[2] =~ tr/a-z/A-Z/;
+
+	$name = "$fields[1] at $fields[2]";
+	$name =~ s/EMBARCADERO/THE EMBARCADERO/;
+
+	for ($f = 20; $f <= 22; $f++) {
+		if ($fields[$f] > 0) {
+			print "sf/Ped volume - count database.txt,$name,extrapolated,$fields[16] / $fields[17],$t[$f],";
+			print ",,,,,,,,,,,,";
+
+			for ($i = 0; $i < 4; $i++) {
+				printf("%.2f,", $fields[$f] / 4);
+			}
+
+			print ",,,,$lat{$name},$lon{$name}\n";
+		}
+	};
+}
