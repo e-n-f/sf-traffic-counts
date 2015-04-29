@@ -32,10 +32,12 @@ while (<IN>) {
 	$fields[1] =~ s/ *$//;
 	$fields[2] =~ s/ *$//;
 	$fields[1] =~ s/^0//;
-	$fields[1] =~ s/ St\.?//;
-	$fields[1] =~ s/ Ave\.?//;
-	$fields[2] =~ s/ St\.?//;
-	$fields[2] =~ s/ Ave\.?//;
+	$fields[1] =~ s/Street/St/;
+	$fields[1] =~ s/Avenue/Ave/;
+	$fields[1] =~ s/ St\b\.?//;
+	$fields[1] =~ s/ Ave\b\.?//;
+	$fields[2] =~ s/ St\b\.?//;
+	$fields[2] =~ s/ Ave\b\.?//;
 	$fields[1] =~ tr/a-z/A-Z/;
 	$fields[2] =~ tr/a-z/A-Z/;
 

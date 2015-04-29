@@ -50,7 +50,7 @@ sf/Ped volume - count database.txt,3RD at MARIPOSA,extrapolated,11/2008 - 12/200
 sf/Ped volume - count database.txt,3RD at MARIPOSA,extrapolated,11/2008 - 12/2008  / ,17:00-18:00,,,,,,,,,,,,,10.75,10.75,10.75,10.75,,,,,37.764322,-122.388851
 sf/Ped volume - count database.txt,3RD at MARKET,extrapolated,May 2001 / N/A,12:00-13:00,,,,,,,,,,,,,859.00,859.00,859.00,859.00,,,,,37.787642,-122.403431
 sf/Ped volume - count database.txt,3RD at QUESADA,extrapolated,1/16/2007 / Tues.,12:00-13:00,,,,,,,,,,,,,114.00,114.00,114.00,114.00,,,,,37.733223,-122.391244
-sf/Ped volume - count database.txt,3RD at SOUTHREET,extrapolated,4/23/2007 / Mon,12:00-13:00,,,,,,,,,,,,,23.00,23.00,23.00,23.00,,,,,,
+sf/Ped volume - count database.txt,3RD at SOUTH STREET,extrapolated,4/23/2007 / Mon,12:00-13:00,,,,,,,,,,,,,23.00,23.00,23.00,23.00,,,,,,
 sf/Ped volume - count database.txt,4TH at ELLIS/MARKET/STOCKTON,extrapolated,8/23/2006 / Wed,08:00-09:00,,,,,,,,,,,,,702.25,702.25,702.25,702.25,,,,,,
 sf/Ped volume - count database.txt,4TH at ELLIS/MARKET/STOCKTON,extrapolated,8/23/2006 / Wed,12:00-13:00,,,,,,,,,,,,,1246.75,1246.75,1246.75,1246.75,,,,,,
 sf/Ped volume - count database.txt,4TH at ELLIS/MARKET/STOCKTON,extrapolated,8/23/2006 / Wed,17:00-18:00,,,,,,,,,,,,,1370.00,1370.00,1370.00,1370.00,,,,,,
@@ -184,7 +184,7 @@ sf/Ped volume - count database.txt,18TH at CASTRO,extrapolated,9/10/2009 / Thur,
 sf/Ped volume - count database.txt,18TH at DOLORES,extrapolated,3/18/2007 / Sun,17:00-18:00,,,,,,,,,,,,,489.00,489.00,489.00,489.00,,,,,37.761427,-122.426077
 sf/Ped volume - count database.txt,18TH at MISSION,extrapolated,1/16/2007 / Tues.,12:00-13:00,,,,,,,,,,,,,363.00,363.00,363.00,363.00,,,,,37.761836,-122.419359
 sf/Ped volume - count database.txt,18TH at MISSION,extrapolated,4/24/2007 / Tues.,12:00-13:00,,,,,,,,,,,,,377.00,377.00,377.00,377.00,,,,,37.761836,-122.419359
-sf/Ped volume - count database.txt,18THREET at TEXAS,extrapolated,8/3/2010 / Tues.,17:00-18:00,,,,,,,,,,,,,30.00,30.00,30.00,30.00,,,,,,
+sf/Ped volume - count database.txt,18TH at TEXAS,extrapolated,8/3/2010 / Tues.,17:00-18:00,,,,,,,,,,,,,30.00,30.00,30.00,30.00,,,,,37.762638,-122.395561
 sf/Ped volume - count database.txt,18TH at GEARY,extrapolated,3/10/2005 / Thur,12:00-13:00,,,,,,,,,,,,,146.75,146.75,146.75,146.75,,,,,37.780440,-122.477240
 sf/Ped volume - count database.txt,18TH at GEARY,extrapolated,3/10/2005 / Thur,17:00-18:00,,,,,,,,,,,,,152.00,152.00,152.00,152.00,,,,,37.780440,-122.477240
 sf/Ped volume - count database.txt,19TH at EUCALYPTUS DR.,extrapolated,9/9/2003 / Tues.,17:00-18:00,,,,,,,,,,,,,132.75,132.75,132.75,132.75,,,,,,
@@ -201,7 +201,7 @@ sf/Ped volume - count database.txt,19TH at TARAVAL,extrapolated,9/9/2003 / Tues.
 sf/Ped volume - count database.txt,19TH at VICENTE,extrapolated,9/9/2003 / Tues.,17:00-18:00,,,,,,,,,,,,,20.25,20.25,20.25,20.25,,,,,37.739325,-122.475409
 sf/Ped volume - count database.txt,19TH at WINSTON,extrapolated,1/10/2007 / Wed,17:00-18:00,,,,,,,,,,,,,116.00,116.00,116.00,116.00,,,,,37.726991,-122.474900
 sf/Ped volume - count database.txt,19TH at MISSION,extrapolated,7/31/2007 / Tue,17:00-18:00,,,,,,,,,,,,,290.00,290.00,290.00,290.00,,,,,37.760235,-122.419206
-sf/Ped volume - count database.txt,20THREET at SOUTH VAN NESS,extrapolated,7/20/2010 / Tues.,17:00-18:00,,,,,,,,,,,,,72.75,72.75,72.75,72.75,,,,,,
+sf/Ped volume - count database.txt,20TH at SOUTH VAN NESS,extrapolated,7/20/2010 / Tues.,17:00-18:00,,,,,,,,,,,,,72.75,72.75,72.75,72.75,,,,,,
 sf/Ped volume - count database.txt,22ND at DIAMOND,extrapolated,10/30/2006 / Mon,12:00-13:00,,,,,,,,,,,,,19.50,19.50,19.50,19.50,,,,,37.754359,-122.436600
 sf/Ped volume - count database.txt,24TH at CASTRO,extrapolated,9/15/2009 / Tue,17:00-18:00,,,,,,,,,,,,,170.75,170.75,170.75,170.75,,,,,37.751304,-122.434090
 sf/Ped volume - count database.txt,24TH at DOLORES,extrapolated,5/14/2007 / Mon,17:00-18:00,,,,,,,,,,,,,52.00,52.00,52.00,52.00,,,,,37.751842,-122.425153
@@ -212,7 +212,7 @@ sf/Ped volume - count database.txt,24TH at SANCHEZ,extrapolated,3/18/2007 / Sun,
 sf/Ped volume - count database.txt,25TH at CLEMENT,extrapolated,7/30/2007 / Mon,17:00-18:00,,,,,,,,,,,,,69.00,69.00,69.00,69.00,,,,,37.782025,-122.484874
 sf/Ped volume - count database.txt,25TH at GEARY,extrapolated,7/30/2007 / Mon,17:00-18:00,,,,,,,,,,,,,111.00,111.00,111.00,111.00,,,,,37.780093,-122.484732
 sf/Ped volume - count database.txt,25TH at GEARY,extrapolated,9/9/2009 / Wed,08:00-09:00,,,,,,,,,,,,,118.25,118.25,118.25,118.25,,,,,37.780093,-122.484732
-sf/Ped volume - count database.txt,25THREET at HARRISON,extrapolated,7/22/2010 / Thur,17:00-18:00,,,,,,,,,,,,,66.50,66.50,66.50,66.50,,,,,,
+sf/Ped volume - count database.txt,25TH at HARRISON,extrapolated,7/22/2010 / Thur,17:00-18:00,,,,,,,,,,,,,66.50,66.50,66.50,66.50,,,,,37.751034,-122.411746
 sf/Ped volume - count database.txt,26TH at GUERRERO,extrapolated,May 04 / N/A,08:00-09:00,,,,,,,,,,,,,30.50,30.50,30.50,30.50,,,,,37.748773,-122.422571
 sf/Ped volume - count database.txt,26TH at GUERRERO,extrapolated,May 04 / N/A,12:00-13:00,,,,,,,,,,,,,14.75,14.75,14.75,14.75,,,,,37.748773,-122.422571
 sf/Ped volume - count database.txt,26TH at GUERRERO,extrapolated,May 04 / N/A,17:00-18:00,,,,,,,,,,,,,20.25,20.25,20.25,20.25,,,,,37.748773,-122.422571
@@ -235,9 +235,9 @@ sf/Ped volume - count database.txt,34TH at ULLOA,extrapolated,9/9/2009 / Wed,08:
 sf/Ped volume - count database.txt,3RD at KING,extrapolated,8/15/2006 / Tue,08:00-09:00,,,,,,,,,,,,,76.75,76.75,76.75,76.75,,,,,37.778126,-122.391841
 sf/Ped volume - count database.txt,3RD at KING,extrapolated,8/15/2006 / Tue,12:00-13:00,,,,,,,,,,,,,207.50,207.50,207.50,207.50,,,,,37.778126,-122.391841
 sf/Ped volume - count database.txt,3RD at KING,extrapolated,8/15/2006 / Tue,17:00-18:00,,,,,,,,,,,,,110.75,110.75,110.75,110.75,,,,,37.778126,-122.391841
-sf/Ped volume - count database.txt,3RDREET at JERROLD,extrapolated,8/26/2010 / Thur,17:00-18:00,,,,,,,,,,,,,17.00,17.00,17.00,17.00,,,,,,
+sf/Ped volume - count database.txt,3RD at JERROLD,extrapolated,8/26/2010 / Thur,17:00-18:00,,,,,,,,,,,,,17.00,17.00,17.00,17.00,,,,,37.738742,-122.389310
 sf/Ped volume - count database.txt,43RD at ANZA,extrapolated,8/17/2010 / Tues.,17:00-18:00,,,,,,,,,,,,,9.00,9.00,9.00,9.00,,,,,37.777287,-122.503881
-sf/Ped volume - count database.txt,4THREET at BERRY,extrapolated,8/19/2010 / Thur,17:00-18:00,,,,,,,,,,,,,165.50,165.50,165.50,165.50,,,,,,
+sf/Ped volume - count database.txt,4TH at BERRY,extrapolated,8/19/2010 / Thur,17:00-18:00,,,,,,,,,,,,,165.50,165.50,165.50,165.50,,,,,37.775787,-122.393355
 sf/Ped volume - count database.txt,6TH at LAKE,extrapolated,8/5/2010 / Thur,17:00-18:00,,,,,,,,,,,,,20.25,20.25,20.25,20.25,,,,,37.786670,-122.464693
 sf/Ped volume - count database.txt,9TH at LINCOLN WAY,extrapolated,8/5/2006 / Sat,12:00-13:00,,,,,,,,,,,,,319.50,319.50,319.50,319.50,,,,,37.765925,-122.466442
 sf/Ped volume - count database.txt,9TH at LINCOLN WAY,extrapolated,8/19/2006 / Sat,12:00-13:00,,,,,,,,,,,,,430.00,430.00,430.00,430.00,,,,,37.765925,-122.466442
@@ -550,15 +550,15 @@ sf/Ped volume - count database.txt,MARKET at VAN NESS,extrapolated,May 2001 / N/
 sf/Ped volume - count database.txt,MARKET at OCTAVIA,extrapolated,1/24/2006 / Tues.,08:00-09:00,,,,,,,,,,,,,5.00,5.00,5.00,5.00,,,,,37.771717,-122.423620
 sf/Ped volume - count database.txt,MARKET at OCTAVIA,extrapolated,1/24/2006 / Tues.,17:00-18:00,,,,,,,,,,,,,5.00,5.00,5.00,5.00,,,,,37.771717,-122.423620
 sf/Ped volume - count database.txt,MARKET MID-BLOCK at POWELL,extrapolated,12/22/2006 / Fri,17:00-18:00,,,,,,,,,,,,,1399.50,1399.50,1399.50,1399.50,,,,,,
-sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 2ND & 3RDS at KING,extrapolated,8/15/2006 / Tue,08:00-09:00,,,,,,,,,,,,,47.50,47.50,47.50,47.50,,,,,,
-sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 2ND & 3RDS at KING,extrapolated,8/15/2006 / Tue,12:00-13:00,,,,,,,,,,,,,33.25,33.25,33.25,33.25,,,,,,
-sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 2ND & 3RDS at KING,extrapolated,8/15/2006 / Tue,17:00-18:00,,,,,,,,,,,,,39.75,39.75,39.75,39.75,,,,,,
-sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 3RD & 4THS at KING,extrapolated,8/15/2006 / Tue,08:00-09:00,,,,,,,,,,,,,28.75,28.75,28.75,28.75,,,,,,
-sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 3RD & 4THS at KING,extrapolated,8/15/2006 / Tue,12:00-13:00,,,,,,,,,,,,,57.25,57.25,57.25,57.25,,,,,,
-sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 3RD & 4THS at KING,extrapolated,8/15/2006 / Tue,17:00-18:00,,,,,,,,,,,,,44.75,44.75,44.75,44.75,,,,,,
-sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 4TH AND 5THS at KING,extrapolated,8/16/2006 / Wed,08:00-09:00,,,,,,,,,,,,,2.50,2.50,2.50,2.50,,,,,,
-sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 4TH AND 5THS at KING,extrapolated,8/16/2006 / Wed,12:00-13:00,,,,,,,,,,,,,3.25,3.25,3.25,3.25,,,,,,
-sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 4TH AND 5THS at KING,extrapolated,8/16/2006 / Wed,17:00-18:00,,,,,,,,,,,,,1.50,1.50,1.50,1.50,,,,,,
+sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 2ND & 3RD STS at KING,extrapolated,8/15/2006 / Tue,08:00-09:00,,,,,,,,,,,,,47.50,47.50,47.50,47.50,,,,,,
+sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 2ND & 3RD STS at KING,extrapolated,8/15/2006 / Tue,12:00-13:00,,,,,,,,,,,,,33.25,33.25,33.25,33.25,,,,,,
+sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 2ND & 3RD STS at KING,extrapolated,8/15/2006 / Tue,17:00-18:00,,,,,,,,,,,,,39.75,39.75,39.75,39.75,,,,,,
+sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 3RD & 4TH STS at KING,extrapolated,8/15/2006 / Tue,08:00-09:00,,,,,,,,,,,,,28.75,28.75,28.75,28.75,,,,,,
+sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 3RD & 4TH STS at KING,extrapolated,8/15/2006 / Tue,12:00-13:00,,,,,,,,,,,,,57.25,57.25,57.25,57.25,,,,,,
+sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 3RD & 4TH STS at KING,extrapolated,8/15/2006 / Tue,17:00-18:00,,,,,,,,,,,,,44.75,44.75,44.75,44.75,,,,,,
+sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 4TH AND 5TH STS at KING,extrapolated,8/16/2006 / Wed,08:00-09:00,,,,,,,,,,,,,2.50,2.50,2.50,2.50,,,,,,
+sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 4TH AND 5TH STS at KING,extrapolated,8/16/2006 / Wed,12:00-13:00,,,,,,,,,,,,,3.25,3.25,3.25,3.25,,,,,,
+sf/Ped volume - count database.txt,MIDBLOCK BETWEEN 4TH AND 5TH STS at KING,extrapolated,8/16/2006 / Wed,17:00-18:00,,,,,,,,,,,,,1.50,1.50,1.50,1.50,,,,,,
 sf/Ped volume - count database.txt,MISSION at OCEAN,extrapolated,"7/02  8/02" / N/A,08:00-09:00,,,,,,,,,,,,,154.50,154.50,154.50,154.50,,,,,37.723909,-122.435385
 sf/Ped volume - count database.txt,MISSION at PERSIA,extrapolated,"7/02  8/02" / N/A,08:00-09:00,,,,,,,,,,,,,137.75,137.75,137.75,137.75,,,,,37.723130,-122.435977
 sf/Ped volume - count database.txt,MISSION at SILVER,extrapolated,1/16/2007 / Tues.,08:00-09:00,,,,,,,,,,,,,74.00,74.00,74.00,74.00,,,,,37.728730,-122.431294
@@ -593,5 +593,5 @@ sf/Ped volume - count database.txt,SUNSET BLVD at TARAVAL,extrapolated,5/24/2007
 sf/Ped volume - count database.txt,TAMALPAIS TERRACE at TURK,extrapolated,4/26/2007 / Thur,12:00-13:00,,,,,,,,,,,,,40.00,40.00,40.00,40.00,,,,,,
 sf/Ped volume - count database.txt,TAYLOR at TURK,extrapolated,1/10/2007 / Wed,12:00-13:00,,,,,,,,,,,,,279.00,279.00,279.00,279.00,,,,,37.783214,-122.410765
 sf/Ped volume - count database.txt,UCSF -MIDBLOCK BTW MILLBURY STUDENT UNION AND 513 PARNASSUS at ,extrapolated,4/24/2007 / Tue,12:00-13:00,,,,,,,,,,,,,240.00,240.00,240.00,240.00,,,,,,
-sf/Ped volume - count database.txt,VICENTEREET at WEST PORTAL,extrapolated,4/26/2007 / Thur,17:00-18:00,,,,,,,,,,,,,129.00,129.00,129.00,129.00,,,,,,
+sf/Ped volume - count database.txt,VICENTE at WEST PORTAL,extrapolated,4/26/2007 / Thur,17:00-18:00,,,,,,,,,,,,,129.00,129.00,129.00,129.00,,,,,,
 sf/Ped volume - count database.txt,WALNUT at WASHINGTON,extrapolated,8/3/2010 / Tues.,17:00-18:00,,,,,,,,,,,,,10.00,10.00,10.00,10.00,,,,,37.789727,-122.449012
