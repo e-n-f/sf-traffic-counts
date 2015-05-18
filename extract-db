@@ -22,8 +22,9 @@ $t[22] = "17:00-18:00";
 
 open(IN, "sf/Ped volume - count database.txt");
 while (<IN>) {
+	$orig = $_;
 	chomp;
-	s/015//g;
+	s/\015//g;
 	s/,/ /g;
 	@fields = split(/\t/, $_);
 
