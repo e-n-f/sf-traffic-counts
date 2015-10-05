@@ -40,3 +40,41 @@ http://www.gsweventcenter.com/Draft_SEIR_and_Appendices/Vol_1_GSW_MB_DSEIR.pdf,3
 http://www.gsweventcenter.com/Draft_SEIR_and_Appendices/Vol_1_GSW_MB_DSEIR.pdf,3rd St and South St,San Francisco,2015,18:00-19:00,,,,,,,,,,,,,25,31,63,0,,,,,37.768824,-122.389304
 http://www.gsweventcenter.com/Draft_SEIR_and_Appendices/Vol_1_GSW_MB_DSEIR.pdf,3rd St and 16th St,San Francisco,2015,17:00-18:00,,,,,,,,,,,,,30,31,60,89,,,,,37.76691,-122.38911
 http://www.gsweventcenter.com/Draft_SEIR_and_Appendices/Vol_1_GSW_MB_DSEIR.pdf,3rd St and 16th St,San Francisco,2015,18:00-19:00,,,,,,,,,,,,,23,19,42,67,,,,,37.76691,-122.38911
+
+# Geary BRT, http://www.sfcta.org/sites/default/files/content/Planning/GearyCorridorBusRapidTransit/DraftEIR/GearyPedestrianCountsSummary_20151002.pdf
+
+Geary BRT,Geary Blvd and 23rd Ave,San Francisco,2010-02-10,16:30-17:30,,,,,,,,,,,,,112,48,142,47,,,,,37.780186,-122.482590
+Geary BRT,Geary Blvd and 22nd Ave,San Francisco,2010-02-10,16:30-17:30,,,,,,,,,,,,,138,26,163,26,,,,,37.78023,-122.48156
+Geary BRT,Geary Blvd and 19th Ave,San Francisco,2010-02-10,16:30-17:30,,,,,,,,,,,,,264,108,307,95,,,,,37.78038,-122.47831
+Geary BRT,Geary Blvd and 18th Ave,San Francisco,2010-02-10,16:30-17:30,,,,,,,,,,,,,296,69,260,74,,,,,37.78045,-122.47726
+Geary BRT,Geary Blvd and 12th Ave,San Francisco,2010-02-10,16:30-17:30,,,,,,,,,,,,,94,51,113,51,,,,,37.78072,-122.47074
+Geary BRT,Geary Blvd and 11th Ave,San Francisco,2010-02-10,16:30-17:30,,,,,,,,,,,,,83,25,89,28,,,,,37.78078,-122.46966
+Geary BRT,Geary Blvd and 8th Ave,San Francisco,2010-02-10,16:30-17:30,,,,,,,,,,,,,90,64,131,51,,,,,37.78094,-122.46643
+Geary BRT,Geary Blvd and 7th Ave,San Francisco,2010-02-10,16:30-17:30,,,,,,,,,,,,,88,52,133,56,,,,,37.78097,-122.46538
+Geary BRT,Geary Blvd and 4th Ave,San Francisco,2010-02-10,16:30-17:30,,,,,,,,,,,,,108,71,127,79,,,,,37.78110,-122.46215
+Geary BRT,Geary Blvd and 3rd Ave,San Francisco,2010-02-10,16:30-17:30,,,,,,,,,,,,,108,53,106,61,,,,,37.78118,-122.46111
+Geary BRT,Geary Blvd and Beaumont Ave,San Francisco,2010-02-10,16:30-17:30,,,,,,,,,,,,,109,,82,15,,,,,37.781472,-122.455290
+Geary BRT,Geary Blvd and Spruce Ave,San Francisco,2010-02-10,16:30-17:30,,,,,,,,,,,,,71,33,92,44,,,,,37.781743,-122.453187
+Geary BRT,Geary Blvd and Blake St,San Francisco,2010-02-10,16:30-17:30,,,,,,,,,,,,,43,23,50,,,,,,37.781989,-122.451138
+Geary BRT,Geary Blvd and 25th Ave,San Francisco,2012-11-13,16:30-17:30,,,,,,,,,,,,,119,106,150,118,,,,,37.780090,-122.484740
+Geary BRT,Geary Blvd and 15th Ave,San Francisco,2012-11-13,16:30-17:30,,,,,,,,,,,,,81,30,86,53,,,,,37.780590,-122.473990
+Geary BRT,Geary Blvd and Park Presidio Blvd,San Francisco,2012-11-13,16:30-17:30,,,,,,,,,,,,,175,35,142,160,,,,,37.780650,-122.472327
+Geary BRT,Geary Blvd and Masonic Ave,San Francisco,2012-11-13,16:30-17:30,,,,,,,,,,,,,174,135,89,79,,,,,37.782396,-122.447329
+Geary BRT,Geary Blvd and Presidio Ave,San Francisco,2012-11-13,16:30-17:30,,,,,,,,,,,,,95,32,30,109,,,,,37.782515,-122.445827
+Geary BRT,Geary Blvd and Steiner St,San Francisco,2012-11-13,16:30-17:30,,,,,,,,,,,,,27,3,78,85,,,,,37.784160,-122.434572
+
+# Not geocoded, since 2005 data counts Fillmore as two separate roadways as below, since 2005 data does
+Geary BRT,Geary Blvd and Fillmore St,San Francisco,2012-11-13,16:30-17:30,,,,,,,,,,,,,13,322,221,512,,,,,
+
+Geary BRT,Geary Blvd and Webster St,San Francisco,2012-11-13,16:30-17:30,,,,,,,,,,,,,45,5,138,9,,,,,37.784584,-122.431225
+Geary BRT,Geary Blvd and Laguna St,San Francisco,2012-11-13,16:30-17:30,,,,,,,,,,,,,44,84,91,112,,,,,37.784966,-122.427995
+Geary BRT,Geary Blvd and Park Presidio Blvd,San Francisco,2015-04-22,16:30-17:30,,,,,,,,,,,,,182,42,106,137,,,,,37.780650,-122.472327
+Geary BRT,Geary Blvd and 3rd Ave,San Francisco,2015-04-22,16:30-17:30,,,,,,,,,,,,,127,44,80,60,,,,,37.78118,-122.46111
+Geary BRT,Geary Blvd and Commonwealth Ave,San Francisco,2015-04-22,16:30-17:30,,,,,,,,,,,,,72,36,94,,,,,,37.781421,-122.455547
+Geary BRT,Geary Blvd and Lyon St,San Francisco,2015-04-22,16:30-17:30,,,,,,,,,,,,,58,3,42,2,,,,,37.782685,-122.444464
+Geary BRT,Geary Blvd N and Fillmore St,San Francisco,2015-04-22,16:30-17:30,,,,,,,,,,,,,171,279,29,354,,,,,37.784737,-122.431246
+Geary BRT,Geary Blvd S and Fillmore St,San Francisco,2015-04-22,16:30-17:30,,,,,,,,,,,,,9,264,219,431,,,,,37.784414,-122.431193
+Geary BRT,Geary Blvd and Webster St,San Francisco,2015-04-22,08:30-09:30,,,,,,,,,,,,,16,39 (2 37),52,6,,,,,37.784584,-122.431225
+Geary BRT,Geary Blvd and Webster St,San Francisco,2015-04-22,16:30-17:30,,,,,,,,,,,,,84,118 (5 113),106,17,,,,,37.784584,-122.431225
+Geary BRT,Geary Blvd and Gough St,San Francisco,2015-04-22,16:30-17:30,,,,,,,,,,,,,56,139,57,52,,,,,37.785347,-122.424702
+
