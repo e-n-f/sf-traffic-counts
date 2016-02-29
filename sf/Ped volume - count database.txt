@@ -1,0 +1,410 @@
+																														
+																		Last updated 10-22-10												
+			Location type (check all that apply)																											
+	Location															When				Intersection Total      (1 hour)					Auto Traffic					
+	"Street
+"	"Cross Street
+"	"Arterial
+"	"Residential
+"	"Industrial/ Job Center
+"	"School
+"	"University/ College
+"	"Transit Station
+"	"Tourist Attraction
+"	"Open Space
+"	"Hospital
+"	"Senior center
+"	"Commercial
+"	"Density                          (low, medium, high)"	"Source
+"	"Date
+"	"Day
+"	"Time
+"	"Total Count Length (min.)
+"	"AM
+"	"MID
+"	"PM
+"	"Hour volume Count or calc?
+"	"Additional pedestrian info available
+"	Peak Hour	Average Daily Traffic	Average yearly traffic	Exposure Rate	Reason for chosing location	
+	 1st St	Bush/Battery/Market													Market Street Corridor	8/22/2006	Tue			5501	5798	3964	count							
+	 1st St	Harrison													Piers 27-31 EIR	Oct. 2002	Thur	"2 hours, various"	120		82	64	Count							
+	 1st St	Market													Piers 27-31 EIR	Oct. 2002	Thur	"2 hours, various"	120		975	3888	Count							
+	 2nd St	Brannan													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	240	391		443	Count	"2 hours, 7:30-9:00 AM & 4:30-6:30 PM"						
+	 2nd St	Bryant													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	240	592		661	Count	"2 hours, 7:30-9:00 AM & 4:30-6:30 PM"						
+	 2nd St	Folsom													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	240	1653		1649	Count	"2 hours, 7:30-9:00 AM & 4:30-6:30 PM"						
+	 2nd St	Harrison													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	240	741		832	Count	"2 hours, 7:30-9:00 AM & 4:30-6:30 PM"						
+	 2nd St	Howard													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	240	2070		2147	Count	"2 hours, 7:30-9:00 AM & 4:30-6:30 PM"						
+	 2nd St	Market													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	240	3336		4096	Count	"2 hours, 7:30-9:00 AM & 4:30-6:30 PM"						
+	 2nd St	Market													Market Street Corridor	8/22/2006	Tue			1398	2878	2084	count							
+	 2nd St	Mission													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	240	3016		2972	Count	"2 hours, 7:30-9:00 AM & 4:30-6:30 PM"						
+	 2nd St	Townsend													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	240	298		374	Count	"2 hours, 7:30-9:00 AM & 4:30-6:30 PM"						
+	 3rd St	16th St.													DPT Traffic Count Files	8/2/2001	Thur	4:50-5:50 PM	60			47	Count							
+	 3rd St	16th St.													3rd St RSTP	11/2008 - 12/2008 			60	29		47								
+	 3rd St	Cargo													6th St RSTP	11/2008 - 12/2008 			60	5		5								
+	 3rd St	Cesar Chavez													DPT Traffic Count Files	7/25/2001	Wed	4:40-5:40 PM	60			23								
+	 3rd St	Cesar Chavez													5th St RSTP	11/2008 - 12/2008 			60	23		43								
+	 3rd St	Evans 													DPT Traffic Count Files	7/26/2001	Thur	4:40-5:40 PM	60			109								
+	 3rd St	Evans 																	60	112		107								
+	 3rd St	Geary/Kearny/Market													Market Street Corridor	8/22/2006	Tue			3688	10984	9153	count							
+	 3rd St	Gilman													8th St RSTP	11/2008 - 12/2008 			60	174		228								
+	 3rd St	Howard							X						PMP Ped Count	1/10/2007	Wed	11:28-11:43AM	15		2260		Calculated(x4)							
+	 3rd St	Howard		x									x		2009 Ped Counting Project	9/8/2009	Tue	4-6PM	120			1387	Peak hour	2365 (two hour total)					MTC Regional Count Site	
+	 3rd St	Jamestown													9th St RSTP	11/2008 - 12/2008 			60	31		50								
+	 3rd St	Jerrold													7th St RSTP	11/2008 - 12/2008 			60	27		28								
+	 3rd St	Mariposa													4th St RSTP	11/2008 - 12/2008 			60	66		43								
+	 3rd St	Market St.													San Francisco TETAP	May 2001	N/A	"15 min, midday"	15		3436		15 min * 4.8							
+	 3rd St	Quesada		X				X							PMP Ped Count	1/16/2007	Tues.	3:35-3:50PM	15		456		Calculated(x4)							
+	 3rd St	South Street					X	X							PMP Ped Count	4/23/2007	Mon	12:15-12:30PM	15		92		Calculated (x4)	"area still under construction, Mission Bay "						
+	 4th St	Ellis/Market/Stockton													Market Street Corridor	8/23/2006	Wed			2809	4987	5480	count							
+	 4th St	Harrison													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	405			24-hr est. *9%	"2 hours, various"						
+	 4th St	King						X							PMP Ped Count	1/16/2007	Tues.	7:45-8:15AM	30	2176			Calculated(x4)	Mostly Caltrain pedestrians						
+	 4th St	King													King & Embarcadero Corridor	8/16/2006	Wed			1502	1007	1577	count							
+	 4th St	Market													PMP Ped Count	12/22/2006	Fri	400-5:20PM	80			4834		Christmas shopping						
+	 4th St	Market/Ellis/Stockton						x					x		2009 Ped Counting Project	9/17/2009	Thur	4-6PM	120			10567	Peak hour	20084 (two hour total)					Top 5 High Incidence 4/28/09	
+	 4th St	Market/Ellis/Stockton													top 89	4/23/2007	Mon	12:45-1:30 PM	15		7760		Calculated (x4)							
+	 4th St	Mission													PMP Ped Count	12/22/2006	Fri	2:55-3:30PM	30			2898	Calculate (x2)	Christmas shopping						
+	 5th St	Brannan													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	240	201		204	Count	"2 hours, 7:30-9:00 AM & 4:30-6:30 PM"						
+	 5th St	Bryant													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	240	266		295	Count	"2 hours, 7:30-9:00 AM & 4:30-6:30 PM"						
+	 5th St	Clementina													SOMA correspondence	7/18/2007	Wed	3:27-3:42pm	15		372		Calculated (x4)							
+	 5th St	Cyril Magnin/Market													Market Street Corridor	8/24/2006	Thur			962	2912	3146	count							
+	 5th St	Folsom													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	240	361		460	Count	"2 hours, 7:30-9:00 AM & 4:30-6:30 PM"						
+	 5th St	Harrison													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	240	263		346	Count	"2 hours, 7:30-9:00 AM & 4:30-6:30 PM"						
+	 5th St	Howard													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	120	637		991	Count	"2 hours, 7:30-9:00 AM & 4:30-6:30 PM"						
+	 5th St	King													King & Embarcadero Corridor	8/16/2006	Wed			3	1	4	count							
+	 5th St	Market													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	240	1662		3979	Count	"2 hours, 7:30-9:30 AM & 4:30-6:30 PM"						
+	 5th St	Minna													SOMA correspondence	7/18/2007	Wed	2:52-3:07 am	15		556		Calculated (x4)							
+	 5th St	Mission													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	120	1358		1876	Count	"2 hours, 7:30-9:00 AM & 4:30-6:30 PM"						
+	 5th St	Townsend													SFCTA 2nd/5th/Townsend	2/14/2006	Tues.	"7:30-9:30AM, 4:30-6:30PM"	240	195		243	Count	"2 hours, 7:30-9:00 AM & 4:30-6:30 PM"						
+	 6th Ave	Clement													PMP Ped Count	6/10/2007	Sun	2:15-2:30 PM	15		1448		Calculated (x4)	"many peds crossw 6th Ave on red, left turn/right turn conflicts from 6th onto Clement"						
+	6th Ave	Geary													?	3/10/2005	Thurs	"12-1pm, 4:45-5:45pm"	240		765	786	Count	12-2pm & 4-6pm 15 min counts by leg						
+	 6th Ave	Geary													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	708			24-hr est. *9%	"2 hours, various"						
+	 6th St	Golden Gate/Market/Taylor													Market Street Corridor	8/30/2006	Wed			1081	2193	1732	count							
+	 6th St	Harrison													San Francisco TETAP	May 2001	N/A	"15 min, midday"	15		230		15 min * 4.8							
+	 6th St	Howard													DPT Traffic Count Files	9/25/2001	Thur	1:04-1:14 PM	10		384		Calc. (x6)							
+	 6th St	Jessie													PMP Ped Count	1/3/2007	Wed	12:00-12:15 PM	15		272		Calculated (x4)	lots of diagonal jaywalking						
+	 6th St	Market		x									x		2009 Ped Counting Project	9/16/2009	Wed	4-6PM	120			3118	Peak hour	6024 (two hour total)					Top 5 High Incidence 4/28/09	
+	 6th St	Market/Golden Gate/Taylor													PMP Ped Count	1/9/2007	Tues.	4:25-4:55PM	30			3120	Calculated (x2)	lots of jaywalking						
+	 6th St	Mission													PMP Ped Count	1/9/2007	Tues.	5:20-5:35PM	15			1304	Calculated(x4)							
+	 6th St	Mission		x									x		2009 Ped Counting Project	9/16/2009	Wed	4-6PM	120			1156	Peak hour	2198 (two hour total)					Top 5 High Incidence 4/28/09	
+	 7th Ave	Clement													PMP Ped Count	4/22/2007	Sun	2:45-3:15 PM	15		920		Calculated (x4)							
+	 7th St	Folsom				x							x		2009 Ped Counting Project	9/17/2009	Thur	7-9AM	120	820			Peak hour	1195 (two hour total)					MTC Regional Count Site	
+	 7th St	Harrison													DPT School Ped Count	12/8/2006	Fri	2:49-2:59 PM	10		174		Calculated (x6)							
+	 7th St	Irving St.						X							PMP Ped Count	1/17/2007	Wed	2:45-3:00PM	15		600		Calculated(x4)							
+	 7th St	Market													PMP Ped Count	1/9/2007	Tues.	3:40-4:10PM	30		2374		Calculated (x2)							
+	 7th St	Market													Market Street Corridor	8/23/2006	Wed			2316	2684	2487	count							
+	 7th St	Minna													SOMA correspondence	7/18/2007	Wed	11:01-11:16 am	15		312		Calculated (x4)							
+	 8th St	Folsom		X											PMP Ped Count	1/10/2007	Wed	10:40-10:55AM	15		236		Calculated(x4)							
+	 8th St	Howard													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	542			24-hr est. *9%	"2 hours, various"						
+	 8th St	Hyde/Market													Market Street Corridor	8/23/2006	Wed			2323	5193	3861	count							
+	 8th St	Market													PMP Ped Count	1/9/2007	Tues.	2:14-2:44PM	30		3320		Calculated (x2)							
+	 8th St	Market						x					x		2009 Ped Counting Project	9/17/2009	Thur	4-6PM	120			3524	Peak hour	6570 (two hour total)					"Top 5 High Incidence 4/28/09, Market St"	
+	 8th St	Mission St													top 89	7/30/2007	Mon	2:25-2:40	15		944		Calculated (x4)							
+	 9th Ave	Irving		x									x		2009 Ped Counting Project	9/15/2009	Tue	7-9AM	120	682			Peak hour	1192 (two hour total)					Signal Changes/Spatial Distribution	
+	 9th St	Harrison													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	286			24-hr est. *9%	"2 hours, various"						
+	 9th St	Hayes/Larkin/Market													Market Street Corridor	8/23/2006	Wed			1666	2506	2263	count							
+	 9th St	Howard													DPT Traffic Count Files	9/27/2001	Wed	1:19-1:29 PM	10		516		Calc. (x6)							
+	 9th St	Judah St.				X									PMP Ped Count	1/17/2007	Wed	3:05-3:20PM	15		952		Calculated(x4)							
+	 9th St	Mission St													PMP Ped Count	4/30/2007	Mon	12:35-12:50PM	15		1060		Calculated (x4)	SOMA West District						
+	02nd	King													King & Embarcadero Corridor	8/15/2006	Tue			267	380	308	count							
+	05th Ave	Geary													?	3/10/2005	Thur	12-1pm & 5-6pm	240		457	508	Count	12-2pm & 4-6pm 15 min counts by leg						not on GIS map yet
+	06th Ave	Geary													?	3/10/2005	Thur	12-1pm & 4:45-5:45pm	240		765	786	Count	12-2pm & 4-6pm 15 min counts by leg						not on GIS map yet
+	10th  Ave	Fulton													"SFCTA, GG Park Study"	8/5/2006	Sat	2-3pm	120		225		Count	"2 hours, 1:00-3:00 PM"						not on GIS map yet
+	10th Ave	Fulton													DPT Traffic Count Files	5/6/2006	Sat	2:00-3:00 PM	60			147	Count			1800	0.66			
+	10th Ave	Fulton							X						DPT Traffic Count Files	5/7/2006	Sun	2:00-3:00 PM	60			292	Count							
+	10th Ave	Fulton													DPT Traffic Count Files	5/16/2006	Tues.	5:00-6:00 PM	60			84	Count							
+	10th Ave	Fulton	"SFCTA, GG Park Study"	8/19/2006	Sat										"SFCTA, GG Park Study"	8/19/2006	Sat	1:30-2:30pm	120		296		Count	"2 hours, 1:00-3:00 PM"						not on GIS map yet
+	10th Ave	Fulton													"SFCTA, GG Park Study"	8/6/2006	Sun	1:45-2:45PM	120		395		Count	"2 hours, 1:00-3:00 PM"						not on GIS map yet
+	10th Ave	Fulton													"SFCTA, GG Park Study"	8/20/2006	Sun	2-3pm	120		582		Count	"2 hours, 1:00-3:00 PM"						not on GIS map yet
+	10th Ave	John F. Kennedy Dr.													"SFCTA, GG Park Study"	8/19/2006	Sat	1:15-2:15 PM	120		267		Count	"2 hours, 1:00-3:00 PM"						
+	10th St	Fell/Market													Market Street Corridor	9/7/2006	Thur			702	491	581	count							
+	10th St	Harrison													top 89	7/24/2007	Tue	12:02-12:17pm	15		212		Calculated (x4)							
+	10th St	Market St													top 89	7/30/2007	Mon	2:04-2:19	15		1044		Calculated (x4)							
+	11th St	Folsom St													top 89	7/24/2007	Tue	12:23-12:38pm	15		256		Calculated (x4)							
+	12th St	Franklin/Market													Market Street Corridor	8/30/2006	Wed			479	1499	1417	count							
+	13th St	Mission/Otis/Duboce													DPT Traffic Count Files	9/6/2006	Wed	5:00-6:00 PM	60			298	Count							
+	14th St	Church/Market													Market Street Corridor	8/24/2006	Thur			1123	1498	2326	count							
+	15th St	Market/Sanchez													Market Street Corridor	8/30/2006	Wed			544	605	855	count							
+	16th St	Guerrero													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	398			24-hr est. *9%	"2 hours, various"						
+	16th St	Market St													top 89	4/25/2007	Wed	11:15-11:30AM	15		1048		Calculated (x4)	"Jaywalking on Noe, South xw"						
+	16th St	Market/Noe													Market Street Corridor	8/30/2006	Wed			438	822	1210	count							
+	16th St	Mission													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	3051			24-hr est. *9%	"2 hours, various"						
+	16th St	Mission													San Francisco TETAP	May 2001	N/A	"15 min, midday"	15		2624		15 min * 4.8							
+	16th St	Mission		x		x							x		2009 Ped Counting Project	9/15/2009	Tue	7-9AM	120	2074			Peak hour	3391 (two hour total)					High Incidence 4/20/09 - not SOMA	
+	16th St	Potrero						X		X					PMP Ped Count	1/16/2007	Tues.	4:55-5:10PM	15			388	Calculated(x4)							
+	16th St	South Van Ness													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	630			24-hr est. *9%	"2 hours, various"						
+	16th St	Valencia													San Francisco TETAP	May 2001	N/A	"15 min, midday"	15		2281		15 min * 4.8							
+	17th Ave	Geary													?	3/10/2005	Thur	1-2pm & 4-5pm	240		665	740	Count	12-2pm & 4-6pm 15 min counts by leg						not on GIS map yet
+	17th St	Castro/Market													Market Street Corridor	8/30/2006	Wed			686	1081	1165	count							
+	17th St	Mission St													top 89	7/31/2007	Tue	4:06-4:21	15			1660	Calculated (x4)							
+	17th St	Valencia St													top 89	7/31/2007	Tue	4:25-4:40	15			884	Calculated (x4)							
+	17th Ave	Geary													?	3/10/2005	Thur	1-2pm & 4-5pm	240		665	740	Count	12-2pm & 4-6pm 15 min counts by leg						
+	18th Ave	Geary													?	3/10/2005	Thur	12-1pm & 4-5pm	240		587	608	Count	12-2pm & 4-6pm 15 min counts by leg						not on GIS map yet
+	18th St	Castro													Correspondence	6/14/2006	N/A	4:05-5:12	15			1814	15 min * 4.8	"each crosswalk counted for 15 min, hence 1 hour total time"		22700	8.29			
+	18th St	Castro		x									x		2009 Ped Counting Project	9/10/2009	Thur	4-6PM	120			844	Peak hour	1375 (two hour total)					High Incidence 4/20/09 - not SOMA	
+	18th St	Dolores													PMP Ped Count	3/18/2007	Sun	2:43-2;58	15			1956	Calculated (x4)							
+	18th St	Mission											X		PMP Ped Count	1/16/2007	Tues.	12:25-12:40PM	15		1452		Calculated(x4)							
+	18th St	Mission													PMP Ped Count	4/24/2007	Tues.	12:20-12:35PM	15		1508		Calculated (x4)							
+	18th Street	Texas													2010 Ped Counting Project	8/3/2010	Tues.	4-6PM	120			120	Count	"2 hours, 4-6PM"						not on GIS map yet
+	18th Ave	Geary													?	3/10/2005	Thur	"12-1pm, 4-5pm"	240		587	608	Count	12-2pm & 4-6pm 15 min counts by leg						
+	19th Ave	Eucalyptus Dr.													19th Ave TETAP study	9/9/2003	Tues.	3:15-4:15 PM	120			531	Count	15 min counts for 2 hrs						
+	19th Ave	Geary													"Ped Safe Phase 1, pg. 62"	"7/02, 8/02"	N/A	"2 hours, various"	120	N/A			Calculated (halved)	"2 hours, various"						
+	19th Ave	Holloway Av.													19th Ave TETAP study	9/9/2003	Tues.	3:15-4:15 PM	120			2105	Count	15 min counts for 2 hrs						
+	19th Ave	Irving St.													19th Ave TETAP study	9/9/2003	Tues.	3:30-4:30 PM	120			618	Count	15 min counts for 2 hrs						
+	19th Ave	Judah St.													19th Ave TETAP study	9/9/2003	Tues.	3:30-4:30 PM	120			461	Count	15 min counts for 2 hrs						
+	19th Ave	Juniperro Serra Blvd													19th Ave TETAP study	9/9/2003	Tues.	5:00-6:00 PM	120			26	Count	15 min counts for 2 hrs						
+	19th Ave	Lincoln Way													19th Ave TETAP study	9/9/2003	Tues.	4:45-5:45 PM	120			124	Count	15 min counts for 2 hrs						
+	19th Ave	Noriega St.													19th Ave TETAP study	9/9/2003	Tues.	4:45-5:45 PM	120			199	Count	15 min counts for 2 hrs						
+	19th Ave	Quintara St.													19th Ave TETAP study	9/9/2003	Tues.	4:45-5:45 PM	120			144	Count	15 min counts for 2 hrs						
+	19th Ave	Sloat Blvd.													19th Ave TETAP study	9/9/2003	Tues.	3:00-4:00 PM	120			172	Count	15 min counts for 2 hrs						
+	19th Ave	Taraval		x									x		2009 Ped Counting Project	9/9/2009	Wed	4-6PM	120			412	Peak hour	693 (two hour total)					High Incidence 4/20/09 - not SOMA	
+	19th Ave	Taraval St.													19th Ave TETAP study	9/9/2003	Tues.	5:00-6:00 PM	120			663	Count	15 min counts for 2 hrs						
+	19th Ave	Vicente St.													19th Ave TETAP study	9/9/2003	Tues.	4:45-5:45 PM	120			81	Count	15 min counts for 2 hrs						
+	19th Ave	Winston	X					X					X		PMP Ped Count	1/10/2007	Wed	4:55-5:10PM	15			464	Calculated(x4)	Majority of peds from MUNI M Line to Stonestown						
+	19th St	Mission St													top 89	7/31/2007	Tue	4:48-5:03	15			1160	Calculated (x4)							
+	20th Street	South Van Ness													2010 Ped Counting Project	7/20/2010	Tues.	4-6PM	120			291	Count	"2 hours, 4-6PM"						not on GIS map yet
+	22nd St	Diamond													DPT School Ped Count	10/30/2006	Mon	1:00-1:10 PM	10		78		Calculated (x6)							
+	24th St	Castro		x									x		2009 Ped Counting Project	9/15/2009	Tue	4-6PM	120			683	Peak hour	1341(two hour total)					Duratherm Installation Counts	
+	24th St	Dolores													PMP Ped Count	5/14/2007	Mon	4:30-4:45PM	15			208	Calculated (x4)							
+	24th St	Fair Oaks													DPT School Ped Count	9/29/2006	Fri	8:45-8:55 AM	10	252			Calculated (x6)							
+	24th St	Mission													PMP Ped Count	4/18/2007	Wed	4:30-5:00PM	15			1128	calculated (x4)							
+	24th St	Potrero	X			X						X			PMP Ped Count	1/19/2007	Fri	4:25-4:55PM	30			450	Calculated (x2)							
+	24th St	Sanchez													PMP Ped Count	3/18/2007	Sun	2:20-2:35PM	15			1060	Calculated (x4)	3 jaywalkders xing 24th						
+	25th Ave	Clement													PMP Ped Count	7/30/2007	Mon	4:59-5:14 PM	15			276	Calculated (x4)							
+	25th Ave	Geary														7/30/2007	Mon	4:20-4:35 PM	15			444	Calculated (x4)							
+	25th Ave	Geary		x									x		2009 Ped Counting Project	9/9/2009	Wed	7-9AM	120	473			Peak hour	765 (two hour total)					Spatial Distribution	
+	25th Street	Harrison													2010 Ped Counting Project	7/22/2010	Thur	4-6PM	120			266	Count	"2 hours, 4-6PM"						not on GIS map yet
+	26th St	Guerrero													MTC signal timing project	May 04	N/A	various 	60	122	59	81	Count							
+	26th St.	Mission													MTC signal timing project	May 04	N/A	various 	60	529	578	695	Count							
+	26th St.	South Van Ness													MTC signal timing project	May 04	N/A	various 	60	192	182	304	Count							
+	29th St.	San Jose Ave													MTC signal timing project	May 04	N/A	various 	60	80	110	180	Count							
+	30th Ave	Cabrillo													2010 Ped Counting Project	8/11/2010	Wed	4-6PM	120			27	Count	"2 hours, 4-6PM"						not on GIS map yet
+	30th St	Dolores													DPT Traffic Count Files	11/1/2001	Thur	4:18-5:18 PM	60			35	Count							
+	30th St	San Jose Ave													MTC signal timing project	May 04	N/A	various 	60	95	122	114	Count							
+	34th Ave	Kirkham													2010 Ped Counting Project	8/17/2010	Tues.	4-6PM	120			38	Count	"2 hours, 4-6PM"						not on GIS map yet
+	34th Ave	Ulloa		x											2009 Ped Counting Project	9/9/2009	Wed	7-9AM	120	24			Peak hour	44 (two hour total)					Spatial Distribution/Residential/Future Signal on Sunset 	
+	3rd St	King													King & Embarcadero Corridor	8/15/2006	Tue			307	830	443	count							
+	3rd Street	Jerrold													2010 Ped Counting Project	8/26/2010	Thur	4-6PM	120			68	Count	"2 hours, 4-6PM"						not on GIS map yet
+	43rd Ave	Anza													2010 Ped Counting Project	8/17/2010	Tues.	4-6PM	120			36	Count	"2 hours, 4-6PM"						not on GIS map yet
+	4th Street	Berry													2010 Ped Counting Project	8/19/2010	Thur	4-6PM	120			662	Count	"2 hours, 4-6PM"						not on GIS map yet
+	6th Ave	Lake													2010 Ped Counting Project	8/5/2010	Thur	4-6PM	120			81	Count	"2 hours, 4-6PM"						not on GIS map yet
+	9th Ave	Lincoln Way													"SFCTA, GG Park Study"	8/5/2006	Sat	1-2pm	120		1278									
+	9th Ave	Lincoln Way													"SFCTA, GG Park Study"	8/19/2006	Sat	1:15-2:15pm	120		1720		Count	"2 hours, 1:00-3:00 PM"						not on GIS map yet
+	9th Ave	Lincoln Way													"SFCTA, GG Park Study"	8/6/2006	Sun	2-3pm	120		1367		Count	"2 hours, 1:00-3:00 PM"						not on GIS map yet
+	9th Ave	Lincoln Way													"SFCTA, GG Park Study"	8/20/2006	Sun	1:45-2:45pm	120		1836		Count	"2 hours, 1:00-3:00 PM"						not on GIS map yet
+	Alabama	Cesar Chavez													MTC signal timing project	May 04	N/A	various 	60	54	68	77	Count							
+	Alemany	Mount Vernon													2010 Ped Counting Project	8/10/2010	Tues.	4-6PM	120			59	Count	"2 hours, 4-6PM"						not on GIS map yet
+	Arguello	Geary													3575 Geary Senio Cntr EIR	6/10/2004	Thur	"PM, peak hour"	60			885	Count							
+	Arguello	Lake													DPT Traffic Count Files	8/19/2004	Thur	various 	60			55	Count							
+	Arleta	Bayshore						X							PMP Ped Count	1/16/2007	Tues.	4:18-4:33PM	15			500	Calculated(x4)	Mostly Bus and Train passengers 						
+	Arleta	Bayshore													11th St RSTP	11/2008 - 12/2008 			60	359		527								
+	Athens	Cordova													2010 Ped Counting Project	8/11/2010	Wed	4-6PM	120			36	Count	"2 hours, 4-6PM"						not on GIS map yet
+	Baker	Page													2010 Ped Counting Project	8/11/2010	Wed	4-6PM	120			114	Count	"2 hours, 4-6PM"						not on GIS map yet
+	Baker/St. Joseph	Geary									X				PMP Ped Count	1/17/2007	Wed	12:50-1:05PM	15		488		Calculated(x4)							
+	Baker/St. Joseph	Geary													?	3/10/2005	Thur	12:15-1:15pm & 4:15-5:15pm	240		408	312	Count	12-2pm & 4-6pm 15 min counts by leg						not on GIS map yet
+	Battery	Broadway													Piers 27-31 EIR	Oct. 2002	Thur	"2 hours, various"	120		334	364	Count							
+	Battery	Embarcadero/Lombard													King & Embarcadero Corridor	8/23/2006	Wed			192	392	331	count							
+	Bay	Columbus													Piers 27-31 EIR	Oct. 2002	Thur	"2 hours, various"	120		532	563	Count							
+	Bay	Embarcadero													Piers 27-31 EIR	Oct. 2002	Thur	"2 hours, various"	120		272	476	Count							
+	Bay	Embarcadero													King & Embarcadero Corridor	8/24/2006	Thur			100	309	388	count							
+	Bay	Kearny 													Piers 27-31 EIR	Oct. 2002	Thur	"2 hours, various"	120		250	195	Count							
+	Bayshore	101 Ramp													10th St RSTP	11/2008 - 12/2008 			60	15		17								
+	Bayshore	Cortland			X										PMP Ped Count	1/16/2007	Tues.	10:46-11:01AM	15	36			Calculated(x4)							
+	Bayshore	Cortland		x											2009 Ped Counting Project	9/16/2009	Wed	7-9AM	120	70			Peak hour	114 (two hour total)					PMP Counts/Spatial Distribution	
+	Bayshore	Oakdale													2010 Ped Counting Project	7/22/2010	Thur	4-6PM	120			81	Count	"2 hours, 4-6PM"						not on GIS map yet
+	Bayshore	Silver	X												PMP Ped Count	1/16/2007	Tues.	11:10-11:25AM	15	164			Calculated(x4)							
+	Beach	Hyde		x						x			x		2009 Ped Counting Project	9/16/2009	Wed	4-6PM	120			2226	Peak hour	4062 (two hour total)					City Planning's Fisherman's Wharf Counts	
+	Beach Chalet mid-block	Great Highway													PMP Ped Count															
+	Beach/Grant	Embarcadero													Piers 27-31 EIR	Oct. 2002	Thur	"2 hours, various"	120		1064	895	Count							
+	Beale	Davis/Pine/Market													Market Street Corridor	8/16/2006	Wed			3685	5414	4953	count							
+	Beverly	Garfield													2010 Ped Counting Project	8/10/2010	Tues.	4-6PM	120			53	Count	"2 hours, 4-6PM"						not on GIS map yet
+	Bosworth	Diamond													PMP Ped Count	4/22/2007	Sun	12:30-1:00PM	15		588		Calculated (x4)							
+	Brannan	Embarcadero													King & Embarcadero Corridor	8/15/2006	Tue			151	194	194	count							
+	Broadway	Columbus	X						X						PMP Ped Count	1/17/2007	Wed	10:31-10:46AM	30		1022		Calculated(x2)							
+	Broadway	Davis													Embarcadero Hotel EIR	"1/30/2001, 6/19/2001"	N/A	4:00-6:00 PM	60			328	Count	Only weekday peak hour (60 min) data avail.						
+	Broadway	Embarcadero													Embarcadero Hotel EIR	"1/30/2001, 6/19/2001"	N/A	4:00-6:00 PM	60			450	Count	Only weekday peak hour (60 min) data avail.						
+	Broadway	Embarcadero													Piers 27-31 EIR	Oct. 2002	Thur	"2 hours, various"	120		339	239	Count							
+	Broadway	Sansome													Piers 27-31 EIR	Oct. 2002	Thur	"2 hours, various"	120		412	528	Count							
+	Broadway	Stockton													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	2306			24-hr est. *9%	"2 hours, various"						
+	Broadway	Stockton													San Francisco TETAP	May 2001	N/A	"15 min, midday"	15		7358		15 min * 4.8							
+	Bryant	Cesar Chavez													MTC signal timing project	May 04	N/A	various 	60	63	48	50	Count							
+	Bryant	Embarcadero													King & Embarcadero Corridor	8/16/2006	Wed			119	160	64	count							
+	Buchanan	Page													2010 Ped Counting Project	7/28/2010	Wed	4-6PM	120			117	Count	"2 hours, 4-6PM"						not on GIS map yet
+	Burrows	Hamilton													2010 Ped Counting Project	8/10/2010	Tues.	4-6PM	120			10	Count	"2 hours, 4-6PM"						not on GIS map yet
+	Bush St	Van Ness													top 89	4/20/2007	Fri	12:00-12;15AM	15		628		Calculated (x4)							
+	California	Fillmore													PMP Ped Count	7/23/2007	Mon	11:45am-12:00	15		940		Calculated (x4)							
+	California	Grant													PMP Ped Count	6/9/2007	Sat	1:00-1:15 PM	15		2512		Calculated (x4)	Many peds cross CA on red						
+	California	Hyde 													PMP Ped Count	5/20/2007	Tue	5:00-5:15 PM	15			564	Calculated (x4)							
+	California	Montgomery													2010 Ped Counting Project	8/11/2010	Wed	4-6PM	120			3377	Count	"2 hours, 4-6PM"						not on GIS map yet
+	California	Van Ness													PMP Ped Count	4/26/2007	Thur	4:45-5:00PM	15			832	Calculated (x4)	Cable Car 1 California Line						
+	California	Van Ness													PMP Ped Count	4/24/2007	Tue	4:00-4:20PM	20			843	Calculated (x3)	Cable Car 1 California Line						
+	Cambridge	Silver				X									PMP Ped Count	1/17/2007	Wed	1:50-2:05PM	15		512			Cornerstone and Hillcrest schools here.						
+	Castenada	Pacheco													2010 Ped Counting Project	8/24/2010	Tues.	4-6PM	120			23	Count	"2 hours, 4-6PM"						not on GIS map yet
+	Castro	Market St.													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	1680			24-hr est. *9%	"2 hours, various"						
+	Cayuga	Geneva													DPT Traffic Count Files	6/1/2006	"T, R"	various 	60	88		78	Count	"6/21/2001 4:00-5:00 PM THURS, 6/19/01, 8-9AM Tues."						
+	Cayuga	Navajo				X									DPT Traffic Count Files	1/14/2003	Tues.	8:05-8:25 AM	20	252			Calculated (x3)							
+	Central	Golden Gate				X									Crossing Guard Survey	1/4/2007	Thur	3:10-3:25PM	15											
+	Cesar Chavez	Dolores													MTC signal timing project	May 04	N/A	various 	60	32	24	40	Count							
+	Cesar Chavez	Folsom													MTC signal timing project	May 04	N/A	various 	60	245	173	125	Count							
+	Cesar Chavez	Guerrero													MTC signal timing project	May 04	N/A	various 	60	71	41	69	Count							
+	Cesar Chavez	Harrison													MTC signal timing project	May 04	N/A	various 	60	208	75	93	Count							
+	Cesar Chavez	Mission	X												PMP Ped Count	1/16/2007	Tues.	12:02-12:17PM	15		188		Calculated(x4)							
+	Cesar Chavez	Mission													MTC signal timing project	May 04	N/A	various 	60	284	331	306	Count							
+	Cesar Chavez	Shotwell													MTC signal timing project	May 04	N/A	various 	60	119	125	127	Count							
+	Cesar Chavez	South Van Ness													MTC signal timing project	May 04	N/A	various 	60	56	182	48	Count							
+	Cesar Chavez	Valencia													MTC signal timing project	May 04	N/A	various 	60	193	238	186	Count							
+	Chestnut	Embarcadero/Sansome													King & Embarcadero Corridor	9/7/2006	Thur			272	486	454	count							
+	Chestnut	Fillmore													PMP Ped Count	4/26/2007	Thur	3:35-4:50PM	15			1004	Calculated (x4)	kids leaving Marina MS						
+	Chestnut	Steiner		x									x		2009 Ped Counting Project	9/15/2009	Tue	4-6PM	120			745	Peak hour	1450 (two hour total)					Suspected High Volume Not Near Transit	
+	Chestnut/Sansome	Embarcadero													Piers 27-31 EIR	Oct. 2002	Thur	"2 hours, various"	120		281	302	Count							
+	Church	Market St.													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	1341			24-hr est. *9%	"2 hours, various"						
+	Clay	Joice													DPT School Ped Count	12/7/2006	Thur	2:45-3:00 PM	15		128		Calculated (x4)							
+	Clay	Stockton													Scramble After Study	5/14/2003	Wed	"midday, hour"	60		1368	1652	Count							
+	Cole	Grattan													DPT School Ped Count	10/25/2006	Wed	12:05-12:15 PM	10		150		Calculated (x6)							
+	Columbus	Montgomery/Washington													PMP Ped Count	4/13/2007	Fri	12:10-12:25 PM	15		1432		Calculated (x4)							
+	Columbus	Northpoint													Piers 27-31 EIR	Oct. 2002	Thur	"2 hours, various"	120		646	659	Count							
+	Columbus	Union													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	1015			24-hr est. *9%	"2 hours, various"						
+	Columbus	Union													2010 Ped Counting Project	8/18/2010	Wed	4-6PM	120			1833	Count	"2 hours, 4-6PM"						not on GIS map yet
+	Conservatory Dr. West	John F. Kennedy Dr.													"SFCTA, GG Park Study"	8/5/2006	Sat	2:00-3:00 PM	120		680		Count	"2 hours, 1:00-3:00 PM"						
+	Conservatory Dr. West	John F. Kennedy Dr.													"SFCTA, GG Park Study"	8/6/2006	Sun	1:00-2:00 PM	120		961		Count	"2 hours, 1:00-3:00 PM"						
+	Conservatory Dr. West	John F. Kennedy Dr.													"SFCTA, GG Park Study"	8/20/2006	Sun	1:00-2:00 PM	120		642		Count	"2 hours, 1:00-3:00 PM"						
+	Cortland	Moultrie													PMP Ped Count	4/24/2007	Tue	1:18-1:37PM	15		236		Calculated (x4)	Offset intersection						
+	Divisadero	Geary													PMP Ped Count	7/23/2007	Mon	12:12-12:27PM	15		956		Calculated (x4)							
+	Divisadero	Geary		x									x		2009 Ped Counting Project	9/10/2009	Thur	7-9AM	120	993			Peak hour	1808 (two hour total)					MTC Regional Count Site	
+	Divisadero	Haight													PMP Ped Count	7/27/2007	Fri	5:00 - 5:15 PM	15			476	Calculated (x4)							
+	Divisadero	Lombard											X		PMP Ped Count	1/17/2007	Wed	3:57-4:12PM	15		176		Calculated(x4)							
+	Dolores	Market													Market Street Corridor	8/24/2006	Thur			240	397	438	count							
+	Don Chee	Embarcadero													King & Embarcadero Corridor	8/15/2006	Tue			156	458	231	count							
+	Drumm	Main/Market													Market Street Corridor	8/16/2006	Wed			2167	4681	2696	count							
+	Duboce	Buchanan/Market													Market Street Corridor	8/24/2006	Thur			115	195	252	count							
+	Duboce	Steiner													PMP Ped Count	5/24/2007	Thur	4:00-4:15 PM	15			256	Calculated (x4)							
+	Duncan	Guerrero													MTC signal timing project	May 04	N/A	various 	60	37	49	58	Count							
+	Eddy St	Larkin St													top 89	8/1/2007	Wed	4:07-4:22PM	15			888	Calculated (x4)							
+	Ellis St	Jones St													top 89	4/20/2007	Fri	11:15-11:30AM	15		656		Calculated (x4)	lots of jaywalking & loitering						
+	Ellis St	Leavenworth													top 89	8/1/2007	Wed	4:34-4:49PM	15			1220	Calculated (x4)	one school group						
+	Embarcadero	Broadway													King & Embarcadero Corridor	8/17/2006	Thur			250	404	357	count							
+	Embarcadero	Ferry Building													PMP Ped Count	"April, 2007"	Thur	5:30-6:00 PM	15			1796	Calculate (x4)	Heavy volumes when ferries arrive and leave. 						
+	Embarcadero	Folsom													King & Embarcadero Corridor	8/15/2006	Tue			470	480	254	count							
+	Embarcadero	Green													King & Embarcadero Corridor	8/17/2006	Thur			219	286	271	count							
+	Embarcadero	Harrison													Piers 27-31 EIR	Oct. 2002	Thur	"2 hours, various"	120		245	292	Count							
+	Embarcadero	Harrison													King & Embarcadero Corridor	8/15/2006	Tue			252	351	306	count							
+	Embarcadero	Howard													DPT Traffic Count Files	"Aug, Sept 05"	"W, R"	4:30-5:30 PM	60	113		183	Count	"8/17/05 wed 4:30 to 5:30 PM, 9/1/05 Thur 8-9 AM"						
+	Embarcadero	Howard													King & Embarcadero Corridor	8/15/2006	Tue			104	477	214	count							
+	Embarcadero	Kearny/North Point													King & Embarcadero Corridor	8/24/2006	Thur			51	266	318	count							
+	Embarcadero	Lombard/Battery													Piers 27-31 EIR	Oct. 2002	Thur	"2 hours, various"	120		582	391	Count							
+	Embarcadero	Midblock between Broadway and Washington													King & Embarcadero Corridor	8/23/2006	Wed			321	288	371	count							
+	Embarcadero	Midblock between Townsend and Brannan													King & Embarcadero Corridor	8/15/2006	Tue			72	42	42	count							
+	Embarcadero	Midblock between Washington and Ferry Building													King & Embarcadero Corridor	8/15/2006	Tue			400	562	378	count							
+	Embarcadero	Mission													King & Embarcadero Corridor	8/15/2006	Tue			351	923	383	count							
+	Embarcadero	Northpoint/Kearny													Piers 27-31 EIR	Oct. 2002	Thur	"2 hours, various"	120		356	306	Count							
+	Embarcadero	Pier 23													King & Embarcadero Corridor	8/23/2006	Wed			65	80	87	count							
+	Embarcadero	Townsend													King & Embarcadero Corridor	8/15/2006	Tue			226	434	246	count							
+	Embarcadero	Washington								x			x		2009 Ped Counting Project	9/10/2009	Thur	4-6PM	120			570	Peak hour	1008 (two hour total)					MTC Regional Count Site	
+	Embarcadero	Washington													King & Embarcadero Corridor	8/23/2006	Wed			176	689	500	count							
+	Embarcadero (NB)	Midblock at Ferry Building													King & Embarcadero Corridor	8/15/2006	Tue			1401	2369	2053	count							
+	Evelyn	Juanita													2010 Ped Counting Project	8/25/2010	Wed	4-6PM	120			52	Count	"2 hours, 4-6PM"						not on GIS map yet
+	Fell	Gough													Reopening Closed Crosswalks	9/21/2010	Tues.	4:30-5:30PM	60	554		561	Count							not on GIS map yet
+	Fillmore	Haight													PMP Ped Count	7/20/2007	Fri	12:26 - 12:41	15		676		Calculated (x4)							
+	Fillmore	Union													PMP Ped Count	3/25/2007	Sun	2:35-2:50PM	15			864	Calculated (x4)							
+	Fillmore North	Geary													?	3/10/2005	Thur	12:30-1:30pm & 4:14-5:15pm	240		779	933	Count	12-2pm & 4-6pm 15 min counts by leg						not on GIS map yet
+	Fillmore South	Geary													?	3/10/2005	Thur	1-2pm & 4:14-5:15pm	240		888	959	Count	12-2pm & 4-6pm 15 min counts by leg						not on GIS map yet
+	Filmore	Geary													Geary BRT	3/10/2005		"12:30-1:30, 4:15-5:15"	120		400	464	count (peak hour)							
+	Franklin St	Geary													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	180			24-hr est. *9%	"2 hours, various"						
+	Franklin St	Union St													top 89	4/26/2007	Thur	4:10-4:25PM	15			272	Calculated (x4)							
+	Fremont	Front/Market													Market Street Corridor	8/16/2006	Wed			3602	3348	3342	count							
+	Fulton	Parker													PMP Ped Count	4/24/2007	Tue	11:45-12:00AM	15		412		Calculated (x4)	Offset intersection						
+	Geary	Laguna											x		2009 Ped Counting Project	9/16/2009	Wed	7-9AM	120	294			Peak hour	487 (two hour total)					"High Incidence 4/20/09 - not SOMA, Geary BRT"	
+	Geary	Leavenworth													?	3/10/2005	Thur	12-1pm & 5-6pm	240		738	871	Count	12-2pm & 4-6pm 15 min counts by leg						not on GIS map yet
+	Geary	Masonic													?	3/10/2005	Thur	12-1pm & 4:30-5:30pm	240		552	558	Count	12-2pm & 4-6pm 15 min counts by leg						not on GIS map yet
+	Geary	Park Presidio													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	488			24-hr est. *9%	"2 hours, various"						
+	Geary	Presidio														3/10/2005	Thur	12:30-1:30pm & 4:45-5:45pm	240		656	372	Count	12-2pm & 4-6pm 15 min counts by leg						not on GIS map yet
+	Geary	Steiner	x			x				x					Correspondence	10/22/2009	Thur	3:10-3:40PM	30		160		Calculated (x2)	almost as many people use the closed xwalks as use the overpass						
+	Geary	Van Ness Ave													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	781			24-hr est. *9%	"2 hours, various"						
+	Geary	Van Ness Ave													San Francisco TETAP	May 2001	N/A	"15 min, midday"	15		911		15 min * 4.8							
+	Geneva	Mission													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	911			24-hr est. *9%	"2 hours, various"						
+	Geneva	NB280 On Ramp													Balboa Park Ped/Bike Connection Project					190		201								
+	Geneva	Ocean		x			x								2009 Ped Counting Project	9/10/2009	Thur	4-6PM	120			414	Peak hour	808 (two hour total)					MTC Regional Count Site	
+	Geneva	San Jose													Balboa Park Ped/Bike Connection Project					888		733								
+	Geneva	San Jose Ave													San Francisco TETAP	May 2001	N/A	"15 min, midday"	15		1037		15 min * 4.8							
+	Geneva	SB 280 Off Ramp													Balboa Park Ped/Bike Connection Project					150		200								
+	Golden Gate	Hyde													PMP Ped Count	1/9/2007	Tues.	2:55-3:10PM	15		1256		Calculated(x4)							
+	Golden Gate	Jones													PMP Ped Count	1/9/2007	Tues.	3:18-3:33PM	15		796		Calculated (x4)							
+	Golden Gate	Jones		x			x						x		2009 Ped Counting Project	9/17/2009	Thur	7-9AM	120	650			Peak hour	1071 (two hour total)					Top 5 High Incidence 4/28/09	
+	Golden Gate	Van Ness													top 89	8/1/2007	Wed	3:45-4:00PM	15			968	Calculated (x4)	one school group						
+	Gough	Market													Market Street Corridor	8/30/2006	Wed			612	913	725	count							
+	Grant	Market/O'Farrell													Market Street Corridor	8/22/2006	Tue			872	2750	3908	count							
+	Grove	Van Ness	X		X										PMP Ped Count	1/10/2007	Wed	2:21-2:36PM	15		872		Calculated(x4)							
+	Guerrero	Laguna/Market													Market Street Corridor	8/24/2006	Thur			156	196	156	count							
+	Haight	Masonic													PMP Ped Count	3/25/2007	Sun	3:35-3:50PM	15			1736	Calculated (x4)							
+	Haight	Steiner													PMP Ped Count	3/25/2007	Sun	3:10-3:25PM	15			672	Calculated (x4)							
+	Hayes	Octavia													PMP Ped Count	4/18/2007	Wed	12:25-12:40 PM	15		380		Calculated (x4)							
+	Hayes	Steiner													PMP Ped Count	7/27/2007	Fri	4:31 - 4:46 PM	15			164	Calculated (x4)							
+	Howard	Mary													SOMA correspondence	7/18/2007	Wed	3:13-3:18	5		168		Calculated (x12)							
+	Howard	Russ													SOMA correspondence	7/18/2007	Wed	11:22-11:37am	15		252		Calculated (x4)							
+	Hyde 	Lombard													PMP Ped Count	7/19/2007	Thur	4:34-4:49 PM	15			680	Calculated (x4)							
+	Ingalls	Palou		x											2009 Ped Counting Project	9/17/2009	Thur	4-6PM	120			33	Peak hour	60 (two hour total)					"Spatial Distribution, future redevelopment"	
+	Irving	Sunset Blvd													PMP Ped Count	5/24/2007	Thur	6:00-6:15 PM	15			300	Calculated (x4)							
+	Jackson	Montgomery													PMP Ped Count	4/13/2007	Fri	12:30-12:45 PM	15		816		Calculated (x4)							
+	Jackson	Powell													2010 Ped Counting Project	8/10/2010	Tues.	4:15-6PM	105			1191	Count	"1.75 hours, 4:15-6PM"						not on GIS map yet
+	Jackson	Stockton													Scramble After Study	5/14/2003	Wed	"midday, hour"	60		2894	2324	Count							
+	Jefferson	Mason 													PMP Ped Count	3/25/2007	Sun	2:05-2:20PM	15			2968	Calculated (x4)	No peds using diagonal xing						
+	JFK	Stanyan		x						x					2009 Ped Counting Project	9/17/2009	Thur	4-6PM	120			438	Peak hour	831 (two hour total)					PMP Counts/GG Park	
+	John F. Kennedy Dr.	Stanyan													"SFCTA, GG Park Study"	8/19/2006	Sat	1:00-2:00 PM	120		690		Count	"2 hours, 1:00-3:00 PM"						change in GIS- MID
+	John F. Kennedy Dr.	Stanyan													"SFCTA, GG Park Study"	8/5/2006	Sat	1:45-2:45 PM	120		406		Count	"2 hours, 1:00-3:00 PM"						
+	John F. Kennedy Dr.	Stanyan													"SFCTA, GG Park Study"	8/6/2006	Sun	2:00-3:00 PM	120		511		Count	"2 hours, 1:00-3:00 PM"						
+	John F. Kennedy Dr.	Stanyan													"SFCTA, GG Park Study"	8/20/2006	Sun	1:00-2:00 PM	120		255		Count	"2 hours, 1:00-3:00 PM"						
+	Jules Ave	Ocean						X					X		PMP Ped Count	1/9/2007	Wed	4:20-4:50PM	30			400	Calculated(x2)	Majority of peds from MUNI K Line stop						
+	Kansas	Mariposa													2010 Ped Counting Project	8/26/2010	Thur	4-6PM	120			39	Count	"2 hours, 4-6PM"						not on GIS map yet
+	Kearny 	Sutter													PMP Ped Count	2/14/2007	Wed	5:00-5:30PM	30			1768	Calculated (x2)							
+	Kirkham	Sunset													DPT Traffic Count Files	7/11/2006	Tues.	various 	60	75		34	Count	"7:52-8:52 AM, 4:19-5:19 PM"						
+	Laguna	Geary													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	342			24-hr est. *9%	"2 hours, various"						
+	Laguna	Geary													San Francisco TETAP	May 2001	N/A	"15 min, midday"	15		384		15 min * 4.8							
+	Laguna	Union													PMP Ped Count	6/9/2007	Sat	2:15-2:30 PM	15		1720		Calculated (x4)							
+	Larkin	Geary													San Francisco TETAP	May 2001	N/A	"15 min, midday"	15		513		15 min * 4.8							
+	Lee Ave	Ocean Ave	X				X	X							PMP Ped Count	1/9/2007	Wed	4:00-4:15PM	15			424	Calculated(x4)	Large groups of Aptos Middle School students deboarding MUNI K Line						
+	Leland	Rutland													2010 Ped Counting Project	8/3/2010	Tues.	4-6PM	120			107	Count	"2 hours, 4-6PM"						not on GIS map yet
+	Market	Mid-block at UN Plaza													Market Street Corridor	8/23/2006	Wed			241	738	374	count							
+	Market	Montgomery/New Montgomery/Post													Market Street Corridor	8/22/2006	Tue			5740	7793	6528	count							
+	Market	Noe													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	2126.25			24-hr est. *9%	"2 hours, various"						
+	Market	Octavia													DPT Traffic Count Files	1/25/2006	Wed	7:00-8:00 AM	60	20			Count							
+	Market	Octavia													Market Street Corridor	8/24/2006	Thur			323	331	461	count							
+	Market	Powell													Market Street Corridor	8/23/2006	Wed			1871	3255	3781	count							
+	Market	Sansome/Sutter													Market Street Corridor	8/22/2006	Tue			3205	4637	4206	count							
+	Market	Spear													Market Street Corridor	8/16/2006	Wed			2690	4114	2572	count							
+	Market	Valencia													Market Street Corridor	9/7/2006	Thur			186	123	244	count							
+	Market	Van Ness													Market Street Corridor	8/30/2006	Wed			1378	1939	1770	count							
+	Market	Van Ness													San Francisco TETAP	May 2001	N/A	"15 min, midday"	15		2601		15 min * 4.8							
+	Market 	Octavia													DPT Traffic Count Files	1/24/2006	Tues.	various 	60	20		20	Count	"7:02-8:02 AM, 4-5 PM"						
+	Market mid-block	Powell													PMP Ped Count	12/22/2006	Fri	5:25-6:00PM	30			5598	Calculated (x2)	Christmas shopping						
+	Midblock between 2nd & 3rd Sts	King													King & Embarcadero Corridor	8/15/2006	Tue			190	133	159	count							
+	Midblock between 3rd & 4th Sts	King													King & Embarcadero Corridor	8/15/2006	Tue			115	229	179	count							
+	Midblock between 4th and 5th Sts	King													King & Embarcadero Corridor	8/16/2006	Wed			10	13	6	count							
+	Mission	Ocean													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	618			24-hr est. *9%	"2 hours, various"						
+	Mission	Persia													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	551			24-hr est. *9%	"2 hours, various"						
+	Mission	Silver										X			PMP Ped Count	1/16/2007	Tues.	11:28-11:43AM	15	296			Calculated(x4)							
+	Mission	Silver		x									x		2009 Ped Counting Project	9/17/2009	Thur	4-6PM	120			730	Peak hour	1374 (two hour total)					High Incidence 4/20/09 - not SOMA	
+	Mission	Valencia													MTC signal timing project	May 04	N/A	various 	60	175	205	210	Count							
+	Montgomery	Pine			X										PMP Ped Count	1/10/2007	Wed	4:30-5:30PM	60			3284	Calculated(x4)							
+	Noriega	Sunset Blvd													PMP Ped Count	5/24/2007	Thur	5:25-5:40 PM	15			308	Calculated (x4)							
+	Pacific	Stockton													Scramble After Study	5/14/2003	Wed	"midday, hour"	60		3448	3084	Count							
+	Pine	Polk													2010 Ped Counting Project	8/24/2010	Tues.	4-6PM	120			832	Count	"2 hours, 4-6PM"						not on GIS map yet
+	Pine	Stockton													Reopening Closed Crosswalks	9/22/2010	Wed	4:30-5:30PM	60	355		389	Count							not on GIS map yet
+	Pine St	Polk St													top 89	4/20/2007	Fri	11:40-11:55AM	15		828		Calculated (x4)	existing yellow xwalks						
+	Pine St.	Van Ness Ave													San Francisco TETAP	May 2001	N/A	"15 min, midday"	15		656		15 min * 4.8							
+	Polk	Post		X											PMP Ped Count	1/17/2007	Wed	11:39-11:54AM	15		556		Calculated(x4)							
+	Polk	Sutter		X											PMP Ped Count	1/17/2007	Wed	11:21-11:36AM	15		528		Calculated(x4)							
+	Powell	Mid-block btw Ellis and O'Farrell													PMP Ped Count	12/22/2006	Fri	6:05-6:40PM	30			4622	Calculate (x2)	Christmas shopping						
+	Powell	Washington													DPT School Ped Count	12/7/2006	Thur	2:10-2:25 PM	15		564		Calculated (x4)							
+	Prague	South Hill													DPT School Ped Count	11/17/2006	Fri	11:25-11:35 AM	10		0		Calculated (x6)							
+	Randall	San Jose		x		x									2009 Ped Counting Project	9/16/2009	Wed	7-9AM	120	429			Peak hour	533 (two hour total)					Bike Counts	
+	Randall	San Jose Ave													MTC signal timing project	May 04	N/A	various 	60	263	49	82	Count							
+	Sacramento	Stockton													"Ped Safe Phase 1, site visit report"	"7/02, 8/02"	N/A	"2 hours, various"	120	1388.25			24-hr est. *9%	"2 hours, various"						
+	Santiago	Sunset													DPT Traffic Count Files	7/12/2006	Wed	7:57-8:27 AM	30	32			Calculated (x2)							
+	Sargent	Victoria													2010 Ped Counting Project	8/25/2010	Wed	4:30-6:30PM	120			27	Count	"2 hours, 4:30-6:30PM"						not on GIS map yet
+	Stockton	Washington													Scramble After Study	5/14/2003	Wed	"midday, hour"	60		1496	1964	Count							
+	Sunset	Ulloa													DPT Traffic Count Files	7/12/2006	Wed	8:30-9:00 AM	30	26			Calculated (x2)							
+	Sunset Blvd	Taraval													PMP Ped Count	5/24/2007	Thur	5:00-5:15 PM	15			308	Calculated (x4)	MUNI L-Line						
+	Tamalpais Terrace	Turk													PMP Ped Count	4/26/2007	Thur	11:20-11:50AM	30		160		Calculated (x2)	T-intersection						
+	Taylor	Turk		X											PMP Ped Count	1/10/2007	Wed	12:57-1:12PM	15		1116		Calculated(x4)							
+	UCSF -midblock btw Millbury student union and 513 Parnassus														PMP Ped Count	4/24/2007	Tue	11:20-11:36AM	15		960		Calculated (x4)							
+	Vicente Street	West Portal													PMP Ped Count	4/26/2007	Thur	4:35-4:50PM	15		 	516	Calculated (x4)							
+	Walnut	Washington													2010 Ped Counting Project	8/3/2010	Tues.	4-6PM	120			40	Count	"2 hours, 4-6PM"						not on GIS map yet
