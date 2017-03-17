@@ -1,0 +1,998 @@
+                                                                                                    Attachment 6
+
+
+ December 20, 2016
+
+ Jerry Loving
+ Architect
+ 323 Shady Glen Road
+ Walnut Creek, Ca. 94596
+
+ Subject:         Traffic Evaluation of Pioneer Avenue Neighborhood Plan
+
+
+ Dear Mr. Loving:
+
+ At your request, TJKM has reviewed the traffic and parking aspects of the proposed 46-unit for
+ sale townhome development to be located on Pioneer Avenue south of Geary Road in the City
+ of Walnut Creek. The 2.57-acre project is located at the 90 degree bend in Pioneer Avenue
+ beginning about 200 feet south of the center of Geary Road. The project displaces some five
+ existing homes; however, under existing R-8 development in the City of Walnut Creek, 17 single
+ family homes are allowable.
+
+ Pioneer Avenue is a 1,125 foot long roadway with a right angle bend. It extends 385 feet
+ southerly from Geary Road and 740 feet easterly from Hall Lane to an L-intersection. The project
+ would remove about 350 feet of public roadway from the middle portion of Pioneer Avenue.
+ This roadway would be abandoned. Cul-de-sacs would be provided at both ends of the closure,
+ although vehicular access to the site would be entirely from the north portion of Pioneer
+ Avenue.
+
+ Traffic Issues
+
+ The roadway has a curb to curb width of about 36 feet with parking allowable on both sides of
+ the street, except in the center section of the roadway near the 90 degree bend. In this area, the
+ pavement width is reduced to about 20 to 24 feet. Based on recent peak hour counts conducted
+ at the intersection of Pioneer Avenue and Geary Road, the estimated daily traffic on Pioneer
+ south of that intersection is 435 vehicles per day.
+
+ TJKM developed estimated project trip generation for the proposed project based on published
+ trip generation rates from the ITE publication Trip Generation (9th Edition). TJKM applied trip
+ discounts to the proposed project trip generation for the existing seven single family homes on
+ the project site. The trip generation estimates were developed using the ITE codes for “Single
+ Family Detached Housing” (ITE Land Use 210) and “Residential Townhouse” (ITE Land Use 230).
+
+
+
+
+                     PLEASANTON    SAN JOSE    SANTA ROSA    SACRAMENTO    FRESNO 
+Corporate Office: 4305 Hacienda Drive, Suite 550, Pleasanton, CA 94588    Phone: 925.463.0611    www.TJKM.com 
+                                            DBE #40772    SBE #38780 
+                                                                                                                    Jerry Loving
+                                                                                                               December 20, 2016
+                                                                                                                     Page 2 of 4
+                                     Table 1: Project Trip Generation
+                                           Size       Daily                           AM Peak                                  PM Peak
+ No.      Land Use (ITE code)
+                                           d.u.    Rate Trips            Rate        In Out           Total        Rate        In Out           Total
+         Residential Townhouse
+  1                                        46      5.81         267      0.44        3         16         19       0.52        16        8          24
+                  (230)
+         Existing on-site Single-
+  2                                         7      9.52         -67      0.75        -1        -4         -5       1.00        -4        -3         -7
+          Family Homes (210)
+
+           Total Trips                                          201                  2         12         14                   12        5          17
+
+
+As shown in Table 1, the proposed development will generate a net total of 201 new daily trips,
+14 in the a.m. peak hour and 17 in the p.m. peak hour. The project displaces seven existing
+residences.
+
+                               Table 2: Comparative Trip Generation
+            Land Use                               Daily                       AM Peak                                    PM Peak
+ No.                                Size
+            (ITE code)                          Rate   Trips          Rate      In        Out       Total      Rate       In    Out           Total
+           Residential              46
+  1                                             5.81      267         0.44      3         16         19        0.52       16        8          24
+        Townhouse (230)             d.u.
+          Single-Family
+                                    17
+  2     Detached Housing                        9.52   -162           0.75      -3        -9        -12        1.00   -11           -6        -17
+                                    d.u.
+              (210)
+
+        Total Trips                                    105                      0         7          7                    5         2          7
+
+
+Table 2 compares the trip generation from the proposed project with that of the allowable 17
+single family homes that could be built on the same site under the existing zoning designation
+of R-8 with a PD. There would be 105 daily trips added by the proposed re-designation, but only
+seven additional a.m. peak hour trips and seven additional p.m. peak hour trip.
+
+                               Table 3: Intersection Level of Service
+
+                                                                                                               Existing plus
+                                                                                Existing
+                                                            Peak                                                  Project
+   #            Name of Intersection
+                                                            Hour
+                                                                             Delay         LOS              Delay              LOS
+
+                                                            AM               19.9              B            19.7                B
+   1      Geary Road and Pioneer Avenue
+                                                            PM               26.5              C            26.6                C
+                                                            AM               16.4              C            16.5                C
+   2          Geary Road and Hall Lane
+                                                            PM               15.5              C            15.4                C
+
+
+Table 3 shows that the existing level of service at the nearby-signalized intersection of Geary
+Road and Pioneer Avenue and the unsignalized intersection Geary Road and Hall Lane do not
+change as the result of the development of the proposed project.
+                                                                                     Jerry Loving
+                                                                                December 20, 2016
+                                                                                      Page 3 of 4
+
+Although there have been complaints of non-neighborhood traffic using Pioneer Avenue to visit
+the Sprouts shopping center located on the northern extension of Pioneer Avenue at Geary
+Road, there were no observed vehicles making a northbound movement from Pioneer Avenue in
+either the a.m. or p.m. peak periods. Sprouts is open for business during both peak hours.
+Existing and Existing plus project peak hour traffic volumes at the study intersections are shown
+in the appendix.
+
+
+
+
+Neighborhood Circulation
+
+The existing neighbors have reported some issues with through traffic and with parking. There
+is currently in place a neighborhood residential parking permit plan which prohibits daytime
+parking for those without a permit. In addition, neighbors have complaints about outsiders
+using Pioneer Avenue as a short-cut to reach the Sprouts shopping center. As noted above, no
+through traffic was observed in the a.m. and p.m. peak periods.
+
+After the two cul-de-sacs are installed on Pioneer Avenue as a part of the project, circulation will
+be changed for seven homes that front onto Pioneer Avenue east of Hall Lane. Those homes will
+                                                                                        Jerry Loving
+                                                                                December 20, 2016
+                                                                                         Page 4 of 4
+need to use Hall Lane to travel to and from their homes. Currently, at least some of those trips
+are being made on Pioneer Avenue to access Geary Road. However, the reduced access will be
+offset by the removal of all through traffic on Pioneer Avenue due to the new cul-de-sacs. At
+the same time, there will be an increase in traffic on Hall Lane from that portion of the existing
+Pioneer Avenue traffic that will be diverted to Hall Lane. Hall Lane has a curb to curb width of
+36 feet with parking allowed on both sides, so it is capable of carrying additional traffic.
+
+For information purposes, there is a 70-unit senior apartment complex whose entire access is on
+Pioneer Avenue just south of Geary Road. This development likely contributes a major portion of
+existing and future traffic on this section of Pioneer Avenue.
+
+                                 Table 4: Daily Traffic Volumes
+                Location                        Existing,                Existing plus Project
+                                            Vehicles Per Day              Vehicles Per Day
+  Pioneer Avenue south of Geary Road               435                           530
+   Geary Road west of Pioneer Avenue             12,370                         12,430
+     Hall Lane south of Geary Road                 610                           670
+
+
+Table 4 indicates the existing daily traffic volumes on Pioneer Avenue south of Geary Road, on
+Geary Road west of Pioneer Avenue, and on Hall Lane south of Geary Road. It also shows the
+volumes at the same locations after the new project and the two cul-de-sacs are placed on
+Pioneer Avenue by the project.
+
+Overall, it appears the development of the proposed 46 townhomes on Pioneer Avenue will
+have minimal impacts on traffic in the neighborhood.
+
+
+Please contact me if there are questions.
+
+Very truly yours,
+
+
+
+
+Chris D. Kinzel, P.E.
+Vice President
+                Jerry Loving
+           December 20, 2016
+                 Page 5 of 5
+
+
+
+
+Appendix
+                                                                                                          Pioneer Ave & Geary Rd
+
+                                                                                                               Peak Hour Summary
+
+                     Date:                  10/20/2016                                                   Southbound Approach                                              Project #:         16-7783-001
+
+                     Day:                   Thursday
+                                                                                                22         0       58     0            42
+
+
+
+
+                                                                       Pioneer Ave
+                                                                                       AM                                                        AM
+
+
+
+                                                                                      NOON       0         0       0      0            0        NOON                    AM Peak Hour            07:45 - 08:45
+
+                                                                                                                                                                       NOON Peak Hour
+
+                                                                                       PM       53         1       129    0            46        PM                     PM Peak Hour            16:45 - 17:45
+
+
+                                        Geary Rd
+                                      AM         NOON          PM                                                                                                AM           NOON      PM
+
+
+
+
+                                                                                                                                                                                                           Westbound Approach
+                                                                                                                                                                 7             0        11
+Eastbound Approach
+
+
+
+
+                                      462             0        683
+
+
+                                                                                                                   CONTROL                                       440           0        628
+
+
+                                        0             0         0                                                                                                8             0        23
+
+
+                                      35              0        35                                                                                                0             0        0
+
+
+                                      657             0        599
+
+                                                                                                                                                                 740           0        753
+                                        1             0         2
+
+                                      AM         NOON          PM                                                                                                AM           NOON      PM
+
+
+
+
+                        Count Periods           Start      End                         AM            9             0      0        0    25       AM
+
+                                 AM            7:00 AM    9:00 AM
+                                                                                      NOON           0             0      0        0       0    NOON
+
+                                 NOON           NONE      NONE
+                                                                                       PM        26                0      2        0    25       PM
+
+                                 PM            4:00 PM    6:00 PM
+
+
+                                                                                                         Northbound Approach
+
+
+
+                                            Total Ins & Outs                                                                                           Total Volume Per Leg
+
+                                                   North Leg                                                                                                           North Leg
+
+                                                 80         42       AM                                                                                                  122            AM
+                                                  0         0        NOON                                                                                                 0            NOON
+                                                 183        46       PM                                                                                                  229            PM
+
+    AM                  NOON          PM                                             East Leg                                          AM       NOON      PM                                  East Leg
+
+   462                       0        683                            455                0       662
+                                                                                                                                       1155       0       1319                         1195      0       1415
+   693                       0        636                            740                0       753
+
+                      West Leg                                       AM               NOON      PM                                             West Leg                                 AM     NOON        PM
+
+                                      AM          9         25                                                                                            AM              34
+
+                                   NOON           0         0                                                                                          NOON               0
+
+                                      PM         26         27                                                                                            PM              53
+
+                                                   South Leg                                                                                                           South Leg
+ www.idaxdata.com
+
+                                            Hall Ln
+                                           Geary Blvd
+                                                                                                                                           Date: 12/06/2016
+                     N                         Peak Hour                                                                           Count Period: 7:00 AM to 9:00 AM
+                                                                                                                                     Peak Hour: 7:30 AM to 8:30 AM
+
+
+
+
+                                                                                              Geary Blvd
+
+                                                                                                                                                                           0
+                                                                                              357
+         361                                                                                                       375                                                                        0
+                              0                 TEV: 1,103                                    18
+                                                                                                                                             1                                                0
+
+
+
+
+                                                                                                                                                                                   4
+                                                                                                                                                              0
+                                                PHF: 0.95                                     0
+         694             692
+                                                                                                                   722                       0
+                              2                                                                                                                                            3
+
+                 Geary Blvd
+                                                                                    Hall Ln
+
+
+                                                                                                                         HV %:       PHF
+                                                                         30
+                                                                4
+                                                        0
+
+
+
+
+                                                                                                                                                                               0
+                                                                                                                                                                           0
+                                                                                                               EB        1.9%        0.92
+                                                                                                               WB        3.2%        0.97
+                                                                                                               NB        0.0%        0.71
+                                                   20
+
+
+                                                                34
+
+
+
+
+                                                                                                               SB          -           -
+                                                                                                          TOTAL          2.3%        0.95
+Two-Hour Count Summaries
+                         Geary Blvd                             Geary Blvd                                          Hall Ln                                    0
+   Interval                                                                                                                                                                            15-min       Rolling
+                         Eastbound                              Westbound                                          Northbound                            Southbound
+     Start                                                                                                                                                                              Total      One Hour
+                UT       LT    TH              RT       UT      LT    TH                      RT          UT        LT    TH          RT         UT       LT    TH             RT
+   7:00 AM       0        0        106         0            0        2        73                  0       0         0          0      8          0        0            0       0        189           0
+   7:15 AM       0        0        157         0            0        2        87                  0       0         0          0      12         0        0            0       0        258           0
+   7:30 AM       0        0        188         0            0        4        90                  0       0         0          0      7          0        0            0       0        289           0
+   7:45 AM       0        0        180         0            0        5        92                  0       0         4          0      4          0        0            0       0        285         1,021
+   8:00 AM       0        0        162         1            0        5        88                  0       0         0          0      12         0        0            0       0        268         1,100
+   8:15 AM       0        0        162         1            0        4        87                  0       0         0          0      7          0        0            0       0        261         1,103
+   8:30 AM       0        0        116         2            0        9        110                 0       0         0          0      8          0        0            0       0        245         1,059
+   8:45 AM       0        0        148         0            1        8        123                 0       0         0          0      14         0        0            0       0        294         1,068
+ Count Total     0        0        1,219       4            1       39        750                 0       0         4          0      72         0        0            0       0       2,089          0
+         All     0        0        692         2            0       18        357                 0       0         4          0      30         0        0            0       0       1,103          0
+ Peak
+         HV      0        0         13         0            0        1        11                  0       0         0          0      0          0        0            0       0         25           0
+ Hour
+        HV%      -        -         2%         0%           -       6%        3%                  -       -         0%         -     0%          -        -            -       -        2%            0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval               Heavy Vehicle Totals                                                            Bicycles                                            Pedestrians (Crossing Leg)
+     Start      EB        WB      NB      SB                    Total         EB                  WB         NB           SB         Total       East          West      North    South               Total
+   7:00 AM       3            3            0            0           6          1                      0        0           0          1              0             0               0           0          0
+   7:15 AM       1            2            0            0           3          0                      0        0           0          0              0             0               0           0          0
+   7:30 AM       2            5            0            0           7          1                      0        0           0          1              1             0               0           0          1
+   7:45 AM       2            2            0            0           4          0                      0        0           0          0              2             0               0           2          4
+   8:00 AM       5            3            0            0           8          0                      0        0           0          0              0             0               0           1          1
+   8:15 AM       4            2            0            0           6          0                      0        0           0          0              1             0               0           0          1
+   8:30 AM       2            3            0            0           5          0                      1        0           0          1              0             0               0           2          2
+   8:45 AM       3            3            0            0           6          0                      0        0           0          0              0             0               0           0          0
+ Count Total    22            23           0            0           45         2                      1        0           0          3              4             0               0           5          9
+   Peak Hr      13            12           0            0           25         1                      0        0           0          1              4             0               0           3          7
+
+
+
+
+Deon Fouche: 415 - 757 - 7714                                                                                                                                              deon.fouche@idaxdata.com
+ www.idaxdata.com
+
+                                           Hall Ln
+                                          Geary Blvd
+                                                                                                                                          Date: 12/06/2016
+                     N                        Peak Hour                                                                           Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                    Peak Hour: 4:45 PM to 5:45 PM
+
+
+
+
+                                                                                             Geary Blvd
+
+                                                                                                                                                                          0
+                                                                                             593
+         596                                                                                                      628                                                                        0
+                              0                TEV: 1,212                                    35
+                                                                                                                                            0                                                0
+
+
+
+
+                                                                                                                                                                                  1
+                                                                                                                                                             0
+                                               PHF: 0.92                                     0
+         556             551
+                                                                                                                  576                       0
+                              5                                                                                                                                           5
+
+                 Geary Blvd
+                                                                                   Hall Ln
+
+
+                                                                                                                        HV %:       PHF
+                                                                        25
+                                                               3
+                                                       0
+
+
+
+
+                                                                                                                                                                              0
+                                                                                                                                                                          0
+                                                                                                              EB        1.1%        0.90
+                                                                                                              WB        0.3%        0.89
+                                                                                                              NB        0.0%        0.88
+                                                  40
+
+
+                                                               28
+
+
+
+
+                                                                                                              SB          -           -
+                                                                                                         TOTAL          0.7%        0.92
+Two-Hour Count Summaries
+                         Geary Blvd                            Geary Blvd                                          Hall Ln                                    0
+   Interval                                                                                                                                                                           15-min       Rolling
+                         Eastbound                             Westbound                                          Northbound                            Southbound
+     Start                                                                                                                                                                             Total      One Hour
+                UT       LT    TH             RT       UT      LT    TH                      RT          UT        LT    TH          RT         UT       LT    TH             RT
+   4:00 PM       0        0       161         1            0        2        139                 0       0         1          0      8          0        0            0       0        312           0
+   4:15 PM       0        0       145         1            1        9        126                 0       0         1          0      6          0        0            0       0        289           0
+   4:30 PM       0        0       135         2            1        5        134                 0       0         0          0      5          0        0            0       0        282           0
+   4:45 PM       0        0       142         1            0       11        166                 0       0         0          0      8          0        0            0       0        328         1,211
+   5:00 PM       0        0       153         2            0        8        133                 0       0         1          0      7          0        0            0       0        304         1,203
+   5:15 PM       0        0       124         0            0        8        150                 0       0         1          0      6          0        0            0       0        289         1,203
+   5:30 PM       0        0       132         2            0        8        144                 0       0         1          0      4          0        0            0       0        291         1,212
+   5:45 PM       0        0       131         0            0       13        138                 0       0         0          0      5          0        0            0       0        287         1,171
+ Count Total     0        0       1,123       9            2       64        1,130               0       0         5          0      49         0        0            0       0       2,382          0
+         All     0        0       551         5            0       35        593                 0       0         3          0      25         0        0            0       0       1,212          0
+ Peak
+         HV      0        0        6          0            0        0         2                  0       0         0          0      0          0        0            0       0         8            0
+ Hour
+        HV%      -        -        1%         0%           -       0%         0%                 -       -         0%         -     0%          -        -            -       -        1%            0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval               Heavy Vehicle Totals                                                           Bicycles                                            Pedestrians (Crossing Leg)
+     Start      EB        WB      NB      SB                   Total          EB                 WB         NB           SB         Total       East          West      North    South               Total
+   4:00 PM       1            2           0            0           3          0                      1        0           0          1              0             0               0           0          0
+   4:15 PM       3            1           0            0           4          0                      0        0           0          0              0             0               0           3          3
+   4:30 PM       3            0           0            0           3          0                      0        0           0          0              0             0               0           1          1
+   4:45 PM       4            1           0            0           5          0                      0        0           0          0              0             0               0           2          2
+   5:00 PM       2            0           0            0           2          0                      0        0           0          0              0             0               0           0          0
+   5:15 PM       0            0           0            0           0          0                      0        0           0          0              0             0               0           3          3
+   5:30 PM       0            1           0            0           1          0                      0        0           0          0              1             0               0           0          1
+   5:45 PM       0            0           0            0           0          0                      0        0           0          0              0             0               0           0          0
+ Count Total    13            5           0            0           18         0                      1        0           0          1              1             0               0           9       10
+   Peak Hr       6            2           0            0           8          0                      0        0           0          0              1             0               0           5          6
+
+
+
+
+Deon Fouche: 415 - 757 - 7714                                                                                                                                             deon.fouche@idaxdata.com
+HCM Signalized Intersection Capacity Analysis
+1: Pioneer Avenue & Geary Road                                                                                     12/14/2016
+
+
+
+Movement                     EBL      EBT     EBR     WBL     WBT     WBR        NBL    NBT     NBR    SBL       SBT     SBR
+Lane Configurations
+Traffic Volume (vph)            35    657        1        8    440        7         0       0     25     58         0      22
+Future Volume (vph)             35    657        1        8    440        7         0       0     25     58         0      22
+Ideal Flow (vphpl)           1900    1900     1900    1900    1900     1900      1900   1900    1900   1900     1900     1900
+Total Lost time (s)            4.5     4.5              4.5     4.5                       4.5                     4.5
+Lane Util. Factor            1.00    1.00             1.00    1.00                       1.00                    1.00
+Frpb, ped/bikes              1.00    1.00             1.00    1.00                       0.96                    1.00
+Flpb, ped/bikes              1.00    1.00             1.00    1.00                      1.00                     1.00
+Frt                           1.00    1.00             1.00    1.00                      0.86                    0.96
+Flt Protected                0.95    1.00              0.95    1.00                      1.00                    0.96
+Satd. Flow (prot)            1770    1862             1770    1858                      1541                    1731
+Flt Permitted                0.95    1.00              0.95    1.00                      1.00                    0.80
+Satd. Flow (perm)            1770    1862             1770    1858                      1541                    1434
+Peak-hour factor, PHF         0.90    0.90    0.90     0.81    0.81    0.81      0.78    0.78   0.78   0.87      0.87    0.87
+Adj. Flow (vph)                 39    730        1       10    543        9         0       0     32     67         0      25
+RTOR Reduction (vph)             0       0       0        0       1       0         0      22      0      0        64       0
+Lane Group Flow (vph)           39    731        0       10    551        0         0      10      0      0        28       0
+Confl. Peds. (#/hr)                                                                 2             14
+Turn Type                     Prot     NA             Prot     NA                        NA            Perm       NA
+Protected Phases                7       4               3       8                         2                        6
+Permitted Phases                                                                   2                      6
+Actuated Green, G (s)         2.4     28.6             1.2    27.4                      18.5                     18.5
+Effective Green, g (s)        2.4     28.6             1.2    27.4                      18.5                     18.5
+Actuated g/C Ratio           0.04     0.46            0.02    0.44                      0.30                     0.30
+Clearance Time (s)            4.5      4.5             4.5     4.5                       4.5                      4.5
+Vehicle Extension (s)         3.0      3.0             3.0     3.0                       3.0                      3.0
+Lane Grp Cap (vph)             68      861              34     823                       461                      429
+v/s Ratio Prot              c0.02    c0.39            0.01    0.30                      0.01
+v/s Ratio Perm                                                                                                  c0.02
+v/c Ratio                    0.57     0.85            0.29    0.67                      0.02                     0.06
+Uniform Delay, d1            29.2     14.7            29.9    13.6                      15.3                     15.5
+Progression Factor           1.00     1.00            1.00    1.00                      1.00                     1.00
+Incremental Delay, d2        11.2      7.8             4.8     2.1                       0.1                      0.3
+Delay (s)                    40.4     22.5            34.7    15.7                      15.3                     15.8
+Level of Service                D        C               C       B                         B                        B
+Approach Delay (s)                    23.4                    16.0                      15.3                     15.8
+Approach LOS                             C                       B                         B                        B
+Intersection Summary
+HCM 2000 Control Delay                         19.9       HCM 2000 Level of Service               B
+HCM 2000 Volume to Capacity ratio              0.56
+Actuated Cycle Length (s)                      61.8       Sum of lost time (s)                  13.5
+Intersection Capacity Utilization            57.1%        ICU Level of Service                     B
+Analysis Period (min)                            15
+c Critical Lane Group
+
+
+
+
+Existing AM Peak Hour                                                                                         Synchro 9 Report
+TJKM                                                                                                                   Page 1
+HCM Unsignalized Intersection Capacity Analysis
+2: Hall Lane & Geary Road                                                                      12/14/2016
+
+
+
+Movement                            EBT    EBR      WBL     WBT    NBL      NBR
+Lane Configurations
+Traffic Volume (veh/h)               692      2       18     357      4       30
+Future Volume (Veh/h)                692      2       18     357      4       30
+Sign Control                        Free                    Free   Stop
+Grade                                0%                      0%     0%
+Peak Hour Factor                    0.92    0.92    0.97    0.97   0.71     0.71
+Hourly flow rate (vph)               752       2      19     368      6       42
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                         None                    None
+Median storage veh)
+Upstream signal (ft)                                         779
+pX, platoon unblocked                                               0.92
+vC, conflicting volume                               754           1159      753
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                                   754           1129      753
+tC, single (s)                                        4.1           6.4       6.2
+tC, 2 stage (s)
+tF (s)                                                2.2            3.5      3.3
+p0 queue free %                                       98             97       90
+cM capacity (veh/h)                                  856            203      410
+Direction, Lane #                   EB 1   WB 1    WB 2     NB 1
+Volume Total                         754      19     368      48
+Volume Left                            0      19       0       6
+Volume Right                           2       0       0      42
+cSH                                 1700     856   1700      363
+Volume to Capacity                  0.44    0.02    0.22    0.13
+Queue Length 95th (ft)                 0       2       0      11
+Control Delay (s)                    0.0     9.3     0.0    16.4
+Lane LOS                                       A               C
+Approach Delay (s)                   0.0     0.5            16.4
+Approach LOS                                                   C
+Intersection Summary
+Average Delay                                         0.8
+Intersection Capacity Utilization                  46.5%       ICU Level of Service   A
+Analysis Period (min)                                  15
+
+
+
+
+Existing AM Peak Hour                                                                     Synchro 9 Report
+TJKM                                                                                               Page 2
+HCM Signalized Intersection Capacity Analysis
+1: Pioneer Avenue & Geary Road                                                                                    12/14/2016
+
+
+
+Movement                     EBL      EBT     EBR     WBL     WBT     WBR        NBL     NBT     NBR    SBL     SBT      SBR
+Lane Configurations
+Traffic Volume (vph)            35    599        2       23    628       11         2        0     25    129       1       53
+Future Volume (vph)             35    599        2       23    628       11         2        0     25    129       1       53
+Ideal Flow (vphpl)           1900    1900     1900    1900    1900     1900      1900    1900    1900   1900   1900      1900
+Total Lost time (s)            4.5     4.5              4.5     4.5                        4.5                   4.5
+Lane Util. Factor            1.00    1.00             1.00    1.00                        1.00                  1.00
+Frpb, ped/bikes              1.00    1.00             1.00    1.00                        0.98                  1.00
+Flpb, ped/bikes              1.00    1.00             1.00    1.00                       1.00                   1.00
+Frt                           1.00    1.00             1.00    1.00                       0.88                  0.96
+Flt Protected                0.95    1.00              0.95    1.00                       1.00                  0.97
+Satd. Flow (prot)            1770    1862             1770    1857                       1585                  1729
+Flt Permitted                0.95    1.00              0.95    1.00                       0.98                  0.77
+Satd. Flow (perm)            1770    1862             1770    1857                       1560                  1374
+Peak-hour factor, PHF         0.86    0.86    0.86     0.94    0.94    0.94       0.75    0.75   0.75   0.93    0.93     0.93
+Adj. Flow (vph)                 41    697        2       24    668       12          3       0     33    139       1       57
+RTOR Reduction (vph)             0       0       0        0       1       0          0      25      0      0      21        0
+Lane Group Flow (vph)           41    699        0       24    679        0          0      11      0      0     176        0
+Confl. Peds. (#/hr)                                       4              12          7              4
+Turn Type                     Prot     NA              Prot    NA                Perm     NA            Perm     NA
+Protected Phases                7       4                 3     8                          2                      6
+Permitted Phases                                                                    2                      6
+Actuated Green, G (s)         2.4     24.7             2.4    24.7                       18.3                   18.3
+Effective Green, g (s)        2.4     24.7             2.4    24.7                       18.3                   18.3
+Actuated g/C Ratio           0.04     0.42            0.04    0.42                       0.31                   0.31
+Clearance Time (s)            4.5      4.5             4.5     4.5                        4.5                    4.5
+Vehicle Extension (s)         3.0      3.0             3.0     3.0                        3.0                    3.0
+Lane Grp Cap (vph)             72      780              72     778                        484                    426
+v/s Ratio Prot              c0.02    c0.38            0.01    0.37
+v/s Ratio Perm                                                                           0.01                  c0.13
+v/c Ratio                    0.57     0.90            0.33    0.87                       0.02                   0.41
+Uniform Delay, d1            27.7     15.9            27.5    15.7                       14.1                   16.0
+Progression Factor           1.00     1.00            1.00    1.00                       1.00                   1.00
+Incremental Delay, d2         9.9     12.9             2.7    10.6                        0.1                    2.9
+Delay (s)                    37.7     28.8            30.2    26.2                       14.2                   19.0
+Level of Service                D        C               C       C                          B                      B
+Approach Delay (s)                    29.3                    26.4                       14.2                   19.0
+Approach LOS                             C                       C                          B                      B
+Intersection Summary
+HCM 2000 Control Delay                         26.5       HCM 2000 Level of Service                C
+HCM 2000 Volume to Capacity ratio              0.68
+Actuated Cycle Length (s)                      58.9       Sum of lost time (s)                   13.5
+Intersection Capacity Utilization            58.3%        ICU Level of Service                      B
+Analysis Period (min)                            15
+c Critical Lane Group
+
+
+
+
+Existing PM Peak Hour                                                                                       Synchro 9 Report
+TJKM                                                                                                      Timing Plan: Default
+HCM Unsignalized Intersection Capacity Analysis
+2: Hall Lane & Geary Road                                                                         12/14/2016
+
+
+
+Movement                            EBT    EBR      WBL     WBT    NBL      NBR
+Lane Configurations
+Traffic Volume (veh/h)               551      5       35     593      3       25
+Future Volume (Veh/h)                551      5       35     593      3       25
+Sign Control                        Free                    Free   Stop
+Grade                                0%                      0%     0%
+Peak Hour Factor                    0.90    0.90    0.89    0.89   0.88     0.88
+Hourly flow rate (vph)               612       6      39     666      3       28
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                         None                    None
+Median storage veh)
+Upstream signal (ft)                                         800
+pX, platoon unblocked                                               0.67
+vC, conflicting volume                               618           1359      615
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                                   618           1288      615
+tC, single (s)                                        4.1           6.4       6.2
+tC, 2 stage (s)
+tF (s)                                                2.2            3.5      3.3
+p0 queue free %                                       96             97       94
+cM capacity (veh/h)                                  962            116      491
+Direction, Lane #                   EB 1   WB 1    WB 2     NB 1
+Volume Total                         618      39     666      31
+Volume Left                            0      39       0       3
+Volume Right                           6       0       0      28
+cSH                                 1700     962   1700      374
+Volume to Capacity                  0.36    0.04    0.39    0.08
+Queue Length 95th (ft)                 0       3       0       7
+Control Delay (s)                    0.0     8.9     0.0    15.5
+Lane LOS                                       A               C
+Approach Delay (s)                   0.0     0.5            15.5
+Approach LOS                                                   C
+Intersection Summary
+Average Delay                                         0.6
+Intersection Capacity Utilization                  41.2%       ICU Level of Service   A
+Analysis Period (min)                                  15
+
+
+
+
+Existing PM Peak Hour                                                                       Synchro 9 Report
+TJKM                                                                                      Timing Plan: Default
+HCM Signalized Intersection Capacity Analysis
+1: Pioneer Avenue & Geary Road                                                                                      12/14/2016
+
+
+
+Movement                       EBL     EBT     EBR     WBL     WBT     WBR        NBL    NBT     NBR    SBL       SBT     SBR
+Lane Configurations
+Traffic Volume (vph)             35    661        1        9    441        7         0       0     33     58         0      22
+Future Volume (vph)              35    661        1        9    441        7         0       0     33     58         0      22
+Ideal Flow (vphpl)            1900    1900     1900    1900    1900     1900      1900   1900    1900   1900     1900     1900
+Total Lost time (s)             4.5     4.5              4.5     4.5                       4.5                     4.5
+Lane Util. Factor             1.00    1.00             1.00    1.00                       1.00                    1.00
+Frpb, ped/bikes               1.00    1.00             1.00    1.00                       0.96                    1.00
+Flpb, ped/bikes               1.00    1.00             1.00    1.00                      1.00                     1.00
+Frt                            1.00    1.00             1.00    1.00                      0.86                    0.96
+Flt Protected                 0.95    1.00              0.95    1.00                      1.00                    0.96
+Satd. Flow (prot)             1770    1862             1770    1858                      1541                    1731
+Flt Permitted                 0.95    1.00              0.95    1.00                      1.00                    0.79
+Satd. Flow (perm)             1770    1862             1770    1858                      1541                    1423
+Peak-hour factor, PHF          0.90    0.90    0.90     0.81    0.81    0.81      0.78    0.78   0.78   0.87      0.87    0.87
+Adj. Flow (vph)                  39    734        1       11    544        9         0       0     42     67         0      25
+RTOR Reduction (vph)              0       0       0        0       1       0         0      30      0      0        65       0
+Lane Group Flow (vph)            39    735        0       11    552        0         0      12      0      0        27       0
+Confl. Peds. (#/hr)                                                                  2             14
+Turn Type                      Prot     NA             Prot     NA                        NA            Perm       NA
+Protected Phases                 7       4               3       8                         2                        6
+Permitted Phases                                                                    2                      6
+Actuated Green, G (s)          2.4     29.0             1.2    27.8                      18.4                     18.4
+Effective Green, g (s)         2.4     29.0             1.2    27.8                      18.4                     18.4
+Actuated g/C Ratio            0.04     0.47            0.02    0.45                      0.30                     0.30
+Clearance Time (s)             4.5      4.5             4.5     4.5                       4.5                      4.5
+Vehicle Extension (s)          3.0      3.0             3.0     3.0                       3.0                      3.0
+Lane Grp Cap (vph)              68      869              34     831                       456                      421
+v/s Ratio Prot               c0.02    c0.39            0.01    0.30                      0.01
+v/s Ratio Perm                                                                                                   c0.02
+v/c Ratio                      0.57    0.85            0.32    0.66                      0.03                     0.06
+Uniform Delay, d1              29.3    14.6            30.0    13.5                      15.5                     15.7
+Progression Factor             1.00    1.00            1.00    1.00                      1.00                     1.00
+Incremental Delay, d2          11.2     7.6             5.5     2.0                       0.1                      0.3
+Delay (s)                      40.5    22.2            35.5    15.5                      15.6                     16.0
+Level of Service                  D       C               D       B                         B                        B
+Approach Delay (s)                     23.1                    15.9                      15.6                     16.0
+Approach LOS                              C                       B                         B                        B
+Intersection Summary
+HCM 2000 Control Delay                          19.7       HCM 2000 Level of Service               B
+HCM 2000 Volume to Capacity ratio               0.56
+Actuated Cycle Length (s)                       62.1       Sum of lost time (s)                  13.5
+Intersection Capacity Utilization             57.4%        ICU Level of Service                     B
+Analysis Period (min)                             15
+c Critical Lane Group
+
+
+
+
+Existing plus Project AM Peak Hour                                                                             Synchro 9 Report
+TJKM                                                                                                                    Page 1
+HCM Unsignalized Intersection Capacity Analysis
+2: Hall Lane & Geary Road                                                                      12/14/2016
+
+
+
+Movement                            EBT    EBR      WBL     WBT    NBL      NBR
+Lane Configurations
+Traffic Volume (veh/h)               692      2       19     357      4       34
+Future Volume (Veh/h)                692      2       19     357      4       34
+Sign Control                        Free                    Free   Stop
+Grade                                0%                      0%     0%
+Peak Hour Factor                    0.92    0.92    0.97    0.97   0.71     0.71
+Hourly flow rate (vph)               752       2      20     368      6       48
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                         None                    None
+Median storage veh)
+Upstream signal (ft)                                         779
+pX, platoon unblocked                                               0.92
+vC, conflicting volume                               754           1161      753
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                                   754           1132      753
+tC, single (s)                                        4.1           6.4       6.2
+tC, 2 stage (s)
+tF (s)                                                2.2            3.5      3.3
+p0 queue free %                                       98             97       88
+cM capacity (veh/h)                                  856            202      410
+Direction, Lane #                   EB 1   WB 1    WB 2     NB 1
+Volume Total                         754      20     368      54
+Volume Left                            0      20       0       6
+Volume Right                           2       0       0      48
+cSH                                 1700     856   1700      368
+Volume to Capacity                  0.44    0.02    0.22    0.15
+Queue Length 95th (ft)                 0       2       0      13
+Control Delay (s)                    0.0     9.3     0.0    16.5
+Lane LOS                                       A               C
+Approach Delay (s)                   0.0     0.5            16.5
+Approach LOS                                                   C
+Intersection Summary
+Average Delay                                         0.9
+Intersection Capacity Utilization                  46.5%       ICU Level of Service   A
+Analysis Period (min)                                  15
+
+
+
+
+Existing plus Project AM Peak Hour                                                        Synchro 9 Report
+TJKM                                                                                               Page 2
+HCM Signalized Intersection Capacity Analysis
+1: Pioneer Avenue & Geary Road                                                                                       12/14/2016
+
+
+
+Movement                       EBL     EBT     EBR     WBL     WBT     WBR        NBL     NBT     NBR    SBL       SBT     SBR
+Lane Configurations
+Traffic Volume (vph)             35    602        2       31    632       11         2        0     27    129         1      53
+Future Volume (vph)              35    602        2       31    632       11         2        0     27    129         1      53
+Ideal Flow (vphpl)            1900    1900     1900    1900    1900     1900      1900    1900    1900   1900     1900     1900
+Total Lost time (s)             4.5     4.5              4.5     4.5                        4.5                     4.5
+Lane Util. Factor             1.00    1.00             1.00    1.00                        1.00                    1.00
+Frpb, ped/bikes               1.00    1.00             1.00    1.00                        0.98                    1.00
+Flpb, ped/bikes               1.00    1.00             1.00    1.00                       1.00                     1.00
+Frt                            1.00    1.00             1.00    1.00                       0.88                    0.96
+Flt Protected                 0.95    1.00              0.95    1.00                       1.00                    0.97
+Satd. Flow (prot)             1770    1862             1770    1857                       1584                    1729
+Flt Permitted                 0.95    1.00              0.95    1.00                       0.98                    0.77
+Satd. Flow (perm)             1770    1862             1770    1857                       1560                    1370
+Peak-hour factor, PHF          0.86    0.86    0.86     0.94    0.94    0.94       0.75    0.75   0.75   0.93      0.93    0.93
+Adj. Flow (vph)                  41    700        2       33    672       12          3       0     36    139         1      57
+RTOR Reduction (vph)              0       0       0        0       1       0          0      27      0      0        21       0
+Lane Group Flow (vph)            41    702        0       33    683        0          0      12      0      0       176       0
+Confl. Peds. (#/hr)                                        4              12          7              4
+Turn Type                      Prot     NA              Prot    NA                Perm     NA            Perm       NA
+Protected Phases                 7       4                 3     8                          2                        6
+Permitted Phases                                                                     2                      6
+Actuated Green, G (s)          2.4     24.9             2.4    24.9                       18.3                     18.3
+Effective Green, g (s)         2.4     24.9             2.4    24.9                       18.3                     18.3
+Actuated g/C Ratio            0.04     0.42            0.04    0.42                       0.31                     0.31
+Clearance Time (s)             4.5      4.5             4.5     4.5                        4.5                      4.5
+Vehicle Extension (s)          3.0      3.0             3.0     3.0                        3.0                      3.0
+Lane Grp Cap (vph)              71      784              71     782                        483                      424
+v/s Ratio Prot               c0.02    c0.38            0.02    0.37
+v/s Ratio Perm                                                                            0.01                    c0.13
+v/c Ratio                      0.58    0.90            0.46    0.87                       0.03                     0.41
+Uniform Delay, d1              27.9    15.9            27.7    15.7                       14.2                     16.2
+Progression Factor             1.00    1.00            1.00    1.00                       1.00                     1.00
+Incremental Delay, d2          10.9    12.7             4.7    10.6                        0.1                      3.0
+Delay (s)                      38.7    28.6            32.5    26.2                       14.3                     19.1
+Level of Service                  D       C               C       C                          B                        B
+Approach Delay (s)                     29.2                    26.5                       14.3                     19.1
+Approach LOS                              C                       C                          B                        B
+Intersection Summary
+HCM 2000 Control Delay                          26.6       HCM 2000 Level of Service                C
+HCM 2000 Volume to Capacity ratio               0.68
+Actuated Cycle Length (s)                       59.1       Sum of lost time (s)                   13.5
+Intersection Capacity Utilization             58.6%        ICU Level of Service                      B
+Analysis Period (min)                             15
+c Critical Lane Group
+
+
+
+
+Existing plus Project PM Peak Hour                                                                              Synchro 9 Report
+TJKM                                                                                                                     Page 1
+HCM Unsignalized Intersection Capacity Analysis
+2: Hall Lane & Geary Road                                                                      12/14/2016
+
+
+
+Movement                            EBT    EBR      WBL     WBT    NBL      NBR
+Lane Configurations
+Traffic Volume (veh/h)               551      5       39     593      3       28
+Future Volume (Veh/h)                551      5       39     593      3       28
+Sign Control                        Free                    Free   Stop
+Grade                                0%                      0%     0%
+Peak Hour Factor                    0.90    0.90    0.89    0.89   0.88     0.88
+Hourly flow rate (vph)               612       6      44     666      3       32
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type                         None                    None
+Median storage veh)
+Upstream signal (ft)                                         800
+pX, platoon unblocked                                               0.66
+vC, conflicting volume                               618           1369      615
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                                   618           1303      615
+tC, single (s)                                        4.1           6.4       6.2
+tC, 2 stage (s)
+tF (s)                                                2.2            3.5      3.3
+p0 queue free %                                       95             97       93
+cM capacity (veh/h)                                  962            112      491
+Direction, Lane #                   EB 1   WB 1    WB 2     NB 1
+Volume Total                         618      44     666      35
+Volume Left                            0      44       0       3
+Volume Right                           6       0       0      32
+cSH                                 1700     962   1700      381
+Volume to Capacity                  0.36    0.05    0.39    0.09
+Queue Length 95th (ft)                 0       4       0       8
+Control Delay (s)                    0.0     8.9     0.0    15.4
+Lane LOS                                       A               C
+Approach Delay (s)                   0.0     0.6            15.4
+Approach LOS                                                   C
+Intersection Summary
+Average Delay                                         0.7
+Intersection Capacity Utilization                  42.4%       ICU Level of Service   A
+Analysis Period (min)                                  15
+
+
+
+
+Existing plus Project PM Peak Hour                                                        Synchro 9 Report
+TJKM                                                                                               Page 2
+                                                                                                  Addendum
+
+                           VISION THAT MOVES YOUR COMMUNITY 
+
+
+
+ Technical Memorandum
+
+ Date:      January 23, 2016
+
+ To:        Yun Na Rhee
+            Assistant Engineer
+            City of Walnut Creek
+            1666 N. Main Street
+            Walnut Creek, CA, 94596.
+
+
+ From:      Chris Kinzel                                   Jurisdiction:   City of Walnut Creek
+
+
+ Subject:   Pioneer Avenue TIS responses to the comments provided by City of Walnut
+            Creek dated January 17, 2017.
+
+   1. Please discuss the minimal difference for peak turn counts from existing to existing plus
+      project.(peak time difference in volume seem to be max difference of four vehicles yet
+      Table 4 daily traffic volumes show a difference of max 95-vehicle increase).
+
+Response: The minimal difference for peak turn counts from the existing and existing plus
+project on the south leg of the intersection of Geary Blvd and Hall Lane for the a.m. peak hour is
+9 trips and p.m. peak hour is 6 trips in both directions. As the 24-hour average daily traffic was
+not conducted at Geary Road, ADT was calculated by using standard practice a.m. peak hour
+traffic in both directions plus p.m. peak hour traffic in both directions multiplied by 5, which
+shows an increase of 95 vehicles as the project traffic is added on Geary Road. In this Existing
+plus project scenario, it is also assumed that due to the construction of cul-de-sacs the existing
+seven homes west of the project site would use Hall Lane.
+
+   2. Please discuss the values from table 4. For example it states that 435 vehicle trips were
+      made inbound and outbound at Geary/Pioneer. If the project occurs, it will block the
+      flow of traffic yet the table mentions volumes will increase to 530 vehicles to this
+      roadway. Please also consider that if the 435 trips are now blocked on Pioneer Ave. they
+      would need to traverse through Hall/Geary, would that not increase trips to that
+      intersection? Please clarify for all street segments mentioned on this table.
+
+Response: It should be noted that there are other residential uses which have access via Pioneer
+Avenue and Table 4 represent average daily traffic generated by the project and other
+residential uses. Based on the site plan, only seven homes west of the project site won’t be able
+
+                                           www.TJKM.com 
+            PLEASANTON    SAN JOSE    SANTA ROSA    OAKLAND    SACRAMENTO    FRESNO 
+                  Corporate Office: 4305 Hacienda Drive, Suite 550, Pleasanton, CA 94588   
+                    Phone: 925.463.0611   Fax: 925.463.3690   Email: tjkm@TJKM.com 
+                                       DBE #40772    SBE #38780 
+                          VISION THAT MOVES YOUR COMMUNITY 
+
+
+to use Pioneer Avenue, the rest of all the existing single family homes, apartments, town homes
+and the proposed project will use Pioneer Avenue. There are very busy driveways immediately
+south of Geary Road that will not be blocked off.
+
+   3. Please indicate the source of the turn movement diagrams. They look like they are from
+      the attached Synchro 9 Report.
+
+Response: The turning movement counts were conducted by IDAX on 10/20/206 for the
+intersection of Geary Road and Pioneer Avenue and on 12/06/2016 for the intersection of Hall
+Lane and Geary Blvd. The turn movement diagrams illustrates count date and count firm
+information. The counts were used in the Synchro 9 software for the analysis purpose.
+
+   4. Please indicate why the Synchro 9 Report PM existing counts were not used for the Hall
+   Ln/Geary Rd diagram but all other counts (AM for Hall/Geary and AM/PM for Pioneer/Geary)
+
+Response: The existing counts collected from the field (turn movement diagrams) were used for
+the analysis purposes for the study intersections for a.m. and p.m. peak hours.
+
+   5. Report mentions that there are no vehicles observed for Pioneer northbound at Geary
+      Rd, please indicate and provide how many days this was observed. There should be at
+      least 3 days of observation.
+
+Response:
+
+We cannot recall ever making peak hour counts for more than one day in Walnut Creek or
+elsewhere. On the day of the count, there were no northbound through movements. As can be
+seen, traffic enters and leaves the site from different directions during various peak hours. We
+are not sure why there is a concern about zero movements. It should be noted that whatever
+the count is assumed for these movements, the level of service is very acceptable and is not
+likely to change. Despite stories from local residents about lots of through traffic on Pioneer
+cutting through to reach Sprouts, there is no evidence of this in the counts, at least during peak
+hours.
+
+
+Please contact me if there are questions about these comments.
+
+
+
+
+                                                2
+

@@ -1,0 +1,2497 @@
+ Terry-Howell Hotel
+            MUP No. 3017451
+
+
+        Transportation Impact Study
+                    January 16, 2015
+
+
+
+
+                        Prepared for:
+                     PNW Suites LLC
+        c/o Stonebridge Companies
+    9100 E Panorama Drive, Suite 300
+               Englewood, CA 80012
+
+
+
+
+                        Prepared by:
+
+                           TENW
+Transportation Engineering NorthWest
+
+
+         11400 SE 8th Street, Suite 200
+                 Bellevue, WA 98004
+              Office: (425) 889-6747
+                 Fax: (425) 889-8369
+                                                                                                              Transportation Impact Study
+                                                                                                                        Terry-Howell Hotel
+
+
+
+
+Table of Contents
+FINDINGS/CONCLUSIONS ....................................................................................... 1
+INTRODUCTION ....................................................................................................... 2
+    Project Description ..................................................................................................... 2
+    Project Approach ...................................................................................................... 2
+    Primary Data and Information Sources ........................................................................... 3
+EXISTING CONDITIONS ............................................................................................. 6
+    Roadway Network .................................................................................................... 6
+    Transit Service........................................................................................................... 6
+    Non-motorized Transportation Facilities.......................................................................... 6
+    Existing Peak-Hour Traffic Volumes ................................................................................ 6
+    Level of Service ......................................................................................................... 8
+TRAFFIC IMPACT ANALYSIS ....................................................................................... 10
+    Project Trip Generation ............................................................................................. 10
+    Project Trip Distribution and Assignment ....................................................................... 10
+    Future Traffic Volumes ............................................................................................... 12
+    Future Level of Service .............................................................................................. 15
+    Site Access Analysis ................................................................................................. 16
+    Future Transit Service ................................................................................................ 17
+    Future Non-Motorized Facilities .................................................................................. 17
+    Transportation Concurrency ....................................................................................... 17
+    Parking Demand Analysis .......................................................................................... 18
+MITIGATION MEASURES........................................................................................... 19
+
+
+Appendices
+Appendix A – Existing Traffic Count Data Sheets
+Appendix B – Trip Generation Calculations
+Appendix C – LOS Analysis Results
+Appendix D – Site Access Evaluation
+
+
+
+
+      TENW                                                                                                             January 16, 2015
+                                                                                                                                Page i
+                                                                                                            Transportation Impact Study
+                                                                                                                      Terry-Howell Hotel
+
+
+
+
+List of Figures and Tables
+
+Figure 1 Project Site Vicinity ....................................................................................................... 4
+Figure 2 Preliminary Site Plan ..................................................................................................... 5
+Figure 3 Existing Weekday PM Peak Hour Traffic Volumes .............................................................. 7
+Figure 4 Project Trip Distribution and Assignment ........................................................................... 11
+Figure 5 2017 Without-Project PM Peak Hour Traffic Volumes ........................................................ 13
+Figure 6 2017 With-Project PM Peak Hour Traffic Volumes ............................................................ 14
+
+
+
+
+Table 1 LOS Criteria for Signalized and Unsignalized Intersections1 ................................................. 8
+Table 2 Existing PM Peak Hour LOS Summary .............................................................................. 9
+Table 3 Terry-Howell Hotel – Trip Generation Summary ............................................................... 10
+Table 4 Future 2017 PM Peak Hour LOS Summary ..................................................................... 15
+Table 5 Transportation Concurrency Assessment ......................................................................... 17
+
+
+
+
+      TENW                                                                                                           January 16, 2015
+                                                                                                                              Page ii
+                                                                                        Transportation Impact Study
+                                                                                                  Terry-Howell Hotel
+
+
+
+
+FINDINGS/CONCLUSIONS
+This traffic impact analysis has been prepared for the proposed Terry-Howell hotel development.
+
+        Project Proposal. The proposed hotel is located on the northwest corner of Terry Avenue and
+        Howell Street. Based on the current site plan, the proposed development would include up to 309
+        hotel rooms. The existing site currently functions as a surface parking lot. The anticipated year of
+        project occupancy for the project is 2017.
+
+        Trip Generation. The proposed 309 room hotel is anticipated to generate a total of 2,525 daily
+        vehicle trips, with 164 new trips occurring during the weekday AM peak hour, and 185 new trips
+        during the weekday PM peak hour.
+
+        Access. Vehicle access to/from the site is proposed via a driveway curb cut onto Terry Avenue
+        which would provide access to a porte cochere along the west side of the site and through access
+        to the alley. This throughway access between Terry Avenue and the alley will provide direct access
+        to the parking garage driveway. Trips entering the site can either use the curb cut access at Terry
+        Avenue or the existing alley, which intersects with Stewart Street and Howell Street; exiting trips are
+        anticipated to primarily use the alley.
+
+        Intersection Level of Service (LOS). Eight study intersections were evaluated for PM hour LOS
+        in the future with or without the proposed project. The results of the LOS analyses indicated that all
+        six of the signalized study intersections are anticipated to operate at LOS C or better in 2017 without
+        or with the proposed project. All turn movements at the two unsignalized intersections are anticipated
+        to operate at LOS B or better in 2017 without or with the proposed project.
+
+        Transit & Non-Motorized Impacts. Existing transit service in the vicinity area is anticipated to
+        accommodate the anticipated increase in ridership demand from the project. The project location is
+        well served with adequate bicycle and pedestrian facilities to accommodate the increased demand
+        generated by the project.
+
+        Transportation Concurrency. Transportation concurrency was evaluated for the proposed 400
+        Dexter Office project based on City guidelines outlined in the Director’s Rule 2009-5. The calculated
+        v/c ratios for the tested screenlines were determined to remain below the adopted LOS standard
+        with the proposed development. Therefore, the proposed development was determined to meet the
+        City of Seattle concurrency requirements.
+
+        Parking. The project proposal includes a total of 149 parking stalls in an underground garage. The
+        peak parking demand for the project is estimated to be 146 parking stalls based on a peak parking
+        demand rate of 0.64 stalls per occupied hotel room assuming 74 percent occupancy. As a result,
+        the on-site parking supply is expected to adequately serve the peak parking demand.
+
+        Project Mitigation. There are no proposed measures necessary to mitigate project impacts. The
+        off-site intersections are anticipated to operate at LOS C or better, transportation concurrency
+        requirements are met, proposed parking supply would meet peak demand, and no project trips are
+        anticipated to impact projects planned in the SLU area.
+
+
+
+     TENW                                                                                        January 16, 2015
+                                                                                                          Page 1
+                                                                                     Transportation Impact Study
+                                                                                               Terry-Howell Hotel
+
+
+
+
+INTRODUCTION
+     This traffic study documents the traffic impacts associated with the proposed Terry-Howell Hotel
+     development. The project site is located on the northwest corner of Terry Avenue and Howell Street;
+     see also Figure 1 site vicinity map.
+
+Project Description
+     The proposed Terry-Howell Hotel development includes a 309 room hotel on a site that currently
+     includes a public pay parking lot. Vehicle access to/from the site is proposed via a porte cochere
+     access along the west side of the site that will provide a curb cut onto Terry Avenue and access to
+     the alley. This throughway access between Terry Avenue and the alley will provide direct access to
+     the parking garage driveway. Trips entering the site can either use the curb cut access at Terry
+     Avenue or the existing alley, which intersects with Stewart Street and Howell Street; exiting trips are
+     anticipated to primarily use the alley as shown on the preliminary site plan concept in Figure 2. The
+     anticipated year of occupancy for the project is 2017.
+
+Project Approach
+     Based on discussions with John Shaw of the City of Seattle Department of Planning and Development
+     (DPD), the following tasks were undertaken to evaluate and disclose the traffic impacts associated
+     with the Terry-Howell Hotel development:
+                     Assessed existing conditions through field reconnaissance and reviewed existing
+                      planning documents;
+                     Described and assessed existing transportation conditions in the study area;
+                     Documented existing public transit service and non-motorized facilities;
+                     Estimated trip generation for weekday daily and peak hour conditions;
+                     Documented trip distribution and assignment of project-generated traffic;
+                     Documented traffic forecasts and assumptions for year 2017 PM peak hour
+                      conditions with and without the proposed development;
+                     Conducted PM peak hour level of service (LOS) analyses at the following study
+                      intersections:
+                          1. Terry Avenue / Stewart Street
+                          2. 9th Avenue / Stewart Street
+                          3. Terry Avenue / Howell Street
+                          4. 9th Avenue / Howell Street
+                          5. Terry Avenue / Olive Way
+                          6. 9th Avenue / Olive Way
+                          7. Alley / Stewart Street
+                          8. Alley / Howell Street
+
+
+
+   TENW                                                                                       January 16, 2015
+                                                                                                       Page 2
+                                                                              Transportation Impact Study
+                                                                                        Terry-Howell Hotel
+
+
+
+               Assessed transportation concurrency based on the guidelines outlined in the
+                Director’s Rule 2009-5;
+               Evaluated parking demand based on peak parking demand rates from the ITE
+                Parking Generation Manual.
+
+Primary Data and Information Sources
+              Institute of Transportation Engineers (ITE) Trip Generation Manual, 9th Edition, 2012.
+              Institute of Transportation Engineers (ITE) Trip Generation Handbook, 3rd Edition,
+               2014.
+              2014 PM Peak Hour traffic counts by IDAX.
+              2010 Update to the Highway Capacity Manual, Transportation Research Board.
+              Metro/King County Website, December 2014.
+              City of Seattle Signal Timing Data.
+              Department of Planning and Development (DPD) Director’s Rule 2009-5
+               Transportation Concurrency Project Review System, effective 4/13/2009.
+              ITE Parking Generation, 4th Edition, year 2010.
+
+
+
+
+   TENW                                                                                January 16, 2015
+                                                                                                Page 3
+                                 Transportation Impact Study
+                                           Terry-Howell Hotel
+
+
+
+
+Figure 1 Project Site Vicinity
+
+
+
+
+ TENW                                     January 16, 2015
+                                                   Page 4
+                                 Transportation Impact Study
+                                           Terry-Howell Hotel
+
+
+
+
+Figure 2 Preliminary Site Plan
+
+
+
+
+ TENW                                     January 16, 2015
+                                                   Page 5
+                                                                                       Transportation Impact Study
+                                                                                                 Terry-Howell Hotel
+
+
+
+
+EXISTING CONDITIONS
+Roadway Network
+     The primary vehicle travel routes to and from the site include Terry Avenue, Stewart Street, and Howell
+     Street. These roadways serving the project site are described below:
+             Terry Avenue is a one-way northwest bound street classified as a Green Street and Minor
+             Transit Street. In the project vicinity, Terry Avenue has sidewalks and 4-hour maximum
+             parallel street parking on both sides of the street.
+             Stewart Street is a one-way southwest bound street classified as Principal Arterial, Class 1
+             Pedestrian Street, and Principal Transit Street with a sharrow bicycle lane. In the project
+             vicinity, Stewart Street has sidewalks, bike lanes, and 4-hour maximum parallel street parking
+             on both sides of the street.
+             Howell Street is a one-way northeast bound street classified as Principal Arterial, Class 2
+             Pedestrian Street, and Principal Transit Street with sharrow bicycle lanes. Adjacent to the
+             site, Howell Street has sidewalks on both sides of the street. Howell Street has 4-hour
+             maximum parallel street parking on the southeast side of the street and two sharrow bicycle
+             bikes lane on the northwest side.
+
+Transit Service
+     The project site is served by both Metro and Sound Transit. The nearest bus stop is located on the
+     southeast side of Howell Street just south of 9th Avenue. The stop serves routes 25, 66, 71, 72, 73,
+     83, 111, 114, 510, 511, and 513 with frequent service to/from downtown, Laurelhurst,
+     Northgate, University District, Lake City, Renton Highlands, and Everett. There are several other
+     transit stops within a half-mile of the site on 9th Avenue and Olive Way. These public transit facilities
+     provide frequent service to areas throughout the region. One block south of the site is the Convention
+     Place bus station which provides connection to transit services that serve the region.
+
+Non-motorized Transportation Facilities
+     Non-motorized transportation facilities in the project vicinity include sidewalks on all adjacent streets,
+     crosswalks at signalized intersections, and sharrow bicycle lanes on Stewart Street and Howell Street.
+
+Existing Peak-Hour Traffic Volumes
+     Existing PM peak hour traffic volumes at the study intersections were collected by IDAX in November
+     and December 2014. Figure 3 illustrates the existing PM peak hour traffic volumes at the six study
+     intersections. The detailed traffic count data sheets are provided in Appendix A.
+
+
+
+
+   TENW                                                                                         January 16, 2015
+                                                                                                         Page 6
+                                                          Transportation Impact Study
+                                                                    Terry-Howell Hotel
+
+
+
+
+ Figure 3 Existing Weekday PM Peak Hour Traffic Volumes
+
+
+
+
+TENW                                                               January 16, 2015
+                                                                            Page 7
+                                                                                                          Transportation Impact Study
+                                                                                                                    Terry-Howell Hotel
+
+
+
+
+Level of Service
+     Based on traffic scoping discussions with City transportation staff, level of service (LOS) analyses
+     were conducted at the following study intersections:
+                1.   Terry Avenue / Stewart Street
+                2.   9th Avenue / Stewart Street
+                3.   Terry Avenue / Howell Street
+                4.   9th Avenue / Howell Street
+                5.   Terry Avenue / Olive Way
+                6.   9th Avenue / Olive Way
+
+     LOS generally refers to the degree of congestion on a roadway or intersection. It is a measure of
+     vehicle operating speed, travel time, travel delays, and driving comfort. A letter scale from A to F
+     generally describes intersection LOS. At signalized intersections, LOS A represents free-flow
+     conditions (motorists experience little or no delays), and LOS F represents forced-flow conditions
+     where motorists experience an average delay in excess of 80 seconds per vehicle.
+
+     The LOS reported for signalized intersections represents the average control delay (sec/veh) and can
+     be reported for the overall intersection, for each approach, and for each lane group or movement
+     (additional v/c ratio criteria apply to lane group or movement LOS only). The LOS reported at two-
+     way stop-controlled intersections is based on the average control delay and can be reported for each
+     controlled minor approach, controlled minor lane group, and controlled major-street movement
+     (additional v/c ratio criteria apply to lane group or movement LOS only). Table 1 outlines current
+     HCM 2010 LOS criteria for signalized and unsignalized intersections based on these methods.
+
+
+     Table 1
+     LOS Criteria for Signalized and Unsignalized Intersections1
+                 SIGNALIZED INTERSECTIONS                                        UNSIGNALIZED INTERSECTIONS
+                                 LOS by Volume-to                                                     LOS by Volume-to
+                                Capacity (V/C) Ratio2                                                Capacity (V/C) Ratio3
+      Control Delay                                                      Control Delay
+       (sec/veh)                    1.0              > 1.0               (sec/veh)                     1.0              > 1.0
+             10                     A                   F                     10                       A                  F
+        > 10 to  20                 B                   F                > 10 to  15                   B                  F
+        > 20 to  35                 C                   F                > 15 to  25                   C                  F
+        > 35 to  55                 D                   F                > 25 to  35                   D                  F
+        > 55 to  80                 E                   F                > 35 to  50                   E                  F
+            > 80                     F                   F                     > 50                      F                  F
+
+     1 Source: HCM2010 Highway Capacity Manual, Transportation Research Board, 2010.
+     2 For approach-based and intersection-wide assessments at signals, LOS is defined solely by control delay.
+     3 For two-way stop intersections, LOS criteria apply to each lane on a given approach and to each approach on minor
+     street. LOS not calculated for major-street approaches or for intersection as a whole at two-way stop controlled intersections.
+
+
+     LOS calculations for the study intersections were calculated using the methodology and procedures
+     outlined in the 2010 Highway Capacity Manual (HCM), Transportation Research Board (TRB), using
+     the Synchro 8 software program. Existing signal timing was provided by the SDOT.
+
+
+
+   TENW                                                                                                            January 16, 2015
+                                                                                                                            Page 8
+                                                                                             Transportation Impact Study
+                                                                                                       Terry-Howell Hotel
+
+
+
+ The existing PM peak hour LOS analysis results for the study intersections are summarized in Table 2
+ with the detailed LOS worksheets provided in Appendix C.
+
+
+          Table 2
+          Existing PM Peak Hour LOS Summary
+                                                                2014 Existing Conditions
+          Study Intersection                                    LOS1           Delay (sec)
+
+          Signalized
+          1. Terry Avenue / Stewart Street                         B               10.6
+          2. 9th Avenue / Stewart Street                          C                24.4
+          3. Terry Avenue / Howell Street                          B               18.6
+          4.   9th   Avenue / Howell   Street2                     B               14.1
+          5. Terry Avenue / Olive      Way2                       A                 0.9
+          6. 9th Avenue / Olive way2                               B               11.7
+          Unsignalized
+          7. Alley / Stewart Street2
+                       NB Turns from Alley                         B               12.2
+                       SB Left-Turn                               A                 0.8
+          8. Alley / Howell Street2
+                       SB Turns from Alley                        A                 9.1
+                       NB Left-Turn                               A                 1.5
+          1. LOS based on Synchro analysis with HCM 2010 methods unless otherwise noted.
+          2. LOS based on HCM 2000.
+
+
+
+ As shown in Table 2, all signalized study intersections currently operate at LOS C or better during
+ the PM peak hour. All turning movements at the unsignalized intersections currently operate at LOS
+ B or better.
+
+
+
+
+TENW                                                                                                  January 16, 2015
+                                                                                                               Page 9
+                                                                                    Transportation Impact Study
+                                                                                              Terry-Howell Hotel
+
+
+
+
+TRAFFIC IMPACT ANALYSIS
+Project Trip Generation
+     The proposed Terry-Howell Hotel development includes a 309 room hotel. The existing site contains
+     a public pay parking lot that will be removed, and therefore no trip reduction was taken for the
+     existing use.
+
+     Trip generation for the proposed Terry-Howell Hotel development was determined using trip
+     generation rates from the Institute of Transportation Engineers (ITE) Trip Generation Manual, 9th
+     Edition. Weekday Daily, AM peak, and PM peak hour trip generation rates were used to determine
+     the amount of vehicles the proposed site would generate. To be conservative, no trip reduction was
+     taken due to mode-split for a downtown location.
+
+     Table 3 summarizes the Terry-Howell Hotel trip generation for a typical weekday. Detailed trip
+     generation calculations are provided in Appendix B.
+                     Table 3
+                     Terry-Howell Hotel – Trip Generation Summary
+
+                                                            Trips Generated
+                     Time Period                       In        Out       Total
+
+                     Weekday Daily                    1,262      1,263     2,525
+
+                     Weekday AM Peak Hour              97         67          164
+
+                     Weekday PM Peak Hour              94         91          185
+
+
+     As shown in Table 3, the proposed development is estimated to generate a total of 2,525 weekday
+     trips per day, with 164 new trips occurring during the weekday AM peak hour and 185 new trips
+     occurring during the weekday PM peak hour.
+
+Project Trip Distribution and Assignment
+     The distribution of vehicle trips for the proposed hotel was estimated based on DPD Director’s Rule
+     2009-5 and general traffic patterns in the vicinity of the site, as well as anticipated access to/from
+     I-5. The distribution and PM peak hour project trip assignment of inbound and outbound trips for the
+     proposed hotel is shown in Figure 4.
+
+
+
+
+   TENW                                                                                      January 16, 2015
+                                                                                                     Page 10
+                                                     Transportation Impact Study
+                                                               Terry-Howell Hotel
+
+
+
+
+ Figure 4 Project Trip Distribution and Assignment
+
+
+
+
+TENW                                                          January 16, 2015
+                                                                      Page 11
+                                                                                      Transportation Impact Study
+                                                                                                Terry-Howell Hotel
+
+
+
+
+Future Traffic Volumes
+     Year 2017 without-project peak hour traffic volumes were estimated by applying a one percent
+     annual growth rate to the existing traffic counts based on direction from the City staff. In addition,
+     trips from the following five pipeline projects were included in the future traffic volumes at all of the
+     study intersections:
+
+         1. Amazon (Rufus 2.0)
+         2. 807 Stewart Street (Office)
+         3. 1821 Boren Avenue (Office)
+         4. 1812 Boren Avenue (Mixed-Use)
+         5. 1007 Stewart Street (Mixed-Use)
+
+
+     The 2017 With-Project traffic volumes were determined by adding the trip assignment from the
+     proposed 309-room Hotel to the future 2017 Without-Project traffic volumes. The 2017 without-
+     project traffic volumes are shown in Figure 5. Adding the trip assignment from the proposed Terry-
+     Howell Hotel development (shown in Figure 4) to the future 2017 without-project traffic volumes
+     results in the 2017 With-Project traffic volumes at the study intersections shown in Figure 6.
+
+
+
+
+   TENW                                                                                        January 16, 2015
+                                                                                                       Page 12
+                                                             Transportation Impact Study
+                                                                       Terry-Howell Hotel
+
+
+
+
+Figure 5 2017 Without-Project PM Peak Hour Traffic Volumes
+
+
+
+
+     TENW                                                             January 16, 2015
+                                                                              Page 13
+                                                          Transportation Impact Study
+                                                                    Terry-Howell Hotel
+
+
+
+
+Figure 6 2017 With-Project PM Peak Hour Traffic Volumes
+
+
+
+
+    TENW                                                           January 16, 2015
+                                                                           Page 14
+                                                                                                Transportation Impact Study
+                                                                                                          Terry-Howell Hotel
+
+
+
+
+Future Level of Service
+     Future LOS were evaluated at the eight study intersections and site access intersection for the
+     anticipated year of occupancy (2017). The future roadway network assumed in the year 2017 LOS
+     analysis was assumed to be the same as existing conditions with the exception that Terry Avenue
+     would be reduced to 2 travel lanes as a result of the narrowing of the green street with the project
+     and the adjacent development. The 2017 weekday PM peak hour LOS results at the study
+     intersections are summarized in Table 4.
+
+
+         Table 4
+         Future 2017 PM Peak Hour LOS Summary
+                                                         2017 Without Project             2017 With Project
+                                                                         Delay                        Delay
+         Study Intersection                              LOS1            (sec)          LOS           (sec)
+
+         Signalized
+         1. Terry Avenue / Stewart Street                  B              10.9           B             11.0
+         2. 9th Avenue / Stewart Street                   C               31.1           C             31.3
+         3. Terry Avenue / Howell Street                  C               20.2           C             20.6
+         4.   9th   Avenue / Howell   Street2             C               23.2           C             23.2
+         5. Terry Avenue / Olive      Way2                A               1.3            A              1.4
+         6. 9th Avenue / Olive way2                       A               8.9            A              8.7
+         Unsignalized
+         7. Alley / Stewart Street2
+                     NB Turns from Alley                   B              12.3           B             13.3
+                     SB Left-Turn                         A               0.8            A              1.5
+         8. Alley / Howell Street2
+                     SB Turns from Alley                  A               9.1            A              9.6
+                     NB Left-Turn                         A               1.5            A              1.1
+
+         1. LOS based on Synchro analysis with HCM 2010 methodology unless otherwise noted.
+         2. LOS based on HCM 2000 methodology.
+
+
+     As shown in Table 4, all of the signalized study intersections are anticipated to operate at LOS C or
+     better in the future without or with the proposed project. Turn movements at the three unsignalized
+     intersections are anticipated to operate at LOS A or better. The detailed LOS worksheets at the study
+     intersections are included in Appendix C.
+
+
+
+
+   TENW                                                                                                  January 16, 2015
+                                                                                                                 Page 15
+                                                                                      Transportation Impact Study
+                                                                                                Terry-Howell Hotel
+
+
+
+
+Site Access Analysis
+     Vehicle access to/from the site is proposed via a driveway curb cut onto Terry Avenue which would
+     provide access to a porte cochere along the west side of the site and through access to the alley.
+     This throughway access between Terry Avenue and the alley will provide direct access to the parking
+     garage driveway. Trips entering the site can either use the curb cut access at Terry Avenue or the
+     existing alley, which intersects with Stewart Street and Howell Street; exiting trips are anticipated to
+     primarily use the alley.
+
+     Two separate memorandums were prepared that documented a comprehensive site access
+     evaluation for the proposed Terry-Howell Hotel that considered several alternatives related to City
+     code criteria for vehicle access. These site access memorandums are provided in Appendix D. The
+     memorandums evaluated three access alternatives: (1) alley only access; (2) Howell Street access;
+     and (3) Terry Ave access. Each of the 3 alternatives were evaluated based on City Code criteria for
+     vehicle access in the categories of: (1) Pedestrian Safety and Comfort, (2) Transit Operations, (3)
+     Movement of Vehicles, (4) On-Street Vehicle Queuing, (5) Vehicle Safety, and (6) Minimizing
+     Hazards. It was determined that the Terry Avenue Access Alternative would meet the City design
+     criteria most effectively. More detailed descriptions and analysis of the access alternatives evaluation
+     is provided in Appendix D.
+     It should also be noted that there is a recently-adopted Code criteria that specifically addresses
+     access for hotels:
+             c. The Director may allow or require access from a right-of-way other than one
+             indicated by subsection 23.49.019.H.1.a or 23.49.019.H.1.b if, after consulting with the
+             Director of Transportation on whether and to what extent alternative locations of
+             access would enhance pedestrian safety and comfort, facilitate transit operations,
+             facilitate the movement of vehicles, minimize the on-street queuing of vehicles,
+             enhance vehicular safety, or minimize hazards, and, for hotel use, improve passenger
+             loading safety or increase visibility of vehicular access for guests arriving by car, the
+             Director finds that an exception to the general policy is warranted. The Director may
+             approve an exception for hotel use and impose conditions to minimize any adverse
+             impacts to the pedestrian environment or street operations, including but not limited to
+             allowing one-way driveways that are less than the minimum width otherwise required.
+             Curb cut controls on designated green streets shall be evaluated on a case-by-case
+             basis, but generally access from green streets is not allowed if access from any other
+             right-of-way is possible.
+
+     After a thorough evaluation of the different access alternatives, and based on the recently adopted
+     revisions to the City Code criteria, the proposed Terry Avenue access alternative would meet the City
+     design criteria most effectively by reducing on-street queuing from loading vehicles and taxis,
+     maintaining good vehicle movement and traffic flow, minimize hazards, and enhancing pedestrian
+     safety and comfort along Terry Avenue.
+
+     All turning movements at the proposed site access curb cut onto Terry Avenue, as well as the alley
+     intersections with Stewart and Howell Streets are expected to operate at LOS B or better during the
+     PM peak hour as shown in the previous LOS Table 4. The detailed LOS files at the alley intersections
+     and new site driveway are included in Appendix C.
+
+
+
+
+   TENW                                                                                        January 16, 2015
+                                                                                                       Page 16
+                                                                                                      Transportation Impact Study
+                                                                                                                Terry-Howell Hotel
+
+
+
+
+Future Transit Service
+        The proposed hotel could add some new transit users to the vicinity area. While this project may
+        slightly increase the demand for transit service in the area, the transit capacity is expected to
+        accommodate this increased demand with no significant adverse impact.
+
+Future Non-Motorized Facilities
+        The demand on pedestrian facilities in the project vicinity is expected to increase with the proposed
+        hotel. While this project would increase the demand on pedestrian facilities, this increased demand
+        is not expected to result in a significant adverse impact. Existing pedestrian facilities in the vicinity
+        area (i.e. sidewalks) are sufficient to accommodate the additional pedestrian demand.
+
+Transportation Concurrency
+        Prior to development approval, a transportation concurrency analysis is conducted based on DPD
+        Director’s Rule 2009-5. Transportation concurrency standards are used to determine the acceptable
+        balance between the demand for use of the arterial systems and the capacity of the transportation
+        system. Total capacity is based on the facilities currently in existence, and known future projects.
+
+        Transportation concurrency review in the City of Seattle is evaluated first by determining applicable
+        screenlines. A screenline is an imaginary line drawn across several arterials at a particular place
+        where the volume to-capacity ratio (v/c) is calculated. For the Terry-Howell Hotel development,
+        Screenline 10.11 (South of S Jackson St – Alaskan Way S to 4th Ave S) and Screenline 12.12 (East
+        of CBD) were evaluated.
+
+        Baseline peak-hour traffic volumes for the screenlines were obtained from Director’s Rule 2009-5.
+        Project-generated traffic was then added to baseline traffic volumes at the screenlines. The total traffic
+        volume, including PM peak hour trips from the proposed Terry-Howell Hotel development, was then
+        divided by the capacity of all roadways crossing the screenlines to obtain a volume to capacity (v/c)
+        ratio. This ratio was then compared to the LOS standard.
+
+        Table 5 summarizes the transportation concurrency review results. As shown, the v/c ratios with the
+        development are below the adopted LOS standard.
+
+    Table 5
+    Transportation Concurrency Assessment
+                                                                         Baseline        Proposed       With
+                                                                        Peak-Hour         Project      Project          V/C
+    Screenline                                 Dir.    Capacity1         Volume1            Trips     V/C Ratio      Threshold1
+    10.11 South of S Jackson St –               NB        12,900           7,586             28         0.59              1.0
+           Alaskan Way S to 4th Ave S           SB        12,980           8,671             26         0.67              1.0
+    12.12 East of CBD                           EB        13,300           8,266              9         0.62              1.2
+                                               WB         11,736           6,491              9         0.55              1.2
+    1   Data obtained from Director’s Rule 2009-5 Transportation Concurrency Project Review System.
+
+
+
+
+   TENW                                                                                                        January 16, 2015
+                                                                                                                       Page 17
+                                                                               Transportation Impact Study
+                                                                                         Terry-Howell Hotel
+
+
+
+
+Parking Demand Analysis
+    Peak parking demand for the proposed hotel was calculated based on information from the ITE
+    Parking Generation manual (4th edition, year 2010). The ITE Parking Generation manual was used
+    to identify the suburban parking demand rate for a hotel based on the number of occupied rooms
+    during the weekday peak period. The estimated parking demand rate for the Terry-Howell Hotel
+    development was determined to be 0.64 parking stalls/occupied room based on the ITE study of 4
+    urban sites with good transit service and average size of 458 hotel rooms.
+
+    To determine the peak parking demand of the proposed Terry-Howell Hotel development, 74 percent
+    occupancy was assumed (based on current market information provided by the applicant). A 309
+    room hotel with 74 percent occupancy, and peak demand of 0.64 stalls per occupied room results
+    in a peak parking demand of 146 parking stalls. The current site plan provides 149 parking stalls
+    on-site in an underground garage. The peak parking demand is expected to be adequately served
+    by on-site parking supply in the underground garage.
+
+
+
+
+   TENW                                                                                 January 16, 2015
+                                                                                                Page 18
+                                                                                Transportation Impact Study
+                                                                                          Terry-Howell Hotel
+
+
+
+
+MITIGATION MEASURES
+   There are no proposed measures necessary to mitigate project impacts. The proposed access onto
+   Terry Avenue would safely and adequately serve the project site with additional access on the alley.
+   The off-site study intersections are anticipated to operate at LOS C or better, transportation
+   concurrency requirements are met, proposed parking supply would meet peak demand, and no
+   project trips are anticipated to impact projects planned in the SLU area.
+
+
+
+
+  TENW                                                                                   January 16, 2015
+                                                                                                 Page 19
+                                Transportation Impact Study
+                                          Terry-Howell Hotel
+
+
+
+
+ Appendix A
+Existing Traffic Count Sheets
+ www.idaxdata.com
+
+
+                                        TERRY AVE
+                                       STEWART ST
+                                                                                                                                Date: Tue, Dec 02, 2014
+                N                           Peak Hour                                                                   Count Period: 4:00 PM to 6:00 PM
+                                                                                                                          Peak Hour: 4:15 PM to 5:15 PM
+
+
+
+
+                                               0
+
+
+
+                                                              97
+                          TERRY AVE
+
+
+
+
+                                                                                                                                                             1
+                                                                                           STEWART ST                                                            311
+
+
+      566                                                                                   28          542                                                                                 15
+                                               TEV: 663                                    514
+
+
+
+
+                                                                                                                                                121
+
+
+
+
+                                                                                                                                                                                    68
+                                               PHF: 0.90                                     0
+      0                                                                                                     0                           0
+
+
+          STEWART ST                                                                                                                                             96
+                                                                               TERRY AVE
+                                                52
+
+                                                          69
+
+                                                                       0
+
+
+
+
+                                                                                                            HV %:              PHF
+
+
+
+
+                                                                                                                                                                          0
+                                                                                                   EB               -            -
+                                                                                                   WB       23.6%              0.90
+                                                                                                   NB       3.3%               0.89
+                                                              121
+
+
+
+
+                                                                                                   SB               -            -
+                                               0
+
+
+
+
+                                                                                                 TOTAL      19.9%              0.90
+Two-Hour Count Summaries
+                         STEWART ST                            STEWART ST                               TERRY AVE                              TERRY AVE
+    Interval                                                                                                                                                              15-min           Rolling
+      Start               Eastbound                                 Westbound                           Northbound                             Southbound                  Total          One Hour
+                    LT                TH        RT        LT            TH                  RT     LT           TH             RT       LT            TH         RT
+    4:00 PM         0                 0         0         0            118                  10      7               14           0         0           0         0            149
+    4:15 PM         0                 0         0         0            142                  8      12               22           0         0           0         0            184
+    4:30 PM         0                 0         0         0            126                  9      13               15           0         0           0         0            163
+    4:45 PM         0                 0         0         0            117                  6      11               16           0         0           0         0            150           646
+    5:00 PM         0                 0         0         0            129                  5      16               16           0         0           0         0            166           663
+    5:15 PM         0                 0         0         0            128                  2      13               17           0         0           0         1            161           640
+    5:30 PM         0                 0         0         0            137                  10      7               14           0         0           1         0            169           646
+    5:45 PM         0                 0         0         0            126                  10     17               10           0         0           0         0            163           659
+  Count Total       0                 0         0         0            1,023                60     96           124              0         0           1         1        1,305
+    Peak Hr         0                 0         0         0            514                  28     52               69           0         0           0         0            663
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                   Bicycles                                       Pedestrians (Crossing Leg)
+      Start         EB        WB           NB        SB        Total       EB               WB     NB       SB           Total        East            West       North          South         Total
+    4:00 PM         0            32        2         0          34         0                2       1           0         3           11               15            47             16        89
+    4:15 PM         0            29        0         0          29         0                5       0           1         6           16               30            52             21       119
+    4:30 PM         0            37        3         0          40         0                3       0           0         3            6               40            84             13       143
+    4:45 PM         0            24        0         0          24         0                2       0           0         2           18               20            77             26       141
+    5:00 PM         0            38        1         0          39         0                5       0           0         5           28               31            98             36       193
+    5:15 PM         0            19        3         1          23         0                11      0           0         11          21               36            98             33       188
+    5:30 PM         0            26        1         0          27         0                3       1           0         4           24               29            80             35       168
+    5:45 PM         0            17        2         0          19         0                7       0           0         7           25               31            88             34       178
+  Count Total       0         222          12        1         235         0                38      2           1         41          149             232         624               214      1,219
+    Peak Hr         0         128          4         0         132         0                15      0           1         16          68              121         311               96       596
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                               mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                       9TH AVE
+                                     STEWART ST
+                                                                                                                                Date: Tue, Dec 02, 2014
+                N                              Peak Hour                                                                Count Period: 4:00 PM to 6:00 PM
+                                                                                                                          Peak Hour: 5:00 PM to 6:00 PM
+
+
+
+
+                                                  379
+
+
+
+                                                                 0
+                          9TH AVE
+
+
+
+
+                                                                                                                                                          26
+                                        106
+
+                                                    273
+
+                                                               0
+                                                                                           STEWART ST                                                          348
+
+
+      614                                                                                   0           611                                                                             22
+                                                  TEV: 990                                 508
+
+
+
+
+                                                                                                                                             142
+
+
+
+
+                                                                                                                                                                                264
+                                                  PHF: 0.92                                103
+      0                                                                                                     0                           0
+
+
+          STEWART ST                                                                                                                                           163
+                                                                                 9TH AVE
+
+
+
+
+                                                                                                             HV %:             PHF
+
+
+
+
+                                                                                                                                                                      0
+                                                                                                   EB               -            -
+                                                                                                   WB        17.3%             0.94
+                                                                                                   NB               -            -
+                                                  376
+
+
+
+
+                                                                                                   SB        7.4%              0.89
+                                                                 0
+
+
+
+
+                                                                                                 TOTAL       13.5%             0.92
+Two-Hour Count Summaries
+                         STEWART ST                                  STEWART ST                             9TH AVE                           9TH AVE
+    Interval                                                                                                                                                           15-min          Rolling
+      Start               Eastbound                                   Westbound                         Northbound                           Southbound                 Total         One Hour
+                    LT              TH             RT          LT          TH               RT     LT           TH             RT       LT         TH          RT
+    4:00 PM         0               0               0          25          112              0       0               0            0       0          73         25         235
+    4:15 PM         0               0               0          35          131              0       0               0            0       0          70         23         259
+    4:30 PM         0               0               0          28          123              0       0               0            0       0          70         27         248
+    4:45 PM         0               0               0          27          99               0       0               0            0       0          70         25         221           963
+    5:00 PM         0               0               0          26          130              0       0               0            0       0          62         25         243           971
+    5:15 PM         0               0               0          30          132              0       0               0            0       0          77         30         269           981
+    5:30 PM         0               0               0          26          125              0       0               0            0       0          67         25         243           976
+    5:45 PM         0               0               0          21          121              0       0               0            0       0          67         26         235           990
+  Count Total       0               0               0          218         973              0       0               0            0       0         556         206     1,953
+    Peak Hr         0               0               0          103         508              0       0               0            0       0         273         106        990
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                   Bicycles                                     Pedestrians (Crossing Leg)
+      Start         EB       WB               NB          SB       Total    EB              WB     NB       SB           Total        East         West        North        South         Total
+    4:00 PM         0          30             0           8          38      0              2       0           0         2           68            36           59             33       196
+    4:15 PM         0          31             0           7          38      0              5       0           7         12          60            37           57             23       177
+    4:30 PM         0          38             0           6          44      0              3       0           3         6           57            27           66             30       180
+    4:45 PM         0          21             0           3          24      0              2       0           3         5           66            31           80             20       197
+    5:00 PM         0          37             0           4          41      0              6       0           6         12          73            33           96             48       250
+    5:15 PM         0          24             0           9          33      0              8       0        10           18          56            29           93             30       208
+    5:30 PM         0          27             0           9          36      0              5       0           4         9           62            45           87             50       244
+    5:45 PM         0          18             0           6          24      0              3       0           6         9           73            35           72             35       215
+  Count Total       0        226              0           52        278      0              34      0        39           73          515          273          610             269      1,667
+    Peak Hr         0        106              0           28        134      0              22      0        26           48          264          142          348             163      917
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                             mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                            TERRY AVE
+                                            HOWELL ST
+                                                                                                                                       Date: Tue, Dec 02, 2014
+                N                             Peak Hour                                                                        Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                 Peak Hour: 5:00 PM to 6:00 PM
+
+
+
+
+                                                 0
+
+
+
+                                                                107
+                           TERRY AVE
+
+
+
+
+                                                                                                                                                                    0
+                                                                                                  HOWELL ST                                                             49
+
+
+      0                                                                                                            0                                                                               0
+                     52                          TEV: 957
+
+
+
+
+                                                                                                                                                       111
+
+
+
+
+                                                                                                                                                                                           46
+                    820                          PHF: 0.93
+      872            0                                                                                         850                           26
+
+
+            HOWELL ST                                                                                                                                                   128
+                                                                                      TERRY AVE
+                                                  0
+
+                                                            55
+
+                                                                         30
+
+
+
+
+                                                                                                                   HV %:              PHF
+
+
+
+
+                                                                                                                                                                                 1
+                                                                                                          EB       6.4%               0.92
+                                                                                                          WB               -            -
+                                                                                                          NB       3.5%               0.79
+                                                                85
+
+
+
+
+                                                                                                          SB               -            -
+                                                 0
+
+
+
+
+                                                                                                        TOTAL      6.2%               0.93
+Two-Hour Count Summaries
+                          HOWELL ST                               HOWELL ST                                    TERRY AVE                              TERRY AVE
+    Interval                                                                                                                                                                     15-min           Rolling
+      Start               Eastbound                                   Westbound                                Northbound                             Southbound                  Total          One Hour
+                    LT                 TH         RT        LT            TH                       RT     LT           TH             RT       LT            TH         RT
+    4:00 PM         15                 194        0         0                 0                    0       0               8            3         0           0         0            220
+    4:15 PM         14                 192        0         0                 0                    0       0               14           1         0           0         0            221
+    4:30 PM         19                 192        1         0                 0                    0       0               11           7         0           0         0            230
+    4:45 PM         16                 195        0         0                 0                    0       0               7            4         0           0         0            222           893
+    5:00 PM         16                 210        0         0                 0                    0       0               16           6         0           0         0            248           921
+    5:15 PM          6                 190        0         0                 0                    0       0               8            9         0           0         0            213           913
+    5:30 PM         13                 225        0         0                 0                    0       0               13           6         0           0         0            257           940
+    5:45 PM         17                 195        0         0                 0                    0       0               18           9         0           0         0            239           957
+  Count Total       116            1,593          1         0                 0                    0       0               95           45        0           0         0        1,850
+    Peak Hr         52                 820        0         0                 0                    0       0               55           30        0           0         0            957
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                          Bicycles                                       Pedestrians (Crossing Leg)
+      Start         EB         WB            NB        SB        Total        EB                   WB     NB       SB           Total        East            West       North          South           Total
+    4:00 PM         14                 0     1         0          15              2                0       1           0         3            6               9             9              24          48
+    4:15 PM         13                 0     1         0          14              3                0       0           0         3            7               28            10             38          83
+    4:30 PM         22                 0     0         0          22              3                0       0           0         3           10               18            12             29          69
+    4:45 PM         14                 0     0         0          14              6                0       0           0         6            6               19            12             45          82
+    5:00 PM         17                 0     0         0          17              5                0       0           0         5           15               32            22             23          92
+    5:15 PM         11                 0     0         0          11              9                0       1           0         10           7               30            8              35          80
+    5:30 PM         14                 0     1         0          15              6                0       0           0         6           17               19            12             35          83
+    5:45 PM         14                 0     2         0          16              6                0       0           0         6            7               30            7              35          79
+  Count Total       119                0     5         0         124              40               0       2           0         42          75              185            92             264         616
+    Peak Hr         56                 0     3         0          59              26               0       1           0         27          46              111            49             128         334
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                      mark.skaggs@idaxdata.com
+www.idaxdata.com
+
+
+
+
+                                                                                             398
+
+
+
+                                                                                                              0
+                                                                                    14
+                                      HV %:     PHF
+                  N
+
+
+
+
+                                                                                                             162
+
+                                                                                                                   143
+                                EB    8.8%      0.96                                                                                           Date:     Wed, Nov 19, 2014
+
+
+
+
+                                                                                                   93
+                                                                                         0
+                                WB      -           -                                                                                  Count Period:   4:00 PM   to   6:00 PM
+
+
+
+
+                                                                          9TH AVE
+                                NB      -           -                                                                                    Peak Hour:    4:15 PM   to   5:15 PM
+                                SB 12.1%        0.98
+                                NEB     -           -
+                             TOTAL 10.0%        0.97                                                   283
+
+
+                                                                                                                                                          HOWELL ST
+
+                                                                                                                                                                        0
+                         0                                                               HOWELL ST
+      0                                                                                                                                                           0
+                       699                                                                                                                                                      0
+                                                                                              9TH AVE                                                             0
+                         2                          ##                                                                                            ##
+      704
+                                                                                               Peak Hour                                                          0
+                         3                                                                                                                                                   842
+                                                                                               TEV: 1,102
+                                                                                                                                                                  0
+                 26                                                                            PHF:      0.97
+
+                         HOWELL ST
+
+                                                                    110
+                                                                                                       114
+
+                                            0
+                                                0
+
+                                                                                                                             9TH AVE
+                                                        0
+                                                            0
+                                                                                         0
+
+                                                                                                   0
+
+                                                                                                         0
+
+                                                                                                                   0
+                                                                E
+                                                            AV
+                                                           H
+
+
+
+
+                                                                                                                         0
+                                                        9T
+                  96
+
+
+
+
+                                                0
+
+
+
+
+                                                                                                   164
+
+
+
+                                                                                                                   0
+                         0
+
+
+
+
+Mark Skaggs: 425 - 250 - 0777                                                                                                                                    mark.skaggs@idaxdata.com
+www.idaxdata.com
+
+
+
+
+ Two-Hour Count Summaries
+                          HOWELL ST                          HOWELL ST                               9TH AVE                      9TH AVE                     9TH AVE                          Rolling
+                                                                                                                                                                                      15-min
+ Interval Start            Eastbound                          Westbound                             Northbound                  Southbound                  Northeastbound                      One
+                                                                                                                                                                                       Total
+                  LT      TH      RT       HR       LT       BL       TH        RT       HL         LT      TH      RT    LT    TH      BR     RT    HL      BL       BR       HR               Hour
+    4:00 PM        0      160      1        2        0        0        0         0        0          0       0       0     40    39      25     0    0        0        0        0      267
+    4:15 PM        0      168      0        0        0        0        0         0        0          0       0       0     41    42      16     0    0        0        0        0      267
+    4:30 PM        0      172      1        1        0        0        0         0        0          0       0       0     32    49      21     0    0        0        0        0      276
+    4:45 PM        0      182      1        1        0        0        0         0        0          0       0       0     39    34      26     0    0        0        0        0      283      1,093
+    5:00 PM        0      177      0        1        0        0        0         0        0          0       0       0     31    37      30     0    0        0        0        0      276      1,102
+    5:15 PM        0      146      2        0        0        0        0         0        0          0       0       0     36    33      28     0    0        0        0        0      245      1,080
+    5:30 PM        0      208      1        4        0        0        0         0        0          0       0       0     26    21      11     0    0        0        0        0      271      1,075
+    5:45 PM        0      193      0        1        0        0        0         0        0          0       0       0     39    24      23     0    0        0        0        0      280      1,072
+  Count Total      0     1,406     6       10        0        0        0         0        0          0       0       0    284   279     180     0    0        0        0        0     2,165
+    Peak Hr        0      699      2        3        0        0        0         0        0          0       0       0    143   162      93     0    0        0        0        0     1,102
+ Note: Two-hour count summary volumes include heavy vehicles but excludes bicycles in overall count.
+
+
+   Interval                          Heavy Vehicle Totals                                                     Bicycles                                 Pedestrians (Crossing Leg)
+     Start         EB        WB        NB        SB       NEB           Total        EB        WB        NB          SB   NEB      Total      East   West    North     South        SW         Total
+   4:00 PM          11        0         0         14       0             25           5         0         0           4    0         9         56     38       53        30          26         203
+   4:15 PM          17        0         0         17       0             34           6         0         0           4    0        10         32     31       41        25          24         153
+   4:30 PM          16        0         0         13       0             29           7         0         0           1    0         8         58     33       65        33          34         223
+   4:45 PM          12        0         0          7       0             19           5         0         0           9    0        14         57     59       97        35          34         282
+   5:00 PM          17        0         0         11       0             28           8         0         0           0    0         8        125     56       80        21          18         300
+   5:15 PM           7        0         0          4       0             11          12         0         0           7    0        19         88     46       75        33          37         279
+   5:30 PM          15        0         0         11       0             26           5         0         0           4    0         9         65     61       91        33          32         282
+   5:45 PM          16        0         0          6       0             22          10         0         0           5    0        15         67     32       59        22          29         209
+  Count Total      111        0         0         83       0            194          58         0         0          34    0        92        548    356      561       232         234        1,931
+   Peak Hr          62        0         0         48       0            110          26         0         0          14    0        40        272    179      283       114         110         958
+
+
+
+
+Mark Skaggs: 425 - 250 - 0777                                                                                                                                           mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                             TERRY AVE
+                                             OLIVE WAY
+                                                                                                                                    Date: Tue, Dec 02, 2014
+                N                               Peak Hour                                                                   Count Period: 4:00 PM to 6:00 PM
+                                                                                                                              Peak Hour: 4:00 PM to 5:00 PM
+
+
+
+
+                                                   1
+
+
+
+                                                                  58
+                           TERRY AVE
+
+
+
+
+                                                                                                                                                                0
+                                           0
+
+                                                    0
+
+                                                              1
+                                                                                                 OLIVE WAY                                                          150
+
+
+      0                                                                                           37           37                                                                              2
+                     20                            TEV: 1,061                                      0
+
+
+
+
+                                                                                                                                                    88
+
+
+
+
+                                                                                                                                                                                       32
+                    997                            PHF: 0.95                                       0
+      1,017          0                                                                                     1,003                            1
+
+
+           OLIVE WAY                                                                                                                                                312
+                                                                                      BUS LANE
+                                                    0
+
+                                                              1
+
+                                                                          5
+
+
+
+
+                                                                                                                  HV %:            PHF
+
+
+
+
+                                                                                                                                                                             0
+                                                                                                         EB       3.2%             0.96
+                                                                                                         WB       0.0%             0.71
+                                                                                                         NB       100.0%           0.75
+                                                                                                         SB       0.0%             0.25
+                                                   0
+
+
+
+                                                                  6
+
+
+
+
+                                                                                                       TOTAL      3.7%             0.95
+Two-Hour Count Summaries
+                          OLIVE WAY                                OLIVE WAY                                   BUS LANE                            TERRY AVE
+    Interval                                                                                                                                                                 15-min           Rolling
+      Start               Eastbound                                    Westbound                              Northbound                           Southbound                 Total          One Hour
+                    LT                 TH           RT        LT          TH                      RT     LT         TH             RT       LT           TH         RT
+    4:00 PM          4                 231          0         0               0                    9      0             1            1         1          0         0            247
+    4:15 PM          4                 258          0         0               0                    9      0             0            1         0          0         0            272
+    4:30 PM          7                 259          0         0               0                   13      0             0            1         0          0         0            280
+    4:45 PM          5                 249          0         0               0                    6      0             0            2         0          0         0            262          1,061
+    5:00 PM          8                 206          0         0               0                   14      0             1            1         0          0         0            230          1,044
+    5:15 PM          6                 197          0         0               0                    9      0             0            3         0          0         0            215           987
+    5:30 PM         11                 189          0         0               0                   11      0             0            1         0          0         0            212           919
+    5:45 PM         15                 233          0         0               0                   10      0             1            2         1          0         0            262           919
+  Count Total       60             1,822            0         0               0                   81      0             3            12        2          0         0        1,980
+    Peak Hr         20                 997          0         0               0                   37      0             1            5         1          0         0        1,061
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                         Bicycles                                     Pedestrians (Crossing Leg)
+      Start         EB         WB              NB        SB       Total       EB                  WB     NB       SB         Total        East           West       North          South           Total
+    4:00 PM          7                 0       2         0         9              0                1      0         0         1            3              15            36             73          127
+    4:15 PM         12                 0       1         0         13             0                0      0         0         0           13              26            39             73          151
+    4:30 PM          8                 0       1         0         9              0                0      0         0         0           10              25            46             81          162
+    4:45 PM          6                 0       2         0         8              1                1      0         0         2            6              22            29             85          142
+    5:00 PM          8                 0       2         0         10             4                0      0         0         4            7              21            27             84          139
+    5:15 PM          6                 0       3         0         9              5                1      0         0         6            3              25            53             72          153
+    5:30 PM          9                 0       1         0         10             2                0      0         0         2            6              31            42             94          173
+    5:45 PM         12                 0       3         0         15             3                0      0         0         3            2              12            34             64          112
+  Count Total       68                 0       15        0         83             15               3      0         0         18          50             177         306               626      1,159
+    Peak Hr         33                 0       6         0         39             1                2      0         0         3           32              88         150               312         582
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                  mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                            9TH AVE
+                                           OLIVE WAY
+                                                                                                                                Date: Wed, Nov 19, 2014
+                N                             Peak Hour                                                                 Count Period: 4:00 PM to 6:00 PM
+                                                                                                                          Peak Hour: 4:15 PM to 5:15 PM
+
+
+
+
+                                                 97
+
+
+
+                                                                 0
+                           9TH AVE
+
+
+
+
+                                                                                                                                                          16
+                                                   96
+                                         0
+
+
+
+
+                                                             1
+                                                                                           OLIVE WAY                                                           255
+
+
+      0                                                                                                     0                                                                             0
+                     0                           TEV: 931
+
+
+
+
+                                                                                                                                             156
+
+
+
+
+                                                                                                                                                                                  112
+                    743                          PHF: 0.90
+      834            91                                                                                 744                             9
+
+
+            OLIVE WAY                                                                                                                                          424
+                                                                                 9TH AVE
+
+
+
+
+                                                                                                             HV %:             PHF
+
+
+
+
+                                                                                                                                                                        0
+                                                                                                   EB        4.6%              0.88
+                                                                                                   WB               -            -
+                                                                                                   NB               -            -
+                                                 187
+
+
+
+
+                                                                                                   SB        6.2%              0.81
+                                                                 0
+
+
+
+
+                                                                                                 TOTAL       4.7%              0.90
+Two-Hour Count Summaries
+                          OLIVE WAY                               OLIVE WAY                                 9TH AVE                           9TH AVE
+    Interval                                                                                                                                                            15-min           Rolling
+      Start               Eastbound                                  Westbound                          Northbound                           Southbound                  Total          One Hour
+                    LT               TH           RT         LT          TH                 RT     LT           TH             RT       LT         TH          RT
+    4:00 PM          0               186           18        0           0                   0      0               0            0       0          25         0            229
+    4:15 PM          0               184           16        0           0                   0      0               0            0       0          18         0            218
+    4:30 PM          0               212           26        0           0                   0      0               0            0       0          22         0            260
+    4:45 PM          0               171           24        0           0                   0      0               0            0       0          27         0            222           929
+    5:00 PM          0               176           25        0           0                   0      0               0            0       1          29         0            231           931
+    5:15 PM          0               121           17        0           0                   0      0               0            0       0          27         0            165           878
+    5:30 PM          0               215           24        0           0                   0      0               0            0       1          13         0            253           871
+    5:45 PM          0               201           37        0           0                   0      0               0            0       1          22         0            261           910
+  Count Total        0           1,466            187        0           0                   0      0               0            0       3         183         0        1,839
+    Peak Hr          0               743           91        0           0                   0      0               0            0       1          96         0            931
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                   Bicycles                                     Pedestrians (Crossing Leg)
+      Start         EB        WB             NB         SB       Total    EB                WB     NB       SB           Total        East         West        North          South           Total
+    4:00 PM          6               0       0          2         8          1               0      0           6         7           24            25             67             70          186
+    4:15 PM          7               0       0          1         8          1               0      0           3         4           13            28             54             67          162
+    4:30 PM          9               0       0          2         11         3               0      0           4         7           26            26             69             80          201
+    4:45 PM          8               0       0          0         8          4               0      0           6         10          31            46             77             114         268
+    5:00 PM         14               0       0          3         17         1               0      0           3         4           42            56             55             163         316
+    5:15 PM          7               0       0          2         9          0               0      0           9         9           23            36             53             149         261
+    5:30 PM          8               0       0          1         9          1               0      0           5         6           39            51             33             129         252
+    5:45 PM          9               0       0          1         10         1               0      0           6         7           45            29             27             101         202
+  Count Total       68               0       0          12        80         12              0      0        42           54          243          297          435               873      1,848
+    Peak Hr         38               0       0          6         44         9               0      0        16           25          112          156          255               424         947
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                             mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                            9TH AVE
+                                           OLIVE WAY
+                                                                                                                                   Date: Wed, Nov 19, 2014
+                N                             Peak Hour                                                                    Count Period: 4:00 PM to 6:00 PM
+                                                                                                                             Peak Hour: 4:00 PM to 5:00 PM
+
+
+
+
+                                                 167
+
+
+
+                                                                 0
+                           9TH AVE
+
+
+
+
+                                                                                                                                                              0
+                                                             136
+                                                   31
+                                         0
+
+
+
+                                                                                              OLIVE WAY                                                           509
+
+
+      0                                                                                                        0                                                                           0
+                     0                           TEV: 914
+
+
+
+
+                                                                                                                                                   0
+
+
+
+
+                                                                                                                                                                                   0
+                    736                          PHF: 0.86
+      747            11                                                                                    872                           10
+
+
+            OLIVE WAY                                                                                                                                             412
+                                                                                   BUS LANE
+
+
+
+
+                                                                                                               HV %:              PHF
+
+
+
+
+                                                                                                                                                                         0
+                                                                                                      EB       3.5%               0.88
+                                                                                                      WB               -            -
+                                                                                                      NB               -            -
+                                                 42
+
+
+
+
+                                                                                                      SB       19.8%              0.80
+                                                                 0
+
+
+
+
+                                                                                                    TOTAL      6.5%               0.86
+Two-Hour Count Summaries
+                          OLIVE WAY                                 OLIVE WAY                               BUS LANE                                9TH AVE
+    Interval                                                                                                                                                              15-min          Rolling
+      Start               Eastbound                                  Westbound                             Northbound                              Southbound              Total         One Hour
+                    LT               TH           RT         LT            TH                  RT     LT           TH             RT       LT          TH         RT
+    4:00 PM          0               181           3         0             0                    0      0               0            0         38        6         0          228
+    4:15 PM          0               185           3         0             0                    0      0               0            0         27        11        0          226
+    4:30 PM          0               208           5         0             0                    0      0               0            0         43        9         0          265
+    4:45 PM          0               162           0         0             0                    0      0               0            0         28        5         0          195           914
+    5:00 PM          0               180           2         0             0                    0      0               0            0         31        7         0          220           906
+    5:15 PM          0               129           2         0             0                    0      0               0            0         29        1         0          161           841
+    5:30 PM          0               209           3         0             0                    0      0               0            0         12        10        0          234           810
+    5:45 PM          0               201           2         0             0                    0      0               0            2         25        5         0          235           850
+  Count Total        0           1,455             20        0             0                    0      0               0            2      233          54        0       1,764
+    Peak Hr          0               736           11        0             0                    0      0               0            0      136          31        0          914
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                      Bicycles                                        Pedestrians (Crossing Leg)
+      Start         EB        WB             NB         SB         Total    EB                 WB     NB       SB           Total        East          West       North        South           Total
+    4:00 PM          5               0       0          8           13         1                0      0           0         1            0             0          110             100         210
+    4:15 PM          6               0       0          11          17         1                0      0           0         1            0             0          112             93          205
+    4:30 PM         12               0       0          9           21         4                0      0           0         4            0             0          154             125         279
+    4:45 PM          3               0       0          5           8          4                0      0           0         4            0             0          133             94          227
+    5:00 PM          8               0       0          8           16         0                0      0           1         1            0             0          119             89          208
+    5:15 PM          7               0       0          1           8          0                0      0           0         0            0             0          134             100         234
+    5:30 PM          9               0       0          10          19         1                0      0           0         1            0             0          152             89          241
+    5:45 PM          7               0       2          5           14         1                0      0           0         1            0             0          124             75          199
+  Count Total       57               0       2          57         116         12               0      0           1         13           0             0         1,038            765      1,803
+    Peak Hr         26               0       0          33          59         10               0      0           0         10           0             0          509             412         921
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                     ALLEY
+                                   STEWART ST
+                                                                                                                           Date: Thu, Dec 04, 2014
+                N                           Peak Hour                                                              Count Period: 4:00 PM to 6:00 PM
+                                                                                                                     Peak Hour: 4:30 PM to 5:30 PM
+
+
+
+
+                                               30
+
+
+
+                                                              5
+                          ALLEY
+
+
+
+
+                                                                                                                                                     5
+                                      22
+
+                                                8
+
+                                                          0
+                                                                                      STEWART ST                                                         241
+
+
+      654                                                                               5          640                                                                             23
+                                               TEV: 678                               624
+
+
+
+
+                                                                                                                                          0
+
+
+
+
+                                                                                                                                                                            2
+                                               PHF: 0.95                               11
+      0                                                                                                0                           2
+
+
+          STEWART ST                                                                                                                                     23
+                                                                              ALLEY
+                                                8
+
+                                                          0
+
+                                                                      0
+
+
+
+
+                                                                                                       HV %:              PHF
+
+
+
+
+                                                                                                                                                                  0
+                                                                                              EB               -            -
+                                                                                              WB       16.1%              0.97
+                                                                                              NB       0.0%               0.40
+                                               19
+
+
+
+
+                                                                                              SB       0.0%               0.75
+                                                              8
+
+
+
+
+                                                                                            TOTAL      15.2%              0.95
+Two-Hour Count Summaries
+                         STEWART ST                            STEWART ST                              ALLEY                                ALLEY
+    Interval                                                                                                                                                      15-min          Rolling
+      Start               Eastbound                               Westbound                        Northbound                             Southbound               Total         One Hour
+                    LT            TH            RT        LT           TH              RT     LT           TH             RT       LT         TH         RT
+    4:00 PM         0             0             0         2           128              1       7               1            0         0        3         7            149
+    4:15 PM         0             0             0         0           123              0       3               0            0         0        1         7            134
+    4:30 PM         0             0             0         2           156              2       0               0            0         0        0         4            164
+    4:45 PM         0             0             0         4           154              1       3               0            0         0        3         7            172          619
+    5:00 PM         0             0             0         3           162              0       5               0            0         0        3         5            178          648
+    5:15 PM         0             0             0         2           152              2       0               0            0         0        2         6            164          678
+    5:30 PM         0             0             0         4           134              1       6               0            0         0        1         5            151          665
+    5:45 PM         0             0             0         8           143              2       3               0            0         0        2         4            162          655
+  Count Total       0             0             0         25          1,152            9      27               1            0         0        15        45       1,274
+    Peak Hr         0             0             0         11          624              5       8               0            0         0        8         22           678
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                              Bicycles                                       Pedestrians (Crossing Leg)
+      Start         EB      WB             NB        SB       Total       EB           WB     NB       SB           Total        East         West       North          South        Total
+    4:00 PM         0         30           0         0         30         0            1       0           0         1            1            0             37             5        43
+    4:15 PM         0         25           0         0         25         1            3       0           0         4            0            0             36             1        37
+    4:30 PM         0         33           0         0         33         1            8       0           0         9            0            0             71             1        72
+    4:45 PM         0         22           0         0         22         1            5       0           1         7            0            0             47             7        54
+    5:00 PM         0         20           0         0         20         0            4       0           1         5            2            0             58             6        66
+    5:15 PM         0         28           0         0         28         0            6       0           3         9            0            0             65             9        74
+    5:30 PM         0         17           0         0         17         0            1       0           0         1            0            2             67             5        74
+    5:45 PM         0         17           0         0         17         0            5       0           0         5            0            0             57             13       70
+  Count Total       0       192            0         0         192        3            33      0           5         41           3            2          438               47      490
+    Peak Hr         0       103            0         0         103        2            23      0           5         30           2            0          241               23      266
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                       mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                          ALLEY
+                                        HOWELL ST
+                                                                                                                    Date: Thu, Dec 04, 2014
+                N                           Peak Hour                                                       Count Period: 4:00 PM to 6:00 PM
+                                                                                                              Peak Hour: 4:45 PM to 5:45 PM
+
+
+
+
+                                               25
+
+
+
+                                                              8
+                           ALLEY
+
+
+
+
+                                                                                                                                                0
+                                                25
+                                       0
+
+
+
+                                                                               HOWELL ST                                                            89
+
+
+      0                                                                                         0                                                                          4
+                                               TEV: 855
+
+
+
+
+                                                                                                                                     2
+
+
+
+
+                                                                                                                                                                    0
+                     8                         PHF: 0.95
+      830           822                                                                     847                            12
+
+
+            HOWELL ST
+                                                                                                HV %:              PHF
+                                                                                       EB       5.3%                0.95
+                                                                                       WB               -            -
+                                                                                       SB       4.0%                0.89
+                                                                                     TOTAL      5.3%                0.95
+
+
+Two-Hour Count Summaries
+                          HOWELL ST                            HOWELL ST                        ALLEY                                  ALLEY
+    Interval                                                                                                                                                 15-min       Rolling
+      Start               Eastbound                               Westbound                 Northbound                               Southbound               Total      One Hour
+                    LT             TH           RT        LT          TH        RT     LT           TH              RT       LT          TH         RT
+    4:00 PM          1             199          0         0           0         0       0               0            0          7         0         0         207
+    4:15 PM          3             211          0         0           0         0       0               0            0          2         0         0         216
+    4:30 PM          1             191          0         0           0         0       0               0            0          5         0         0         197
+    4:45 PM          1             205          0         0           0         0       0               0            0          5         0         0         211          831
+    5:00 PM          2             193          0         0           0         0       0               0            0          7         0         0         202          826
+    5:15 PM          3             207          0         0           0         0       0               0            0          7         0         0         217          827
+    5:30 PM          2             217          0         0           0         0       0               0            0          6         0         0         225          855
+    5:45 PM          3             178          0         0           0         0       0               0            0          5         0         0         186          830
+  Count Total       16         1,601            0         0           0         0       0               0            0          44        0         0        1,661
+    Peak Hr          8             822          0         0           0         0       0               0            0          25        0         0         855
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                       Bicycles                                         Pedestrians (Crossing Leg)
+      Start         EB       WB            NB        SB       Total    EB       WB     NB       SB          Total          East          West       North       South          Total
+    4:00 PM         10             0       0         0         10         0     0       0           0         0             0             0             12           0         12
+    4:15 PM         11             0       0         0         11         1     0       0           0         1             0             0             17           0         17
+    4:30 PM         13             0       0         0         13         2     1       0           0         3             0             0             15           0         15
+    4:45 PM         11             0       0         0         11         3     2       0           0         5             0             0             18           0         18
+    5:00 PM          9             0       0         1         10         2     1       0           0         3             0             1             21           0         22
+    5:15 PM         12             0       0         0         12         5     0       0           0         5             0             0             20           0         20
+    5:30 PM         12             0       0         0         12         2     1       0           0         3             0             1             30           0         31
+    5:45 PM          5             0       0         0         5          6     0       0           0         6             0             0             28           0         28
+  Count Total       83             0       0         1         84         21    5       0           0         26            0             2          161             0         163
+    Peak Hr         44             0       0         1         45         12    4       0           0         16            0             2             89           0         91
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                  mark.skaggs@idaxdata.com
+                               Transportation Impact Study
+                                         Terry-Howell Hotel
+
+
+
+
+ Appendix B
+Trip Generation Calculations
+                                                     Terry-Howell Hotel
+                                                 Trip Generation Summary
+
+                                           ITE      Directional Distribution                           Trips Generated
+Land Use               Area     Units     LUC 1        In           Out         Trip Rate         In         Out        Total
+Daily
+Proposed Use:
+Hotel                  309      rooms      310        50%           50%           8.17          1,262      1,263        2,525
+
+                                                                          NEW DAILY TRIPS:      1,262      1,263       2,525
+
+AM Peak Hour
+Proposed Use:
+Hotel                  309      rooms      310        59%           41%           0.53           97          67          164
+
+                                                             NEW AM PEAK HOUR TRIPS:             97          67         164
+
+PM Peak Hour
+Proposed Use:
+Hotel                  309      rooms      310        51%           49%           0.60           94          91          185
+
+                                                              NEW PM PEAK HOUR TRIPS:            94          91         185
+
+Notes:
+1
+    Institute of Transportation Engineers, Trip Generation Manual, 9th edition Land Use Code.
+
+
+
+
+Terry-Howell Hotel                                                                               12/22/2014 Terry-Howell - TG
+                               Transportation Impact Study
+                                         Terry-Howell Hotel
+
+
+
+
+Appendix C
+LOS Analysis Worksheets
+           and
+Site Access Analysis Results
+                       Transportation Impact Study
+                                 Terry-Howell Hotel
+
+
+
+
+Existing LOS Results
+Lanes, Volumes, Timings
+1: Stewart Street & Terry Avenue                                                                                        12/18/2014
+
+
+
+Lane Group                     SEL      SET      SER      NWL      NWT     NWR     NEL     NET     NER     SWL        SWT     SWR
+Lane Configurations
+Volume (vph)                      0        0        0       52       69       0       0       0       0       0       514       28
+Ideal Flow (vphpl)             1900     1900     1900     1900     1900    1900    1900    1900    1900    1900      1900     1900
+Lane Width (ft)                  12       12       12       11       11      11      12      12      12      10        10       10
+Right Turn on Red                                 Yes      Yes               No                     Yes                        Yes
+Link Speed (mph)                          25                         25                       25                         25
+Link Distance (ft)                       422                        391                     156                        333
+Travel Time (s)                         11.5                       10.7                      4.3                        9.1
+Confl. Peds. (#/hr)                                        121                                                                 311
+Peak Hour Factor               0.90     0.90     0.90     0.90     0.90    0.90    0.90    0.90    0.90    0.90       0.90    0.90
+Heavy Vehicles (%)              0%       0%       0%       3%       3%      3%      0%      0%      0%     24%        24%     24%
+Shared Lane Traffic (%)
+Enter Blocked Intersection       No       No      No        No       No      No      No      No      No      No         No      No
+Lane Alignment                  Left     Left   Right      Left     Left   Right    Left    Left   Right    Left       Left   Right
+Median Width(ft)                           0                          0                       0                          0
+Link Offset(ft)                            0                          0                       0                          0
+Crosswalk Width(ft)                       20                         20                      20                         20
+Two way Left Turn Lane
+Headway Factor                 1.14     1.14     1.14     1.19     1.19    1.19    1.14    1.14    1.14    1.25       1.25     1.25
+Turning Speed (mph)              15                 9       15                9      15               9      15                   9
+Turn Type                                                Perm        NA                                                NA
+Protected Phases                                                      8                                                 6
+Permitted Phases                                             8
+Minimum Split (s)                                         21.0      21.0                                              18.0
+Total Split (s)                                           28.0      28.0                                              52.0
+Total Split (%)                                         35.0%     35.0%                                             65.0%
+Yellow Time (s)                                            3.5       3.5                                               3.5
+All-Red Time (s)                                           1.0       1.0                                               1.0
+Lost Time Adjust (s)                                                 0.0                                              -0.5
+Total Lost Time (s)                                                  4.5                                               4.0
+Lead/Lag
+Lead-Lag Optimize?
+Intersection Summary
+Area Type:                 CBD
+Cycle Length: 80
+Actuated Cycle Length: 80
+Offset: 12 (15%), Referenced to phase 2: and 6:SWT, Start of 1st Green
+Natural Cycle: 40
+Control Type: Pretimed
+
+Splits and Phases:   1: Stewart Street & Terry Avenue
+
+
+
+
+Terry-Howell Hotel                                                                                                 Synchro 8 Report
+2014 Existing - PM Peak Hour
+HCM 2010 Signalized Intersection Summary
+1: Stewart Street & Terry Avenue                                                                          12/18/2014
+
+
+
+
+Movement                       SEL   SET   SER    NWL      NWT      NWR    NEL   NET    NER   SWL       SWT     SWR
+Lane Configurations
+Volume (veh/h)                   0     0     0        52      69       0     0     0      0      0       514        28
+Number                                                 3       8      18                         1         6        16
+Initial Q (Qb), veh                                    0       0       0                         0         0         0
+Ped-Bike Adj(A_pbT)                                1.00             1.00                      1.00               0.90
+Parking Bus, Adj                                   1.00     1.00    1.00                      1.00      1.00     1.00
+Adj Sat Flow, veh/h/ln                            1710     1660        0                         0     1379     1710
+Adj Flow Rate, veh/h                                  58       77      0                         0       571        31
+Adj No. of Lanes                                       0        2      0                         0          3        0
+Peak Hour Factor                                   0.90     0.90    0.90                      0.90      0.90     0.90
+Percent Heavy Veh, %                                   3        3      0                         0         24       24
+Cap, veh/h                                          376      518       0                         0     2181       117
+Arrive On Green                                    0.29     0.29    0.00                      0.00      0.60     0.59
+Sat Flow, veh/h                                   1008     1840        0                         0     3759       195
+Grp Volume(v), veh/h                                  75       60      0                         0       392      210
+Grp Sat Flow(s),veh/h/ln                          1338     1435        0                         0     1255     1320
+Q Serve(g_s), s                                      2.6      2.5    0.0                       0.0        5.9      6.1
+Cycle Q Clear(g_c), s                                3.2      2.5    0.0                       0.0        5.9      6.1
+Prop In Lane                                       0.78             0.00                      0.00               0.15
+Lane Grp Cap(c), veh/h                              473     422        0                         0     1506       792
+V/C Ratio(X)                                       0.16    0.14     0.00                      0.00      0.26     0.26
+Avail Cap(c_a), veh/h                               473     422        0                         0     1506       792
+HCM Platoon Ratio                                  1.00    1.00     1.00                      1.00      1.00     1.00
+Upstream Filter(I)                                 1.00    1.00     0.00                      0.00      1.00     1.00
+Uniform Delay (d), s/veh                           21.0    20.8      0.0                       0.0       7.6       7.6
+Incr Delay (d2), s/veh                               0.7     0.7     0.0                       0.0       0.4       0.8
+Initial Q Delay(d3),s/veh                            0.0     0.0     0.0                       0.0       0.0       0.0
+%ile BackOfQ(50%),veh/ln                             1.3     1.1     0.0                       0.0       2.1       2.3
+LnGrp Delay(d),s/veh                               21.8    21.5      0.0                       0.0       8.0       8.4
+LnGrp LOS                                              C      C                                             A        A
+Approach Vol, veh/h                                         135                                          602
+Approach Delay, s/veh                                      21.7                                           8.2
+Approach LOS                                                  C                                             A
+Timer                            1     2     3        4        5       6     7      8
+Assigned Phs                                                           6            8
+Phs Duration (G+Y+Rc), s                                            52.0         28.0
+Change Period (Y+Rc), s                                              4.5          4.5
+Max Green Setting (Gmax), s                                         47.5         23.5
+Max Q Clear Time (g_c+I1), s                                         8.1          5.2
+Green Ext Time (p_c), s                                              4.8          0.6
+Intersection Summary
+HCM 2010 Ctrl Delay                        10.6
+HCM 2010 LOS                                  B
+
+
+
+
+Terry-Howell Hotel                                                                                   Synchro 8 Report
+2014 Existing - PM Peak Hour
+Lanes, Volumes, Timings
+2: Stewart Street & 9th Avenue                                                                                         12/18/2014
+
+
+
+Lane Group                     SEL      SET      SER     NWL     NWT     NWR     NEL     NET     NER      SWL        SWT     SWR
+Lane Configurations
+Volume (vph)                      0      273     106        0       0       0       0       0       0      103       508        0
+Ideal Flow (vphpl)             1900     1900    1900     1900    1900    1900    1900    1900    1900     1900      1900     1900
+Right Turn on Red                                Yes                      Yes                     Yes      Yes                Yes
+Link Speed (mph)                           25                      25                       25                          25
+Link Distance (ft)                       233                      395                     183                         176
+Travel Time (s)                           6.4                    10.8                      5.0                         4.8
+Confl. Peds. (#/hr)                               142                                                      163
+Peak Hour Factor               0.92     0.92     0.92    0.92    0.92    0.92    0.92    0.92    0.92     0.92       0.92    0.92
+Heavy Vehicles (%)              7%       7%       7%      0%      0%      0%      0%      0%      0%      17%        17%     17%
+Shared Lane Traffic (%)
+Enter Blocked Intersection       No       No      No       No      No      No      No      No      No       No         No      No
+Lane Alignment                  Left     Left   Right     Left    Left   Right    Left    Left   Right     Left       Left   Right
+Median Width(ft)                           0                        0                      12                          12
+Link Offset(ft)                            0                        0                       0                           0
+Crosswalk Width(ft)                       20                       20                      20                          20
+Two way Left Turn Lane
+Headway Factor                 1.14     1.14     1.14    1.14    1.14    1.14    1.14    1.14    1.14     1.14       1.14     1.14
+Turning Speed (mph)              15                 9      15               9      15               9       15                   9
+Turn Type                                 NA                                                             Perm         NA
+Protected Phases                           6                                                                           8
+Permitted Phases                                                                                             8
+Detector Phase                             6                                                                 8          8
+Switch Phase
+Minimum Initial (s)                      15.0                                                              13.0      13.0
+Minimum Split (s)                        19.5                                                              17.5      17.5
+Total Split (s)                          31.0                                                              49.0      49.0
+Total Split (%)                        38.8%                                                             61.3%     61.3%
+Yellow Time (s)                           3.5                                                               3.5       3.5
+All-Red Time (s)                          1.0                                                               1.0       1.0
+Lost Time Adjust (s)                      0.0                                                               0.0       0.0
+Total Lost Time (s)                       4.5                                                               4.5       4.5
+Lead/Lag
+Lead-Lag Optimize?
+Recall Mode                            None                                                              C-Max C-Max
+Intersection Summary
+Area Type:                 CBD
+Cycle Length: 80
+Actuated Cycle Length: 80
+Offset: 11 (14%), Referenced to phase 8:SWTL, Start of Green
+Natural Cycle: 40
+Control Type: Actuated-Coordinated
+
+Splits and Phases:   2: Stewart Street & 9th Avenue
+
+
+
+
+Terry-Howell Hotel                                                                                                Synchro 8 Report
+2014 Existing - PM Peak Hour
+HCM 2010 Signalized Intersection Summary
+2: Stewart Street & 9th Avenue                                                                             12/18/2014
+
+
+
+
+Movement                       SEL    SET     SER      NWL   NWT   NWR    NEL   NET    NER   SWL         SWT     SWR
+Lane Configurations
+Volume (veh/h)                    0    273      106      0     0     0      0     0      0    103         508        0
+Number                            1      6        16                                              3         8       18
+Initial Q (Qb), veh               0      0         0                                              0         0        0
+Ped-Bike Adj(A_pbT)            1.00            0.79                                           1.00                1.00
+Parking Bus, Adj               1.00    1.00    1.00                                           1.00       1.00     1.00
+Adj Sat Flow, veh/h/ln            0   1598    1710                                           1462       1462         0
+Adj Flow Rate, veh/h              0     297     115                                            112        552        0
+Adj No. of Lanes                  0       2        0                                              1          3       0
+Peak Hour Factor               0.92    0.92    0.92                                           0.92       0.92     0.92
+Percent Heavy Veh, %              0       7        7                                             17         17       0
+Cap, veh/h                        0     404     148                                            864      2219         0
+Arrive On Green                0.00    0.20    0.20                                           0.18       0.18     0.00
+Sat Flow, veh/h                   0   2096      736                                          1392       4122         0
+Grp Volume(v), veh/h              0     219     193                                            112        552        0
+Grp Sat Flow(s),veh/h/ln          0   1518    1235                                           1392       1330         0
+Q Serve(g_s), s                 0.0    10.8    11.8                                             5.4        9.5     0.0
+Cycle Q Clear(g_c), s           0.0    10.8    11.8                                             5.4        9.5     0.0
+Prop In Lane                   0.00            0.60                                           1.00                0.00
+Lane Grp Cap(c), veh/h            0    304      248                                            864      2219         0
+V/C Ratio(X)                   0.00   0.72     0.78                                           0.13       0.25     0.00
+Avail Cap(c_a), veh/h             0    503      409                                            864      2219         0
+HCM Platoon Ratio              1.00   1.00     1.00                                           0.33       0.33     1.00
+Upstream Filter(I)             0.00   1.00     1.00                                           1.00       1.00     0.00
+Uniform Delay (d), s/veh        0.0   29.9     30.3                                           16.7       18.4      0.0
+Incr Delay (d2), s/veh          0.0     3.2      5.3                                            0.3        0.3     0.0
+Initial Q Delay(d3),s/veh       0.0     0.0      0.0                                            0.0        0.0     0.0
+%ile BackOfQ(50%),veh/ln        0.0     4.8      4.4                                            2.2        3.5     0.0
+LnGrp Delay(d),s/veh            0.0   33.1     35.5                                           17.0       18.6      0.0
+LnGrp LOS                                C         D                                              B          B
+Approach Vol, veh/h                    412                                                                664
+Approach Delay, s/veh                 34.2                                                               18.4
+Approach LOS                             C                                                                   B
+Timer                            1       2        3      4     5      6     7      8
+Assigned Phs                                                          6            8
+Phs Duration (G+Y+Rc), s                                           20.5         49.0
+Change Period (Y+Rc), s                                             4.5          4.5
+Max Green Setting (Gmax), s                                        26.5         44.5
+Max Q Clear Time (g_c+I1), s                                       13.8         11.5
+Green Ext Time (p_c), s                                             2.2          4.9
+Intersection Summary
+HCM 2010 Ctrl Delay                           24.4
+HCM 2010 LOS                                    C
+
+
+
+
+Terry-Howell Hotel                                                                                    Synchro 8 Report
+2014 Existing - PM Peak Hour
+Lanes, Volumes, Timings
+3: Howell Street & Terry Avenue                                                                                            12/18/2014
+
+
+
+Lane Group                      SEL     SET      SER      NWL      NWT      NWR      NEL      NET     NER     SWL        SWT     SWR
+Lane Configurations
+Volume (vph)                      0        0        0        0       55       30       52      820       0       0         0        0
+Ideal Flow (vphpl)             1900     1900     1900     1900     1900     1900     1900     1900    1900    1900      1900     1900
+Right Turn on Red                                 Yes                        Yes      Yes              Yes                        Yes
+Link Speed (mph)                          25                           25                        25                         25
+Link Distance (ft)                       391                         112                       153                        325
+Travel Time (s)                         10.7                          3.1                       4.2                        8.9
+Peak Hour Factor               0.93     0.93     0.93      0.93     0.93    0.93     0.93     0.93    0.93    0.93       0.93     0.93
+Heavy Vehicles (%)              0%       0%       0%        4%       4%      4%       6%       6%      6%      0%         0%       0%
+Shared Lane Traffic (%)
+Enter Blocked Intersection       No       No       No       No       No       No       No       No      No      No         No      No
+Lane Alignment                  Left     Left    Right     Left     Left    Right     Left     Left   Right    Left       Left   Right
+Median Width(ft)                           0                          0                         12                         12
+Link Offset(ft)                            0                          0                          0                          0
+Crosswalk Width(ft)                       20                         20                         20                         20
+Two way Left Turn Lane
+Headway Factor                 1.00     1.00     1.00      1.00     1.00    1.00     1.00     1.00    1.00    1.00       1.00     1.00
+Turning Speed (mph)              15                 9        15                9       15                9      15                   9
+Turn Type                                                            NA             Perm        NA
+Protected Phases                                                      8                          6
+Permitted Phases                                                                         6
+Minimum Split (s)                                                   20.0              19.0     19.0
+Total Split (s)                                                     28.0              52.0     52.0
+Total Split (%)                                                   35.0%             65.0%    65.0%
+Yellow Time (s)                                                      3.5               3.5      3.5
+All-Red Time (s)                                                     1.0               1.0      1.0
+Lost Time Adjust (s)                                                 0.0               0.0      0.0
+Total Lost Time (s)                                                  4.5               4.5      4.5
+Lead/Lag
+Lead-Lag Optimize?
+Intersection Summary
+Area Type:                 Other
+Cycle Length: 80
+Actuated Cycle Length: 80
+Offset: 15 (19%), Referenced to phase 2: and 6:NETL, Start of 1st Green
+Natural Cycle: 40
+Control Type: Pretimed
+
+Splits and Phases:   3: Howell Street & Terry Avenue
+
+
+
+
+Terry-Howell Hotel                                                                                                    Synchro 8 Report
+2014 Existing - PM Peak Hour
+HCM 2010 Signalized Intersection Summary
+3: Howell Street & Terry Avenue                                                                              12/18/2014
+
+
+
+
+Movement                       SEL   SET   SER    NWL    NWT      NWR      NEL     NET     NER    SWL      SWT     SWR
+Lane Configurations
+Volume (veh/h)                   0     0     0       0      55        30      52    820       0     0         0       0
+Number                                               3       8        18       1      6      16
+Initial Q (Qb), veh                                  0       0         0       0      0       0
+Ped-Bike Adj(A_pbT)                               1.00             1.00     1.00           1.00
+Parking Bus, Adj                                  1.00    1.00     1.00     1.00    1.00   1.00
+Adj Sat Flow, veh/h/ln                               0   1827     1900     1792    1792       0
+Adj Flow Rate, veh/h                                 0       59       32      56     882      0
+Adj No. of Lanes                                     0        2        0       1       3      0
+Peak Hour Factor                                  0.93    0.93     0.93     0.93    0.93   0.93
+Percent Heavy Veh, %                                 0        4        4       6       6      0
+Cap, veh/h                                           0     657      331    1104    2746       0
+Arrive On Green                                   0.00    0.29     0.29     0.20    0.20   0.00
+Sat Flow, veh/h                                      0   2327     1128     1707    4875       0
+Grp Volume(v), veh/h                                 0       45       46      56     882      0
+Grp Sat Flow(s),veh/h/ln                             0   1736     1628     1707    1542       0
+Q Serve(g_s), s                                    0.0      1.5      1.6     2.1    13.1    0.0
+Cycle Q Clear(g_c), s                              0.0     1.5       1.6     2.1    13.1    0.0
+Prop In Lane                                      0.00             0.69     1.00           0.00
+Lane Grp Cap(c), veh/h                               0    510       478    1104    2746       0
+V/C Ratio(X)                                      0.00   0.09      0.10     0.05    0.32   0.00
+Avail Cap(c_a), veh/h                                0    510       478    1104    2746       0
+HCM Platoon Ratio                                 1.00   1.00      1.00     0.33    0.33   1.00
+Upstream Filter(I)                                0.00   1.00      1.00     1.00    1.00   0.00
+Uniform Delay (d), s/veh                           0.0   20.5      20.5     13.9    18.3    0.0
+Incr Delay (d2), s/veh                             0.0     0.3       0.4     0.1     0.3    0.0
+Initial Q Delay(d3),s/veh                          0.0     0.0       0.0     0.0     0.0    0.0
+%ile BackOfQ(50%),veh/ln                           0.0     0.8       0.8     1.0     5.7    0.0
+LnGrp Delay(d),s/veh                               0.0   20.8      20.9     14.0    18.6    0.0
+LnGrp LOS                                                    C         C       B       B
+Approach Vol, veh/h                                         91                       938
+Approach Delay, s/veh                                    20.9                       18.4
+Approach LOS                                                 C                         B
+Timer                            1     2     3      4        5       6        7       8
+Assigned Phs                                                         6                8
+Phs Duration (G+Y+Rc), s                                          52.0             28.0
+Change Period (Y+Rc), s                                            4.5              4.5
+Max Green Setting (Gmax), s                                       47.5             23.5
+Max Q Clear Time (g_c+I1), s                                      15.1              3.6
+Green Ext Time (p_c), s                                            7.9              0.4
+Intersection Summary
+HCM 2010 Ctrl Delay                        18.6
+HCM 2010 LOS                                  B
+
+
+
+
+Terry-Howell Hotel                                                                                      Synchro 8 Report
+2014 Existing - PM Peak Hour
+Lanes, Volumes, Timings
+4: Howell St/Howell Street & 9th Avenue                                                                                      12/18/2014
+
+
+
+
+Lane Group                          SEL       SET       SER      NWL      NWT    NWR     NEL     NET     NER     SWL     SWT       SWR
+Lane Configurations
+Volume (vph)                        143       255         0         0        0      0       0     699       5       0       0         0
+Ideal Flow (vphpl)                 1900      1900      1900      1900     1900   1900    1900    1900    1900    1900    1900      1900
+Lane Width (ft)                      11        11        11        12       12     12      12      12      12      12      12        12
+Storage Length (ft)                   0                 100         0               0       0               0       0                 0
+Storage Lanes                         0                   1         0               0       0               0       0                 0
+Taper Length (ft)                    25                            25                      25                      25
+Right Turn on Red                   Yes                 Yes                       Yes                     Yes                       Yes
+Link Speed (mph)                               25                          25                      25                       25
+Link Distance (ft)                            395                         112                     362                      168
+Travel Time (s)                               10.8                        3.1                     9.9                      4.6
+Confl. Peds. (#/hr)                  272                                                                  114
+Peak Hour Factor                    0.97      0.97      0.97      0.97    0.97   0.97    0.97    0.97    0.97    0.97     0.97     0.97
+Heavy Vehicles (%)                  12%       12%       12%        0%      0%     0%      9%      9%      9%      0%       0%       0%
+Shared Lane Traffic (%)
+Enter Blocked Intersection           No        No        No         No     No      No     No       No      No     No        No       No
+Lane Alignment                      Left      Left     Right       Left   Left   Right   Left     Left   Right   Left      Left    Right
+Median Width(ft)                                0                           0                       0                        0
+Link Offset(ft)                                 0                           0                       0                        0
+Crosswalk Width(ft)                            20                          20                      20                       20
+Two way Left Turn Lane
+Headway Factor                      1.19      1.19      1.19      1.14    1.14   1.14    1.14    1.14    1.14    1.14     1.14     1.14
+Turning Speed (mph)                   15                   9        15              9      15               9      15                 9
+Turn Type                           Split      NA                                                  NA
+Protected Phases                       4        4                                                   2
+Permitted Phases                                4
+Detector Phase                         4        4                                                   2
+Switch Phase
+Minimum Initial (s)                 18.0      18.0                                                 5.0
+Minimum Split (s)                   27.0      27.0                                                10.0
+Total Split (s)                     31.0      31.0                                                49.0
+Total Split (%)                   38.8%     38.8%                                               61.3%
+Yellow Time (s)                      3.5       3.5                                                 3.5
+All-Red Time (s)                     5.0       5.0                                                 1.0
+Lost Time Adjust (s)                          -4.5                                                -0.5
+Total Lost Time (s)                            4.0                                                 4.0
+Lead/Lag
+Lead-Lag Optimize?
+Recall Mode                         Max       Max                                               C-Max
+Intersection Summary
+Area Type:                     CBD
+Cycle Length: 80
+Actuated Cycle Length: 80
+Offset: 0 (0%), Referenced to phase 2:NET and 6:, Start of 1st Green
+Natural Cycle: 45
+Control Type: Actuated-Coordinated
+
+Splits and Phases:   4: Howell St/Howell Street & 9th Avenue
+
+
+
+
+Terry-Howell Hotel                                                                                                      Synchro 8 Report
+2014 Existing - PM Peak Hour
+HCM Signalized Intersection Capacity Analysis
+4: Howell St/Howell Street & 9th Avenue                                                                                     12/18/2014
+
+
+
+
+Movement                            SEL     SET      SER     NWL     NWT      NWR       NEL      NET     NER    SWL     SWT       SWR
+Lane Configurations
+Volume (vph)                         143     255        0       0       0         0       0       699       5      0       0         0
+Ideal Flow (vphpl)                  1900    1900     1900    1900    1900      1900    1900      1900    1900   1900    1900      1900
+Lane Width                            11      11       11      12      12        12      12         12     12     12      12        12
+Total Lost time (s)                          4.0                                                   4.0
+Lane Util. Factor                           0.91                                                  0.95
+Frpb, ped/bikes                             1.00                                                  1.00
+Flpb, ped/bikes                             1.00                                                  1.00
+Frt                                         1.00                                                  1.00
+Flt Protected                               0.98                                                  1.00
+Satd. Flow (prot)                           3958                                                 2976
+Flt Permitted                               0.98                                                  1.00
+Satd. Flow (perm)                           3958                                                 2976
+Peak-hour factor, PHF               0.97    0.97     0.97    0.97    0.97      0.97     0.97     0.97    0.97   0.97     0.97     0.97
+Adj. Flow (vph)                      147     263        0       0       0         0        0      721       5      0        0        0
+RTOR Reduction (vph)                   0      97        0       0       0         0        0         0      0      0        0        0
+Lane Group Flow (vph)                  0     313        0       0       0         0        0      726       0      0        0        0
+Confl. Peds. (#/hr)                  272                                                                  114
+Heavy Vehicles (%)                  12%      12%     12%      0%      0%        0%          9%     9%     9%     0%       0%       0%
+Turn Type                           Split     NA                                                   NA
+Protected Phases                       4        4                                                   2
+Permitted Phases                                4
+Actuated Green, G (s)                        22.5                                                 44.5
+Effective Green, g (s)                       27.0                                                 45.0
+Actuated g/C Ratio                           0.34                                                 0.56
+Clearance Time (s)                            8.5                                                  4.5
+Vehicle Extension (s)                         3.0                                                  3.0
+Lane Grp Cap (vph)                          1335                                                 1674
+v/s Ratio Prot                              c0.08                                                c0.24
+v/s Ratio Perm
+v/c Ratio                                    0.23                                                 0.43
+Uniform Delay, d1                            19.1                                                 10.1
+Progression Factor                           1.24                                                 0.77
+Incremental Delay, d2                         0.4                                                  0.7
+Delay (s)                                    24.0                                                  8.6
+Level of Service                                C                                                    A
+Approach Delay (s)                           24.0                     0.0                          8.6                    0.0
+Approach LOS                                    C                       A                            A                      A
+Intersection Summary
+HCM 2000 Control Delay                                14.1      HCM 2000 Level of Service                  B
+HCM 2000 Volume to Capacity ratio                     0.36
+Actuated Cycle Length (s)                             80.0      Sum of lost time (s)                      8.0
+Intersection Capacity Utilization                   43.4%       ICU Level of Service                        A
+Analysis Period (min)                                   15
+c Critical Lane Group
+
+
+
+
+Terry-Howell Hotel                                                                                                     Synchro 8 Report
+2014 Existing - PM Peak Hour
+Lanes, Volumes, Timings
+5: Terry Avenue & Olive Way                                                                                                    12/18/2014
+
+
+
+
+Lane Group                        EBL       EBT       EBR      WBL        WBT     WBR      NBL     NBT     NBR     SBL      SBT      SBR
+Lane Configurations
+Volume (vph)                        20       997        0         0          0      37       0        1       5       0       0         0
+Ideal Flow (vphpl)                1900      1900     1900      1900       1900    1900    1900     1900    1900    1900    1900      1900
+Right Turn on Red                  Yes                Yes                          Yes                      Yes                       Yes
+Link Speed (mph)                              25                           25                        25                       25
+Link Distance (ft)                           308                          289                       185                      105
+Travel Time (s)                              8.4                          7.9                       5.0                      2.9
+Confl. Peds. (#/hr)               150                                             150                         32
+Peak Hour Factor                  0.95      0.95      0.95      0.95      0.95    0.95     0.95    0.95     0.95   0.95     0.95     0.95
+Heavy Vehicles (%)                 3%        3%        3%        0%        0%      0%     100%    100%     100%     0%       0%       0%
+Shared Lane Traffic (%)
+Enter Blocked Intersection          No        No       No        No        No       No      No       No      No     No        No       No
+Lane Alignment                     Left      Left    Right      Left      Left    Right    Left     Left   Right   Left      Left    Right
+Median Width(ft)                              12                           12                         0                        0
+Link Offset(ft)                                0                            0                         0                        0
+Crosswalk Width(ft)                           20                           20                        20                       20
+Two way Left Turn Lane
+Headway Factor                    1.14      1.14      1.14      1.14      1.14    1.14     1.14    1.14     1.14   1.14     1.14     1.14
+Turning Speed (mph)                 15                   9        15                 9       15                9     15                 9
+Turn Type                        Perm        NA                                  Perm                NA
+Protected Phases                              2                                                       8
+Permitted Phases                     2                                               6
+Detector Phase                       2         2                                     6                8
+Switch Phase
+Minimum Initial (s)               25.0      25.0                                   25.0             21.5
+Minimum Split (s)                 29.5      29.5                                   29.5             26.0
+Total Split (s)                   54.0      54.0                                   54.0             26.0
+Total Split (%)                 67.5%     67.5%                                  67.5%            32.5%
+Yellow Time (s)                    3.5       3.5                                    3.5              3.5
+All-Red Time (s)                   1.0       1.0                                    1.0              1.0
+Lost Time Adjust (s)               0.0       0.0                                    0.0              0.0
+Total Lost Time (s)                4.5       4.5                                    4.5              4.5
+Lead/Lag
+Lead-Lag Optimize?
+Recall Mode                     C-Max     C-Max                                  C-Max            None
+Intersection Summary
+Area Type:                    CBD
+Cycle Length: 80
+Actuated Cycle Length: 80
+Offset: 54 (68%), Referenced to phase 2:EBTL and 6:WBR, Start of Yellow
+Natural Cycle: 60
+Control Type: Actuated-Coordinated
+
+Splits and Phases:   5: Terry Avenue & Olive Way
+
+
+
+
+Terry-Howell Hotel                                                                                                        Synchro 8 Report
+2014 Existing - PM Peak Hour
+HCM Signalized Intersection Capacity Analysis
+5: Terry Avenue & Olive Way                                                                                               12/18/2014
+
+
+
+
+Movement                            EBL    EBT      EBR     WBL     WBT      WBR       NBL    NBT     NBR     SBL      SBT      SBR
+Lane Configurations
+Volume (vph)                       20       997        0       0       0        37       0        1      5       0       0         0
+Ideal Flow (vphpl)              1900       1900     1900    1900    1900     1900     1900    1900    1900    1900    1900      1900
+Total Lost time (s)               4.5       4.5                                4.5              4.5
+Lane Util. Factor                1.00      0.91                               1.00            1.00
+Frpb, ped/bikes                  1.00      1.00                               0.74            0.95
+Flpb, ped/bikes                  0.74      1.00                               1.00            1.00
+Frt                              1.00      1.00                               0.86             0.89
+Flt Protected                    0.95      1.00                               1.00            1.00
+Satd. Flow (prot)               1172       4532                              1089              717
+Flt Permitted                    0.95      1.00                               1.00            1.00
+Satd. Flow (perm)               1172       4532                              1089              717
+Peak-hour factor, PHF            0.95      0.95     0.95    0.95    0.95      0.95     0.95   0.95     0.95   0.95     0.95     0.95
+Adj. Flow (vph)                    21      1049        0       0       0        39        0       1       5      0        0        0
+RTOR Reduction (vph)                3         0        0       0       0         6        0       5       0      0        0        0
+Lane Group Flow (vph)              18      1049        0       0       0        33        0       1       0      0        0        0
+Confl. Peds. (#/hr)              150                                           150                       32
+Heavy Vehicles (%)                3%         3%      3%      0%      0%        0%     100%    100%    100%     0%       0%       0%
+Turn Type                       Perm         NA                              Perm               NA
+Protected Phases                              2                                                  8
+Permitted Phases                       2                                         6
+Actuated Green, G (s)               66.7    66.7                              66.7              4.3
+Effective Green, g (s)              66.7    66.7                              66.7              4.3
+Actuated g/C Ratio                  0.83    0.83                              0.83             0.05
+Clearance Time (s)                   4.5     4.5                               4.5              4.5
+Vehicle Extension (s)                3.0     3.0                               3.0              3.0
+Lane Grp Cap (vph)                  977    3778                               907                38
+v/s Ratio Prot                             c0.23                                              c0.00
+v/s Ratio Perm                      0.01                                      0.03
+v/c Ratio                           0.02    0.28                              0.04             0.03
+Uniform Delay, d1                    1.1     1.4                               1.1             35.9
+Progression Factor                  0.16    0.35                              1.00             1.00
+Incremental Delay, d2                0.0     0.2                               0.1              0.4
+Delay (s)                            0.2     0.7                               1.2             36.2
+Level of Service                       A       A                                 A                D
+Approach Delay (s)                           0.7                     1.2                       36.2                     0.0
+Approach LOS                                   A                       A                          D                       A
+Intersection Summary
+HCM 2000 Control Delay                                0.9      HCM 2000 Level of Service                 A
+HCM 2000 Volume to Capacity ratio                    0.26
+Actuated Cycle Length (s)                            80.0      Sum of lost time (s)                     9.0
+Intersection Capacity Utilization                  70.8%       ICU Level of Service                      C
+Analysis Period (min)                                  15
+c Critical Lane Group
+
+
+
+
+Terry-Howell Hotel                                                                                                   Synchro 8 Report
+2014 Existing - PM Peak Hour
+Lanes, Volumes, Timings
+6: 9th Avenue & Olive Way                                                                                                      12/18/2014
+
+
+
+
+Lane Group                          EBL       EBT       EBR      WBL      WBT    WBR     NBL    NBR      SEL      SER
+Lane Configurations
+Volume (vph)                          0       743        91         0        0      0       0      0      136      127
+Ideal Flow (vphpl)                 1900      1900      1900      1900     1900   1900    1900   1900     1900     1900
+Right Turn on Red                                       Yes                       Yes            Yes      Yes
+Link Speed (mph)                               25                          25             25               25
+Link Distance (ft)                            371                         308            386              112
+Travel Time (s)                               10.1                        8.4            10.5              3.1
+Confl. Peds. (#/hr)                                     199
+Peak Hour Factor                    0.90      0.90      0.90      0.90    0.90   0.90    0.90   0.90     0.90     0.90
+Heavy Vehicles (%)                   5%        5%        5%        0%      0%     0%      0%     0%       6%       6%
+Shared Lane Traffic (%)
+Enter Blocked Intersection           No        No        No         No     No      No     No      No       No       No
+Lane Alignment                      Left      Left     Right       Left   Left   Right   Left   Right     Left    Right
+Median Width(ft)                                0                           0              0               24
+Link Offset(ft)                                 0                           0              0                0
+Crosswalk Width(ft)                            20                          20             20               20
+Two way Left Turn Lane
+Headway Factor                      1.00      1.00      1.00      1.00    1.00   1.00    1.00   1.00     1.00     1.00
+Turning Speed (mph)                   15                   9        15              9      15      9       15        9
+Turn Type                                      NA      Perm                                              Prot     Prot
+Protected Phases                                2                                                           4        4
+Permitted Phases                                           2
+Detector Phase                                   2         2                                                4        4
+Switch Phase
+Minimum Initial (s)                            5.0       5.0                                              18.0     18.0
+Minimum Split (s)                             10.0      10.0                                              27.0     27.0
+Total Split (s)                               49.0      49.0                                              31.0     31.0
+Total Split (%)                             61.3%     61.3%                                             38.8%    38.8%
+Yellow Time (s)                                3.5       3.5                                               3.5      3.5
+All-Red Time (s)                               1.0       1.0                                               5.0      5.0
+Lost Time Adjust (s)                           0.0       0.0                                               0.0      0.0
+Total Lost Time (s)                            4.5       4.5                                               8.5      8.5
+Lead/Lag
+Lead-Lag Optimize?
+Recall Mode                                 C-Max     C-Max                                              Max      Max
+Intersection Summary
+Area Type:                     Other
+Cycle Length: 80
+Actuated Cycle Length: 80
+Offset: 0 (0%), Referenced to phase 2:NET and 6:, Start of 1st Green
+Natural Cycle: 45
+Control Type: Actuated-Coordinated
+
+Splits and Phases:   6: 9th Avenue & Olive Way
+
+
+
+
+Terry-Howell Hotel                                                                                                        Synchro 8 Report
+2014 Existing - PM Peak Hour
+HCM Signalized Intersection Capacity Analysis
+6: 9th Avenue & Olive Way                                                                                                    12/18/2014
+
+
+
+
+Movement                            EBL    EBT      EBR     WBL     WBT      WBR       NBL       NBR    SEL     SER
+Lane Configurations
+Volume (vph)                           0    743       91       0       0         0       0          0    136     127
+Ideal Flow (vphpl)                  1900   1900    1900     1900    1900      1900    1900       1900   1900    1900
+Total Lost time (s)                         4.5      4.5                                                  8.5     8.5
+Lane Util. Factor                          0.91     1.00                                                 0.97    0.88
+Frpb, ped/bikes                            1.00     0.88                                                 1.00    1.00
+Flpb, ped/bikes                            1.00     1.00                                                 1.00    1.00
+Frt                                        1.00     0.85                                                 1.00    0.85
+Flt Protected                              1.00     1.00                                                 0.95    1.00
+Satd. Flow (prot)                          4940    1358                                                 3303    2682
+Flt Permitted                              1.00     1.00                                                 0.95    1.00
+Satd. Flow (perm)                          4940    1358                                                 3303    2682
+Peak-hour factor, PHF               0.90   0.90     0.90    0.90    0.90      0.90     0.90      0.90   0.90    0.90
+Adj. Flow (vph)                        0    826     101        0       0         0        0         0    151     141
+RTOR Reduction (vph)                   0      0       45       0       0         0        0         0    109        0
+Lane Group Flow (vph)                  0    826       56       0       0         0        0         0      42    141
+Confl. Peds. (#/hr)                                 199
+Heavy Vehicles (%)                   5%      5%      5%      0%      0%        0%          0%     0%     6%       6%
+Turn Type                                    NA    Perm                                                 Prot     Prot
+Protected Phases                              2                                                           4        4
+Permitted Phases                                       2
+Actuated Green, G (s)                       44.5    44.5                                                22.5     22.5
+Effective Green, g (s)                      44.5    44.5                                                22.5     22.5
+Actuated g/C Ratio                          0.56    0.56                                                0.28     0.28
+Clearance Time (s)                           4.5     4.5                                                 8.5      8.5
+Vehicle Extension (s)                        3.0     3.0                                                 3.0      3.0
+Lane Grp Cap (vph)                         2747     755                                                 928       754
+v/s Ratio Prot                             c0.17                                                        0.01    c0.05
+v/s Ratio Perm                                      0.04
+v/c Ratio                                   0.30    0.07                                                0.05     0.19
+Uniform Delay, d1                            9.5     8.2                                                20.9     21.8
+Progression Factor                          0.89    0.94                                                1.00     1.00
+Incremental Delay, d2                        0.2     0.2                                                 0.1      0.5
+Delay (s)                                    8.7     7.9                                                21.0     22.4
+Level of Service                               A       A                                                   C        C
+Approach Delay (s)                           8.6                     0.0                   0.0          21.7
+Approach LOS                                   A                       A                     A             C
+Intersection Summary
+HCM 2000 Control Delay                               11.7      HCM 2000 Level of Service                   B
+HCM 2000 Volume to Capacity ratio                    0.26
+Actuated Cycle Length (s)                            80.0      Sum of lost time (s)                     13.0
+Intersection Capacity Utilization                  40.2%       ICU Level of Service                        A
+Analysis Period (min)                                  15
+c Critical Lane Group
+
+
+
+
+Terry-Howell Hotel                                                                                                      Synchro 8 Report
+2014 Existing - PM Peak Hour
+Lanes, Volumes, Timings
+7: Stewart Street & Alley                                                                                            12/18/2014
+
+
+
+
+Lane Group                             SEL    SET    SER     NWL    NWT    NWR     NEL    NET    NER     SWL     SWT       SWR
+Lane Configurations
+Volume (vph)                          0          8     22       8      0      0       0      0      0      11     624         5
+Ideal Flow (vphpl)                 1900       1900   1900    1900   1900   1900    1900   1900   1900    1900    1900      1900
+Link Speed (mph)                                25                    25                    25                     25
+Link Distance (ft)                             168                   394                   176                    156
+Travel Time (s)                                4.6                  10.7                   4.8                    4.3
+Confl. Peds. (#/hr)                                            23                                          23               241
+Peak Hour Factor                       0.95   0.95   0.95    0.95   0.95   0.95    0.95   0.95   0.95    0.95     0.95     0.95
+Heavy Vehicles (%)                      0%     0%     0%      0%     0%     0%      0%     0%     0%     16%      16%      16%
+Shared Lane Traffic (%)
+Enter Blocked Intersection              No     No      No     No     No      No     No     No      No     No        No       No
+Lane Alignment                         Left   Left   Right   Left   Left   Right   Left   Left   Right   Left      Left    Right
+Median Width(ft)                               12                    12                     0                        0
+Link Offset(ft)                                 0                     0                     0                        0
+Crosswalk Width(ft)                            20                    20                    20                       20
+Two way Left Turn Lane
+Headway Factor                         1.00   1.00   1.00    1.00   1.00   1.00    1.00   1.00   1.00    1.00     1.00     1.00
+Turning Speed (mph)                      15             9      15             9      15             9      15                 9
+Sign Control                                  Stop                  Stop                  Free                    Free
+Intersection Summary
+Area Type:                     Other
+Control Type: Unsignalized
+
+
+
+
+Terry-Howell Hotel                                                                                              Synchro 8 Report
+2014 Existing - PM Peak Hour

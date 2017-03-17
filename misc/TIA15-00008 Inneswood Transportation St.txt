@@ -1,0 +1,2103 @@
+15036.00
+
+
+
+
+Inneswood
+Apartments
+TRANSPORTATION
+IMPACT ANALYSIS
+855 Newport Way NW
+Issaquah, WA 98027
+
+©2015 Transpo Group
+December 2015
+
+
+
+
+Prepared for
+Inneswood Estates, LLC
+
+Prepared by
+Ryan Peterson,
+Senior Transportation Engineer, PE, PTOE
+Transpo Group
+11730 118th Ave NE Suite 600
+Kirkland, WA 98034
+INNESWOOD APARTMENTS
+        Parcel B: 905 Newport Way NW, Issaquah, WA 98027
+        Parcel C: 843 Newport Way NW, Issaquah, WA 98027
+
+
+
+
+                                         Application Number:
+                  Applicant’s Name: Inneswood Estates, LLC.
+      Applicant’s Address: P.O. Box 617, Bellevue, WA 98008
+                    Applicant’s Phone Number: 206 714-7161
+                     Original Report Date: December 2, 2015
+                                   Revised Report Date: N/A
+
+                                               Prepared by:
+   Ryan Peterson, Senior Transportation Engineer, PE, PTOE,
+
+
+
+
+                          11730 118th Avenue NE, Suite 600
+                                  Kirkland, WA 98034-7120
+                                      Phone: 425-821-3665
+                                         Fax: 425-825-8434
+                                    www.transpogroup.com
+                                                   Table of Contents
+Executive Summary .................................................................................................................ii 
+Introduction ..............................................................................................................................1 
+  Project Description ................................................................................................................. 1 
+  Study Scope........................................................................................................................... 1 
+Existing & Future Without-Project Conditions .....................................................................4 
+ Street System ........................................................................................................................ 4 
+ Traffic Volumes ...................................................................................................................... 5 
+ Traffic Operations .................................................................................................................. 8 
+ Traffic Safety ........................................................................................................................ 11 
+ Non-Motorized Facilities ...................................................................................................... 11 
+ Transit Service ..................................................................................................................... 11 
+Project Impacts ......................................................................................................................13 
+  Trip Generation .................................................................................................................... 13 
+  Trip Distribution and Assignment ......................................................................................... 13 
+  Traffic Operations Impact .................................................................................................... 17 
+  Safety Analysis .................................................................................................................... 18 
+  Parking Analysis .................................................................................................................. 19 
+  Mitigation and Impact Fees.................................................................................................. 20 
+Findings and Conclusions ....................................................................................................21 
+
+                                                            Appendix
+Appendix A:  Traffic Counts 
+Appendix B:  LOS Definitions 
+Appendix C:  LOS Worksheets 
+
+                                                              Figures
+Figure 1.           Site Vicinity & Study Intersections ....................................................................... 2 
+Figure 2.           Preliminary Site Plan ........................................................................................... 3 
+Figure 3.           Cumulative Pipeline Trip Assignment.................................................................. 7 
+Figure 4.           Existing (2015) Weekday PM Peak Hour Traffic Volumes .................................. 9 
+Figure 5.           Future (2018) Without-Project Weekday PM Peak Hour Traffic Volumes ........ 10 
+Figure 6.           Inbound Project Trip Distribution & Assignment................................................ 14 
+Figure 7.           Outbound Project Trip Distribution & Assignment ............................................. 15 
+Figure 8.           Future (2018) With-Project Weekday PM Peak Hour Traffic Volumes ............. 16 
+
+                                                              Tables
+Table 1.            Study Area Existing Street System Summary ..................................................... 5 
+Table 2.            Estimated Weekday Pipeline Trip Generation .................................................... 6 
+Table 3.            Existing & Future Weekday PM Peak Hour Intersection LOS Summary ............ 8 
+Table 4.            Five Year Collision Summary ............................................................................ 11 
+Table 5.            Existing Transit Service ..................................................................................... 12 
+Table 6.            Estimated Weekday Trip Generation ................................................................ 13 
+Table 7.            Future Weekday PM Peak Hour Intersection LOS Summary ........................... 17 
+Table 8.            Comparison of Code and Proposed Parking ..................................................... 19 
+Transportation Impact Analysis
+Inneswood Apartments                                                               December 2015
+
+
+
+                                 Executive Summary
+This section provides an executive summary of the Transportation Impact Analysis through a
+set of frequently asked questions (FAQs).
+
+Where is the project located and what would be developed?
+The project is located along the west side of the Newport Way NW/NW Juniper Street
+intersection in Issaquah. The development would include the construction of 81 apartment
+units and 12 townhome units through two buildings, Building B in Parcel B, and Building C in
+Parcel C.
+
+What existing public streets will serve the project and where is access proposed?
+Newport Way NW, Maple Street NW, NW Juniper Street, and NW Gilman Boulevard are
+primary roadways within the surrounding area and all would serve project traffic. Site access
+is proposed via driveways on Newport Way NW.
+
+Is the site currently served by public transit?
+King County Metro currently operates 5 routes in the area, and Sound Transit currently
+operates 3 routes in the area. The closest transit stops are east of the site at the NW Gilman
+Blvd/NW Juniper Street intersection, approximately 0.5 miles (or an 8- to 10-minute walk)
+from the site.
+
+How many new parking spaces are proposed?
+The proposed project would provide two parking garages, with 113 stalls in Building B and 8
+stalls in Building C, totaling 121 parking stalls.
+
+How many daily vehicular trips would the project generate and when would peak traffic
+volumes occur?
+It is anticipated that the project will generate approximately 674 weekday daily trips with 47
+occurring during the weekday AM peak hour and 67 during the PM peak hour.
+
+What Transportation impacts are anticipated, if any?
+No impacts are anticipated.
+
+What measures are proposed to reduce or control traffic impacts?
+In addition to the construction of frontage improvements, the project is planning to include
+construction of the City planned roundabout at the Newport Way NW/NW Juniper Street
+intersection in lieu of paying traffic impact fees.
+
+
+
+
+                                                                                                 ii
+Transportation Impact Analysis
+Inneswood Apartments                                                                 December 2015
+
+
+
+                                     Introduction
+This transportation impact analysis (TIA) identifies potential transportation-related impacts
+associated with the development of two apartment buildings located west of Newport Way
+NW, north and south of NW Juniper Street in Issaquah. As necessary, mitigation measures
+are identified that would offset or reduce significant transportation related impacts that the
+proposed project may have on the surrounding transportation system.
+
+
+Project Description
+As shown on Figure 1, the proposed project is located west of Newport Way NW, north and
+south of NW Juniper Street. The development would construct 81 apartment units and 12
+townhome units through two buildings. Building C is located south of NW Juniper Street and
+would contain 7 apartments units. Building B is located north of NW Juniper Street and would
+contain 74 apartment units and 12 townhome units. There is an existing single family home
+on the property that would be demolished as part of the project. Figure 2 illustrates the
+preliminary site plan.
+
+One garage is proposed as part of each building. Building C is anticipated to have 8 stalls,
+and Building B is anticipated to have 113 stalls, totaling 121 parking stalls. Access to both
+parking locations is proposed via Newport Way NW. It is anticipated that the development
+would be constructed and occupied by 2018.
+
+
+Study Scope
+The scope of this analysis was coordinated with the City of Issaquah staff and follows the
+City’s Transportation Impact Analysis Guidelines, April 2015. Based on the anticipated trip
+generation and distribution of the proposed project, the largest impacts would occur
+immediately adjacent to the project site. The following intersections are proposed for
+analysis:
+
+        NW Maple Street (Newport Way NW)/Maple Street NW
+        Newport Way NW/NW Juniper Street
+        NW Gilman Boulevard/NW Juniper Street
+        Newport Way NW/Library Access
+
+In addition, the access points along Newport Way NW were evaluated under future (2018)
+with-project conditions. The study focuses on the weekday PM peak hours when
+transportation impacts are anticipated to be highest. The report first describes existing and
+future (2018) without-project conditions in the vicinity of the project site. This includes the
+street system, existing and future without-project weekday PM peak hour traffic volumes,
+traffic operations, traffic safety, non-motorized facilities, and transit service. Future (2018)
+with-project conditions are then described. The project’s impacts on the surrounding
+transportation system were identified by comparing the future with-project conditions to the
+future without-project conditions.
+
+
+
+
+                                                                                                   1
+Transportation Impact Analysis
+Inneswood Apartments                                                               December 2015
+
+
+
+   Existing & Future Without-Project Conditions
+This section describes existing (2015) and future (2018) without-project conditions within the
+study area. Study area characteristics are provided for the street system, planned
+improvements, existing and future forecasted without-project traffic volumes, traffic
+operations, traffic safety, non-motorized facilities, and transit service.
+
+
+Street System
+The following describes the existing street network within the vicinity of the proposed project
+and anticipated changes resulting from planned improvements.
+Existing
+The project site is located in Issaquah, WA, and is bounded by Newport Way NW to the west.
+The major roadways within the study area include:
+
+NW Maple Street is an east-west roadway, continuing into Newport Way NW south of Maple
+Street NW. Classified as a minor arterial, NW Maple Street includes five lanes with a center
+two-way left-turn lane. On the east end of NW Maple Street, the roadway curves to the
+southeast and becomes Newport Way NW. Shortly after, the roadway narrows to two lanes.
+Both the north and south sides of NW Maple Street have landscaped sidewalks. The posted
+speed along NW Maple Street is 30 miles per hour (mph).
+
+NW Gilman Boulevard is a five-lane roadway classified as a minor arterial with sidewalks
+and a two-way left turn lane. The two-way left-turn lane allows access to the adjacent Gilman
+Village and Issaquah Commons retail areas and includes a landscaped center median. The
+roadway has bike lanes in each direction from its intersection with Maple Street NW heading
+southeast. The posted speed along NW Gilman Boulevard is 35 mph.
+
+NW Juniper Street is an east-west collector arterial connecting Newport Way NW and NW
+Gilman Boulevard. The two-lane two-way roadway includes sidewalks on both north and
+south sides, as well as parallel parking along the south side. The posted speed limit along
+NW Juniper Street is 25 mph.
+
+Newport Way NW is a two-lane two-way principal arterial with a sidewalk on the east side of
+the roadway. The roadway connects Maple Street NW and NW Juniper Street and provides
+direct access to the proposed project site near the NW Juniper Street intersection. The
+posted speed limit along Newport Way NW is 30 mph. Newport Way NW is also designated
+as a Parkway in the Central Issaquah Development Standards.
+
+Maple Street NW is a two-way three-lane minor arterial connecting NW Maple Street and
+NW Gilman Boulevard. Maple Street NW includes a two-way left turn lane throughout, as well
+as sidewalks on both sides of the roadway. The posted speed limit along Maple Street NW is
+25 mph.
+
+Characteristics of the existing roadway network in the proposed project vicinity are shown in
+Table 1.
+
+
+
+
+                                                                                                  4
+Transportation Impact Analysis
+Inneswood Apartments                                                                                 December 2015
+
+
+Table 1. Study Area Existing Street System Summary
+                                       Arterial           Posted     Number of                          Bicycle
+Roadway                             Classification      Speed Limit Travel Lanes   Parking   Sidewalks Facilities
+NW Maple Street                     Minor Arterial         30 mph        5           No         Yes         No
+NW Gilman Boulevard                 Minor Arterial         35 mph        5           No         Yes        Yes1
+NW Juniper Street                 Collector Arterial       25 mph        2          Yes2        Yes         No
+                                                                                                     3
+Newport Way NW                     Principal Arterial      30 mph        2           No        Yes          No
+Maple Street NW                     Minor Arterial         25 mph        3           No        Yes4         No
+1.   Bike lane located south of Maple Street NW.
+2.   Parallel parking along south side of roadway.
+3.   Sidewalks are provided intermittently along Newport Way NW.
+4.   Sidewalks provided east of Newport Way NW.
+
+Future
+Based on a review of the City of Issaquah 2015-2020 Six Year Transportation Improvement
+Program (TIP), no transportation projects that may impact the street system and travel
+patterns in the study area were identified to be completed by 2018. Although anticipated after
+completion of the proposed project, safety improvements are planned along NW Gilman
+Boulevard. In addition, improvements to the NW Maple Street/Newport Way NW intersection
+and along Newport Way NW are planned to be funded in future years. These include
+improvements to channelization and traffic flow along Newport Way NW.
+
+Additionally, as part of the proposed project, in lieu of traffic impact fees, the project plans to
+construct a roundabout at the Newport Way NW/NW Juniper Street intersection.
+
+
+Traffic Volumes
+The following section summarizes traffic volumes for existing (2015) and future (2018)
+without-project conditions.
+Existing
+Traffic counts were collected at each study intersection in November 2015. Figure 4
+illustrates the existing weekday PM peak hour traffic volumes at the study intersections.
+Detailed traffic counts are provided in Appendix A.
+Future
+Future (2018) without-project traffic volumes were forecasted by applying an average annual
+growth rate to existing traffic volumes as well as traffic from previously approved “pipeline”
+development projects that would increase background traffic at study intersections. An annual
+growth rate of 2 percent per year was applied to the existing PM peak hour traffic volumes at
+each study intersection to estimate future (2018) background traffic. This growth rate is based
+on discussions with City staff. Traffic from the following pipeline projects in the project vicinity
+were also included in the future (2018) without-project volume forecasts:
+          Atlas – 640 to 755 NW Gilman Boulevard: Includes construction of approximately 343
+           multifamily apartment units.
+          Pickering Hill Plats – 910 11th Place NW: Anticipated to construct 20 single family
+           units.
+          Maple Street Marriott – 1185 NW Maple Street: Includes the construction of a 145
+           room hotel.
+Traffic studies were not available for the above listed developments. As a result, the trip
+generation was estimated based on the size and type of development. Table 2 below
+summarizes the estimated trip generation for the pipeline projects. Trips associated with the
+
+
+
+                                                                                                                  5
+Transportation Impact Analysis
+Inneswood Apartments                                                                 December 2015
+
+
+residential pipeline developments were assigned to the network following the trip distribution
+developed for this project from the City’s travel demand model (Shown in Figure 6 and Figure
+7). A separate trip distribution was developed for the proposed hotel. It is anticipated that the
+development would be an extended stay hotel and trips would trend more toward Seattle and
+Redmond via I-90 and E Lake Sammamish Parkway SE. It is estimated that approximately 40
+percent would go north along NW Maple Street and Renton Road (SR 900) toward I-90, 15
+percent would go south along Renton Road (SR 900), 15 percent would go south along
+Newport Way NW, and 30 percent would go northbound along E Lake Sammamish Parkway
+SE. The increase in vehicular volume is shown in Figure 3 in terms of entering/exiting
+vehicles. Future (2017) without-project volumes, including background and pipeline volumes,
+are illustrated on Figure 5.
+
+Table 2. Estimated Weekday Pipeline Trip Generation
+                                                                   PM Peak-Hour Trips
+
+Land Use                                          Size      Rate     In        Out        Total
+Proposed
+Maple Street Marriott – Hotel (LU #310)         145 rooms   0.60     44         43         87
+Pickering Hills Plats – Residential (LU #210)     20 du     1.00     13          7         20
+Atlas – Residential (LU #220)                    343 du     0.62    138         75         213
+du = dwelling unit
+
+
+
+
+                                                                                                  6
+Transportation Impact Analysis
+Inneswood Apartments                                                                                       December 2015
+
+
+
+Traffic Operations
+The operational characteristics of an intersection are determined by calculating the
+intersection level of service (LOS). At signalized intersections, LOS is measured in average
+control delay per vehicle and is typically reported using the intersection delay and volume-to-
+capacity ratio (V/C). At stop-sign-controlled intersections, LOS is measured in delay per
+vehicle. Traffic operations for an intersection can be described alphabetically with a range of
+levels of service (LOS A through F), with LOS A indicating free-flowing traffic and LOS F
+indicating extreme congestion and long vehicle delays. Appendix B contains a detailed
+explanation of LOS criteria and definitions.
+
+Weekday PM peak hour traffic operations for existing (2015) and future (2018) without-project
+conditions were evaluated at the study intersections based on the procedures identified in the
+Highway Capacity Manual (HCM) (2010), with the exception of one intersection, and were
+evaluated using the Synchro 9 software program. The Newport Way NW/NW Maple Street
+intersection was evaluated utilizing the HCM 2000 methodology based on signal phasing
+provided by the City. HCM 2010 methodologies utilize National Electrical Manufacturers
+Association (NEMA) phasing, currently the phasing does not follow NEMA phasing.
+Consideration could be made to updating signal phasing. Pedestrian and bicycle volumes
+were taken into account when evaluating the operations of the intersections.
+
+Table 3 summarizes the existing (2015) and future (2018) without-project traffic operations at
+the study intersections. Detailed LOS worksheets are provided in Appendix C.
+
+Table 3. Existing & Future Weekday PM Peak Hour Intersection LOS Summary
+
+                                                  Traffic          2015 Existing PM           2018 Without-Project PM
+Intersection                                      Control       LOS1     Delay2     WM3        LOS       Delay      WM
+1. Newport Way NW/NW Maple Street                Signalized       D        39         -          D         42         -
+2. Newport Way NW/NW Juniper Street             Unsignalized      C        24       WB           E         37       WB
+3. NW Gilman Boulevard/NW Juniper Street Unsignalized             C        20        EB          D         25        EB
+4. Newport Way NW/Library Access                Unsignalized      B        13       WB           B         13       WB
+1.   Level of Service (A – F) as defined by the 2010 Highway Capacity Manual (HCM), Transportation Research Board.
+2.   Average delay per vehicle in seconds.
+3.   WM = Worst Movement reported for unsignalized intersections. NB = Northbound, SB = Southbound, EB = Eastbound, WB =
+     Westbound.
+
+
+As shown in Table 3, all study intersections are currently operating at LOS D or better during
+the weekday PM peak hour. Under future (2018) without-project conditions all study
+intersections are anticipated to operate at LOS D or better with the exception of the Newport
+Way NW/NW Juniper Street intersection. The Newport Way NW/NW Juniper Street
+intersection is anticipated to degrade form LOS C to LOS E and would fall below City of
+Issaquah standards. The NW Gilman Boulevard/NW Juniper Street intersection is anticipated
+to degrade from LOS C to LOS D.
+
+
+
+
+                                                                                                                           8
+Transportation Impact Analysis
+Inneswood Apartments                                                                         December 2015
+
+
+
+Traffic Safety
+Recent collision records were reviewed within the study area to identify existing traffic safety
+issues at the study intersections. The most recent five-year summary of accident data from
+the Washington Department of Transportation (WSDOT) is for the period between January 1,
+2010 and December 31, 2014. This information is summarized in Table 4.
+
+Table 4. Five Year Collision Summary
+                                                                  Number of Collisions
+                                                                                            Annual
+Intersection                               Traffic Control   2010 2011 2012 2013 2014 Total Average
+1. Newport Way NW/NW Maple Street            Signalized       1      0     1     1       2    5     1.00
+2. Newport Way NW/NW Juniper Street         Unsignalized      0      0     2     1       1    4     0.80
+3. NW Gilman Boulevard/NW Juniper Street    Unsignalized      6      2     2     7       3    20    4.00
+4. Newport Way NW/Library Access            Unsignalized      0      0     0     0       1    1     0.20
+Source: WSDOT and Transpo Group, 2015
+
+
+As shown in Table 4, the study intersections experienced an average of approximately 4
+collisions or less. Of the 29 collisions no pedestrian, bicycle, or fatalities were reported.
+
+Additionally, the high accident locations (HAL) were reviewed. The following are identified as
+HALs in the study area:
+
+        The Newport Way NW/Maple Street NW intersection.
+        NW Juniper Street from Rainier Boulevard N to Newport Way NW.
+        Newport Way NW between Maple Street NW and W Sunset Way.
+
+Potential project’s impacts to the HALs is identified in a following section.
+
+
+
+Non-Motorized Facilities
+The following describes the existing and future non-motorized facilities within the study area.
+Existing
+Sidewalks are provided along the nearby streets with crosswalks located at signalized
+intersections. Crosswalks are also provided on the westbound leg of the Newport Way
+NW/NW Juniper Street and the eastbound approach of the NW Gilman Boulevard/NW
+Juniper Street intersection. Bicycle lanes are provided along NW Gilman Boulevard south of
+the Maple Street NW intersection. There are multi-use paths present along the north side of
+NW Maple Street and the north side of NW Juniper Street, north of the King County Library.
+Future
+Based on a review of the City of Issaquah 2015-2020 Six Year Transportation Improvement
+Program (TIP), no transportation projects that may impact non-motorized facilities in the
+study area were identified to be completed by 2018. Although anticipated to be completed
+after the proposed project, safety improvements are planned at the Newport Way NW/ Maple
+Street NW intersection and along Newport Way NW. These include improvements to
+pedestrian and bicycle facilities, focusing on areas adjacent to the nearby elementary school.
+
+
+Transit Service
+The following sections describe existing and future transit service within the study area.
+
+
+
+
+                                                                                                       11
+Transportation Impact Analysis
+Inneswood Apartments                                                                                      December 2015
+
+
+Existing
+The existing Issaquah Transit Center, located just west of the study area, is served by five
+King Count Metro and three Sound Transit routes, providing access throughout Issaquah and
+the surrounding area. The service areas, operating hours, and headways are summarized in
+Table 5.
+
+Table 5. Existing Transit Service
+                                                      Approximate Operating Hours
+Routes                 Area Served                                                         PM Peak Headways (minutes)
+  200 Downtown Issaquah – North Issaquah                   9:00 a.m. to 3:00 p.m.                      15-20
+  208 Issaquah – North Bend                                5:00 a.m. to 9:30 p.m.                      120
+  214 Issaquah – Downtown Seattle                          5:00 a.m. to 9:30 a.m.;                      20
+                                                           3:00 p.m. to 7:00 p.m.
+  269 Issaquah – Overlake                                  6:00 a.m. to 8:00 p.m.                      15-20
+  271 Issaquah – Bellevue, University District             5:00 a.m. to 11:30 p.m.                     25-30
+ 5541 Issaquah – Downtown Seattle                          5:30 a.m. to 12:30 a.m.                     20-30
+ 5551
+        Issaquah – Northgate2                              5:00 a.m. to 7:30 p.m.                       30
+ 5561
+Source: King County Metro Transit and Sound Transit (2015).
+1.   This route is operated by Sound Transit.
+2.   Routes 555/556 service the same area; therefore, Sound Transit combines the route and schedule.
+
+
+As shown in the table, most of the service is provided to the Seattle area and headways
+range from 15 to 30 minutes.
+Future
+No additional improvements are planned in the immediate vicinity of the proposed project to
+be completed before 2018.
+
+
+
+
+                                                                                                                    12
+Transportation Impact Analysis
+Inneswood Apartments                                                                      December 2015
+
+
+
+                                     Project Impacts
+This section documents the proposed project’s impacts on the surrounding street system and
+identifies potential mitigation measures where necessary.
+
+
+Trip Generation
+Weekday daily, AM, and PM peak hour trips were estimated for project-generated vehicle
+trips using average peak hour trip rates or regression equations for the proposed uses using
+information published by the Institute of Transportation Engineers (ITE) in Trip Generation
+(9th Edition, 2012). The proposed project would develop 81 apartment units and 12
+townhome units. Trip generation was estimated based on the proposed Apartment (LU #220)
+and Residential Townhome (LU #230) land uses. The trip generation estimate also takes into
+account the removal of the existing Single-Family Home (LU #210). Trip generation for the
+proposed residential development is summarized in Table 6.
+
+Table 6. Estimated Weekday Trip Generation
+                                           Daily          AM Peak-Hour Trips       PM Peak-Hour Trips
+
+Land Use                         Size    Rate   Trips   Rate   In   Out   Total   Rate   In   Out Total
+Proposed
+Apartment (LU #220)              81 du   EQ     614     EQ     9    34     43     EQ     40   22   62
+Residential Townhome (LU
+                                 12 du   5.81      70   0.44   1     4     5      0.52   4     2    6
+#230)
+Total                                           684            10   38     48            44   24   68
+Existing
+Single Family Home (LU #210)     1 du    9.52      10   0.75   0     1     1      1.00   1     0    1
+Net New Trips                                   674            10   37     47            43   24   67
+du = dwelling unit
+
+
+As shown in Table 6, the proposed project is anticipated to generate approximately 674 net
+new daily trips with 47 net new trips occurring during the weekday AM peak hour and 67
+during the weekday PM peak hour.
+
+
+Trip Distribution and Assignment
+Travel patterns of the site generated vehicle traffic to and from the proposed site were based
+on the City of Issaquah travel demand model. Figure 6 illustrates the expected inbound trip
+distribution to the surrounding local and regional street system, Figure 7 illustrates the
+expected outbound trip distribution. An annual growth rate of 2 percent per year was applied
+to the existing PM peak hour traffic volumes at each study intersection to estimate future
+(2018) background traffic and the estimated trips were added to estimate future (2018) with-
+project weekday PM peak hour traffic volumes. These volumes are shown on Figure 8.
+
+
+
+
+                                                                                                    13
+Transportation Impact Analysis
+Inneswood Apartments                                                                                       December 2015
+
+
+
+Traffic Operations Impact
+Future (2018) with-project LOS analysis was conducted for the weekday PM peak hour to
+analyze traffic impacts of the proposed project. The same methods were applied as
+described for existing (2015) and future (2018) without-project conditions. All intersection
+parameters such as channelization and traffic control were consistent with those used in the
+evaluation of future without-project conditions with one exception. Under future (2018) with-
+project conditions, the Newport Way NW/NW Juniper Street intersection was evaluated as a
+roundabout. A comparison of future without- and with-project weekday PM peak hour traffic
+operations is summarized for the project site in Table 7. Detailed LOS worksheets are
+provided in Appendix C.
+
+Table 7.     Future Weekday PM Peak Hour Intersection LOS Summary
+With a Roundabout Installed at the Newport Way NW/NW Juniper Street Intersection Under Future
+(2018) With-Project Conditions
+
+                                                  Traffic      2018 Without-Project PM           2018 With-Project PM
+Intersection                                      Control       LOS1   Delay2    WM3            LOS       Delay     WM
+1. Newport Way NW/NW Maple Street                Signalized       D         42         -          D        43         -
+2. Newport Way NW/NW Juniper Street             Unsignalized      E         37        WB          A         7        WB
+3. NW Gilman Boulevard/NW Juniper Street Unsignalized             D         25        EB          D        26        EB
+4. Newport Way NW/Library Access                Unsignalized      B         13        WB          B        13        WB
+A. Newport Way NW/Site Access B                 Unsignalized       -         -         -          C        16        EB
+B. Newport Way NW/Site Access C                 Unsignalized       -         -         -          B        13        EB
+1.   Level of Service (A – F) as defined by the 2010 Highway Capacity Manual (HCM), Transportation Research Board.
+2.   Average delay per vehicle in seconds.
+3.   WM = Worst Movement reported for unsignalized intersections. NB = Northbound, SB = Southbound, EB = Eastbound, WB =
+     Westbound.
+
+
+As shown in Table 7, with the addition of project traffic, all study intersections are anticipated
+to operate at the same LOS as under future (2018) without-project conditions with the
+exception of the Newport Way NW/NW Juniper Street intersection. Overall impacts to the
+study intersections would generally be minimal with little to no change in calculated delays or
+LOS. The Newport Way NW/NW Juniper Street intersection is anticipated to improve from
+LOS E to LOS A with completion of the roundabout.
+
+Site Access
+Due to the proximity to the proposed roundabout at the Newport Way NW/NW Juniper Street
+intersection, site access C was evaluated as a right-in/right-out only driveway with a
+southbound right-turn lane extending from the roundabout at the Newport Way NW/NW
+Juniper Street intersection. It is anticipated that vehicles utilizing site access C with the desire
+to go north could turn right out of the site and utilize NW Holly Street and 7th Avenue NW to
+turn around and head north. Site access C is anticipated to operate at LOS B with
+approximately 13 seconds of delay.
+
+Site access B was evaluated as a full access driveway and is anticipated to operate at LOS C
+with approximately 16 seconds of delay.
+
+The Central Issaquah Development and Design Standards (CIDDS) does not specifically
+mention a minimum required driveway width. However, the City of Issaquah Department of
+Public Works Street Standards (Transportation, October 2010), Design Section B – Access
+Control (Driveways), Paragraph 6, Part A for Two-Way Driveways, does have a minimum as
+stated below:
+
+
+
+
+                                                                                                                           17
+Transportation Impact Analysis
+Inneswood Apartments                                                                 December 2015
+
+
+         Two-Way Driveways: The minimum two-way driveway width shall be twelve feet (12’)
+         minimum and twenty feet (20’) maximum for residential uses and twenty-four feet (24’)
+         minimum (can be reduced to twenty feet (20’) under special circumstances approved
+         by the City Engineer) and thirty-five feet (35’) maximum for commercial uses. A wider
+         commercial driveway width may be required by the Engineer where a substantial
+         percentage of oversized vehicle traffic exists. In this case, the driveway should be sized
+         to accommodate the largest vehicles. A maximum width of twenty-four feet (24’) for
+         driveways on designated pedestrian streets in Olde Town consistent with Olde Town
+         Design Standards.
+
+Since driveways for this project are for residential use, widths should not exceed 20 feet.
+
+In addition, driveways should be constructed to meet Americans with Disability Act (ADA)
+requirements as shown in City of Issaquah Standard Detail T-05
+
+In discussions with City staff, a concern was expressed regarding the proximity of Site
+Access B to the King County Library access located across Newport Way NW and slightly
+south from the Library access. The offset driveways have the potential of creating a conflict
+with opposing left-turning vehicles trying to enter the accesses at the same time. The
+southern access at the Library is not the main access, the main access is located to the
+north. Existing counts collected in November 2015 indicate that there were less than 10
+vehicles utilizing the southern driveway. The counts indicate that less than 5 vehicles made a
+southbound left-turn into the Library access and less than 5 westbound right-turns out of the
+access, no westbound left-turning movements are indicated on the counts. The spacing
+between the two access is not adequate to provide dedicated left-turn lanes for both
+accesses. It is therefore recommended that the two-way left-turn lane be extended across
+both accesses to provide left-turn access to Building B and the King County Library.
+
+
+Safety Analysis
+The high accident locations (HAL) were reviewed. If 10 or more peak hour project trips are
+added to a HAL, the City considers this a probable significant adverse impact. The project is
+anticipated to add 10 or more peak hour trips to the following HALs with 10 or more peak
+hour trips:
+
+        The Newport Way NW/Maple Street NW intersection.
+        A section of NW Juniper Street from Newport Way NW to 7th Avenue NW. After 7th
+         Avenue NW there are anticipated to be less than 10 peak hour project trips.
+        A portion of Newport Way NW from NW Juniper Street to NW Holly Street. After NW
+         Holly Street there are anticipated to be less than 10 peak hour project trips. The
+         Section of Newport Way NW from NW Juniper Street to Maple Street NW.
+
+As mentioned previously, the project is constructing improvements to the Newport Way
+NW/NW Juniper Street.
+
+Additionally, no significant adverse safety impacts are anticipated given the following:
+
+        Minor increase in traffic volumes at the study intersections. Traffic volume impacts
+         are anticipated to be approximately 3 percent or less at the study intersection.
+        Proposed construction of a roundabout at the Newport Way NW/NW Juniper Street.
+        No notable increases in delay are anticipated at the study intersections, with the
+         exception of the Newport Way NW/NW Juniper Street which will improve in
+         operations assuming completion of a roundabout.
+        Both site access locations are anticipated to operate at LOS C or better.
+
+
+
+
+                                                                                                18
+Transportation Impact Analysis
+Inneswood Apartments                                                                        December 2015
+
+
+
+Parking Analysis
+The following sections describe the proposed parking supply and parking code requirements.
+
+Supply
+Parking for the proposed project would be provided by 2 garages inclusive of 121 parking
+stalls. The Building B garage includes 113 stalls throughout 2 parking levels, 55 stalls on the
+lower level, and 58 stalls on the upper level. The Building C garage includes 8 stalls across 1
+parking level. Both Building B and Building C garages include compact stalls, ADA accessible
+stalls, motorcycle parking, and bicycle parking.
+
+Parking Code Analysis
+The parking requirement for the proposed project is based on City of Issaquah Development
+and Design Standards. The City of Issaquah requires 1 space per unit for multifamily housing
+units. Figure 8 summarizes the parking requirements.
+
+
+Table 8.         Comparison of Code and Proposed Parking
+                                                                         Proposed Parking
+                                                 Code Required
+Land Use                               Size         Parking       Required              Provided
+Building B
+                  Single Family Unit 12 units      1 space/unit     12
+        Multifamily Studio Apartment 17 units      1 space/unit     17
+ Multifamily Non-studio Apartment 57 units         1 space/unit     57
+Total                                                               86                       113
+Building C
+ Multifamily Non-studio Apartment 7 units          1 space/unit      7
+Total                                                                7                        8
+Source: Development Standards: 8.0 Parking Standards.
+
+
+As shown in Figure 8, the proposed development would include 81 residential apartment
+units and 12 residential townhome units. This results in a total of 93 required parking stalls.
+The project is proposing 121 parking stalls, which meets and exceeds parking requirements.
+
+According to the CIDDS figure 6A, Auto Inclusive Circulation Facility Classification Map, this
+section of Newport Way NW is classified as a parkway. Per Section 6.4 Circulation Facility
+Classification Standards, Part H for Parkways, no on-street parking lanes are required. It
+should be noted that when parking lanes are required, such as for part F. Auto Inclusive
+Circulation Facilities: Core Streets, 8-foot lanes are required. The proposed parking lanes are
+8-foot lanes.
+
+Per Table 8.16-1, Computation of Loading Zones, a multi-family building of more than 40 units
+requires 2 Type A loading spaces. Per item 7 of Section 8.16, Type A Loading Space shall be
+at least 25 feet in depth and 10 feet in width, except that on-street loading spaces may be the
+width of adjacent parallel parking. Therefore, on-street loading spaces should be provided for
+Building B measuring 25 feet in depth and 8 feet in width, matching the proposed adjacent
+parallel parking.
+
+
+
+
+                                                                                                      19
+Transportation Impact Analysis
+Inneswood Apartments                                                           December 2015
+
+
+
+Mitigation and Impact Fees
+The project is planning to construct roadway improvements in the form of a roundabout at the
+Newport Way NW/NW Juniper Street intersection the cost of which will be credited toward the
+traffic impact fees.
+
+
+
+
+                                                                                         20
+Transportation Impact Analysis
+Inneswood Apartments                                                                   December 2015
+
+
+
+                         Findings and Conclusions
+This transportation impact study summarizes the project traffic impacts of the proposed
+Inneswood Apartments residential development proposed along Newport Way NW. General
+findings and recommendations include:
+
+              The proposed project would develop 81 multi-family residential units and 12
+               townhomes.
+              The project is anticipated to generate approximately 674 weekday daily trips
+               with 47 occurring during the weekday AM peak hour and 67 during the PM peak
+               hour.
+              As part of the project it is planned that a roundabout would be constructed at the
+               Newport Way NW/NW Juniper Street intersection.
+              All study intersections currently operate at LOS D or better. Under future (2018)
+               without-project conditions the Newport Way NW/NW Juniper Street intersection
+               is anticipated to degrade from LOS C to LOS E and the NW Gilman
+               Boulevard/NW Juniper Street intersection is anticipated to degrade from LOS C
+               to LOS D. Under future (2018) with-project conditions, including construction of
+               the proposed roundabout, the Newport Way NW/NW Juniper Street intersection
+               is anticipated to improve to LOS A. The remaining intersections are anticipated
+               to operate at the same LOS as under future without-project conditions.
+              Site access B was evaluated as a full access driveway and is anticipated to
+               operate at LOS C. Site access C was evaluated as a right-in/right-out only
+               driveway and is anticipated to operate at LOS B. It is anticipated that vehicles
+               utilizing site access C with the desire to go north could turn right out of the site
+               and utilize NW Holly Street and 7th Avenue NW to turn around and head north.
+              The proposed project plans to construct the proposed roundabout. In doing so,
+               the project will receive credit toward the traffic impact fees.
+
+
+
+
+                                                                                                  21
+Appendix A: Traffic Counts
+www.idaxdata.com                                                                                                                                                                                         01
+
+
+
+
+                            NEWPORT WAY NW
+                              MAPLE ST NW
+                                                                                                                                          Date: Tue, Nov 10, 2015
+                 N                                      Peak Hour                                                                 Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                    Peak Hour: 4:45 PM to 5:45 PM
+
+
+
+                                                        365
+
+
+
+                                                                          326
+                            NW MAPLE ST
+
+
+
+
+                                                          283
+
+                                                                     79
+
+                                                                                0
+                                                3
+
+
+
+
+                                                                                                                                                               0
+                                                                                               MAPLE ST NW
+
+                        0                                                                      68
+                                                                                                                                                                        0
+       400                                                                                                          364                                                                          0
+                        1                            TEV: 1,752                                202
+
+
+
+
+                                                                                                                                                                                 6
+                                                                                                                                                               0
+                     196                             PHF: 0.93                                 94
+       429                                                                                                          417
+                                                                                               0                                            1                            0
+                     232
+
+          NEWPORT WAY
+                                                                                            NEWPORT
+                                                                                             WAY NW
+
+
+                   NW
+                                                                                 142
+                                                              195
+
+                                                                         257
+                                                    0
+
+
+
+
+                                                                                                                                                                             1
+                                                                                                                           HV %:    PHF
+                                                                                                                EB         0.5%     0.92
+                                                                                                                WB         1.1%     0.95
+                                                        609
+
+
+
+                                                                          594
+
+
+
+
+                                                                                                                NB         1.3%     0.85
+                                                                                                                SB         1.6%     0.91
+                                                                                                            TOTAL          1.1%     0.93
+
+
+Two-Hour Count Summaries
+                  NEWPORT WAY NW                                          MAPLE ST NW                      NEWPORT WAY NW                               NW MAPLE ST
+   Interval                                                                                                                                                                          15-min           Rolling
+                       Eastbound                                               Westbound                            Northbound                           Southbound
+     Start                                                                                                                                                                            Total          One Hour
+                UT     LT    TH                      RT             UT         LT    TH            RT      UT        LT    TH        RT     UT            LT    TH           RT
+   4:00 PM       0      0                 47         42             0           21     65          24      0         47      53      20         0         13       83        0        415               0
+   4:15 PM       0      1                 30         37             0           18     50          22      0         38      56      21         0         29       75        1        378               0
+   4:30 PM       0      5                 40         64             0           29     45          14      0         42      55      26         0         16       68        0        404               0
+   4:45 PM       0      0                 38         52             0           25     49          19      0         44      59      46         0         18       73        0        423             1,620
+   5:00 PM       0      0                 53         61             0           23     49          12      0         52      92      31         0         25       74        1        473             1,678
+   5:15 PM       0      1                 58         57             0           26     51          19      0         59      58      29         0         22       70        0        450             1,750
+   5:30 PM       0      0                 47         62             0           20     53          18      0         40      48      36         0         14       66        2        406             1,752
+   5:45 PM       0      3                 44         52             0           31     39          21      0         35      36      26         0         14       61        1        363             1,692
+ Count Total     0     10                 357        427            0          193     401       149       0         357     457    235         0        151       570       5       3,312              0
+ Peak Hour       0      1                 196        232            0           94     202         68      0         195     257    142         0         79       283       3       1,752              0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval             Heavy Vehicle Totals                                                               Bicycles                                        Pedestrians (Crossing Leg)
+     Start      EB      WB      NB      SB                                     Total   EB             WB      NB            SB      Total       East        West      North    South                    Total
+   4:00 PM       0          1                   7               5               13     1              0         0            0       1              0              0             0           0              0
+   4:15 PM       1          3                   1               3               8      1              0         0            0       1              0              0             2           2              4
+   4:30 PM       3          0                   2               1               6      0              1         0            0       1              3              0             4           1              8
+   4:45 PM       2          0                   0               0               2      1              0         1            0       2              0              0             0           0              0
+   5:00 PM       0          1                   2               3               6      0              0         0            0       0              2              0             0           0              2
+   5:15 PM       0          2                   4               1               7      0              0         0            0       0              4              0             0           0              4
+   5:30 PM       0          1                   2               2               5      0              0         0            0       0              0              0             0           0              0
+   5:45 PM       0          2                   1               3               6      0              0         0            0       0              1              0             0           1              2
+ Count Total     6       10                     19              18              53     3              1         1            0       5              10             0             6           4           20
+ Peak Hour       2          4                   8               6               20     1              0         1            0       2              6              0             0           0              6
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                            mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                                             02
+
+
+
+
+                              NEWPORT WAY NW
+                               NW JUNIPER ST
+                                                                                                                                         Date: Tue, Nov 10, 2015
+                     N                            Peak Hour                                                                      Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                   Peak Hour: 4:45 PM to 5:45 PM
+
+
+
+
+                                                      606
+
+
+                                                                        577
+                             NEWPORT
+                             WAY NW
+
+
+                                                505
+
+                                                        100
+
+                                                                    1
+
+
+
+
+                                                                                                                                                         8
+                                                                                            NW JUNIPER
+                                                                                            ST
+
+                                                                                            167
+                                                                                                                                                                 0
+                                                                                                                 216                                                                1
+                                                      TEV: 1,270                            49
+
+
+
+
+                                                                                                                                                                      5
+                                                                                                                                                   0
+                                                      PHF: 0.95                             0
+                                                                                                                 139
+                                                                                                                                                                 0
+                                                                                         NEWPORT
+                                                                                          WAY NW
+
+
+
+
+                                                                                                                     HV %:         PHF
+                                                                    409
+
+                                                                               39
+                                                            0
+
+
+
+
+                                                                                                                                                                     8
+                                                                                                            EB          -            -
+                                                                                                            WB         0.5%        0.87
+                                                                                                            NB         1.8%        0.94
+                                                      554
+
+
+                                                                     448
+
+
+
+
+                                                                                                            SB         1.3%        0.93
+                                                                                                        TOTAL          1.3%        0.95
+
+
+Two-Hour Count Summaries
+                                 0                                  NW JUNIPER ST                      NEWPORT WAY NW                      NEWPORT WAY NW
+   Interval                                                                                                                                                                  15-min       Rolling
+                         Eastbound                                      Westbound                               Northbound                         Southbound
+     Start                                                                                                                                                                    Total      One Hour
+                UT       LT    TH               RT           UT         LT    TH             RT        UT        LT    TH           RT     UT       LT    TH         RT
+   4:00 PM       0       0             0         0              0         13        0        36        0         0          91      8      0        7        138     0        293           0
+   4:15 PM       0       0             0         0              0         14        0        28        0         0          84      11     0        12       129     0        278           0
+   4:30 PM       0       0             0         0              0         11        0        39        0         0          77      9      0        18       145     0        299           0
+   4:45 PM       0       0             0         0              0         14        0        42        0         0      107         10     1        31       106     0        311         1,181
+   5:00 PM       0       0             0         0              0         8         0        54        0         0      106         13     0        29       124     0        334         1,222
+   5:15 PM       0       0             0         0              0         10        0        32        0         0      111         8      0        24       139     0        324         1,268
+   5:30 PM       0       0             0         0              0         17        0        39        0         0          85      8      0        16       136     0        301         1,270
+   5:45 PM       0       0             0         0              0         6         0        23        0         0          68      7      0        13       122     0        239         1,198
+ Count Total     0       0             0         0              0         93        0       293        0         0      729         74     1       150     1,039     0       2,379          0
+ Peak Hour       0       0             0         0              0         49        0       167        0         0      409         39     1       100       505     0       1,270          0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval               Heavy Vehicle Totals                                                         Bicycles                                         Pedestrians (Crossing Leg)
+     Start      EB        WB      NB      SB                            Total       EB          WB        NB           SB          Total   East          West      North    South           Total
+   4:00 PM       0           2             5                8             15        0              0        0           1           1          0             0           0           0          0
+   4:15 PM       0           0             1                2             3         0              0        0           2           2          0             0           0           0          0
+   4:30 PM       0           0             1                2             3         0              0        0           1           1          1             0           0           0          1
+   4:45 PM       0           0             1                0             1         0              1        0           0           1          1             0           0           0          1
+   5:00 PM       0           0             2                5             7         0              0        0           0           0          3             0           0           0          3
+   5:15 PM       0           1             3                1             5         0              0        0           1           1          1             0           0           0          1
+   5:30 PM       0           0             2                2             4         0              0        0           0           0          0             0           0           0          0
+   5:45 PM       0           0             1                2             3         0              0        0           0           0          1             0           0           0          1
+ Count Total     0           3             16               22            41        0              1        0           5           6          7             0           0           0          7
+   Peak Hr       0           1             8                8             17        0              1        0           1           2          5             0           0           0          5
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                      mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                                               03
+
+
+
+
+                             NW GILMAN BLVD
+                              NW JUNIPER ST
+                                                                                                                                         Date: Tue, Nov 10, 2015
+                N                             Peak Hour                                                                          Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                   Peak Hour: 4:30 PM to 5:30 PM
+
+
+
+                                              952
+
+
+
+                                                                612
+                       NW GILMAN
+                       BLVD
+
+
+
+
+                                                715
+                                       237
+
+
+
+                                                           0
+
+
+
+
+                                                                                                                                                               0
+                                                                                                                                                                   0
+     472
+                       0                     TEV: 1,956
+
+
+
+
+                                                                                                                                                                                0
+                                                                                                                                                           9
+                      14                     PHF: 0.93
+     169
+                                                                                                                                            0
+                     155                                                                                                                                           0
+
+         NW JUNIPER ST
+                                                                                         NW GILMAN
+                                                                                              BLVD
+                                                              235
+
+                                                                          598
+                                                    2
+
+
+
+
+                                                                                                                          HV %:    PHF
+
+
+
+
+                                                                                                                                                                           1
+                                                                                                               EB         0.0%     0.88
+                                                                                                               WB           -        -
+                                                                                                               NB         1.2%     0.85
+                                              872
+
+
+
+                                                               835
+
+
+
+
+                                                                                                               SB         0.6%     0.91
+                                                                                                           TOTAL          0.8%     0.93
+
+
+Two-Hour Count Summaries
+                     NW JUNIPER ST                                              0                             NW GILMAN BLVD                   NW GILMAN BLVD
+   Interval                                                                                                                                                                15-min           Rolling
+                       Eastbound                                    Westbound                                      Northbound                      Southbound
+     Start                                                                                                                                                                  Total          One Hour
+                UT     LT    TH              RT         UT          LT    TH                   RT         UT        LT    TH        RT     UT       LT    TH       RT
+   4:00 PM       0     11          0         42           0           0             0           0         0         36      152     0      0        0      178     60          479            0
+   4:15 PM       0     10          0         25           0           0             0           0         0         34      153     0      0        0      178     63          463            0
+   4:30 PM       0      6          0         31           0           0             0           0         1         49      151     0      0        0      167     59          464            0
+   4:45 PM       0      2          0         46           0           0             0           0         0         65      133     0      0        0      152     67          465          1,871
+   5:00 PM       0      2          0         44           0           0             0           0         1         52      138     0      0        0      203     59          499          1,891
+   5:15 PM       0      4          0         34           0           0             0           0         0         69      176     0      0        0      193     52          528          1,956
+   5:30 PM       0      8          0         40           0           0             0           0         0         27      129     0      0        0      172     47          423          1,915
+   5:45 PM       0      4          0         32           0           0             0           0         0         9       130     0      0        0      154     51          380          1,830
+ Count Total     0     47          0         294          0           0             0           0         2         341    1,162    0      0        0      1,397   458         3,701          0
+ Peak Hour       0     14          0         155          0           0             0           0         2         235     598     0      0        0      715     237         1,956          0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval             Heavy Vehicle Totals                                                              Bicycles                                      Pedestrians (Crossing Leg)
+     Start      EB      WB      NB      SB                          Total           EB               WB      NB            SB      Total   East          West      North    South             Total
+   4:00 PM       2          0          3              2               7             1                0         0            0       1          0           4           0               0          4
+   4:15 PM       0          0          0              5               5             1                0         0            0       1          0           2           0               0          2
+   4:30 PM       0          0          2              3               5             0                0         0            0       0          0           3           0               0          3
+   4:45 PM       0          0          1              1               2             0                0         1            0       1          0           6           0               0          6
+   5:00 PM       0          0          3              1               4             0                0         0            0       0          0           0           0               0          0
+   5:15 PM       0          0          4              1               5             0                0         0            0       0          0           0           0               0          0
+   5:30 PM       0          0          3              0               3             0                0         0            0       0          0           0           0               0          0
+   5:45 PM       0          0          1              1               2             0                0         0            0       0          0           0           0               0          0
+ Count Total     2          0          17             14             33             2                0         1            0       3          0          15           0               0       15
+   Peak Hr       0          0          10             6              16             0                0         1            0       1          0           9           0               0          9
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                    mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                                            04
+
+
+
+
+                                 NEWPORT WAY NW
+                                    DRIVEWAY
+                                                                                                                                         Date: Tue, Nov 10, 2015
+                     N                         Peak Hour                                                                         Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                   Peak Hour: 4:45 PM to 5:45 PM
+
+
+
+
+                                                    614
+
+
+                                                                      585
+                             NEWPORT
+                             WAY NW
+
+
+                                              610
+
+
+
+                                                                  1
+                                                      3
+
+
+
+
+                                                                                                                                                        8
+                                                                                         DRIVEWAY
+
+                                                                                         3
+                                                                                                                                                                0
+                                                                                                                  3                                                             0
+                                                    TEV: 1,198                           0
+
+
+
+
+                                                                                                                                                                    4
+                                                                                                                                                   0
+                                                    PHF: 0.95                            0
+                                                                                                               3
+                                                                                                                                                                0
+                                                                                      NEWPORT
+                                                                                       WAY NW
+
+
+
+
+                                                                                                                      HV %:        PHF
+                                                                             0
+                                                                  581
+                                                          0
+
+
+
+
+                                                                                                                                                                    7
+                                                                                                         EB             -            -
+                                                                                                         WB           0.0%         0.38
+                                                                                                         NB           1.2%         0.90
+                                                    610
+
+
+                                                                   581
+
+
+
+
+                                                                                                         SB           1.3%         0.98
+                                                                                                     TOTAL            1.3%         0.95
+
+
+Two-Hour Count Summaries
+                                 0                                 DRIVEWAY                         NEWPORT WAY NW                         NEWPORT WAY NW
+   Interval                                                                                                                                                                 15-min       Rolling
+                         Eastbound                                    Westbound                              Northbound                            Southbound
+     Start                                                                                                                                                                   Total      One Hour
+                UT       LT    TH             RT          UT          LT    TH            RT        UT        LT    TH              RT     UT       LT    TH        RT
+   4:00 PM       0       0           0         0              0         1        0         1        0         0         128         0      0        0       146     0        276           0
+   4:15 PM       0       0           0         0              0         2        0         0        0         0         110         1      0        0       137     0        250           0
+   4:30 PM       0       0           0         0              0         0        0         0        0         0         118         0      0        0       161     0        279           0
+   4:45 PM       0       0           0         0              0         0        0         2        0         0         152         0      1        2       145     0        302         1,107
+   5:00 PM       0       0           0         0              0         0        0         0        0         0         162         0      0        0       154     0        316         1,147
+   5:15 PM       0       0           0         0              0         0        0         1        0         0         143         0      0        0       156     0        300         1,197
+   5:30 PM       0       0           0         0              0         0        0         0        0         0         124         0      0        1       155     0        280         1,198
+   5:45 PM       0       0           0         0              0         0        0         0        0         0             91      0      1        0       137     0        229         1,125
+ Count Total     0       0           0         0              0         3        0         4        0         0        1,028        1      2        3       1,191   0       2,232          0
+ Peak Hour       0       0           0         0              0         0        0         3        0         0         581         0      1        3       610     0       1,198          0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval               Heavy Vehicle Totals                                                      Bicycles                                            Pedestrians (Crossing Leg)
+     Start      EB        WB      NB      SB                       Total         EB          WB        NB              SB          Total   East          West      North    South          Total
+   4:00 PM       0           0           7                5             12       0              0        0              1           1          1            0           0           0          1
+   4:15 PM       0           0           1                2             3        0              0        0              2           2          0            0           0           0          0
+   4:30 PM       0           0           1                2             3        0              0        0              1           1          3            0           0           0          3
+   4:45 PM       0           0           0                1             1        0              0        1              1           2          1            0           0           0          1
+   5:00 PM       0           0           2                3             5        0              0        0              0           0          2            0           0           0          2
+   5:15 PM       0           0           3                1             4        0              0        0              1           1          1            0           0           0          1
+   5:30 PM       0           0           2                3             5        0              0        0              0           0          0            0           0           0          0
+   5:45 PM       0           0           1                2             3        0              0        0              0           0          1            0           0           0          1
+ Count Total     0           0           17           19                36       0              0        1              6           7          9            0           0           0          9
+   Peak Hr       0           0           7                8             15       0              0        1              2           3          4            0           0           0          4
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                     mark.skaggs@idaxdata.com
+Appendix B: LOS Definitions
+                                          Highway Capacity Manual, 2000
+
+Signalized intersection level of service (LOS) is defined in terms of the average total vehicle
+delay of all movements through an intersection. Vehicle delay is a method of quantifying several
+intangible factors, including driver discomfort, frustration, and lost travel time. Specifically, LOS
+criteria are stated in terms of average delay per vehicle during a specified time period (for
+example, the PM peak hour). Vehicle delay is a complex measure based on many variables,
+including signal phasing (i.e., progression of movements through the intersection), signal cycle
+length, and traffic volumes with respect to intersection capacity. Table 1 shows LOS criteria for
+signalized intersections, as described in the Highway Capacity Manual (Transportation Research
+Board, Special Report 209, 2000).
+
+Table 1.        Level of Service Criteria for Signalized Intersections
+                     Average Control Delay            General Description
+Level of Service           (sec/veh)                  (Signalized Intersections)
+        A                       ≤10                   Free Flow
+        B                     >10 - 20                Stable Flow (slight delays)
+        C                     >20 - 35                Stable flow (acceptable delays)
+        D                                             Approaching unstable flow (tolerable delay, occasionally wait through
+                              >35 - 55
+                                                      more than one signal cycle before proceeding)
+        E                     >55 - 80                Unstable flow (intolerable delay)
+        F                       >80                   Forced flow (jammed)
+Source: Highway Capacity Manual, Transportation Research Board, Special Report 209, 2000.
+
+
+
+
+Unsignalized intersection LOS criteria can be further reduced into two intersection types: all-
+way stop-controlled and two-way stop-controlled. All-way, stop-controlled intersection LOS is
+expressed in terms of the average vehicle delay of all of the movements, much like that of a
+signalized intersection. Two-way, stop-controlled intersection LOS is defined in terms of the
+average vehicle delay of an individual movement(s). This is because the performance of a two-
+way, stop-controlled intersection is more closely reflected in terms of its individual movements,
+rather than its performance overall. For this reason, LOS for a two-way, stop-controlled
+intersection is defined in terms of its individual movements. With this in mind, total average
+vehicle delay (i.e., average delay of all movements) for a two-way, stop-controlled intersection
+should be viewed with discretion. Table 2 shows LOS criteria for unsignalized intersections (both
+all-way and two-way, stop-controlled).
+
+                Table 2.        Level of Service Criteria for Unsignalized Intersections
+                             Level of Service                        Average Control Delay (sec/veh)
+                                      A                                              0 - 10
+                                      B                                             >10 - 15
+                                      C                                             >15 - 25
+                                      D                                             >25 - 35
+                                      E                                             >35 - 50
+                                      F                                               >50
+                Source: Highway Capacity Manual, Transportation Research Board, Special Report 209, 2000.
+                                                    Highway Capacity Manual 2010
+
+Signalized intersection level of service (LOS) is defined in terms of a weighted average control delay for
+the entire intersection. Control delay quantifies the increase in travel time that a vehicle experiences due
+to the traffic signal control as well as provides a surrogate measure for driver discomfort and fuel
+consumption. Signalized intersection LOS is stated in terms of average control delay per vehicle (in
+seconds) during a specified time period (e.g., weekday PM peak hour). Control delay is a complex
+measure based on many variables, including signal phasing and coordination (i.e., progression of
+movements through the intersection and along the corridor), signal cycle length, and traffic volumes with
+respect to intersection capacity and resulting queues. Table 1 summarizes the LOS criteria for signalized
+intersections, as described in the Highway Capacity Manual 2010 (Transportation Research Board,
+2010).
+
+Table 1. Level of Service Criteria for Signalized Intersections
+                           Average Control Delay
+ Level of Service            (seconds/vehicle)                  General Description
+          A                           ≤10                       Free Flow
+          B                         >10 – 20                    Stable Flow (slight delays)
+          C                         >20 – 35                    Stable flow (acceptable delays)
+                                                                Approaching unstable flow (tolerable delay, occasionally wait through more
+          D                         >35 – 55
+                                                                than one signal cycle before proceeding)
+          E                         >55 – 80                    Unstable flow (intolerable delay)
+             1
+         F                            >80                       Forced flow (congested and queues fail to clear)
+Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+1. If the volume-to-capacity (v/c) ratio for a lane group exceeds 1.0 LOS F is assigned to the individual lane group. LOS for overall approach or
+      intersection is determined solely by the control delay.
+
+
+
+
+Unsignalized intersection LOS criteria can be further reduced into two intersection types: all-way stop
+and two-way stop control. All-way stop control intersection LOS is expressed in terms of the weighted
+average control delay of the overall intersection or by approach. Two-way stop-controlled intersection
+LOS is defined in terms of the average control delay for each minor-street movement (or shared
+movement) as well as major-street left-turns. This approach is because major-street through vehicles are
+assumed to experience zero delay, a weighted average of all movements results in very low overall
+average delay, and this calculated low delay could mask deficiencies of minor movements. Table 2 shows
+LOS criteria for unsignalized intersections.
+
+                 Table 2. Level of Service Criteria for Unsignalized Intersections
+                                   Level of Service                            Average Control Delay (seconds/vehicle)
+                                            A                                                        0 – 10
+                                            B                                                      >10 – 15
+                                            C                                                      >15 – 25
+                                            D                                                      >25 – 35
+                                            E                                                      >35 – 50
+                                            F1                                                        >50
+                 Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+                 1. If the volume-to-capacity (v/c) ratio exceeds 1.0, LOS F is assigned an individual lane group for all unsignalized
+                    intersections, or minor street approach at two-way stop-controlled intersections. Overall intersection LOS is
+                    determined solely by control delay.
+Appendix C: LOS Worksheets
+HCM Signalized Intersection Capacity Analysis                                                   Inneswood Apartments
+1: Newport Way NW & Maple St NW & NW Maple St                                                     Existing (2015) PM Peak Hour
+
+
+
+Movement                    EBL      EBT     EBR     WBL     WBT     WBR         NBL    NBT     NBR     SBL        SBT     SBR
+Lane Configurations
+Traffic Volume (vph)           5     195      230       95    200       70       195     255     140       80      285        5
+Future Volume (vph)            5     195      230       95    200       70       195     255     140       80      285        5
+Ideal Flow (vphpl)          1900    1900     1900    1900    1900     1900      1900    1900    1900    1900      1900     1900
+Total Lost time (s)                   5.0      5.0     5.0     5.0                5.0     5.0             5.0       5.0
+Lane Util. Factor                   1.00     1.00    1.00    1.00                1.00    0.95            1.00      0.95
+Frpb, ped/bikes                     1.00     0.99    1.00    1.00               1.00    0.99             1.00      1.00
+Flpb, ped/bikes                     1.00     1.00    1.00    1.00               1.00    1.00            1.00      1.00
+Frt                                  1.00     0.85    1.00    0.96               1.00    0.95            1.00      1.00
+Flt Protected                        1.00     1.00    0.95    1.00               0.95    1.00            0.95      1.00
+Satd. Flow (prot)                   1879     1578    1787    1808               1787    3338            1770      3531
+Flt Permitted                        1.00     1.00    0.95    1.00               0.95    1.00            0.95      1.00
+Satd. Flow (perm)                   1879     1578    1787    1808               1787    3338            1770      3531
+Peak-hour factor, PHF       0.93     0.93     0.93    0.93    0.93    0.93       0.93    0.93   0.93     0.93      0.93    0.93
+Adj. Flow (vph)                5     210      247     102     215       75       210     274    151        86      306        5
+RTOR Reduction (vph)           0        0     115        0       7       0          0      54      0        0         1       0
+Lane Group Flow (vph)          0     215      132     102     283        0       210     371       0       86      310        0
+Confl. Peds. (#/hr)                                                                                6        6
+Confl. Bikes (#/hr)                            1                                                   1
+Heavy Vehicles (%)           1%       1%      1%      1%       1%      1%         1%     1%      1%       2%        2%       2%
+Turn Type                   Split     NA    Perm     Split     NA                Prot    NA              Prot       NA
+Protected Phases               4       4                3       3                  1      6                5         2
+Permitted Phases                                4
+Actuated Green, G (s)                22.3    22.3    30.3     30.3               18.0   22.0             9.8       13.8
+Effective Green, g (s)               22.3    22.3    30.3     30.3               18.0   22.0             9.8       13.8
+Actuated g/C Ratio                   0.21    0.21    0.29     0.29               0.17   0.21            0.09       0.13
+Clearance Time (s)                    5.0     5.0     5.0      5.0                5.0    5.0             5.0        5.0
+Vehicle Extension (s)                 6.0     6.0     2.0      2.0                2.0    2.0             2.0        2.0
+Lane Grp Cap (vph)                    401     337     518      524                308    703            166        466
+v/s Ratio Prot                      c0.11            0.06    c0.16              c0.12   0.11            0.05      c0.09
+v/s Ratio Perm                               0.08
+v/c Ratio                            0.54    0.39    0.20     0.54               0.68   0.53            0.52       0.67
+Uniform Delay, d1                    36.5    35.2    27.9     31.2               40.5   36.6            45.1       43.1
+Progression Factor                   1.00    1.00    1.00     1.00               1.00   1.00            1.00       1.00
+Incremental Delay, d2                 3.3     2.1     0.9      4.0                4.9    0.3             1.1        2.8
+Delay (s)                            39.7    37.4    28.7     35.1               45.4   36.9            46.2       45.9
+Level of Service                        D       D       C        D                  D      D               D          D
+Approach Delay (s)                   38.5                     33.5                      39.7                       45.9
+Approach LOS                            D                        C                         D                          D
+Intersection Summary
+HCM 2000 Control Delay                        39.4       HCM 2000 Level of Service                D
+HCM 2000 Volume to Capacity ratio             0.59
+Actuated Cycle Length (s)                    104.4       Sum of lost time (s)                   20.0
+Intersection Capacity Utilization           60.8%        ICU Level of Service                      B
+Analysis Period (min)                           15
+Description: Newport Way NW/Maple St NW
+c Critical Lane Group
+
+
+Transpo Group                                                                                                   Synchro 9 Report
+HCM 2010 TWSC                                                                                        Inneswood Apartments
+2: Newport Way NW & NW Juniper St                                                                       Existing (2015) PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           4
+
+Movement                        WBL          WBR                  NBT NBR SBU SBL SBT
+Traffic Vol, veh/h                50          165                  410   30    5 100 505
+Future Vol, veh/h                 50          165                  410   30    5 100 505
+Conflicting Peds, #/hr             5            5                    0    5    0    5    0
+Sign Control                    Stop         Stop                 Free Free Free Free Free
+RT Channelized                     -         None                    - None    -    - None
+Storage Length                     0            -                    -    -    -    -    -
+Veh in Median Storage, #           0            -                    0    -    -    -    0
+Grade, %                           0            -                    0    -    -    -    0
+Peak Hour Factor                  95           95                   95   95   95   95   95
+Heavy Vehicles, %                  1            1                    2    2    1    1    1
+Mvmt Flow                         53          174                  432   32    5 105 532
+
+Major/Minor                    Minor1                            Major1       Major2
+Conflicting Flow All            1194          463                     0     0 637 468            0
+       Stage 1                    452           -                     -     -      -     -       -
+       Stage 2                    742           -                     -     -      -     -       -
+Critical Hdwy                    6.41        6.21                     -     -      - 4.11        -
+Critical Hdwy Stg 1              5.41           -                     -     -      -     -       -
+Critical Hdwy Stg 2              5.41           -                     -     -      -     -       -
+Follow-up Hdwy                  3.509       3.309                     -     -      - 2.209       -
+Pot Cap-1 Maneuver                207         601                     -     -      - 1099        -
+       Stage 1                    643           -                     -     -      -     -       -
+       Stage 2                    473           -                     -     -      -     -       -
+Platoon blocked, %                                                    -     -                    -
+Mov Cap-1 Maneuver               205          596                     -     - ~ -21 ~ -21        -
+Mov Cap-2 Maneuver               205            -                     -     -      -     -       -
+       Stage 1                   640            -                     -     -      -     -       -
+       Stage 2                   471            -                     -     -      -     -       -
+
+Approach                          WB                                NB           SB
+HCM Control Delay, s             23.8                                0
+HCM LOS                            C
+
+Minor Lane/Major Mvmt            NBT NBRWBLn1       SBL    SBT
+Capacity (veh/h)                   -    - 413         +      -
+HCM Lane V/C Ratio                 -    - 0.548       -      -
+HCM Control Delay (s)              -    - 23.8        -      -
+HCM Lane LOS                       -    -     C       -      -
+HCM 95th %tile Q(veh)              -    -   3.2       -      -
+Notes
+~: Volume exceeds capacity       $: Delay exceeds 300s    +: Computation Not Defined   *: All major volume in platoon
+
+
+
+Transpo Group                                                                                                           Synchro 9 Report
+HCM 2010 TWSC                                                                   Inneswood Apartments
+3: NW Gilman Blvd & NW Juniper St                                                 Existing (2015) PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           3.5
+
+Movement                          EBL          EBR NBU NBL NBT          SBT SBR
+Traffic Vol, veh/h                  15          155    5 235 600         715 235
+Future Vol, veh/h                   15          155    5 235 600         715 235
+Conflicting Peds, #/hr               9            9    0    9    0         0    9
+Sign Control                      Stop         Stop Free Free Free      Free Free
+RT Channelized                       -         None    -    - None         - None
+Storage Length                      85            -    - 100     -         -    -
+Veh in Median Storage, #             0            -    -    -    0         0    -
+Grade, %                             0            -    -    -    0         0    -
+Peak Hour Factor                    93           93   93   93   93        93   93
+Heavy Vehicles, %                    0            0    1    1    1         1    1
+Mvmt Flow                           16          167    5 253 645         769 253
+
+Major/Minor                      Minor2              Major1            Major2
+Conflicting Flow All              1743          529 1188 1031      0        -    0
+       Stage 1                      904            -      -  -     -        -    -
+       Stage 2                      839            -      -  -     -        -    -
+Critical Hdwy                       6.8          6.9 6.42 4.12     -        -    -
+Critical Hdwy Stg 1                 5.8            -      -  -     -        -    -
+Critical Hdwy Stg 2                 5.8            -      -  -     -        -    -
+Follow-up Hdwy                      3.5          3.3 2.51 2.21     -        -    -
+Pot Cap-1 Maneuver                   79         499 254 676        -        -    -
+       Stage 1                      360            -      -  -     -        -    -
+       Stage 2                      389            -      -  -     -        -    -
+Platoon blocked, %                                                 -        -    -
+Mov Cap-1 Maneuver                  78          492   633   633    -        -    -
+Mov Cap-2 Maneuver                  78            -     -     -    -        -    -
+       Stage 1                     357            -     -     -    -        -    -
+       Stage 2                     386            -     -     -    -        -    -
+
+Approach                            EB                NB                  SB
+HCM Control Delay, s               20.1               4.2                  0
+HCM LOS                              C
+
+Minor Lane/Major Mvmt              NBL    NBT EBLn1 EBLn2   SBT SBR
+Capacity (veh/h)                    633     -    78 492       -    -
+HCM Lane V/C Ratio                0.408     - 0.207 0.339     -    -
+HCM Control Delay (s)              14.5     - 62.8     16     -    -
+HCM Lane LOS                          B     -     F     C     -    -
+HCM 95th %tile Q(veh)                 2     -   0.7   1.5     -    -
+
+
+
+
+Transpo Group                                                                                Synchro 9 Report
+HCM 2010 TWSC                                                                                            Inneswood Apartments
+4: Driveway & Newport Way NW                                                                                Existing (2015) PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           0.1
+
+Movement                           WBL          WBR                   NBT NBR SBU SBL SBT
+Traffic Vol, veh/h                    0            5                   580    0    5    5 610
+Future Vol, veh/h                     0            5                   580    0    5    5 610
+Conflicting Peds, #/hr                4            4                     0    4    0    4    0
+Sign Control                       Stop         Stop                  Free Free Free Free Free
+RT Channelized                        -         None                     - None    -    - None
+Storage Length                        0            -                     -    -    -    -    -
+Veh in Median Storage, #              0            -                     0    -    -    -    0
+Grade, %                              0            -                     0    -    -    -    0
+Peak Hour Factor                     95           95                    95   95   95   95   95
+Heavy Vehicles, %                     0            0                     1    1    1    1    1
+Mvmt Flow                             0            5                   611    0    5    5 642
+
+Major/Minor                      Minor1                              Major1       Major2
+Conflicting Flow All              1268           624                      0     0 616 615            0
+       Stage 1                      615             -                     -     -      -     -       -
+       Stage 2                      653             -                     -     -      -     -       -
+Critical Hdwy                       6.4           6.2                     -     -      - 4.11        -
+Critical Hdwy Stg 1                 5.4             -                     -     -      -     -       -
+Critical Hdwy Stg 2                 5.4             -                     -     -      -     -       -
+Follow-up Hdwy                       3.5          3.3                     -     -      - 2.209       -
+Pot Cap-1 Maneuver                  188          489                      -     -      - 970         -
+       Stage 1                      543             -                     -     -      -     -       -
+       Stage 2                      522             -                     -     -      -     -       -
+Platoon blocked, %                                                        -     -                    -
+Mov Cap-1 Maneuver                  187          486                      -     -      ~     ~       -
+Mov Cap-2 Maneuver                  187            -                      -     -      -     -       -
+       Stage 1                      541            -                      -     -      -     -       -
+       Stage 2                      520            -                      -     -      -     -       -
+
+Approach                            WB                                  NB           SB
+HCM Control Delay, s               12.5                                  0
+HCM LOS                               B
+
+Minor Lane/Major Mvmt              NBT NBRWBLn1         SBL    SBT
+Capacity (veh/h)                     -    - 486           ~      -
+HCM Lane V/C Ratio                   -    - 0.011         ~      -
+HCM Control Delay (s)                -    - 12.5          -      -
+HCM Lane LOS                         -    -     B         -      -
+HCM 95th %tile Q(veh)                -    -     0         ~      -
+Notes
+~: Volume exceeds capacity          $: Delay exceeds 300s     +: Computation Not Defined   *: All major volume in platoon
+
+
+
+Transpo Group                                                                                                               Synchro 9 Report
+HCM Signalized Intersection Capacity Analysis                                                     Inneswood Apartments
+1: Newport Way NW & Maple St NW & NW Maple St                                           Future (2018) Without-Project PM Peak Hour
+
+
+
+Movement                    EBL      EBT     EBR     WBL     WBT     WBR         NBL       NBT     NBR      SBL        SBT     SBR
+Lane Configurations
+Traffic Volume (vph)           5     220      245     100     215       85       210       280      150      100       310        5
+Future Volume (vph)            5     220      245     100     215       85       210       280      150      100       310        5
+Ideal Flow (vphpl)          1900    1900     1900    1900    1900     1900      1900      1900     1900     1900      1900     1900
+Total Lost time (s)                   5.0      5.0     5.0     5.0                5.0       5.0               5.0       5.0
+Lane Util. Factor                   1.00     1.00    1.00    1.00                1.00      0.95              1.00      0.95
+Frpb, ped/bikes                     1.00     0.99    1.00    1.00               1.00      0.99               1.00      1.00
+Flpb, ped/bikes                     1.00     1.00    1.00    1.00               1.00      1.00              1.00      1.00
+Frt                                  1.00     0.85    1.00    0.96               1.00      0.95              1.00      1.00
+Flt Protected                        1.00     1.00    0.95    1.00               0.95      1.00              0.95      1.00
+Satd. Flow (prot)                   1879     1578    1787    1801               1787      3342              1770      3531
+Flt Permitted                        1.00     1.00    0.95    1.00               0.95      1.00              0.95      1.00
+Satd. Flow (perm)                   1879     1578    1787    1801               1787      3342              1770      3531
+Peak-hour factor, PHF       0.93     0.93     0.93    0.93    0.93    0.93       0.93      0.93     0.93     0.93      0.93    0.93
+Adj. Flow (vph)                5     237      263     108     231       91       226       301      161      108       333        5
+RTOR Reduction (vph)           0        0     108        0       8       0          0        50        0        0         1       0
+Lane Group Flow (vph)          0     242      155     108     314        0       226       412         0     108       337        0
+Confl. Peds. (#/hr)                                                                                    6        6
+Confl. Bikes (#/hr)                            1                                                       1
+Heavy Vehicles (%)           1%       1%      1%      1%       1%      1%         1%        1%       1%      2%         2%       2%
+Turn Type                   Split     NA    Perm     Split     NA                Prot       NA              Prot        NA
+Protected Phases               4       4                3       3                  1         6                5          2
+Permitted Phases                                4
+Actuated Green, G (s)                24.1    24.1    30.2     30.2               19.8      23.8             11.2       15.2
+Effective Green, g (s)               24.1    24.1    30.2     30.2               19.8      23.8             11.2       15.2
+Actuated g/C Ratio                   0.22    0.22    0.28     0.28               0.18      0.22             0.10       0.14
+Clearance Time (s)                    5.0     5.0     5.0      5.0                5.0       5.0              5.0         5.0
+Vehicle Extension (s)                 6.0     6.0     2.0      2.0                2.0       2.0              2.0        2.0
+Lane Grp Cap (vph)                    414     347     493      497                323       727              181        491
+v/s Ratio Prot                      c0.13            0.06    c0.17              c0.13      0.12             0.06      c0.10
+v/s Ratio Perm                               0.10
+v/c Ratio                            0.58    0.45    0.22     0.63               0.70      0.57             0.60       0.69
+Uniform Delay, d1                    38.1    36.8    30.5     34.7               42.0      38.1             46.9       44.8
+Progression Factor                   1.00    1.00    1.00     1.00               1.00      1.00             1.00       1.00
+Incremental Delay, d2                 4.0     2.6     1.0      6.0                5.3       0.6              3.5        3.2
+Delay (s)                            42.1    39.4    31.5     40.7               47.2      38.8             50.4       48.0
+Level of Service                        D       D       C        D                  D         D                D          D
+Approach Delay (s)                   40.7                     38.4                         41.5                        48.5
+Approach LOS                            D                        D                            D                           D
+Intersection Summary
+HCM 2000 Control Delay                        42.2       HCM 2000 Level of Service                    D
+HCM 2000 Volume to Capacity ratio             0.64
+Actuated Cycle Length (s)                    109.3       Sum of lost time (s)                       20.0
+Intersection Capacity Utilization           65.4%        ICU Level of Service                         C
+Analysis Period (min)                           15
+Description: Newport Way NW/Maple St NW
+c Critical Lane Group
+
+
+Transpo Group                                                                                                       Synchro 9 Report
+HCM 2010 TWSC                                                                                          Inneswood Apartments
+2: Newport Way NW & NW Juniper St                                                          Future (2018) Without-Project PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           6.3
+
+Movement                          WBL          WBR                  NBT NBR SBU SBL SBT
+Traffic Vol, veh/h                  65          175                  445   50    5 105 545
+Future Vol, veh/h                   65          175                  445   50    5 105 545
+Conflicting Peds, #/hr               5            5                    0    5    0    5    0
+Sign Control                      Stop         Stop                 Free Free Free Free Free
+RT Channelized                       -         None                    - None    -    - None
+Storage Length                       0            -                    -    -    -    -    -
+Veh in Median Storage, #             0            -                    0    -    -    -    0
+Grade, %                             0            -                    0    -    -    -    0
+Peak Hour Factor                    95           95                   95   95   95   95   95
+Heavy Vehicles, %                    1            1                    2    2    1    1    1
+Mvmt Flow                           68          184                  468   53    5 111 574
+
+Major/Minor                      Minor1                            Major1       Major2
+Conflicting Flow All              1295          510                     0     0 705 526            0
+       Stage 1                      500           -                     -     -      -     -       -
+       Stage 2                      795           -                     -     -      -     -       -
+Critical Hdwy                      6.41        6.21                     -     -      - 4.11        -
+Critical Hdwy Stg 1                5.41           -                     -     -      -     -       -
+Critical Hdwy Stg 2                5.41           -                     -     -      -     -       -
+Follow-up Hdwy                    3.509       3.309                     -     -      - 2.209       -
+Pot Cap-1 Maneuver                  180         565                     -     -      - 1046        -
+       Stage 1                      611           -                     -     -      -     -       -
+       Stage 2                      446           -                     -     -      -     -       -
+Platoon blocked, %                                                      -     -                    -
+Mov Cap-1 Maneuver                 179          560                     -     - ~ -22 ~ -22        -
+Mov Cap-2 Maneuver                 179            -                     -     -      -     -       -
+       Stage 1                     608            -                     -     -      -     -       -
+       Stage 2                     444            -                     -     -      -     -       -
+
+Approach                            WB                                NB           SB
+HCM Control Delay, s               36.6                                0
+HCM LOS                               E
+
+Minor Lane/Major Mvmt              NBT NBRWBLn1       SBL    SBT
+Capacity (veh/h)                     -    - 355         +      -
+HCM Lane V/C Ratio                   -    - 0.712       -      -
+HCM Control Delay (s)                -    - 36.6        -      -
+HCM Lane LOS                         -    -     E       -      -
+HCM 95th %tile Q(veh)                -    -   5.2       -      -
+Notes
+~: Volume exceeds capacity         $: Delay exceeds 300s    +: Computation Not Defined   *: All major volume in platoon
+
+
+
+Transpo Group                                                                                                             Synchro 9 Report
+HCM 2010 TWSC                                                                    Inneswood Apartments
+3: NW Gilman Blvd & NW Juniper St                                      Future (2018) Without-Project PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           4.2
+
+Movement                          EBL          EBR NBU NBL NBT            SBT SBR
+Traffic Vol, veh/h                  20          165    5 250 660           780 250
+Future Vol, veh/h                   20          165    5 250 660           780 250
+Conflicting Peds, #/hr               9            9    0    9    0           0    9
+Sign Control                      Stop         Stop Free Free Free        Free Free
+RT Channelized                       -         None    -    - None           - None
+Storage Length                      85            -    - 100     -           -    -
+Veh in Median Storage, #             0            -    -    -    0           0    -
+Grade, %                             0            -    -    -    0           0    -
+Peak Hour Factor                    93           93   93   93   93          93   93
+Heavy Vehicles, %                    0            0    1    1    1           1    1
+Mvmt Flow                           22          177    5 269 710           839 269
+
+Major/Minor                      Minor2              Major1             Major2
+Conflicting Flow All              1885          572 1285 1117      0         -      0
+       Stage 1                      982            -      -  -     -         -      -
+       Stage 2                      903            -      -  -     -         -      -
+Critical Hdwy                       6.8          6.9 6.42 4.12     -         -      -
+Critical Hdwy Stg 1                 5.8            -      -  -     -         -      -
+Critical Hdwy Stg 2                 5.8            -      -  -     -         -      -
+Follow-up Hdwy                      3.5          3.3 2.51 2.21     -         -      -
+Pot Cap-1 Maneuver                   64         468 220 627        -         -      -
+       Stage 1                      328            -      -  -     -         -      -
+       Stage 2                      361            -      -  -     -         -      -
+Platoon blocked, %                                                 -         -      -
+Mov Cap-1 Maneuver                  63          461   583   583    -         -      -
+Mov Cap-2 Maneuver                  63            -     -     -    -         -      -
+       Stage 1                     326            -     -     -    -         -      -
+       Stage 2                     358            -     -     -    -         -      -
+
+Approach                            EB                NB                    SB
+HCM Control Delay, s               25.4               4.6                    0
+HCM LOS                              D
+
+Minor Lane/Major Mvmt              NBL    NBT EBLn1 EBLn2   SBT SBR
+Capacity (veh/h)                   583      -    63 461       -    -
+HCM Lane V/C Ratio                 0.47     - 0.341 0.385     -    -
+HCM Control Delay (s)              16.5     - 89.3 17.6       -    -
+HCM Lane LOS                          C     -     F     C     -    -
+HCM 95th %tile Q(veh)               2.5     -   1.3   1.8     -    -
+
+
+
+
+Transpo Group                                                                                   Synchro 9 Report
+HCM 2010 TWSC                                                                                            Inneswood Apartments
+4: Driveway & Newport Way NW                                                                 Future (2018) Without-Project PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           0.1
+
+Movement                           WBL          WBR                   NBT NBR SBU SBL SBT
+Traffic Vol, veh/h                    0            5                   625    0    5    5 655
+Future Vol, veh/h                     0            5                   625    0    5    5 655
+Conflicting Peds, #/hr                4            4                     0    4    0    4    0
+Sign Control                       Stop         Stop                  Free Free Free Free Free
+RT Channelized                        -         None                     - None    -    - None
+Storage Length                        0            -                     -    -    -    -    -
+Veh in Median Storage, #              0            -                     0    -    -    -    0
+Grade, %                              0            -                     0    -    -    -    0
+Peak Hour Factor                     95           95                    95   95   95   95   95
+Heavy Vehicles, %                     0            0                     1    1    1    1    1
+Mvmt Flow                             0            5                   658    0    5    5 689
+
+Major/Minor                      Minor1                              Major1       Major2
+Conflicting Flow All              1362           671                      0     0 663 662            0
+       Stage 1                      662             -                     -     -      -     -       -
+       Stage 2                      700             -                     -     -      -     -       -
+Critical Hdwy                       6.4           6.2                     -     -      - 4.11        -
+Critical Hdwy Stg 1                 5.4             -                     -     -      -     -       -
+Critical Hdwy Stg 2                 5.4             -                     -     -      -     -       -
+Follow-up Hdwy                       3.5          3.3                     -     -      - 2.209       -
+Pot Cap-1 Maneuver                  165          460                      -     -      - 931         -
+       Stage 1                      517             -                     -     -      -     -       -
+       Stage 2                      496             -                     -     -      -     -       -
+Platoon blocked, %                                                        -     -                    -
+Mov Cap-1 Maneuver                  164          457                      -     -      ~     ~       -
+Mov Cap-2 Maneuver                  164            -                      -     -      -     -       -
+       Stage 1                      515            -                      -     -      -     -       -
+       Stage 2                      494            -                      -     -      -     -       -
+
+Approach                            WB                                  NB           SB
+HCM Control Delay, s                 13                                  0
+HCM LOS                               B
+
+Minor Lane/Major Mvmt              NBT NBRWBLn1         SBL    SBT
+Capacity (veh/h)                     -    - 457           ~      -
+HCM Lane V/C Ratio                   -    - 0.012         ~      -
+HCM Control Delay (s)                -    -    13         -      -
+HCM Lane LOS                         -    -     B         -      -
+HCM 95th %tile Q(veh)                -    -     0         ~      -
+Notes
+~: Volume exceeds capacity          $: Delay exceeds 300s     +: Computation Not Defined   *: All major volume in platoon
+
+
+
+Transpo Group                                                                                                               Synchro 9 Report
+HCM Signalized Intersection Capacity Analysis                                                   Inneswood Apartments
+1: Newport Way NW & Maple St NW                                                         Future (2018) With-Project PM Peak Hour
+
+
+
+Movement                    EBL      EBT     EBR     WBL     WBT     WBR         NBL    NBT     NBR      SBL        SBT     SBR
+Lane Configurations
+Traffic Volume (vph)           5     220      249     101     215       85       211     291     151      100       332        5
+Future Volume (vph)            5     220      249     101     215       85       211     291     151      100       332        5
+Ideal Flow (vphpl)          1900    1900     1900    1900    1900     1900      1900    1900    1900     1900      1900     1900
+Total Lost time (s)                   5.0      5.0     5.0     5.0                5.0     5.0              5.0       5.0
+Lane Util. Factor                   1.00     1.00    1.00    1.00                1.00    0.95             1.00      0.95
+Frpb, ped/bikes                     1.00     0.99    1.00    1.00               1.00    0.99              1.00      1.00
+Flpb, ped/bikes                     1.00     1.00    1.00    1.00               1.00    1.00             1.00      1.00
+Frt                                  1.00     0.85    1.00    0.96               1.00    0.95             1.00      1.00
+Flt Protected                        1.00     1.00    0.95    1.00               0.95    1.00             0.95      1.00
+Satd. Flow (prot)                   1879     1578    1787    1801               1787    3347             1770      3532
+Flt Permitted                        1.00     1.00    0.95    1.00               0.95    1.00             0.95      1.00
+Satd. Flow (perm)                   1879     1578    1787    1801               1787    3347             1770      3532
+Peak-hour factor, PHF       0.93     0.93     0.93    0.93    0.93    0.93       0.93    0.93    0.93     0.93      0.93    0.93
+Adj. Flow (vph)                5     237      268     109     231       91       227     313     162      108       357        5
+RTOR Reduction (vph)           0        0     109        0       8       0          0      47       0        0         1       0
+Lane Group Flow (vph)          0     242      159     109     314        0       227     428        0     108       361        0
+Confl. Peds. (#/hr)                                                                                 6        6
+Confl. Bikes (#/hr)                            1                                                    1
+Heavy Vehicles (%)           1%       1%      1%      1%       1%      1%         1%     1%       1%      2%         2%       2%
+Turn Type                   Split     NA    Perm     Split     NA                Prot    NA              Prot        NA
+Protected Phases               4       4                3       3                  1      6                5          2
+Permitted Phases                                4
+Actuated Green, G (s)                24.4    24.4    30.2     30.2               19.9   24.7             11.2       16.0
+Effective Green, g (s)               24.4    24.4    30.2     30.2               19.9   24.7             11.2       16.0
+Actuated g/C Ratio                   0.22    0.22    0.27     0.27               0.18   0.22             0.10       0.14
+Clearance Time (s)                    5.0     5.0     5.0      5.0                5.0    5.0              5.0         5.0
+Vehicle Extension (s)                 6.0     6.0     2.0      2.0                2.0    2.0              2.0        2.0
+Lane Grp Cap (vph)                    414     348     488      492                321    748              179        511
+v/s Ratio Prot                      c0.13            0.06    c0.17              c0.13   0.13             0.06      c0.10
+v/s Ratio Perm                               0.10
+v/c Ratio                            0.58    0.46    0.22     0.64               0.71   0.57             0.60       0.71
+Uniform Delay, d1                    38.5    37.3    31.1     35.3               42.6   38.2             47.5       45.0
+Progression Factor                   1.00    1.00    1.00     1.00               1.00   1.00             1.00       1.00
+Incremental Delay, d2                 4.0     2.7     1.1      6.2                5.7    0.7              3.9        3.6
+Delay (s)                            42.5    40.0    32.1     41.6               48.3   38.9             51.4       48.6
+Level of Service                        D       D       C        D                  D      D                D          D
+Approach Delay (s)                   41.2                     39.2                      41.9                        49.3
+Approach LOS                            D                        D                         D                           D
+Intersection Summary
+HCM 2000 Control Delay                        42.8       HCM 2000 Level of Service                 D
+HCM 2000 Volume to Capacity ratio             0.65
+Actuated Cycle Length (s)                    110.5       Sum of lost time (s)                    20.0
+Intersection Capacity Utilization           66.0%        ICU Level of Service                      C
+Analysis Period (min)                           15
+Description: Newport Way NW/Maple St NW
+c Critical Lane Group
+
+
+Transpo Group                                                                                                    Synchro 9 Report
+MOVEMENT SUMMARY
+      Site: Newport Way NW/NW Juniper St
+Future (2018) With-Project PM Peak Hour
+Roundabout
+
+
+
+ Movement Performance - Vehicles
+ Mov        OD        Demand Flows              Deg.      Average      Level of     95% Back of Queue         Prop.    Effective    Average
+ ID         Mov       Total     HV              Satn       Delay       Service      Vehicles    Distance     Queued   Stop Rate     Speed
+                     veh/h       %               v/c          sec                       veh            ft               per veh        mph
+ South: Newport Way NW
+ 8          T1            476        2.0       0.542           6.3       LOS A            4.6        116.6     0.52          0.54      35.2
+ 18         R2             53        2.0       0.542           5.9       LOS A            4.6        116.6     0.52          0.54      34.4
+ Approach                 528        2.0       0.542           6.2       LOS A            4.6        116.6     0.52          0.54      35.1
+
+ East: NW Juniper St
+ 1          L2             69        1.0       0.391          13.6      LOS B             2.5         62.1     0.73          0.83      33.8
+ 16         R2            194        1.0       0.391           8.8       LOS A            2.5         62.1     0.73          0.83      33.1
+ Approach                 263        1.0       0.391          10.1      LOS B             2.5         62.1     0.73          0.83      33.3
+
+ North: Newport Way NW
+ 7          L2            118        1.0       0.570           9.9       LOS A            5.9        147.7     0.43          0.49      35.1
+ 4          T1            584        1.0       0.570           5.4       LOS A            5.9        147.7     0.43          0.49      35.2
+ Approach                 702        1.0       0.570           6.2       LOS A            5.9        147.7     0.43          0.49      35.2
+
+ All Vehicles            1494        1.4       0.570           6.9       LOS A            5.9        147.7     0.52          0.57      34.8
+
+
+Level of Service (LOS) Method: Delay & v/c (HCM 2010).
+Roundabout LOS Method: Same as Signalised Intersections.
+Vehicle movement LOS values are based on average delay and v/c ratio (degree of saturation) per movement
+LOS F will result if v/c > 1 irrespective of movement delay value (does not apply for approaches and intersection).
+Intersection and Approach LOS values are based on average delay for all movements (v/c not used as specified in HCM 2010).
+Roundabout Capacity Model: SIDRA Standard.
+SIDRA Standard Delay Model is used. Control Delay includes Geometric Delay.
+Gap-Acceptance Capacity: SIDRA Standard (Akçelik M3D).
+HV (%) values are calculated for All Movement Classes of All Heavy Vehicle Model Designation.
+
+
+
+
+Processed: Thursday, November 19, 2015 10:43:54 AM Copyright © 2000-2014 Akcelik and Associates Pty Ltd
+SIDRA INTERSECTION 6.0.24.4877                         www.sidrasolutions.com
+Project: Q:\Projects\15\15036.00 - Inneswood Apts-Newport Road Improvements\Analysis\SIDRA\2018 With
+Project_TIA.sip6
+8000159, 6017637, THE TRANSPO GROUP, NETWORK / 1PC
+HCM 2010 TWSC                                                                   Inneswood Apartments
+3: NW Gilman Blvd & NW Juniper St                                       Future (2018) With-Project PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           4.3
+
+Movement                          EBL          EBR NBU NBL NBT          SBT SBR
+Traffic Vol, veh/h                  20          167    5 254 660         780 250
+Future Vol, veh/h                   20          167    5 254 660         780 250
+Conflicting Peds, #/hr               9            9    0    9    0         0    9
+Sign Control                      Stop         Stop Free Free Free      Free Free
+RT Channelized                       -         None    -    - None         - None
+Storage Length                      85            -    - 100     -         -    -
+Veh in Median Storage, #             0            -    -    -    0         0    -
+Grade, %                             0            -    -    -    0         0    -
+Peak Hour Factor                    93           93   93   93   93        93   93
+Heavy Vehicles, %                    0            0    1    1    1         1    1
+Mvmt Flow                           22          180    5 273 710         839 269
+
+Major/Minor                      Minor2              Major1            Major2
+Conflicting Flow All              1894          572 1287 1117      0        -     0
+       Stage 1                      982            -      -  -     -        -     -
+       Stage 2                      912            -      -  -     -        -     -
+Critical Hdwy                       6.8          6.9 6.42 4.12     -        -     -
+Critical Hdwy Stg 1                 5.8            -      -  -     -        -     -
+Critical Hdwy Stg 2                 5.8            -      -  -     -        -     -
+Follow-up Hdwy                      3.5          3.3 2.51 2.21     -        -     -
+Pot Cap-1 Maneuver                   63         468 219 627        -        -     -
+       Stage 1                      328            -      -  -     -        -     -
+       Stage 2                      357            -      -  -     -        -     -
+Platoon blocked, %                                                 -        -     -
+Mov Cap-1 Maneuver                  62          461   583   583    -        -     -
+Mov Cap-2 Maneuver                  62            -     -     -    -        -     -
+       Stage 1                     326            -     -     -    -        -     -
+       Stage 2                     354            -     -     -    -        -     -
+
+Approach                            EB                NB                  SB
+HCM Control Delay, s               25.6               4.7                  0
+HCM LOS                              D
+
+Minor Lane/Major Mvmt              NBL    NBT EBLn1 EBLn2   SBT SBR
+Capacity (veh/h)                    583     -    62 461       -    -
+HCM Lane V/C Ratio                0.478     - 0.347 0.39      -    -
+HCM Control Delay (s)              16.7     - 91.2 17.7       -    -
+HCM Lane LOS                          C     -     F     C     -    -
+HCM 95th %tile Q(veh)               2.6     -   1.3   1.8     -    -
+
+
+
+
+Transpo Group                                                                                 Synchro 9 Report
+HCM 2010 TWSC                                                                                          Inneswood Apartments
+4: Newport Way NW & Driveway                                                                   Future (2018) With-Project PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           0
+
+Movement                         WBL          WBR                   NBT NBR SBU SBL SBT
+Traffic Vol, veh/h                  0            5                   638    0    5    5 682
+Future Vol, veh/h                   0            5                   638    0    5    5 682
+Conflicting Peds, #/hr              4            4                     0    4    0    4    0
+Sign Control                     Stop         Stop                  Free Free Free Free Free
+RT Channelized                      -         None                     - None    -    - None
+Storage Length                      0            -                     -    -    -   25    -
+Veh in Median Storage, #            0            -                     0    -    -    -    0
+Grade, %                            0            -                     0    -    -    -    0
+Peak Hour Factor                   95           95                    95   95   95   95   95
+Heavy Vehicles, %                   0            0                     1    1    1    1    1
+Mvmt Flow                           0            5                   672    0    5    5 718
+
+Major/Minor                    Minor1                              Major1       Major2
+Conflicting Flow All            1056           685                      0     0 677 676            0
+       Stage 1                    676             -                     -     -      -     -       -
+       Stage 2                    380             -                     -     -      -     -       -
+Critical Hdwy                     6.6           6.2                     -     -      - 4.11        -
+Critical Hdwy Stg 1               5.4             -                     -     -      -     -       -
+Critical Hdwy Stg 2               5.8             -                     -     -      -     -       -
+Follow-up Hdwy                     3.5          3.3                     -     -      - 2.209       -
+Pot Cap-1 Maneuver                237          452                      -     -      - 920         -
+       Stage 1                    509             -                     -     -      -     -       -
+       Stage 2                    667             -                     -     -      -     -       -
+Platoon blocked, %                                                      -     -                    -
+Mov Cap-1 Maneuver                235          449                      -     -      ~     ~       -
+Mov Cap-2 Maneuver                367            -                      -     -      -     -       -
+       Stage 1                    507            -                      -     -      -     -       -
+       Stage 2                    665            -                      -     -      -     -       -
+
+Approach                          WB                                  NB           SB
+HCM Control Delay, s             13.1                                  0
+HCM LOS                             B
+
+Minor Lane/Major Mvmt            NBT NBRWBLn1         SBL    SBT
+Capacity (veh/h)                   -    - 449           ~      -
+HCM Lane V/C Ratio                 -    - 0.012         ~      -
+HCM Control Delay (s)              -    - 13.1          -      -
+HCM Lane LOS                       -    -     B         -      -
+HCM 95th %tile Q(veh)              -    -     0         ~      -
+Notes
+~: Volume exceeds capacity        $: Delay exceeds 300s     +: Computation Not Defined   *: All major volume in platoon
+
+
+
+Transpo Group                                                                                                             Synchro 9 Report
+HCM 2010 TWSC                                                                   Inneswood Apartments
+5: Newport Way NW & Site Access B                                       Future (2018) With-Project PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           0.4
+
+Movement                           EBL         EBR         NBL NBT      SBT SBR
+Traffic Vol, veh/h                   12          10          15 626      657   25
+Future Vol, veh/h                    12          10          15 626      657   25
+Conflicting Peds, #/hr                0           0           0    0       0    0
+Sign Control                       Stop        Stop        Free Free    Free Free
+RT Channelized                        -        None           - None       - None
+Storage Length                        0           -           -    -       -    -
+Veh in Median Storage, #              1           -           -    0       0    -
+Grade, %                              0           -           -    0       0    -
+Peak Hour Factor                     92          92          92   92      92   92
+Heavy Vehicles, %                     2           2           2    2       2    2
+Mvmt Flow                            13          11          16 680      714   27
+
+Major/Minor                      Minor2                   Major1       Major2
+Conflicting Flow All              1441           371        741    0        -     0
+       Stage 1                      728            -           -   -        -     -
+       Stage 2                      713            -           -   -        -     -
+Critical Hdwy                      6.63         6.93       4.14    -        -     -
+Critical Hdwy Stg 1                5.83            -           -   -        -     -
+Critical Hdwy Stg 2                5.43            -           -   -        -     -
+Follow-up Hdwy                    3.519        3.319       2.22    -        -     -
+Pot Cap-1 Maneuver                  134          627        862    -        -     -
+       Stage 1                      440            -           -   -        -     -
+       Stage 2                      485            -           -   -        -     -
+Platoon blocked, %                                                 -        -     -
+Mov Cap-1 Maneuver                 130           627        862    -        -     -
+Mov Cap-2 Maneuver                 267             -          -    -        -     -
+       Stage 1                     440             -          -    -        -     -
+       Stage 2                     470             -          -    -        -     -
+
+Approach                            EB                       NB           SB
+HCM Control Delay, s               15.7                      0.2           0
+HCM LOS                              C
+
+Minor Lane/Major Mvmt              NBL     NBT EBLn1   SBT SBR
+Capacity (veh/h)                    862      - 361       -    -
+HCM Lane V/C Ratio                0.019      - 0.066     -    -
+HCM Control Delay (s)                9.3     0 15.7      -    -
+HCM Lane LOS                           A     A     C     -    -
+HCM 95th %tile Q(veh)               0.1      -   0.2     -    -
+
+
+
+
+Transpo Group                                                                                 Synchro 9 Report
+HCM 2010 TWSC                                                                Inneswood Apartments
+6: Newport Way NW & Site Access C                                    Future (2018) With-Project PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           0
+
+Movement                        EBL         EBR         NBL NBT      SBT SBR
+Traffic Vol, veh/h                 0           2           0 502      613    3
+Future Vol, veh/h                  0           2           0 502      613    3
+Conflicting Peds, #/hr             0           0           0    0       0    0
+Sign Control                    Stop        Stop        Free Free    Free Free
+RT Channelized                     -        None           - None       - None
+Storage Length                     0           -           -    -       -   50
+Veh in Median Storage, #           0           -           -    0       0    -
+Grade, %                           0           -           -    0       0    -
+Peak Hour Factor                  92          92          92   92      92   92
+Heavy Vehicles, %                  2           2           2    2       2    2
+Mvmt Flow                          0           2           0 546      666    3
+
+Major/Minor                    Minor2                  Major1       Major2
+Conflicting Flow All            1212          666         666   0        -     0
+       Stage 1                    666           -           -   -        -     -
+       Stage 2                    546           -           -   -        -     -
+Critical Hdwy                    6.42        6.22        4.12   -        -     -
+Critical Hdwy Stg 1              5.42           -           -   -        -     -
+Critical Hdwy Stg 2              5.42           -           -   -        -     -
+Follow-up Hdwy                  3.518       3.318       2.218   -        -     -
+Pot Cap-1 Maneuver                201         459         923   -        -     -
+       Stage 1                    511           -           -   -        -     -
+       Stage 2                    580           -           -   -        -     -
+Platoon blocked, %                                              -        -     -
+Mov Cap-1 Maneuver               201          459        923    -        -     -
+Mov Cap-2 Maneuver               201            -          -    -        -     -
+       Stage 1                   511            -          -    -        -     -
+       Stage 2                   580            -          -    -        -     -
+
+Approach                          EB                      NB           SB
+HCM Control Delay, s             12.9                      0            0
+HCM LOS                             B
+
+Minor Lane/Major Mvmt            NBL    NBT EBLn1   SBT SBR
+Capacity (veh/h)                 923      - 459       -    -
+HCM Lane V/C Ratio                 -      - 0.005     -    -
+HCM Control Delay (s)              0      - 12.9      -    -
+HCM Lane LOS                       A      -     B     -    -
+HCM 95th %tile Q(veh)              0      -     0     -    -
+
+
+
+
+Transpo Group                                                                              Synchro 9 Report
+

@@ -1,0 +1,2252 @@
+       Transportation Impact Analysis
+
+
+2ND & STEWART RESIDENTIAL
+                                   DPD # 3016702
+
+
+
+
+                                    Prepared for:
+                             Wood Partners/Hewitt
+
+                                   November 2015
+
+
+
+
+                                      Prepared by:
+
+
+
+
+                  11730 118th Avenue NE, Suite 600
+                          Kirkland, WA 98034-7120
+                              Phone: 425-821-3665
+                                 Fax: 425-825-8434
+                            www.transpogroup.com
+
+
+
+                                         15027.00
+
+
+
+
+                            © 2015 Transpo Group
+Transportation Impact Analysis
+2nd and Stewart                                                                                                          November 2015
+
+
+
+Introduction .............................................................................................................................. 1
+  Project Description ................................................................................................................. 1
+  Study Scope........................................................................................................................... 1
+Existing & Future Without-Project Conditions ..................................................................... 4
+ Street System ........................................................................................................................ 4
+ Traffic Volumes ...................................................................................................................... 5
+ Traffic Operations .................................................................................................................. 5
+ Traffic Safety .......................................................................................................................... 9
+ Non-Motorized Facilities ........................................................................................................ 9
+ Transit Service ..................................................................................................................... 10
+Project Impacts ......................................................................................................................11
+  Trip Generation .................................................................................................................... 11
+  Trip Distribution & Assignment ............................................................................................ 13
+  Traffic Volume Impact .......................................................................................................... 17
+  Traffic Operations Impact .................................................................................................... 17
+  Alley Operations and Impact ................................................................................................ 17
+  Transportation Concurrency ................................................................................................ 18
+  Parking Analysis .................................................................................................................. 19
+Findings and Conclusions ....................................................................................................21
+
+                                                            Appendix
+Appendix A:         Traffic Counts
+Appendix B:         LOS Definitions
+Appendix C:         LOS Worksheets
+Appendix D:         Trip Generation Worksheets
+Appendix E:         Parking Demand Worksheets
+
+                                                              Figures
+Figure 1.           Site Vicinity & Study Intersections ....................................................................... 2
+Figure 2.           Preliminary Site Plan ........................................................................................... 3
+Figure 3.           Existing (2015) Weekday PM Peak Hour Traffic Volumes .................................. 7
+Figure 4.           Future (2019) Without-Project Weekday PM Peak Hour Traffic Volumes .......... 8
+Figure 5.           Outbound Project Trip Distribution & Assignment ............................................. 14
+Figure 6.           Inbound Project Trip Distribution & Assignment ................................................ 15
+Figure 7.           Future (2019) With-Project Weekday PM Peak Hour Traffic Volumes ............. 16
+
+
+
+
+                                                                                                                                            i
+Transportation Impact Analysis
+2nd and Stewart                                                                                          November 2015
+
+
+
+                                                     Tables
+Table 1.        Study Area Existing Street System Summary ..................................................... 4
+Table 2.        Existing & Future Weekday PM Peak Hour Intersection LOS Summary ............ 6
+Table 3.        Three Year Collision Summary ........................................................................... 9
+Table 4.        Estimated Weekday Vehicle Trip Generation ................................................... 12
+Table 5.        Traffic Volume Impacts at Study Intersections .................................................. 17
+Table 6.        Future Weekday PM Peak Hour Intersection LOS Summary ........................... 17
+Table 7.        Future 2019 Weekday PM Peak Hour With-Project LOS Summary ................. 18
+Table 8.        Transportation Concurrency Analysis ............................................................... 19
+Table 9.        Estimated Peak Parking Demand – US Census Data ...................................... 20
+Table 10.       Bicycle Parking Code Requirements ................................................................. 20
+
+
+
+
+                                                                                                                         ii
+Transportation Impact Analysis
+2nd and Stewart                                                                      November 2015
+
+
+
+                                       Introduction
+This transportation impact analysis (TIA) identifies potential transportation-related impacts
+associated with the development of a mixed-use building located at the southwest corner of
+the 2nd Avenue and Stewart Street intersection in downtown Seattle. As necessary,
+mitigation measures are identified that would offset or reduce significant transportation
+related impacts that the project may have on the surrounding transportation system.
+
+
+Project Description
+The proposed project is located on the southwest corner of Second Avenue and Stewart
+Street intersection, in downtown Seattle as shown on Figure 1. The proposed project would
+develop up to 177 residential apartment units and approximately 2,755 square feet of ground
+floor retail.
+
+The proposed project would provide a total of approximately 145 parking spaces and 74
+bicycle spaces. Access to the parking garages would be provided via the existing alley
+accessed off Stewart Street and Pine Street. Figure 2 illustrates the preliminary site plan. It is
+anticipated that the development would be constructed and occupied by 2019.
+
+The existing building on the site would be removed as part of the project. The existing
+building consists of approximately 8,000 square feet of office space and 8,000 square feet of
+retail.
+
+
+Study Scope
+The scope of this analysis was coordinated with City of Seattle Department of Planning and
+Development (DPD) staff and is consistent with previous traffic studies conducted in the
+study area. Based on the anticipated vehicular impacts of the proposed projects, the following
+intersections were selected for analysis:
+
+    1. 3rd Avenue and Stewart Street
+    2. 2nd Avenue and Stewart Street
+    3. 1st Avenue and Stewart Street
+
+Additionally, the alley access locations on Stewart Street and Pine Street were analyzed
+under future (2019) with-project conditions. This study focuses on the weekday PM peak hour
+when transportation impacts are anticipated to be highest. The report first describes existing
+and future (2019) without-project conditions in the vicinity of the project site. This includes the
+street system, existing and future without-project weekday PM peak hour traffic volumes,
+traffic operations, traffic safety, non-motorized facilities, and transit service. Future (2019)
+with-project conditions are then described. The project’s impacts on the surrounding
+transportation system were identified by comparing the future with-project conditions to the
+future without-project conditions.
+
+
+
+
+                                                                                                  1
+                                                   2ND AVE
+
+
+
+
+                                                                      PINE ST
+              STE
+                  WAR
+                     T ST
+
+
+
+
+                            Garage Access
+
+                                  Existing North     Existing South
+                                  Driveway           Driveway
+
+
+
+
+Preliminary Site Plan                                                      FIGURE
+2nd and Stewart
+                                                                                2
+Transportation Impact Analysis
+2nd and Stewart                                                                               November 2015
+
+
+
+        Existing & Future Without-Project Conditions
+This section describes existing (2015) and future (2019) without-project conditions within the
+study area. Study area characteristics are provided for the street system, planned
+improvements, existing and future forecasted without-project traffic volumes, traffic
+operations, traffic safety, non-motorized facilities, and transit service.
+
+Street System
+The following describes the existing street network within the vicinity of the proposed project
+and anticipated changes resulting from planned improvements.
+Existing
+Characteristics of the existing street system in the proposed project vicinity are shown in
+Table 1. As shown on Figure 1 and in Table 1, the site is in the immediate vicinity of three to
+four lane arterials. All of the streets are one-way streets with the exception of 1st Avenue and
+3rd Avenue.
+
+Table 1.          Study Area Existing Street System Summary
+                                                   Posted     Number of                            Bicycle
+Roadway               Arterial Classification1   Speed Limit Travel Lanes   Parking   Sidewalks   Facilities
+1st Avenue                  Minor Arterial         30 mph         4          Yes        Yes       Sharrows
+2nd Avenue                 Principal Arterial      30 mph         3          Yes        Yes       Bike Lane
+3rd Avenue                  Minor Arterial         30 mph         4          Yes        Yes          No
+4th Avenue                 Principal Arterial      30 mph         4          Yes        Yes          No
+5th Avenue                  Minor Arterial         30 mph         3          Yes        Yes          No
+Lenora Street               Minor Arterial         30 mph         3          Yes        Yes          No
+Virginia Street             Minor Arterial         30 mph         3          Yes        Yes       Sharrows
+Stewart Street             Principal Arterial      30 mph        3-4         Yes        Yes       Sharrows
+Pine Street                Principal Arterial      30 mph        2-3         Yes        Yes          No
+Pike Street                Principal Arterial      30 mph        2-3         Yes        Yes          No
+1.   Per Seattle Arterial Classification Map
+
+Future
+Based on a review of the City of Seattle 2015 – 2020 Adopted Capital Improvement Program
+(CIP) and WSDOT improvements, no funded transportation projects are identified to be
+completed by the development of the project.
+
+The Center City Connector is is propose as a modern streetcar line that will link over a dozen
+Seattle neighborhoods, running through downtown and connecting the South Lake Union and
+First Hill Streetcar lines. A portion of the line is anticipated to operate along Stewart Street
+from 1st Avenue towards McGraw Square and SDOT is currently evaluating the design and
+operations of the system. Given that the project is not fully funded and the specific details of
+the design are not known, no changes have been made in the analysis related to how
+operations may be effected in the study area. These elements are being addressed by SDOT
+through the on-going analysis but the addition of the streetcar is anticipated to provide
+enhanced multi-modal connectivity and improve overall transportation connectivity.
+
+
+
+
+                                                                                                               4
+Transportation Impact Analysis
+2nd and Stewart                                                                     November 2015
+
+
+
+Traffic Volumes
+The following sections summarize the traffic volumes for existing and future without-project
+conditions.
+Existing
+Traffic counts were collected at each study intersection in July 2015. Figure 3 illustrates the
+existing weekday PM peak hour traffic volumes at the study intersections, rounded to the
+nearest 5 vehicles. Detail traffic counts are provided in Appendix A.
+Future
+Future (2019) without-project traffic volumes were forecasted by applying an average annual
+growth rate to existing traffic volumes as well as traffic from previously approved “pipeline”
+development projects that would increase background traffic at study intersections. An annual
+growth rate of 1.5 percent per year was applied to the existing PM peak hour traffic volumes
+at each study intersection. The growth rate determined by discussions with Seattle DPD.
+Traffic from the following pipeline projects in the project vicinity were also included in the
+future without-project volume forecasts:
+
+        2013 3rd Avenue: This project would develop 65 residential units and 1,000 square
+         feet of commercial space.
+        2116 4th Avenue: This project would develop 339 residential units and a 142-room
+         hotel with 1,824 square feet of support retail.
+        2134 Western Avenue: This project would develop 152 residential units with 6,000
+         square feet of retail.
+        204 Pine Street: This project would develop 398 multifamily dwelling units with 4,300
+         square feet of retail.
+        3rd Ave and Lenora: This project would develop 384 residential units, 196,000
+         square feet of office, and 7,000 square feet of retail.
+        1931 2nd Ave: This project would develop a 205-room hotel.
+
+Future (2019) without-project weekday PM peak hour traffic volumes reflecting the
+background growth and traffic from the pipeline projects are shown on Figure 4.
+
+
+Traffic Operations
+The operational characteristics of an intersection are determined by calculating the
+intersection level of service (LOS). For signalized locations, LOS is measured in average
+delay per vehicle and is reported for the intersections as a whole. Traffic operations for an
+intersection can be described alphabetically with a range of levels of service (LOS A through
+F), with LOS A indicating free-flowing traffic and LOS F indicating extreme congestion and
+long vehicle delays. Appendix B contains a detailed explanation of LOS criteria and
+definitions.
+
+Weekday PM peak hour traffic operations for existing and future without-project conditions
+were evaluated at the study intersections based on the procedures identified in the Highway
+Capacity Manual (HCM) (2010), and were evaluated using the Synchro 9 software program.
+Pedestrian and bicycle volumes were taken into account when evaluating the operations of
+the intersections.
+
+
+
+
+                                                                                                  5
+Transportation Impact Analysis
+2nd and Stewart                                                                                               November 2015
+
+
+The City of Seattle’s Comprehensive Plan does not define a LOS standard for individual
+intersections; however, the City generally recognizes LOS E and F as poor operations for
+signalized locations and LOS F for unsignalized locations. Intersection operations for existing
+(2015) and future (2019) without-project weekday PM peak hour conditions are summarized
+in Table 2. Trip generation is documented in the subsequent Project Impact section of this
+study. Detailed LOS worksheets for each intersection analyzed are included in Appendix C.
+
+Table 2.         Existing & Future Weekday PM Peak Hour Intersection LOS Summary
+                                                                      2015 Existing                   2019 Without-Project
+Intersection                                  Traffic Control        LOS1        Delay2                LOS           Delay
+1. 3rd Avenue and Stewart Street                Signalized             B              16                 B            17
+2. 2nd Avenue and Stewart Street                Signalized             B              13                 B            13
+3. 1st Avenue and Stewart Street                Signalized             B              11                 B            12
+1.   Level of Service (A – F) as defined by the 2010 Highway Capacity Manual (HCM), Transportation Research Board.
+2.   Average delay per vehicle in seconds.
+
+
+As shown in Table 2, all signalized intersections currently operate at LOS B during the
+weekday PM peak hour. In 2019, with the anticipated growth in traffic, the intersections are
+anticipated to experience slight increases in delay over current levels but would continue to
+operate at LOS B.
+
+
+
+
+                                                                                                                             6
+Transportation Impact Analysis
+2nd and Stewart                                                                                 November 2015
+
+
+
+Traffic Safety
+Recent collision records were reviewed within the study area to identify existing traffic safety
+issues at the study intersections. The most recent three-year summary of accident data from
+the Seattle Department of Transportation (SDOT) is for the period between January 1, 2012
+and December 31, 2014. In addition to the study intersections, collision data along Stewart
+Street, Pine Street, 2nd Avenue, and 3rd Avenue in the study area were analyzed to evaluate
+the vehicle, pedestrian and bicycle safety. This information is summarized in Table 3.
+
+Table 3.                                          Three Year Collision Summary
+                                                                        Number of Collisions
+                                                                                                       Annual
+Location                                              Traffic Control   2012   2013   2014     Total   Average
+Intersection
+1. 3rd Avenue and Stewart Street                        Signalized        1      2      1       4       1.33
+2. 2nd Avenue and Stewart Street                        Signalized        3      1      2       6       2.00
+3. 1st Avenue and Stewart Street                        Signalized        2      0      2       4       1.33
+Roadway Segments
+Stewart Street (3rd to 2nd Avenue)                           -            0      1      1       2       0.67
+Stewart Street (2nd to 1st Avenue)                           -            0      2      2       4       1.33
+Source: City of Seattle and Transpo Group, 2015
+
+
+The City of Seattle has adopted criteria for assigning high accident location (HCL) status to
+signalized intersections with ten or more reported collisions per year and unsignalized
+intersections with five or more reported collisions per year. As shown in Table 3 within the
+analysis period, all signalized intersections and roadway segments had 2 or less collisions
+per year and do not meet SDOT’s HCL criteria.
+
+In addition, SDOT annually reviews the previous year’s collisions within the City and creates
+of list of “high collision locations” (HCL) that are monitored or reviewed in the next year. The
+review screens the previous year’s collision for signalized intersections with 10 or more
+collisions in a year and locations with 5 or more pedestrian or bike collisions. SDOT’s Draft
+2014 Candidate Locations report has not identified any HCLs in the study area consistent
+with the collision history review presented.
+
+
+Non-Motorized Facilities
+The following describes the existing and future non-motorized facilities within the study area.
+Existing
+Sidewalks are provided on all streets in the study area. Marked crosswalk exists at all the
+study intersections as well as other intersections in vicinity of the proposed project site. On-
+street bicycle lanes are provided on 2nd Avenue along the northeast side of the street. The
+2nd Avenue cycle track currently starts at Pike Street and ends at Yesler Way.
+Future
+Existing bicycle lane on 2nd Avenue will be converted to a cycle track between the current
+terminus at Pike Street to Broad Street in 2016. The Seattle Bicycle Master Plan
+Implementation Plan 2015-2019 also includes cycle tracks along 5th Avenue from Olive Way
+to Denny Way in 2016 and 4th Avenue from Cedar Street to S King Street/
+2nd Avenue Extension S in 2017. The 2015 – 2020 Adopted CIP includes multimodal corridor
+improvements along 3rd Avenue between S Jackson Street and Denny Way such as
+additional streetscape improvements, remarking crosswalks, and installing pedestrian
+countdown signals.
+
+
+
+                                                                                                               9
+Transportation Impact Analysis
+2nd and Stewart                                                                    November 2015
+
+
+
+Transit Service
+The following sections describe existing and future transit service within the study area.
+
+Existing
+Bus transit service in the study area is provided by King County Metro Transit, Community
+Transit, and Sound Transit. The nearest bus stop to the proposed development is located on
+the west side of 2nd Avenue between Stewart Street and Pine Street providing 15 different
+bus routes. Within ¼-mile of the site, King County Metro operates 47 routes, Sound Transit
+operates 6 routes, and Community Transit operates 7 routes.
+
+Within less than a ¼-mile walking distance of the proposed project during weekday peak
+commute periods (6:00 – 9:00 AM and 3:00 – 6:30 PM), 3rd Avenue restricts through traffic to
+transit vehicles only. 3rd Avenue is served by RapidRide C, D, and E lines as well as multiple
+frequent transit lines to North, Central, and South Seattle neighborhoods. Additional transit
+stops are also located on 1st Avenue, 2nd Avenue, Lenora Street, and Virginia Street. The
+Westlake Station in the Downtown Transit Tunnel is approximately four blocks from the site
+and has frequent bus and Central Link light rail service as well as peak hour bus commuter
+routes connecting the site to not only Seattle but the Puget Sound region.
+Future
+The proposed Center City Connector streetcar is projected to open by 2019 and anticipated
+to run on Stewart Street from 1st Avenue to McGraw Square. The system is projected to
+carry up to 30,000 weekday riders and will serve the City of Seattle’s three intermodal hubs
+including Westlake Intermodal Hub, Colman Dock Intermodal Hub, and King Street
+Intermodal Hub. The Connector will provide convenient transfers to the 3rd Avenue Transit
+Spine at both ends of Downtown, to Link Light Rail via multiple Downtown Seattle Transit
+Tunnel (DSTT) station entries, and to Sounder Commuter Rail at King Street Station. The line
+is planned to operate from 5:00 – 1:00 AM Mondays – Saturdays and 6:00 – 11:00 PM on
+Sundays. It is anticipated to provide 10-minute headways during peak periods on all days.
+
+
+
+
+                                                                                             10
+Transportation Impact Analysis
+2nd and Stewart                                                                       November 2015
+
+
+
+                                    Project Impacts
+This section documents the proposed project’s impacts on the surrounding street system and
+identifies potential mitigation measures where necessary.
+
+
+Trip Generation
+The number of new trips generated by the proposed project was estimated by calculating the
+trip generation of each of the proposed uses on-site. The net new trips generated takes into
+account the current trips on the network, which are being generated by the existing uses on-
+site.
+
+Project trip generation was estimated based on calculating person trips and then estimating
+the proportion of the person trips that would be vehicle trips. Most Institute of Transportation
+Engineers (ITE) trip generation rates are for suburban locations and over-predict the number
+of vehicle trips in an urban environment, which typically has a larger portion of trips served by
+alternative modes such as walking, biking, and transit given the mix of development and level
+of transit service.
+
+The trip generation estimate used in this study considers the use of alternative modes of
+travel. The number of overall vehicle trips generated was determined by calculating person
+trips for weekday daily and AM and PM peak hour conditions and then separating the person
+trips by mode of travel (i.e., auto, transit, and walk/bike/other). The flow chart below illustrates
+the trip generation process.
+
+
+
+
+Total person trips were developed for the existing and proposed land uses based on trip rates
+from the Trip Generation Manual, 9th Edition. Average vehicle occupancy (AVO) was
+estimated from the Trip Generation Manual for the existing general office (#710) and the
+National Cooperative Highway Research Program (NCHRP) Report 365 Travel Estimating
+Techniques for Urban Planning for the proposed residential apartments and retail uses.
+
+
+
+                                                                                                  11
+Transportation Impact Analysis
+2nd and Stewart                                                                                                 November 2015
+
+
+
+Residential person trips using each transportation mode were determined by multiplying the
+total person trips by the estimated mode splits from the US Census 2009-2013 American
+Community Survey 5-year Estimates Commuting Characteristics.1 The survey shows a 20
+percent auto mode split for census tract 81 where the project is located. After applying the
+auto mode split, residential person trips were then converted back to vehicle trips by
+assuming an AVO of 1.16.2
+
+The Commute Seattle’s 2014 Center City Commuter Mode Split report summarizes Commute
+Trip Reduction (CTR) data by Seattle neighborhood. The data shows, for the Belltown
+neighborhood, 30 percent of employee trips were made by auto (25 percent drove alone and
+5 percent carpooled), 51 percent by transit, and 19 percent walking, biking, or other modes.
+After applying the auto mode split, office person trips were then converted back to vehicle
+trips by using average vehicle occupancies of 1.17.3
+
+The retail would serve the local area including residents and employees living and working
+nearby. This would result in a high proportion of walking trips to and from the surrounding
+neighborhood. The analysis assumes that 15 percent of the retail customers would drive to
+the site. The AVO rate used was consistent with the retail rate of 1.48 found in National
+Cooperative Highway Research Program (NCHRP) Report 365 Travel Estimating Techniques
+for Urban Planning.
+
+Appendix D provides the detailed trip generation calculation. Table 4 summarizes the
+estimated weekday daily and AM and PM peak hour trip generation for the proposed and
+existing land uses.
+
+Table 4.                                                Estimated Weekday Vehicle Trip Generation
+                                                                       AM Peak-Hour Trips                 PM Peak-Hour Trips
+                                                          Daily
+Land Use                                     Size         Trips1       In        Out       Total          In     Out    Total
+Proposed
+Residential                                 177 du         230          3         14         17           14      8      22
+Retail                                     2,755 sf         21          0         1          1             1      0      1
+Total                                                      251          3         15         18           15      8      23
+Existing
+General Office                             8,000 sf         30          2         1          3             1      2      3
+Retail                                     8,000 sf         51          0         1          1             1      2      3
+Total Net New                                              175          0         14         14           13      4      17
+Notes: du = dwelling units, sf = square-feet
+1. Vehicle trips were estimated based on person trip calculations and localized mode split information.
+
+
+As shown in Table 4, the proposed project is anticipated to generate approximately 175 net
+new daily vehicle trips with 14 net new vehicle trips during the AM peak hour and 17 net new
+vehicle trips during the PM peak hour.
+
+
+
+
+1
+    Based on data for Census Tract 81 where the proposed project is located.
+2
+ Average vehicle occupancy rate (AVO) based on 2009-2013 American Community Survey 5-year estimates for
+Census Tract 81.
+3 Based   on 2014 CTR Data for the Belltown Neighborhood.
+
+
+
+                                                                                                                               12
+Transportation Impact Analysis
+2nd and Stewart                                                                     November 2015
+
+
+
+Trip Distribution & Assignment
+Travel patterns for vehicular traffic to and from the proposed site were based on guidance
+from the Director’s Rule 5-2009, OnTheMap, as well as a review of existing travel patterns,
+planned improvements, and previous studies conducted in the area.
+
+OnTheMap is a web-based mapping and reporting application, which shows where workers
+are employed and where they live based on census data. The OnTheMap census data were
+translated to the number of people that live within a quarter-mile radius of the proposed
+project and where they work. The zip codes where people work were evaluated to determine
+if a person would be more likely to travel to the zip code via vehicle or by other means. Trips
+to zip codes closer to the proposed project site or in more transit oriented locations are more
+likely to use transit, walk, bike, or other non-SOV modes. Zip codes outside the Seattle City
+limits and/or further from the site are more likely to drive.
+
+Figure 5 and Figure 6 illustrate the expected project outbound and inbound vehicle trip
+distribution for the proposed project respectively, to the surrounding local and regional street
+system. The weekday PM peak hour trips were assigned to the study area based on the
+travel patterns and the location of the site access. The project would provide access via the
+alley way between 1st Avenue and 2nd Avenue on Pine Street and Stewart Street. The
+distribution and assignment considers the primary travel routes within the gridded street
+system where project impacts would be greatest. It is recognized that drivers may take
+alternative routes; however, it is anticipated that impacts along these facilities would be less
+than disclosed in this analysis.
+
+The project traffic was added to 2019 future without-project weekday PM peak hour traffic
+volumes to form the basis of the with-project analysis. The resulting 2019 with-project traffic
+volumes are shown on Figure 7.
+
+
+
+
+                                                                                                  13
+Transportation Impact Analysis
+2nd and Stewart                                                                                                November 2015
+
+
+
+Traffic Volume Impact
+Table 5 summarizes the project traffic volume impact at the study intersections during the
+weekday PM peak hour for the project site.
+
+Table 5.         Traffic Volume Impacts at Study Intersections
+                                                 Weekday PM Peak Hour Total Entering Vehicles
+                                                   2019             New              2019                         Percent
+Intersection                                  Without- Project1 Project Trips    With-Project                  Project Share
+1. 3rd Avenue and Stewart Street                     1,020                   8                  1,028                0.8%
+2. 2nd Avenue and Stewart Street                     1,190                   8                  1,198                0.7%
+3. 1st Avenue and Stewart Street                     1,840                   4                  1,844                0.2%
+A. Alley and Stewart Street                           290                    17                  307                 5.5%
+B. Alley and Pine Street                              210                    6                   216                 2.8%
+
+
+As shown in Table 5, the percent traffic volume impacts are less than 1 percent at the study
+intersections and between 3 to 6 percent at the access alley locations. The higher project
+shares are due to the low traffic volumes at those respective study intersections. Overall the
+project volume impacts identified at the study intersections are within the range of daily
+fluctuations in traffic, which can be up to 5 percent. The project would have the greatest
+impact at the alley access on Stewart Street representing approximately 6 percent of the PM
+peak hour traffic volumes.
+
+
+Traffic Operations Impact
+Future with-project LOS analysis was conducted for the weekday PM peak hour to analyze
+traffic impacts of the proposed project. The same methods were applied as described for
+existing and future without-project conditions and all intersection parameters such as
+channelization and traffic control were consistent with those used in the evaluation of future
+without-project conditions. A comparison of future without and with-project weekday PM peak
+hour traffic operations is summarized for the project site in Table 6. Detailed LOS worksheets
+are provided in Appendix C.
+
+Table 6.         Future Weekday PM Peak Hour Intersection LOS Summary
+                                                                   2019 Without-Project PM              2019 With-Project PM
+Intersection                                   Traffic Control        LOS1        Delay2                 LOS          Delay
+1. 2nd Avenue and Stewart Street                  Signalized             B              17                 B           17
+2. 2nd Avenue and Pine Street                     Signalized             B              13                 B           13
+3. 3rd Avenue and Stewart Street                  Signalized             B              12                 B           12
+1.   Level of Service (A – F) as defined by the 2010 Highway Capacity Manual (HCM), Transportation Research Board.
+2.   Average delay per vehicle in seconds.
+
+
+As indicated in Table 6, overall impacts to the study intersections would generally be minimal
+with little to no change in calculated delays or LOS.
+
+
+Alley Operations and Impact
+The proposed project includes a lower and upper level garage. Access to each garage would
+be provided via the alley accessed off Stewart Street and Pine Street.
+
+The alley south of the proposed project accessed off Stewart Street and Pine Street (See
+Figure 2) operates as a two-way alley and contains two garage driveways associated with the
+
+
+
+                                                                                                                              17
+Transportation Impact Analysis
+2nd and Stewart                                                                                               November 2015
+
+
+101 Stewart Street Building (approximately 90,000 square feet office and commercial
+building). One of the existing driveways (north driveway) is directly across from the proposed
+garage entries for the 2nd and Stewart project. The south driveway is approximately 25 feet
+south of the north driveway. Field observations were conducted at this alley during the PM
+peak (4:00 – 6:00 p.m.) in order to analyze existing alley operations and the proposed
+project’s impact.
+
+During the peak PM two-hour period, there were 34 total vehicles observed using the alley.
+Of the 34 vehicles, 4 vehicles were going to/from the north driveway, 13 vehicles going
+to/from the south driveway, and the remaining 17 vehicles were either passing or unloading.
+Overall, there was minimal loading activity which included two trucks parked/unloading in the
+vicinity of the north driveway for approximately 5 minutes each.
+
+The proposed project is anticipated to generate 23 gross new PM peak hour trips which is
+approximately a 68 percent increase over the existing alley volumes. Included as part of the
+project is a trash and residential loading area which allows those activities to occur on-site
+and not in the alley.
+
+Table 7 summarizes the anticipated alley operations, which as mentioned above does not
+account for any intersection modifications due to the streetcar. The operations at the site
+accesses were analyzed consistent with the above analysis. At side-street stop-controlled
+intersections LOS is measured in average delay per vehicle during the peak hour of traffic
+and is reported for the worst operating approach of the intersection.
+
+Table 7.         Future 2019 Weekday PM Peak Hour With-Project LOS Summary
+Intersection                                  Traffic Control              LOS                Delay                  WM
+A. Alley & Stewart Street                     Stop Controlled                C                 19.0                  NBL
+B. Alley & Pine Street                        Stop Controlled                A                  9.5                  NBL
+1.   Level of Service (A – F) as defined by the 2010 Highway Capacity Manual (HCM), Transportation Research Board.
+2.   Average delay per vehicle in seconds.
+3.   Worst movement reported for unsignalized intersections.
+
+
+As shown in Table 7, both alley accesses are anticipated to operate at LOS C or better under
+with-project conditions.
+
+
+Transportation Concurrency
+The City of Seattle has implemented a Transportation Concurrency system to comply with
+one of the requirements of the Washington State Growth Management Act (GMA). The
+system, described in the DPD Director’s Rule 5-2009 and the City’s Land Use and Zoning
+Code, is designed to provide a mechanism that determines whether adequate transportation
+facilities would be available “concurrent” with proposed development projects.
+
+Screenlines are imaginary lines drawn across primary roadways to monitor traffic going from
+one side to the other. The screenlines closest to the project site were chosen for review. The
+screenlines that were analyzed for concurrency review include East of CBD (Screenline
+12.12) and South of Lake Union (Screenline 8) as shown in Table 8. As a conservative
+estimate, it was assumed that all project-generated traffic traveling in the direction of the
+screenlines would extend across the screenlines included in this analysis.
+
+
+
+
+                                                                                                                           18
+Transportation Impact Analysis
+2nd and Stewart                                                                                        November 2015
+
+
+Table 8. Transportation Concurrency Analysis
+                                                                          2008      Project   V/C Ratio      LOS
+    SL#1 Location                                    Dir2   Capacity     Volume     Traffic   w/ Project   Standard
+                                                      EB      6,000       4,509       0         0.75         1.20
+      8   South of Lake Union
+                                                     WB       3,600       3,020       5         0.84         1.20
+          South of S Jackson St-                      NB     12,900       7,586       5         0.59         1.00
+    10.11
+          Alaskan Way S to 4th Ave S                  SB     12,980       8,671       0         0.67         1.00
+                                                      EB     13,300       8,266       2         0.62         1.20
+    12.12 East of CBD
+                                                     WB      11,736       6,491       0         0.55         1.20
+1.    SL# = Screenline Number
+2.    Direction: NB = Northbound, SB = Southbound, EB = Eastbound, WB = Westbound
+
+The transportation concurrency analysis indicates that with traffic generated by the proposed
+project the screenlines would have v/c ratios that are less than the City v/c threshold; thus,
+the project would meet the City’s concurrency requirements.
+
+
+Parking Analysis
+The following sections describe the proposed parking supply, estimated peak parking
+demand of the project, and parking code requirements.
+Supply
+Parking for the proposed project would be provided by an upper and lower level garage with
+a total of 145 stalls. Access to each parking garage would be provided via the alley accessed
+off Stewart Street and Pine Street. As opportunities for transit, car share, etc. increase and
+with employment in the immediate vicinity of the site, it is anticipated vehicle ownership and
+the need for parking will decrease.
+Demand
+The peak parking demand is expected to be below national averages due the project’s
+proximity to transit service and its relative location in Downtown, a high-density urban village
+with a strong mix of office, residential, and commercial spaces. The peak parking demand for
+the proposed project was estimated based on data provided in ITE Parking Generation (4th
+Edition), local mode of travel data consistent with the trip generation analysis, and local
+vehicle ownership data.4 This approach is consistent with approved traffic studies conducted
+in the vicinity of the site. Detailed calculations are provided in Appendix E. The peak parking
+demand occurs overnight.
+
+The site is located in census tract 81. An analysis was completed to estimate the
+approximate on-site peak parking demand of the proposed development accounting for each
+land use’s different time of peak parking demand over the course of a typical day. Detailed
+calculations are provided in Appendix E.
+
+The parking rate used to estimate the peak parking demand for the apartment use (0.49
+vehicles per unit) is based on average vehicle ownership5 from US Census data. Based on
+the proposed mix of apartment units,6 the associated parking rates are shown in Table 9. A
+visitor parking demand rate of 0.05 vehicles per unit was assumed based on data provided in
+
+4
+ American FactFinder (US Census Bureau), American Community Survey 5-Year Estimates 2009-2013, Tenure by
+Vehicles Available (Report B25044), Census Tract 81.
+5
+ Estimated 0.38 autos owned per studio and open one-bedroom unit and 0.49 autos owned per one bedroom and
+two-bedroom (American Community Survey).
+6
+    The proposed apartment units include 83 one-bedroom, 72 two-bedroom, and 22 three bedroom units.
+7
+    Transportation Technical Report 2220 8th Avenue, Heffron Transportation, Inc., May 2014
+
+
+
+                                                                                                                    19
+Transportation Impact Analysis
+2nd and Stewart                                                                                November 2015
+
+
+previously approved transportation studies in the area.7 Table 9 provides a summary of the
+estimated parking demand for the site.
+
+Table 9. Estimated Peak Parking Demand – US Census Data
+Land Use                                                Size      Rate       Localized Peak Parking Demand
+
+Residential                                                       0.49                    87
+                                                       177 du
+Residential Visitor                                               0.05                    9
+Retail                                                2.755 ksf   2.55                    2
+Total                                                                                     98
+Note: du = dwelling units, ksf = 1,000 square feet
+
+
+As shown in Table 9, the estimated peak parking demand associated with residential parking
+is approximately 96 vehicles, and the peak parking demand associated with retail is
+approximately 2 vehicles, totaling 98 vehicles. The peak parking demand could be
+accommodated by the proposed 145 stall parking garage and could have a parking surplus of
+47 stalls.
+
+Parking Code Analysis
+This section outlines the parking code requirements for vehicular and bicycle parking.
+
+Off-Street Vehicle Parking
+The project includes 145 parking spaces for the residential and retail uses. Per Seattle
+Municipal Code (SMC) 23.54.015, there is no minimum parking requirement the development
+as the project is located within the downtown urban center.
+
+Bicycle Parking
+Secure, visible and easy to use bicycle parking promotes the use of bicycle travel to and from
+a site. Beyond the environmental and health benefits of bicycle travel, provisions for cyclists
+reduce the automobile traffic and parking impacts of a development and support many City
+and neighborhood comprehensive plan goals. Adequate and well-designed bicycle parking is
+also important to keep sidewalks fully ADA compliant and passible, and reduces the chances
+of bicycles obstructing emergency escape routes.
+
+SMC Section 23.49.019, Table A outlines the bicycle parking siting and quantity
+requirements. The code requires a minimum number of bicycle parking spaces for residential,
+and retail uses. Bicycle parking is not required for retail uses under 10,000 square feet.
+Required bicycle parking rate is reduced in half after the first 50 parking spaces provided per
+land use. The bicycle parking requirements are shown in Table 10Table 10.
+
+Table 10.        Bicycle Parking Code Requirements
+             Land Use                                Size1          Parking Rate2        Required Parking
+Residential (First 50 spaces)                        100 DU         1 per 2 DUs3                50
+Residential (Remaining spaces)                       77 DU           1 per 4 DUs                20
+Total Bicycle Parking Supply                                                                    70
+1.   DU = Dwelling Unit, SF = Square Feet
+2.   From Seattle Municipal Code 23.49.019, Table A.
+3.   For the first 50 spaces, then 1 per 8 DUs.
+
+
+As shown in Table 10, the project would be require to provide 70 bicycle spaces. The project
+is proposing to supply 74 bicycle parking spaces, which would exceed the required bicycle
+parking supply.
+
+
+
+                                                                                                            20
+Transportation Impact Analysis
+2nd and Stewart                                                                      November 2015
+
+
+
+                            Findings and Conclusions
+This TIA summarizes the transportation impacts associated with the mixed-use development
+located at 2nd Avenue and Stewart Street in the Downtown neighborhood of Seattle. General
+findings and recommendations include:
+
+          The proposed project would construct 177 residential apartment units and 2,755
+           square feet of commercial space.
+          After accounting for the existing office use on the project site, the development is
+           anticipated to generate 170 net new vehicular weekday daily trips with 14
+           net new trips occurring during the weekday AM peak hour and 17 net new trips
+           during the PM peak hour.
+          Access to the proposed parking garage would be provided via the alley between 1st
+           and 2nd Avenue.
+          All of the off-site study intersections are anticipated to operate at LOS B or better
+           with the project with minimal increases in delay.
+          The two alley access locations at Stewart Street and Pine Street would operate at
+           LOS C and A respectively.
+          The project would meet City’s transportation concurrency requirements.
+          The parking supply for the proposed project is 145 vehicle parking stalls and
+           exceeds the peak parking demand.
+          The project would be required to provide 70 long-term bicycle parking spaces. The
+           project would provide 74 long-term bicycle parking spaces, which would meet the
+           required parking supply.
+
+
+
+
+                                                                                                   21
+Appendix A:Traffic Counts
+ www.idaxdata.com
+
+
+                                           3RD AVE
+                                         STEWART ST
+                                                                                                                                 Date: Tue, Jul 28, 2015
+                N                              Peak Hour                                                                 Count Period: 4:00 PM to 6:00 PM
+                                                                                                                           Peak Hour: 4:15 PM to 5:15 PM
+
+
+
+
+                                                293
+
+
+
+                                                                    180
+                          3RD AVE
+
+
+
+
+                                                                                                                                                               4
+                                                    197
+                                         85
+
+
+
+
+                                                                11
+                                                                                                 STEWART ST                                                        378
+
+
+      399                                                                                         33          386                                                                            38
+                    0                           TEV: 906                                         313
+
+
+
+
+                                                                                                                                                  389
+
+
+
+
+                                                                                                                                                                                     490
+                    61                          PHF: 0.95                                         40
+      62            1                                                                                          89                           1
+
+
+           STEWART ST                                                                                                                                              396
+                                                                                       3RD AVE
+                                                    1
+
+                                                                147
+
+                                                                              17
+
+
+
+
+                                                                                                                   HV %:           PHF
+
+
+
+
+                                                                                                                                                                          35
+                                                                                                         EB        0.0%            0.86
+                                                                                                         WB        16.3%           0.90
+                                                                                                         NB        77.0%           0.83
+                                                238
+
+
+
+                                                                    165
+
+
+
+
+                                                                                                         SB        34.8%           0.93
+                                                                                                       TOTAL       32.2%           0.95
+Two-Hour Count Summaries
+                         STEWART ST                                   STEWART ST                                  3RD AVE                         3RD AVE
+    Interval                                                                                                                                                               15-min           Rolling
+      Start               Eastbound                                       Westbound                           Northbound                          Southbound                Total          One Hour
+                    LT              TH              RT          LT             TH                 RT     LT         TH             RT        LT         TH         RT
+    4:00 PM         0                   23          2           6              68                 5       1             35           4       1           43        14          202
+    4:15 PM         0                   11          0           13             85                 9       0             36           5       1           49        27          236
+    4:30 PM         0                   17          1           12             72                 8       0             24           5       4           47        16          206
+    4:45 PM         0                   18          0           10             91                 5       0             42           3       3           49        18          239           883
+    5:00 PM         0                   15          0           5              65                 11      1             45           4       3           52        24          225           906
+    5:15 PM         0                   24          2           10             45                 4       0             38           1       3           45        27          199           869
+    5:30 PM         0                   30          1           7              60                 11      1             35           7       4           41        28          225           888
+    5:45 PM         0                   12          0           16             102                5       1             44           5       4           31        12          232           881
+  Count Total       0               150             6           79             588                58      4         299              34      23         357        166     1,764
+    Peak Hr         0                   61          1           40             313                33      1         147              17      11         197        85          906
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                         Bicycles                                    Pedestrians (Crossing Leg)
+      Start         EB       WB               NB          SB          Total        EB             WB     NB        SB        Total        East          West       North         South         Total
+    4:00 PM         0          14             31          16           61          0              2       2         0         4           111           105          88              105      409
+    4:15 PM         0          18             31          27           76          0              10      7         4         21          106            85          87              79       357
+    4:30 PM         0          19             24          27           70          0              14      8         0         22          107           105          96              92       400
+    4:45 PM         0               9         36          21           66          1              8       9         0         18          121           108          84              99       412
+    5:00 PM         0          17             36          27           80          0              6      11         0         17          156            91         111              126      484
+    5:15 PM         0          14             33          23           70          0              6       9         2         17          155           127          94              130      506
+    5:30 PM         0               7         29          21           57          1              8       9         1         19          124           110          73              119      426
+    5:45 PM         0          17             36          12           65          1              11     14         3         29          151           102         115              107      475
+  Count Total       0        115              256         174         545          3              65     69        10        147          1,031         833         748              857      3,469
+    Peak Hr         0          63             127         102         292          1              38     35         4         78          490           389         378              396      1,653
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                 mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                          2ND AVE
+                                        STEWART ST
+                                                                                                                                    Date: Tue, Jul 28, 2015
+                N                                 Peak Hour                                                                 Count Period: 4:00 PM to 6:00 PM
+                                                                                                                              Peak Hour: 4:00 PM to 5:00 PM
+
+
+
+
+                                                     728
+
+
+
+                                                                     0
+                          2ND AVE
+
+
+
+
+                                                                                                                                                              49
+                                                       678
+                                            50
+
+
+
+
+                                                                   0
+                                                                                               STEWART ST                                                          462
+
+
+      228                                                                                       0           348                                                                               17
+                                                     TEV: 1,076                                178
+
+
+
+
+                                                                                                                                                 418
+
+
+
+
+                                                                                                                                                                                      211
+                                                     PHF: 0.99                                 170
+      0                                                                                                         0                           0
+
+
+          STEWART ST                                                                                                                                               283
+                                                                                     2ND AVE
+
+
+
+
+                                                                                                                 HV %:             PHF
+
+
+
+
+                                                                                                                                                                            0
+                                                                                                       EB               -            -
+                                                                                                       WB        8.6%              0.92
+                                                                                                       NB               -            -
+                                                     848
+
+
+
+
+                                                                                                       SB        9.3%              0.96
+                                                                     0
+
+
+
+
+                                                                                                     TOTAL       9.1%              0.99
+Two-Hour Count Summaries
+                         STEWART ST                                      STEWART ST                             2ND AVE                          2ND AVE
+    Interval                                                                                                                                                                15-min           Rolling
+      Start               Eastbound                                       Westbound                         Northbound                           Southbound                  Total          One Hour
+                    LT              TH                RT           LT          TH               RT     LT           TH             RT       LT         TH          RT
+    4:00 PM         0                   0              0           46          35               0       0               0            0       0         168         13           262
+    4:15 PM         0                   0              0           43          47               0       0               0            0       0         171         11           272
+    4:30 PM         0                   0              0           39          43               0       0               0            0       0         173         16           271
+    4:45 PM         0                   0              0           42          53               0       0               0            0       0         166         10           271          1,076
+    5:00 PM         0                   0              0           42          39               0       0               0            0       0         131         8            220          1,034
+    5:15 PM         0                   0              0           43          38               0       0               0            0       0         138         15           234           996
+    5:30 PM         0                   0              0           39          51               0       0               0            0       0         151         12           253           978
+    5:45 PM         0                   0              0           62          64               0       0               0            0       0         144         10           280           987
+  Count Total       0                   0              0           356         370              0       0               0            0       0     1,242           95       2,063
+    Peak Hr         0                   0              0           170         178              0       0               0            0       0         678         50       1,076
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                       Bicycles                                     Pedestrians (Crossing Leg)
+      Start         EB       WB                  NB          SB        Total    EB              WB     NB        SB          Total        East         West        North          South         Total
+    4:00 PM         0               8            0           13          21      0              3       0           4         7           53            85          120               73       331
+    4:15 PM         0               7            0           23          30      0              7       0        11           18          45           123          112               66       346
+    4:30 PM         0          10                0           17          27      0              4       0        17           21          58            93          111               64       326
+    4:45 PM         0               5            0           15          20      0              3       0        17           20          55           117          119               80       371
+    5:00 PM         0          10                0           16          26      0              6       0           7         13          64           108             99             102      373
+    5:15 PM         0               8            0           17          25      0              1       0           7         8           79           134             90             101      404
+    5:30 PM         0               4            0           29          33      0              2       0           6         8           61            88             68             102      319
+    5:45 PM         0               9            0           13          22      0              6       0           5         11          44           139          102               74       359
+  Count Total       0          61                0           143        204      0              32      0        74          106          459          887          821               662      2,829
+    Peak Hr         0          30                0           68          98      0              17      0        49           66          211          418          462               283      1,374
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                 mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                          1ST AVE
+                                        STEWART ST
+                                                                                                                                        Date: Tue, Jul 28, 2015
+                N                                 Peak Hour                                                                     Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                  Peak Hour: 4:45 PM to 5:45 PM
+
+
+
+
+                                                     403
+
+
+
+                                                                    1,113
+                          1ST AVE
+
+
+
+
+                                                                                                                                                                   3
+                                                       348
+                                            55
+
+
+
+
+                                                                  0
+                                                                                                      STEWART ST                                                       336
+
+
+      108                                                                                             115           238                                                                            13
+                    8                                TEV: 1,666                                        45
+
+
+
+
+                                                                                                                                                      757
+
+
+
+
+                                                                                                                                                                                           332
+                    0                                PHF: 0.87                                         78
+      27            19                                                                                                  0                        1
+
+
+           STEWART ST                                                                                                                                                  336
+                                                                                            1ST AVE
+                                                       8
+
+                                                                  990
+
+                                                                                0
+
+
+
+
+                                                                                                                         HV %:          PHF
+
+
+
+
+                                                                                                                                                                                39
+                                                                                                               EB        0.0%           0.75
+                                                                                                               WB        1.7%           0.83
+                                                                                                               NB        3.3%           0.88
+                                                     445
+
+
+
+                                                                    998
+
+
+
+
+                                                                                                               SB        4.0%           0.83
+                                                                                                             TOTAL       3.2%           0.87
+Two-Hour Count Summaries
+                         STEWART ST                                     STEWART ST                                      1ST AVE                        1ST AVE
+    Interval                                                                                                                                                                     15-min           Rolling
+      Start               Eastbound                                         Westbound                               Northbound                        Southbound                  Total          One Hour
+                    LT              TH                RT          LT            TH                     RT      LT           TH          RT       LT         TH         RT
+    4:00 PM         3                   0              5          22                7                  22       2           190           0       0         114        10            375
+    4:15 PM         2                   0              1          22                8                  27       2           177           0       0         111        12            362
+    4:30 PM         4                   0              2          25            13                     22       3           210           0       0          76        17            372
+    4:45 PM         1                   0              2          26            13                     33       2           280           0       0         108        13            478          1,587
+    5:00 PM         1                   0              8          15                8                  20       1           235           0       0          93        12            393          1,605
+    5:15 PM         3                   0              4          10            14                     34       1           236           0       0          98        20            420          1,663
+    5:30 PM         3                   0              5          27            10                     28       4           239           0       0          49        10            375          1,666
+    5:45 PM         5                   0              2          23            19                     29       2           241           0       0          82        7             410          1,598
+  Count Total       22                  0              29         170           92                     215     17        1,808            0       0         731        101       3,185
+    Peak Hr         8                   0              19         78            45                     115      8           990           0       0         348        55        1,666
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                               Bicycles                                  Pedestrians (Crossing Leg)
+      Start         EB       WB                  NB          SB         Total       EB                 WB      NB       SB        Total        East         West       North           South         Total
+    4:00 PM         0               0            12          3           15             1              5        3           2      11          29           210            97              75       411
+    4:15 PM         0               2            10          4           16             1              3        3           2      9           32           209         100                109      450
+    4:30 PM         0               0            7           4           11             0              3        2           0      5           75           200         108                54       437
+    4:45 PM         0               1            7           2           10             0              1        8           0      9           66           181            75              84       406
+    5:00 PM         0               0            8           8           16             1              7       11           0      19          81           208            88              71       448
+    5:15 PM         0               1            11          5           17             0              2       14           3      19          96           168            93              76       433
+    5:30 PM         0               2            7           1           10             0              3        6           0      9           89           200            80              105      474
+    5:45 PM         0               1            6           4           11             0              5        8           1      14          77           183            92              45       397
+  Count Total       0               7            68          31         106             3              29      55           8      95          545      1,559           733                619      3,456
+    Peak Hr         0               4            33          16          53             1              13      39           3      56          332          757         336                336      1,761
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                     mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                  ALLEY
+                                STEWART ST
+                                                                                                                    Date: Tue, Jul 28, 2015
+                N                     Peak Hour                                                             Count Period: 4:00 PM to 6:00 PM
+                                                                                                              Peak Hour: 5:00 PM to 6:00 PM
+
+
+
+
+                                                                               STEWART ST
+
+
+      239                                                                                   238                                                                             14
+                                        TEV: 247                               230
+
+
+
+
+                                                                                                                                                                    14
+                                                                                                                                    3
+                                        PHF: 0.81                               8
+      0                                                                                         0                            4
+
+
+          STEWART ST                                                                                                                             333
+                                                                       ALLEY
+                                                   9
+
+                                                               0
+
+
+
+
+                                                                                                HV %:              PHF
+
+
+
+
+                                                                                                                                                          0
+                                                                                       EB               -            -
+                                                                                       WB       0.8%                0.82
+                                                                                       NB       0.0%                0.45
+                                                                                     TOTAL      0.8%                0.81
+                                        8
+
+
+
+                                                       9
+
+
+
+
+Two-Hour Count Summaries
+                         STEWART ST                     STEWART ST                              ALLEY                                ALLEY
+    Interval                                                                                                                                              15-min           Rolling
+      Start               Eastbound                        Westbound                        Northbound                              Southbound             Total          One Hour
+                    LT       TH          RT        LT          TH               RT     LT           TH              RT       LT         TH       RT
+    4:00 PM         0           0        0         0           49               0       2               0            0          0        0        0           51
+    4:15 PM         0           0        0         3           57               0       2               0            0          0        0        0           62
+    4:30 PM         0           0        0         1           60               0       1               0            0          0        0        0           62
+    4:45 PM         0           0        0         1           61               0       3               0            0          0        0        0           65            240
+    5:00 PM         0           0        0         0           47               0       0               0            0          0        0        0           47            236
+    5:15 PM         0           0        0         1           52               0       5               0            0          0        0        0           58            232
+    5:30 PM         0           0        0         4           61               0       1               0            0          0        0        0           66            236
+    5:45 PM         0           0        0         3           70               0       3               0            0          0        0        0           76            247
+  Count Total       0           0        0         13          457              0      17               0            0          0        0        0           487
+    Peak Hr         0           0        0         8           230              0       9               0            0          0        0        0           247
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                       Bicycles                                        Pedestrians (Crossing Leg)
+      Start         EB     WB       NB        SB       Total       EB           WB     NB       SB          Total          East         West      North         South         Total
+    4:00 PM         0       0       0         0         0          3            6       0           0         9             0            2            0             82        84
+    4:15 PM         0       1       0         0         1          0            7       0           0         7            10            1            0             90       101
+    4:30 PM         0       0       0         0         0          0            4       0           0         4             7            0            0             86        93
+    4:45 PM         0       1       0         0         1          1            3       0           0         4             4            1            0             96       101
+    5:00 PM         0       0       0         0         0          1            5       0           0         6             5            0            0             84        89
+    5:15 PM         0       1       0         0         1          0            2       0           0         2             4            2            0             92        98
+    5:30 PM         0       1       0         0         1          1            3       0           0         4             2            0            0             81        83
+    5:45 PM         0       0       0         0         0          2            4       0           0         6             3            1            0             76        80
+  Count Total       0       4       0         0         4          8            34      0           0         42           35            7            0             687      729
+    Peak Hr         0       2       0         0         2          4            14      0           0         18           14            3            0             333      350
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                 mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                              ALLEY
+                                              PINE ST
+                                                                                                                               Date: Tue, Jul 28, 2015
+                N                              Peak Hour                                                               Count Period: 4:00 PM to 6:00 PM
+                                                                                                                         Peak Hour: 4:15 PM to 5:15 PM
+
+
+
+
+                                                  6
+
+
+
+                                                                 3
+                          ALLEY
+
+
+
+
+                                                                                                                                                          0
+                                          2
+
+                                                   4
+
+                                                             0
+                                                                                         PINE ST                                                              1,178
+
+
+      166                                                                                  1            156                                                                            16
+                                                  TEV: 179                                149
+
+
+
+
+                                                                                                                                              19
+
+
+
+
+                                                                                                                                                                                6
+                                                  PHF: 0.91                                6
+      0                                                                                                    0                           0
+
+
+                PINE ST                                                                                                                                        6
+                                                                                 ALLEY
+                                                   15
+
+                                                             2
+
+                                                                         0
+
+
+
+
+                                                                                                           HV %:              PHF
+
+
+
+
+                                                                                                                                                                      0
+                                                                                                   EB              -            -
+                                                                                                   WB      4.5%               0.91
+                                                                                                   NB      0.0%               0.71
+                                                  10
+
+
+
+                                                                 17
+
+
+
+
+                                                                                                   SB      16.7%              0.50
+                                                                                                TOTAL      4.5%               0.91
+Two-Hour Count Summaries
+                          PINE ST                                      PINE ST                             ALLEY                               ALLEY
+    Interval                                                                                                                                                           15-min         Rolling
+      Start               Eastbound                                   Westbound                         Northbound                            Southbound                Total        One Hour
+                    LT            TH               RT        LT          TH               RT       LT          TH             RT       LT          TH          RT
+    4:00 PM         0                 0            0         0           27                0       2               0            0         0         0          0          29
+    4:15 PM         0                 0            0         1           33                0       4               1            0         0         1          1          41
+    4:30 PM         0                 0            0         2           34                1       3               0            0         0         0          0          40
+    4:45 PM         0                 0            0         1           41                0       5               1            0         0         0          1          49           159
+    5:00 PM         0                 0            0         2           41                0       3               0            0         0         3          0          49           179
+    5:15 PM         0                 0            0         0           39                1       0               0            0         0         1          0          41           179
+    5:30 PM         0                 0            0         0           27                0       2               0            0         0         2          1          32           171
+    5:45 PM         0                 0            0         2           47                1       1               0            0         0         3          0          54           176
+  Count Total       0                 0            0         8           289               3       20              2            0         0         10         3          335
+    Peak Hr         0                 0            0         6           149               1       15              2            0         0         4          2          179
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                  Bicycles                                       Pedestrians (Crossing Leg)
+      Start         EB      WB                NB        SB       Total       EB           WB       NB      SB           Total        East          West        North        South        Total
+    4:00 PM         0             4           1         0         5          0             1       0           0         1            1             1           261             0       263
+    4:15 PM         0             3           0         0         3          0             3       0           0         3            1             6           341             0       348
+    4:30 PM         0             2           0         0         2          0             3       0           0         3            1             1           284             2       288
+    4:45 PM         0             1           0         1         2          0             9       0           0         9            0             4           294             1       299
+    5:00 PM         0             1           0         0         1          0             1       0           0         1            4             8           259             3       274
+    5:15 PM         0             0           0         0         0          0             8       0           0         8            2             3           261             2       268
+    5:30 PM         0             3           0         0         3          0             4       0           0         4            5             7           199             7       218
+    5:45 PM         0             1           0         0         1          0             1       1           1         3            6             9           210             3       228
+  Count Total       0         15              1         1         17         0            30       1           1         32          20             39         2,109            18      2,186
+    Peak Hr         0             7           0         1         8          0            16       0           0         16           6             19         1,178            6       1,209
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                            mark.skaggs@idaxdata.com
+Appendix B:LOS Definitions
+                                                    Highway Capacity Manual 2010
+
+Signalized intersection level of service (LOS) is defined in terms of a weighted average control delay for
+the entire intersection. Control delay quantifies the increase in travel time that a vehicle experiences due
+to the traffic signal control as well as provides a surrogate measure for driver discomfort and fuel
+consumption. Signalized intersection LOS is stated in terms of average control delay per vehicle (in
+seconds) during a specified time period (e.g., weekday PM peak hour). Control delay is a complex
+measure based on many variables, including signal phasing and coordination (i.e., progression of
+movements through the intersection and along the corridor), signal cycle length, and traffic volumes with
+respect to intersection capacity and resulting queues. Table 1 summarizes the LOS criteria for signalized
+intersections, as described in the Highway Capacity Manual 2010 (Transportation Research Board,
+2010).
+
+Table 1. Level of Service Criteria for Signalized Intersections
+                           Average Control Delay
+ Level of Service            (seconds/vehicle)                  General Description
+          A                           ≤10                       Free Flow
+          B                         >10 – 20                    Stable Flow (slight delays)
+          C                         >20 – 35                    Stable flow (acceptable delays)
+                                                                Approaching unstable flow (tolerable delay, occasionally wait through more
+          D                         >35 – 55
+                                                                than one signal cycle before proceeding)
+          E                         >55 – 80                    Unstable flow (intolerable delay)
+             1
+         F                            >80                       Forced flow (congested and queues fail to clear)
+Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+1. If the volume-to-capacity (v/c) ratio for a lane group exceeds 1.0 LOS F is assigned to the individual lane group. LOS for overall approach or
+      intersection is determined solely by the control delay.
+
+
+
+
+Unsignalized intersection LOS criteria can be further reduced into two intersection types: all-way stop
+and two-way stop control. All-way stop control intersection LOS is expressed in terms of the weighted
+average control delay of the overall intersection or by approach. Two-way stop-controlled intersection
+LOS is defined in terms of the average control delay for each minor-street movement (or shared
+movement) as well as major-street left-turns. This approach is because major-street through vehicles are
+assumed to experience zero delay, a weighted average of all movements results in very low overall
+average delay, and this calculated low delay could mask deficiencies of minor movements. Table 2 shows
+LOS criteria for unsignalized intersections.
+
+                 Table 2. Level of Service Criteria for Unsignalized Intersections
+                                   Level of Service                            Average Control Delay (seconds/vehicle)
+                                            A                                                        0 – 10
+                                            B                                                      >10 – 15
+                                            C                                                      >15 – 25
+                                            D                                                      >25 – 35
+                                            E                                                      >35 – 50
+                                            F1                                                        >50
+                 Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+                 1. If the volume-to-capacity (v/c) ratio exceeds 1.0, LOS F is assigned an individual lane group for all unsignalized
+                    intersections, or minor street approach at two-way stop-controlled intersections. Overall intersection LOS is
+                    determined solely by control delay.
+Appendix C:LOS Worksheets
+HCM 2010 Signalized Intersection Summary                                                                2nd and Stewart
+1: 3rd Ave & Stewart St                                                                           Existing (2015) PM Peak Hour
+
+
+
+
+Movement                       EBL    EBT      EBR     WBL       WBT     WBR     NBL     NBT    NBR     SBL        SBT     SBR
+Lane Configurations
+Traffic Volume (veh/h)            0     60        5       40      315       35       5   145       15      10       195       85
+Future Volume (veh/h)             0     60        5       40      315       35       5   145       15      10       195       85
+Number                            3      8       18        7        4       14       1     6       16       5         2       12
+Initial Q (Qb), veh               0      0        0        0        0        0       0     0        0       0         0        0
+Ped-Bike Adj(A_pbT)            1.00            0.65     0.71              0.63    0.94           0.77    0.88               0.87
+Parking Bus, Adj               1.00   1.00    1.00     1.00      1.00    1.00    1.00    1.00   1.00    1.00       1.00    1.00
+Adj Sat Flow, veh/h/ln            0   1900    1900     1900      1638    1900    1900    1073   1900    1900       1881    1900
+Adj Flow Rate, veh/h              0     63        5       42      332       37       5    153      16      11       205       89
+Adj No. of Lanes                  0      1        0        0         3       0       0      2       0       0         2        0
+Peak Hour Factor               0.95   0.95    0.95     0.95      0.95    0.95    0.95    0.95   0.95    0.95       0.95    0.95
+Percent Heavy Veh, %              0      0        0       16       16       16      77     77      77       1         1        1
+Cap, veh/h                        0    374       30     116       750       77      66   1150    115       91      1498     598
+Arrive On Green                0.00   0.22    0.22     0.22      0.22    0.22    0.66    0.66   0.66    0.66       0.66    0.66
+Sat Flow, veh/h                   0   1661     132      259      3332     344       27   1736    174       65      2261     903
+Grp Volume(v), veh/h              0      0       68     152       131     129       92      0      82    167          0     138
+Grp Sat Flow(s),veh/h/ln          0      0    1793     1383      1356    1195    1051       0    886    1832          0    1397
+Q Serve(g_s), s                 0.0    0.0      2.4      1.8       6.6     7.5     0.0    0.0     2.7     0.0       0.0      3.0
+Cycle Q Clear(g_c), s           0.0    0.0      2.4      6.8      6.6      7.5     2.5    0.0     2.7     2.6       0.0      3.0
+Prop In Lane                   0.00           0.07     0.28               0.29    0.05           0.20    0.07               0.65
+Lane Grp Cap(c), veh/h            0      0     403      369      305      269     743       0    587    1262          0     926
+V/C Ratio(X)                   0.00   0.00     0.17     0.41     0.43     0.48    0.12   0.00    0.14    0.13      0.00     0.15
+Avail Cap(c_a), veh/h             0      0     773      634      585      516     743       0    587    1262          0     926
+HCM Platoon Ratio              1.00   1.00     1.00     1.00     1.00     1.00    1.00   1.00    1.00    1.00      1.00     1.00
+Upstream Filter(I)             0.00   0.00    1.00     1.00      1.00    1.00    1.00    0.00   1.00    1.00       0.00    1.00
+Uniform Delay (d), s/veh        0.0    0.0    25.0     26.5      26.6    26.9      5.0    0.0     5.0     5.0       0.0      5.1
+Incr Delay (d2), s/veh          0.0    0.0      0.1      0.3      0.4      0.5     0.3    0.0     0.5     0.2       0.0      0.3
+Initial Q Delay(d3),s/veh       0.0    0.0      0.0      0.0      0.0      0.0     0.0    0.0     0.0     0.0       0.0      0.0
+%ile BackOfQ(50%),veh/ln        0.0    0.0      1.2      2.9      2.5      2.5     0.8    0.0     0.7     1.4       0.0      1.2
+LnGrp Delay(d),s/veh            0.0    0.0    25.0     26.8      26.9    27.4      5.3    0.0     5.5     5.2       0.0      5.4
+LnGrp LOS                                         C        C        C        C       A              A       A                  A
+Approach Vol, veh/h                    68                         411                    174                        305
+Approach Delay, s/veh                 25.0                       27.0                    5.4                        5.3
+Approach LOS                            C                           C                      A                          A
+Timer                            1       2        3       4         5       6       7       8
+Assigned Phs                             2                4                 6               8
+Phs Duration (G+Y+Rc), s              57.5             22.5              57.5            22.5
+Change Period (Y+Rc), s                4.5              4.5               4.5             4.5
+Max Green Setting (Gmax), s           36.5             34.5              36.5            34.5
+Max Q Clear Time (g_c+I1), s           5.0              9.5               4.7             4.4
+Green Ext Time (p_c), s                0.6              0.6               0.6             0.6
+Intersection Summary
+HCM 2010 Ctrl Delay                            16.0
+HCM 2010 LOS                                      B
+
+
+
+2nd and Stewart 5:00 pm 6/29/2015 Existing (2015) PM Peak Hour                                                  Synchro 9 Report
+                                                                                                                         Page 1
+HCM 2010 Signalized Intersection Summary                                                                  2nd and Stewart
+2: 2nd Ave & Stewart St                                                                              Existing (2015) PM Peak Hour
+
+
+
+
+Movement                  EBL   EBT EBR WBL WBT WBR                NBL   NBT NBR   SBL    SBT SBR
+Lane Configurations
+Traffic Volume (veh/h)      0    0     0     170     180       0     0    0    0      0    680       50
+Future Volume (veh/h)       0    0     0     170     180       0     0    0    0      0    680       50
+Number                                          7      4      14                      5      2       12
+Initial Q (Qb), veh                             0      0       0                      0      0        0
+Ped-Bike Adj(A_pbT)                          1.00           1.00                   1.00            0.88
+Parking Bus, Adj                            1.00    1.00    1.00                   1.00   1.00    1.00
+Adj Sat Flow, veh/h/ln                      1743    1743       0                      0   1743    1743
+Adj Flow Rate, veh/h                         118     258       0                      0    687       51
+Adj No. of Lanes                                1      2       0                      0      3        1
+Peak Hour Factor                            0.99    0.99    0.99                   0.99   0.99    0.99
+Percent Heavy Veh, %                            9      9       0                      0      9        9
+Cap, veh/h                                   464     784       0                      0   3034     827
+Arrive On Green                             0.22    0.22    0.00                   0.00   0.64    0.64
+Sat Flow, veh/h                             1660    3486       0                      0   4916    1297
+Grp Volume(v), veh/h                         118     258       0                      0    687       51
+Grp Sat Flow(s),veh/h/ln                    1660    1743       0                      0   1586    1297
+Q Serve(g_s), s                               4.7    5.0     0.0                    0.0    4.9      1.2
+Cycle Q Clear(g_c), s                         4.7    5.0     0.0                    0.0    4.9      1.2
+Prop In Lane                                1.00            0.00                   0.00            1.00
+Lane Grp Cap(c), veh/h                       464     784       0                      0   3034     827
+V/C Ratio(X)                                 0.25    0.33   0.00                   0.00    0.23    0.06
+Avail Cap(c_a), veh/h                        764    1416       0                      0   3034     827
+HCM Platoon Ratio                            1.00    1.00   1.00                   1.00    1.00   1.00
+Upstream Filter(I)                          0.87    0.87    0.00                   0.00   1.00    1.00
+Uniform Delay (d), s/veh                    25.9    25.9     0.0                    0.0     6.1     5.5
+Incr Delay (d2), s/veh                        0.1     0.1    0.0                    0.0     0.2     0.1
+Initial Q Delay(d3),s/veh                     0.0     0.0    0.0                    0.0     0.0     0.0
+%ile BackOfQ(50%),veh/ln                      2.2     2.4    0.0                    0.0     2.1     0.5
+LnGrp Delay(d),s/veh                        26.0    26.0     0.0                    0.0     6.3     5.6
+LnGrp LOS                                       C       C                                     A       A
+Approach Vol, veh/h                                  376                                   738
+Approach Delay, s/veh                               26.0                                    6.3
+Approach LOS                                            C                                     A
+Timer                     1     2      3       4       5      6      7    8
+Assigned Phs                    2              4
+Phs Duration (G+Y+Rc), s     56.5           23.5
+Change Period (Y+Rc), s       5.5            5.5
+Max Green Setting (Gmax), s 36.5            32.5
+Max Q Clear Time (g_c+I1), s 6.9             7.0
+Green Ext Time (p_c), s       1.1            0.3
+Intersection Summary
+HCM 2010 Ctrl Delay                  12.9
+HCM 2010 LOS                            B
+Notes
+
+2nd and Stewart 5:00 pm 6/29/2015 Existing (2015) PM Peak Hour                                                  Synchro 9 Report
+                                                                                                                         Page 3
+HCM 2010 Signalized Intersection Summary                                                          2nd and Stewart
+3: Stewart St & 1st Avenue                                                                   Existing (2015) PM Peak Hour
+
+
+
+
+Movement                 EBL EBT EBR WBL WBT WBR NBL NBT NBR                SBL    SBT SBR
+Lane Configurations
+Traffic Volume (veh/h)     10    0   20   80   45 115     10 990     0         0   350       55
+Future Volume (veh/h)      10    0   20   80   45 115     10 990     0         0   350       55
+Number                      3    8   18    7     4   14    5    2   12         1     6       16
+Initial Q (Qb), veh         0    0    0    0     0    0    0    0    0         0     0        0
+Ped-Bike Adj(A_pbT) 0.82           0.66 0.78       0.66 0.93      1.00      1.00           0.76
+Parking Bus, Adj         1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00       1.00   1.00   1.00
+Adj Sat Flow, veh/h/ln 1900 1900 1900 1863 1863 1900 1900 1845       0         0   1827   1900
+Adj Flow Rate, veh/h       11    0   23   92   52 132     11 1138    0         0    402      63
+Adj No. of Lanes            0    1    0    1     1    0    0    2    0         0      2       0
+Peak Hour Factor         0.87 0.87 0.87 0.87 0.87 0.87 0.87 0.87 0.87       0.87   0.87   0.87
+Percent Heavy Veh, %        0    0    0    2     2    2    3    3    0         0      4       4
+Cap, veh/h                 88   20 102 273     76 192     52 2264    0         0   1909    293
+Arrive On Green          0.22 0.00 0.22 0.22 0.22 0.22 0.66 0.66 0.00       0.00   0.66   0.66
+Sat Flow, veh/h           126   91 454 1083 337 855       10 3501    0         0   2973    442
+Grp Volume(v), veh/h       34    0    0   92     0 184 615 534       0         0    239    226
+Grp Sat Flow(s),veh/h/ln 671     0    0 1083     0 1192 1833 1595    0         0   1736   1588
+Q Serve(g_s), s           0.2  0.0  0.0  0.0  0.0 11.3   0.0 13.6  0.0       0.0    4.3     4.5
+Cycle Q Clear(g_c), s 11.6     0.0  0.0 10.0  0.0 11.3 13.5 13.6   0.0       0.0    4.3     4.5
+Prop In Lane             0.32      0.68 1.00       0.72 0.02      0.00      0.00           0.28
+Lane Grp Cap(c), veh/h 211       0    0 273      0 268 1260 1056     0         0   1150   1052
+V/C Ratio(X)             0.16 0.00 0.00 0.34 0.00 0.69 0.49 0.51 0.00       0.00   0.21    0.22
+Avail Cap(c_a), veh/h 427        0    0 496      0 514 1260 1056     0         0   1150   1052
+HCM Platoon Ratio        1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00       1.00   1.00   1.00
+Upstream Filter(I)       1.00 0.00 0.00 1.00 0.00 1.00 1.00 1.00 0.00       0.00   1.00   1.00
+Uniform Delay (d), s/veh 25.0  0.0  0.0 27.9  0.0 28.4   6.8  6.9  0.0       0.0    5.3     5.3
+Incr Delay (d2), s/veh    0.1  0.0  0.0  0.3  0.0   1.2  1.4  1.7  0.0       0.0    0.4     0.5
+Initial Q Delay(d3),s/veh 0.0  0.0  0.0  0.0  0.0   0.0  0.0  0.0  0.0       0.0    0.0     0.0
+%ile BackOfQ(50%),veh/ln0.6    0.0  0.0  1.8   0.0  3.8  7.1  6.4  0.0       0.0    2.2     2.1
+LnGrp Delay(d),s/veh 25.2      0.0  0.0 28.2  0.0 29.6   8.2  8.6  0.0       0.0    5.7     5.8
+LnGrp LOS                   C              C          C    A    A                     A       A
+Approach Vol, veh/h             34            276            1149                   465
+Approach Delay, s/veh         25.2           29.1             8.4                   5.7
+Approach LOS                     C              C               A                     A
+Timer                     1     2      3      4     5      6     7      8
+Assigned Phs                    2             4            6            8
+Phs Duration (G+Y+Rc), s     57.5          22.5         57.5         22.5
+Change Period (Y+Rc), s       4.5           4.5          4.5          4.5
+Max Green Setting (Gmax), s 36.5           34.5         36.5         34.5
+Max Q Clear Time (g_c+I1), s 15.6          13.3          6.5         13.6
+Green Ext Time (p_c), s       1.9           0.5          1.9          0.5
+Intersection Summary
+HCM 2010 Ctrl Delay                 11.0
+HCM 2010 LOS                           B
+
+
+
+2nd and Stewart 5:00 pm 6/29/2015 Existing (2015) PM Peak Hour                                          Synchro 9 Report
+                                                                                                                 Page 6
+HCM 2010 Signalized Intersection Summary                                                               2nd and Stewart
+1: 3rd Ave & Stewart St                                                                    Without-Project (2019) PM Peak Hour
+
+
+
+
+Movement                       EBL    EBT      EBR     WBL     WBT      WBR     NBL     NBT    NBR      SBL        SBT     SBR
+Lane Configurations
+Traffic Volume (veh/h)            0     65        5       40    395        35       5   155       15       10       205       90
+Future Volume (veh/h)             0     65        5       40    395        35       5   155       15       10       205       90
+Number                            3      8       18        7      4        14       1     6       16        5         2       12
+Initial Q (Qb), veh               0      0        0        0      0         0       0     0        0        0         0        0
+Ped-Bike Adj(A_pbT)            1.00            0.65     0.71             0.63    0.94           0.77     0.88               0.87
+Parking Bus, Adj               1.00   1.00    1.00     1.00    1.00     1.00    1.00    1.00   1.00     1.00       1.00    1.00
+Adj Sat Flow, veh/h/ln            0   1900    1900     1900    1638     1900    1900    1073   1900     1900       1881    1900
+Adj Flow Rate, veh/h              0     68        5       42    416        37       5    163      16       11       216       95
+Adj No. of Lanes                  0      1        0        0       3        0       0      2       0        0         2        0
+Peak Hour Factor               0.95   0.95    0.95     0.95    0.95     0.95    0.95    0.95   0.95     0.95       0.95    0.95
+Percent Heavy Veh, %              0      0        0       16     16        16      77     77      77        1         1        1
+Cap, veh/h                        0    377       28     102     793        66      64   1161    109        87      1494     606
+Arrive On Green                0.00   0.22    0.22     0.22    0.22     0.22    0.66    0.66   0.66     0.66       0.66    0.66
+Sat Flow, veh/h                   0   1677     123      209    3522      295       25   1753    165        60      2255     914
+Grp Volume(v), veh/h              0      0       73     182     158      155       98      0      86     177          0     145
+Grp Sat Flow(s),veh/h/ln          0      0    1800     1432    1356     1238    1052       0    891     1836          0    1393
+Q Serve(g_s), s                 0.0    0.0      2.6      2.5     8.1      8.9     0.0    0.0     2.9      0.0       0.0      3.1
+Cycle Q Clear(g_c), s           0.0    0.0      2.6      8.3    8.1       8.9     2.7    0.0     2.9      2.8       0.0      3.1
+Prop In Lane                   0.00           0.07     0.23              0.24    0.05           0.19     0.06               0.66
+Lane Grp Cap(c), veh/h            0      0     405      378     305      278     744       0    590     1264          0     923
+V/C Ratio(X)                   0.00   0.00     0.18     0.48    0.52     0.56    0.13   0.00    0.15     0.14      0.00     0.16
+Avail Cap(c_a), veh/h             0      0     776      653     585      534     744       0    590     1264          0     923
+HCM Platoon Ratio              1.00   1.00     1.00     1.00    1.00     1.00    1.00   1.00    1.00     1.00      1.00     1.00
+Upstream Filter(I)             0.00   0.00    1.00     1.00     1.00    1.00    1.00    0.00   1.00     1.00       0.00    1.00
+Uniform Delay (d), s/veh        0.0    0.0    25.0     27.1     27.2    27.5      5.0    0.0     5.0      5.0       0.0      5.1
+Incr Delay (d2), s/veh          0.0    0.0      0.1      0.4     0.5      0.6     0.4    0.0     0.5      0.2       0.0      0.4
+Initial Q Delay(d3),s/veh       0.0    0.0      0.0      0.0     0.0      0.0     0.0    0.0     0.0      0.0       0.0      0.0
+%ile BackOfQ(50%),veh/ln        0.0    0.0      1.3      3.6     3.1      3.1     0.9    0.0     0.8      1.5       0.0      1.3
+LnGrp Delay(d),s/veh            0.0    0.0    25.1     27.4     27.7    28.1      5.4    0.0     5.6      5.3       0.0      5.4
+LnGrp LOS                                         C        C       C        C       A              A        A                  A
+Approach Vol, veh/h                    73                        495                    184                         322
+Approach Delay, s/veh                 25.1                      27.7                    5.5                         5.3
+Approach LOS                            C                          C                      A                           A
+Timer                            1       2        3       4        5       6       7       8
+Assigned Phs                             2                4                6               8
+Phs Duration (G+Y+Rc), s              57.5             22.5             57.5            22.5
+Change Period (Y+Rc), s                4.5              4.5              4.5             4.5
+Max Green Setting (Gmax), s           36.5             34.5             36.5            34.5
+Max Q Clear Time (g_c+I1), s           5.1             10.9              4.9             4.6
+Green Ext Time (p_c), s                0.7              0.7              0.7             0.7
+Intersection Summary
+HCM 2010 Ctrl Delay                            17.0
+HCM 2010 LOS                                      B
+
+
+
+2nd and Stewart 5:00 pm 6/29/2015 Without-Project (2019) PM Peak Hour                                           Synchro 9 Report
+                                                                                                                         Page 1
+HCM 2010 Signalized Intersection Summary                                                                  2nd and Stewart
+2: 2nd Ave & Stewart St                                                                      Without-Project (2019) PM Peak Hour
+
+
+
+
+Movement                  EBL   EBT EBR WBL WBT WBR                NBL   NBT NBR   SBL    SBT SBR
+Lane Configurations
+Traffic Volume (veh/h)      0    0     0     180     205       0     0    0    0      0    750       55
+Future Volume (veh/h)       0    0     0     180     205       0     0    0    0      0    750       55
+Number                                          7      4      14                      5      2       12
+Initial Q (Qb), veh                             0      0       0                      0      0        0
+Ped-Bike Adj(A_pbT)                          1.00           1.00                   1.00            0.88
+Parking Bus, Adj                            1.00    1.00    1.00                   1.00   1.00    1.00
+Adj Sat Flow, veh/h/ln                      1743    1743       0                      0   1743    1743
+Adj Flow Rate, veh/h                         130     280       0                      0    758       56
+Adj No. of Lanes                                1      2       0                      0      3        1
+Peak Hour Factor                            0.99    0.99    0.99                   0.99   0.99    0.99
+Percent Heavy Veh, %                            9      9       0                      0      9        9
+Cap, veh/h                                   464     784       0                      0   3034     827
+Arrive On Green                             0.22    0.22    0.00                   0.00   0.64    0.64
+Sat Flow, veh/h                             1660    3486       0                      0   4916    1297
+Grp Volume(v), veh/h                         130     280       0                      0    758       56
+Grp Sat Flow(s),veh/h/ln                    1660    1743       0                      0   1586    1297
+Q Serve(g_s), s                               5.3    5.4     0.0                    0.0    5.5      1.3
+Cycle Q Clear(g_c), s                         5.3    5.4     0.0                    0.0    5.5      1.3
+Prop In Lane                                1.00            0.00                   0.00            1.00
+Lane Grp Cap(c), veh/h                       464     784       0                      0   3034     827
+V/C Ratio(X)                                 0.28    0.36   0.00                   0.00    0.25    0.07
+Avail Cap(c_a), veh/h                        764    1416       0                      0   3034     827
+HCM Platoon Ratio                            1.00    1.00   1.00                   1.00    1.00   1.00
+Upstream Filter(I)                          0.80    0.80    0.00                   0.00   1.00    1.00
+Uniform Delay (d), s/veh                    26.1    26.1     0.0                    0.0     6.3     5.5
+Incr Delay (d2), s/veh                        0.1     0.1    0.0                    0.0     0.2     0.2
+Initial Q Delay(d3),s/veh                     0.0     0.0    0.0                    0.0     0.0     0.0
+%ile BackOfQ(50%),veh/ln                      2.4     2.6    0.0                    0.0     2.4     0.5
+LnGrp Delay(d),s/veh                        26.2    26.2     0.0                    0.0     6.4     5.7
+LnGrp LOS                                       C       C                                     A       A
+Approach Vol, veh/h                                  410                                   814
+Approach Delay, s/veh                               26.2                                    6.4
+Approach LOS                                            C                                     A
+Timer                     1     2      3       4       5      6      7    8
+Assigned Phs                    2              4
+Phs Duration (G+Y+Rc), s     56.5           23.5
+Change Period (Y+Rc), s       5.5            5.5
+Max Green Setting (Gmax), s 36.5            32.5
+Max Q Clear Time (g_c+I1), s 7.5             7.4
+Green Ext Time (p_c), s       1.2            0.3
+Intersection Summary
+HCM 2010 Ctrl Delay                  13.0
+HCM 2010 LOS                            B
+Notes
+
+2nd and Stewart 5:00 pm 6/29/2015 Without-Project (2019) PM Peak Hour                                          Synchro 9 Report
+                                                                                                                        Page 3
+HCM 2010 Signalized Intersection Summary                                                             2nd and Stewart
+3: Stewart St & 1st Avenue                                                              Without-Project (2019) PM Peak Hour
+
+
+
+
+Movement                 EBL EBT EBR WBL WBT WBR NBL NBT NBR                   SBL    SBT SBR
+Lane Configurations
+Traffic Volume (veh/h)     10    0   20   85   50 145     10 1085    0            0   375       60
+Future Volume (veh/h)      10    0   20   85   50 145     10 1085    0            0   375       60
+Number                      3    8   18    7     4   14    5    2   12            1     6       16
+Initial Q (Qb), veh         0    0    0    0     0    0    0    0    0            0     0        0
+Ped-Bike Adj(A_pbT) 0.86           0.66 0.81       0.66 0.93      1.00         1.00           0.76
+Parking Bus, Adj         1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00          1.00   1.00   1.00
+Adj Sat Flow, veh/h/ln 1900 1900 1900 1863 1863 1900 1900 1845       0            0   1827   1900
+Adj Flow Rate, veh/h       11    0   23   98   57 167     11 1247    0            0    431      69
+Adj No. of Lanes            0    1    0    1     1    0    0    2    0            0      2       0
+Peak Hour Factor         0.87 0.87 0.87 0.87 0.87 0.87 0.87 0.87 0.87          0.87   0.87   0.87
+Percent Heavy Veh, %        0    0    0    2     2    2    3    3    0            0      4       4
+Cap, veh/h                 74   20   73 247    67 197     52 2265    0            0   1900    298
+Arrive On Green          0.22 0.00 0.22 0.22 0.22 0.22 0.66 0.66 0.00          0.00   0.66   0.66
+Sat Flow, veh/h            64   91 325 1125 299 876        9 3503    0            0   2960    450
+Grp Volume(v), veh/h       34    0    0   98     0 224 673 585       0            0    257    243
+Grp Sat Flow(s),veh/h/ln 480     0    0 1125     0 1175 1833 1595    0            0   1736   1583
+Q Serve(g_s), s           0.4  0.0  0.0  0.0  0.0 14.6   0.0 15.6  0.0          0.0    4.7     4.9
+Cycle Q Clear(g_c), s 15.0     0.0  0.0 11.9  0.0 14.6 15.5 15.6   0.0          0.0    4.7     4.9
+Prop In Lane             0.32      0.68 1.00       0.75 0.02      0.00         0.00           0.28
+Lane Grp Cap(c), veh/h 168       0    0 247      0 264 1260 1056     0            0   1150   1049
+V/C Ratio(X)             0.20 0.00 0.00 0.40 0.00 0.85 0.53 0.55 0.00          0.00   0.22    0.23
+Avail Cap(c_a), veh/h 384        0    0 479      0 507 1260 1056     0            0   1150   1049
+HCM Platoon Ratio        1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00          1.00   1.00   1.00
+Upstream Filter(I)       1.00 0.00 0.00 1.00 0.00 1.00 1.00 1.00 0.00          0.00   1.00   1.00
+Uniform Delay (d), s/veh 25.4  0.0  0.0 28.6  0.0 29.7   7.2  7.2  0.0          0.0    5.3     5.4
+Incr Delay (d2), s/veh    0.2  0.0  0.0  0.4  0.0   2.9  1.6  2.1  0.0          0.0    0.5     0.5
+Initial Q Delay(d3),s/veh 0.0  0.0  0.0  0.0  0.0   0.0  0.0  0.0  0.0          0.0    0.0     0.0
+%ile BackOfQ(50%),veh/ln0.6    0.0  0.0  2.0   0.0  4.9  8.2  7.4  0.0          0.0    2.4     2.2
+LnGrp Delay(d),s/veh 25.6      0.0  0.0 29.0  0.0 32.6   8.8  9.3  0.0          0.0    5.8     5.9
+LnGrp LOS                   C              C          C    A    A                        A       A
+Approach Vol, veh/h             34            322            1258                      500
+Approach Delay, s/veh         25.6           31.5             9.0                      5.8
+Approach LOS                     C              C               A                        A
+Timer                     1     2      3      4     5      6      7        8
+Assigned Phs                    2             4            6               8
+Phs Duration (G+Y+Rc), s     57.5          22.5         57.5            22.5
+Change Period (Y+Rc), s       4.5           4.5          4.5             4.5
+Max Green Setting (Gmax), s 36.5           34.5         36.5            34.5
+Max Q Clear Time (g_c+I1), s 17.6          16.6          6.9            17.0
+Green Ext Time (p_c), s       2.1           0.6          2.2             0.6
+Intersection Summary
+HCM 2010 Ctrl Delay                 12.0
+HCM 2010 LOS                           B
+
+
+
+2nd and Stewart 5:00 pm 6/29/2015 Without-Project (2019) PM Peak Hour                                     Synchro 9 Report
+                                                                                                                   Page 6
+HCM 2010 Signalized Intersection Summary                                                                 2nd and Stewart
+1: 3rd Ave & Stewart St                                                         With-Project (2019) PM Peak Hour (Two-Way Alley)
+
+
+
+
+Movement                       EBL    EBT      EBR     WBL     WBT      WBR      NBL     NBT     NBR      SBL        SBT     SBR
+Lane Configurations
+Traffic Volume (veh/h)            0     65        5       40    399        35       5     155       15       10       205       94
+Future Volume (veh/h)             0     65        5       40    399        35       5     155       15       10       205       94
+Number                            3      8       18        7      4        14       1       6       16        5         2       12
+Initial Q (Qb), veh               0      0        0        0      0         0       0       0        0        0         0        0
+Ped-Bike Adj(A_pbT)            1.00            0.65     0.71             0.63    0.94             0.77     0.88               0.87
+Parking Bus, Adj               1.00   1.00    1.00     1.00    1.00     1.00    1.00     1.00    1.00     1.00       1.00    1.00
+Adj Sat Flow, veh/h/ln            0   1900    1900     1900    1638     1900    1900     1073    1900     1900       1881    1900
+Adj Flow Rate, veh/h              0     68        5       42    420        37       5     163       16       11       216       99
+Adj No. of Lanes                  0      1        0        0       3        0       0       2        0        0         2        0
+Peak Hour Factor               0.95   0.95    0.95     0.95    0.95     0.95    0.95     0.95    0.95     0.95       0.95    0.95
+Percent Heavy Veh, %              0      0        0       16     16        16      77      77       77        1         1        1
+Cap, veh/h                        0    377       28     102     794        66      64    1161     109        86      1475     621
+Arrive On Green                0.00   0.22    0.22     0.22    0.22     0.22    0.66     0.66    0.66     0.66       0.66    0.66
+Sat Flow, veh/h                   0   1677     123      208    3529      293       25    1753     165        58      2226     938
+Grp Volume(v), veh/h              0      0       73     184     159      157       98       0       86     180          0     146
+Grp Sat Flow(s),veh/h/ln          0      0    1800     1434    1356     1239    1052        0     891     1837          0    1385
+Q Serve(g_s), s                 0.0    0.0      2.6      2.6     8.2      9.0     0.0     0.0      2.9      0.0       0.0      3.2
+Cycle Q Clear(g_c), s           0.0    0.0      2.6      8.4    8.2       9.0     2.7     0.0      2.9      2.9       0.0      3.2
+Prop In Lane                   0.00           0.07     0.23              0.24    0.05             0.19     0.06               0.68
+Lane Grp Cap(c), veh/h            0      0     405      378     305      279     744        0     590     1265          0     918
+V/C Ratio(X)                   0.00   0.00     0.18     0.49    0.52     0.56    0.13    0.00     0.15     0.14      0.00     0.16
+Avail Cap(c_a), veh/h             0      0     776      654     585      534     744        0     590     1265          0     918
+HCM Platoon Ratio              1.00   1.00     1.00     1.00    1.00     1.00    1.00    1.00     1.00     1.00      1.00     1.00
+Upstream Filter(I)             0.00   0.00    1.00     1.00     1.00    1.00    1.00     0.00    1.00     1.00       0.00    1.00
+Uniform Delay (d), s/veh        0.0    0.0    25.0     27.1     27.2    27.5      5.0     0.0      5.0      5.0       0.0      5.1
+Incr Delay (d2), s/veh          0.0    0.0      0.1      0.4     0.5      0.7     0.4     0.0      0.5      0.2       0.0      0.4
+Initial Q Delay(d3),s/veh       0.0    0.0      0.0      0.0     0.0      0.0     0.0     0.0      0.0      0.0       0.0      0.0
+%ile BackOfQ(50%),veh/ln        0.0    0.0      1.3      3.6     3.1      3.1     0.9     0.0      0.8      1.5       0.0      1.3
+LnGrp Delay(d),s/veh            0.0    0.0    25.1     27.5     27.7    28.2      5.4     0.0      5.6      5.3       0.0      5.5
+LnGrp LOS                                         C        C       C        C       A                A        A                  A
+Approach Vol, veh/h                    73                        499                      184                         326
+Approach Delay, s/veh                 25.1                      27.8                      5.5                         5.4
+Approach LOS                            C                          C                        A                           A
+Timer                            1       2        3       4        5       6         7      8
+Assigned Phs                             2                4                6                8
+Phs Duration (G+Y+Rc), s              57.5             22.5             57.5             22.5
+Change Period (Y+Rc), s                4.5              4.5              4.5              4.5
+Max Green Setting (Gmax), s           36.5             34.5             36.5             34.5
+Max Q Clear Time (g_c+I1), s           5.2             11.0              4.9              4.6
+Green Ext Time (p_c), s                0.7              0.7              0.7              0.7
+Intersection Summary
+HCM 2010 Ctrl Delay                            17.0
+HCM 2010 LOS                                      B
+
+
+
+2nd and Stewart 5:00 pm 6/29/2015 With-Project (2019) PM Peak Hour (Two-Way Alley)                                Synchro 9 Report
+                                                                                                                           Page 1
+HCM 2010 Signalized Intersection Summary                                                                    2nd and Stewart
+2: 2nd Ave & Stewart St                                                         With-Project (2019) PM Peak Hour (Two-Way Alley)
+
+
+
+
+Movement                  EBL   EBT EBR WBL WBT WBR                NBL   NBT NBR     SBL    SBT SBR
+Lane Configurations
+Traffic Volume (veh/h)      0    0     0     180     213       0     0    0    0        0    750       55
+Future Volume (veh/h)       0    0     0     180     213       0     0    0    0        0    750       55
+Number                                          7      4      14                        5      2       12
+Initial Q (Qb), veh                             0      0       0                        0      0        0
+Ped-Bike Adj(A_pbT)                          1.00           1.00                     1.00            0.88
+Parking Bus, Adj                            1.00    1.00    1.00                     1.00   1.00    1.00
+Adj Sat Flow, veh/h/ln                      1743    1743       0                        0   1743    1743
+Adj Flow Rate, veh/h                         132     285       0                        0    758       56
+Adj No. of Lanes                                1      2       0                        0      3        1
+Peak Hour Factor                            0.99    0.99    0.99                     0.99   0.99    0.99
+Percent Heavy Veh, %                            9      9       0                        0      9        9
+Cap, veh/h                                   464     784       0                        0   3034     827
+Arrive On Green                             0.22    0.22    0.00                     0.00   0.64    0.64
+Sat Flow, veh/h                             1660    3486       0                        0   4916    1297
+Grp Volume(v), veh/h                         132     285       0                        0    758       56
+Grp Sat Flow(s),veh/h/ln                    1660    1743       0                        0   1586    1297
+Q Serve(g_s), s                               5.4    5.5     0.0                      0.0    5.5      1.3
+Cycle Q Clear(g_c), s                         5.4    5.5     0.0                      0.0    5.5      1.3
+Prop In Lane                                1.00            0.00                     0.00            1.00
+Lane Grp Cap(c), veh/h                       464     784       0                        0   3034     827
+V/C Ratio(X)                                 0.28    0.36   0.00                     0.00    0.25    0.07
+Avail Cap(c_a), veh/h                        764    1416       0                        0   3034     827
+HCM Platoon Ratio                            1.00    1.00   1.00                     1.00    1.00   1.00
+Upstream Filter(I)                          0.80    0.80    0.00                     0.00   1.00    1.00
+Uniform Delay (d), s/veh                    26.1    26.2     0.0                      0.0     6.3     5.5
+Incr Delay (d2), s/veh                        0.1     0.1    0.0                      0.0     0.2     0.2
+Initial Q Delay(d3),s/veh                     0.0     0.0    0.0                      0.0     0.0     0.0
+%ile BackOfQ(50%),veh/ln                      2.5     2.7    0.0                      0.0     2.4     0.5
+LnGrp Delay(d),s/veh                        26.2    26.2     0.0                      0.0     6.4     5.7
+LnGrp LOS                                       C       C                                       A       A
+Approach Vol, veh/h                                  417                                     814
+Approach Delay, s/veh                               26.2                                      6.4
+Approach LOS                                            C                                       A
+Timer                     1     2      3       4       5      6      7    8
+Assigned Phs                    2              4
+Phs Duration (G+Y+Rc), s     56.5           23.5
+Change Period (Y+Rc), s       5.5            5.5
+Max Green Setting (Gmax), s 36.5            32.5
+Max Q Clear Time (g_c+I1), s 7.5             7.5
+Green Ext Time (p_c), s       1.2            0.3
+Intersection Summary
+HCM 2010 Ctrl Delay                  13.1
+HCM 2010 LOS                            B
+Notes
+
+2nd and Stewart 5:00 pm 6/29/2015 With-Project (2019) PM Peak Hour (Two-Way Alley)                              Synchro 9 Report
+                                                                                                                         Page 3
+HCM 2010 Signalized Intersection Summary                                                                   2nd and Stewart
+3: Stewart St & 1st Avenue                                                      With-Project (2019) PM Peak Hour (Two-Way Alley)
+
+
+
+
+Movement                 EBL EBT EBR WBL WBT WBR NBL NBT NBR                         SBL    SBT SBR
+Lane Configurations
+Traffic Volume (veh/h)     10    0   20   85   50 149     10 1085    0                  0   375       60
+Future Volume (veh/h)      10    0   20   85   50 149     10 1085    0                  0   375       60
+Number                      3    8   18    7     4   14    5    2   12                  1     6       16
+Initial Q (Qb), veh         0    0    0    0     0    0    0    0    0                  0     0        0
+Ped-Bike Adj(A_pbT) 0.86           0.66 0.82       0.66 0.93      1.00               1.00           0.76
+Parking Bus, Adj         1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00                1.00   1.00   1.00
+Adj Sat Flow, veh/h/ln 1900 1900 1900 1863 1863 1900 1900 1845       0                  0   1827   1900
+Adj Flow Rate, veh/h       11    0   23   98   57 171     11 1247    0                  0    431      69
+Adj No. of Lanes            0    1    0    1     1    0    0    2    0                  0      2       0
+Peak Hour Factor         0.87 0.87 0.87 0.87 0.87 0.87 0.87 0.87 0.87                0.87   0.87   0.87
+Percent Heavy Veh, %        0    0    0    2     2    2    3    3    0                  0      4       4
+Cap, veh/h                 72   20   70 244    66 198     52 2265    0                  0   1900    298
+Arrive On Green          0.22 0.00 0.22 0.22 0.22 0.22 0.66 0.66 0.00                0.00   0.66   0.66
+Sat Flow, veh/h            57   91 310 1129 293 879        9 3503    0                  0   2960    450
+Grp Volume(v), veh/h       34    0    0   98     0 228 673 585       0                  0    257    243
+Grp Sat Flow(s),veh/h/ln 459     0    0 1129     0 1173 1833 1595    0                  0   1736   1583
+Q Serve(g_s), s           0.4  0.0  0.0  0.0  0.0 15.0   0.0 15.6  0.0                0.0    4.7     4.9
+Cycle Q Clear(g_c), s 15.3     0.0  0.0 11.9  0.0 15.0 15.5 15.6   0.0                0.0    4.7     4.9
+Prop In Lane             0.32      0.68 1.00       0.75 0.02      0.00               0.00           0.28
+Lane Grp Cap(c), veh/h 163       0    0 244      0 264 1260 1056     0                  0   1150   1049
+V/C Ratio(X)             0.21 0.00 0.00 0.40 0.00 0.86 0.53 0.55 0.00                0.00   0.22    0.23
+Avail Cap(c_a), veh/h 379        0    0 477      0 506 1260 1056     0                  0   1150   1049
+HCM Platoon Ratio        1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00                1.00   1.00   1.00
+Upstream Filter(I)       1.00 0.00 0.00 1.00 0.00 1.00 1.00 1.00 0.00                0.00   1.00   1.00
+Uniform Delay (d), s/veh 25.5  0.0  0.0 28.6  0.0 29.8   7.2  7.2  0.0                0.0    5.3     5.4
+Incr Delay (d2), s/veh    0.2  0.0  0.0  0.4  0.0   3.3  1.6  2.1  0.0                0.0    0.5     0.5
+Initial Q Delay(d3),s/veh 0.0  0.0  0.0  0.0  0.0   0.0  0.0  0.0  0.0                0.0    0.0     0.0
+%ile BackOfQ(50%),veh/ln0.6    0.0  0.0  2.0   0.0  5.1  8.2  7.4  0.0                0.0    2.4     2.2
+LnGrp Delay(d),s/veh 25.7      0.0  0.0 29.0  0.0 33.1   8.8  9.3  0.0                0.0    5.8     5.9
+LnGrp LOS                   C              C          C    A    A                              A       A
+Approach Vol, veh/h             34            326            1258                            500
+Approach Delay, s/veh         25.7           31.9             9.0                            5.8
+Approach LOS                     C              C               A                              A
+Timer                     1     2      3      4     5      6      7      8
+Assigned Phs                    2             4            6             8
+Phs Duration (G+Y+Rc), s     57.5          22.5         57.5          22.5
+Change Period (Y+Rc), s       4.5           4.5          4.5           4.5
+Max Green Setting (Gmax), s 36.5           34.5         36.5          34.5
+Max Q Clear Time (g_c+I1), s 17.6          17.0          6.9          17.3
+Green Ext Time (p_c), s       2.1           0.6          2.2           0.6
+Intersection Summary
+HCM 2010 Ctrl Delay                 12.1
+HCM 2010 LOS                           B
+
+
+
+2nd and Stewart 5:00 pm 6/29/2015 With-Project (2019) PM Peak Hour (Two-Way Alley)                             Synchro 9 Report
+                                                                                                                        Page 6
+HCM 2010 TWSC                                                                                            2nd and Stewart
+4: Alley & Stewart St                                                           With-Project (2019) PM Peak Hour (Two-Way Alley)
+
+
+
+Intersection
+Int Delay, s/veh           1.1
+
+Movement                              EBT EBR           WBL WBT                      NBL        NBR
+Traffic Vol, veh/h                       0    0           20 265                       17          0
+Future Vol, veh/h                        0    0           20 265                       17          0
+Conflicting Peds, #/hr                   0 336           347    0                     336        347
+Sign Control                          Free Free         Free Free                    Stop       Stop
+RT Channelized                           - None            - None                       -       None
+Storage Length                           -    -            -    -                       0          -
+Veh in Median Storage, #                 0    -            -    0                       0          -
+Grade, %                                 0    -            -    0                       0          -
+Peak Hour Factor                        81   81           81   81                      81         81
+Heavy Vehicles, %                        0    0            1    1                       0          0
+Mvmt Flow                                0    0           25 327                       21          0
+
+Major/Minor                                           Major2                     Minor1
+Conflicting Flow All                                    347       0                 560          694
+       Stage 1                                             -      -                 347            -
+       Stage 2                                             -      -                 213            -
+Critical Hdwy                                              -      -                  7.5           -
+Critical Hdwy Stg 1                                        -      -                    -           -
+Critical Hdwy Stg 2                                        -      -                  6.5           -
+Follow-up Hdwy                                             -      -                  3.5           -
+Pot Cap-1 Maneuver                                         -      -                 415            -
+       Stage 1                                             -      -                    -           -
+       Stage 2                                             -      -                 775            -
+Platoon blocked, %                                                -
+Mov Cap-1 Maneuver                                          -     -                  278           0
+Mov Cap-2 Maneuver                                          -     -                  278           -
+       Stage 1                                              -     -                    -           -
+       Stage 2                                              -     -                  775           -
+
+Approach                                                 WB                           NB
+HCM Control Delay, s                                                                  19
+HCM LOS                                                                                C
+
+Minor Lane/Major Mvmt            NBLn1 WBL WBT
+Capacity (veh/h)                    278  -   -
+HCM Lane V/C Ratio                0.075  -   -
+HCM Control Delay (s)                19  -   -
+HCM Lane LOS                          C  -   -
+HCM 95th %tile Q(veh)               0.2  -   -
+
+
+
+
+2nd and Stewart 5:00 pm 6/29/2015 With-Project (2019) PM Peak Hour (Two-Way Alley)                             Synchro 9 Report
+                                                                                                                        Page 8
+HCM 2010 TWSC                                                                                                    2nd and Stewart
+5: Pine St & Alley                                                                 With-Project (2019) PM Peak Hour (Two-Way Alley)
+
+
+
+Intersection
+Int Delay, s/veh           0.9
+
+Movement                         EBL EBT EBR               WBL WBT WBR                  NBL NBT NBR                   SBL SBT SBR
+Traffic Vol, veh/h                  0    0    0               5 170    10                 15    5    0                  0    5    6
+Future Vol, veh/h                   0    0    0               5 170    10                 15    5    0                  0    5    6
+Conflicting Peds, #/hr              0    0    0               0    0 1184                 25    0   12               1184    0 1197
+Sign Control                     Free Free Free            Free Free Free               Free Free Free               Stop Stop Stop
+RT Channelized                      -    - None               -    - None                  -    - None                  -    - None
+Storage Length                      -    -    -               -    -    -                  -    -    -                  -    -    0
+Veh in Median Storage, #            -    0    -               -    0    -                  -    0    -                  -    0    -
+Grade, %                            -    0    -               -    0    -                  -    0    -                  -    0    -
+Peak Hour Factor                   92   92   92              91   91   91                 91   91   91                 91   91   91
+Heavy Vehicles, %                   2    2    2               5    5    5                  0    0    0                 17   17   17
+Mvmt Flow                           0    0    0               5 187    11                 16    5    0                  0    5    7
+
+Major/Minor                                               Major2                       Major1                      Minor2
+Conflicting Flow All                                           5     0      0           1395       0      0          1438 1438 1321
+       Stage 1                                                 -     -      -               -      -      -          1400 1400        -
+       Stage 2                                                 -     -      -               -      -      -            38     38      -
+Critical Hdwy                                               4.15     -      -             4.1      -      -         6.855 6.755 7.155
+Critical Hdwy Stg 1                                            -     -      -               -      -      -         6.055 5.755       -
+Critical Hdwy Stg 2                                            -     -      -               -      -      -         5.655 5.755       -
+Follow-up Hdwy                                             2.245     -      -             2.2      -      -        3.6615 4.1615 3.4615
+Pot Cap-1 Maneuver                                         1597      -      -            497       -      -           121 119 133
+       Stage 1                                                 -     -      -               -      -      -           175 186         -
+       Stage 2                                                 -     -      -               -      -      -           944 832         -
+Platoon blocked, %                                                   -      -                      -      -
+Mov Cap-1 Maneuver                                        ~ -204     -      -            485       -      -              2        0 ~ -18
+Mov Cap-2 Maneuver                                             -     -      -              -       -      -              2        0     -
+       Stage 1                                                 -     -      -              -       -      -          ~ -24        0     -
+       Stage 2                                                 -     -      -              -       -      -         ~ -128        0     -
+
+Approach                                                    WB                            NB                              SB
+HCM Control Delay, s                                                                      9.5
+HCM LOS                                                                                                                     -
+
+Minor Lane/Major Mvmt             NBL    NBT NBR WBL WBT WBR SBLn1
+Capacity (veh/h)                   485     -    -  +   -    -    -
+HCM Lane V/C Ratio               0.034     -    -  -   -    -    -
+HCM Control Delay (s)             12.7     0    -  -   -    -    -
+HCM Lane LOS                         B     A    -  -   -    -    -
+HCM 95th %tile Q(veh)              0.1     -    -  -   -    -    -
+Notes
+~: Volume exceeds capacity        $: Delay exceeds 300s   +: Computation Not Defined     *: All major volume in platoon
+
+
+
+2nd and Stewart 5:00 pm 6/29/2015 With-Project (2019) PM Peak Hour (Two-Way Alley)                                        Synchro 9 Report
+                                                                                                                                   Page 9
+Appendix D:Trip Generation Worksheets
+                                                                                 Trip Generation
+
+
+
+2nd and Stewart
+
+
+
+Person Trips
+       Land Use                                        Size                                   Trip Rate1                 Inbound %           AVO Rate2          Person Trips
+       Proposed Use
+       Residential (LU 220)                                    177 units                                                                        1.11
+         Daily                                                                            T = 6.06(X)+123.56                50%                                      1,328
+         AM Peak Hour                                                                      T = 0.49(X)+3.73                 20%                                       100
+         PM Peak Hour                                                                     T = 0.55(X)+17.65                 65%                                       128
+
+
+           Specialty Retail                                    2,755 sf                                                                         1.48
+            Daily                                                                       44.32 trips/1,000 sq. ft.           50%                                       181
+            AM Peak Hour3                                                               0.96 trips/1,000 sq. ft.            62%                                        4
+            PM Peak Hour                                                                2.71 trips/1,000 sq. ft.            44%                                        11
+
+
+
+
+           Existing Use
+           General Office Building (LU 710)                    8,000 sf                                                                         1.10
+             Daily                                                                      11.03 trips/1,000 sq. ft.           50%                                       97
+             AM Peak Hour                                                               1.56 trips/1,000 sq. ft.            88%                                       14
+             PM Peak Hour                                                               1.49 trips/1,000 sq. ft.            17%                                       13
+
+           Specialty Retail                                    8,000 sf                                                                         1.48
+            Daily                                                                       44.32 trips/1,000 sq. ft.           50%                                       525
+            AM Peak Hour3                                                               0.96 trips/1,000 sq. ft.            62%                                        11
+            PM Peak Hour                                                                2.71 trips/1,000 sq. ft.            44%                                        32
+
+
+
+
+Notes:
+1. Trip rates based on Institute of Transportation Engineers' (ITE) Trip Generation Manual 9th Edition average trip rate and equation as shown for the land uses noted.
+
+
+2. AVO = average vehicle occupancy. Retail and Residential AVO based on NCHRP 365 for urban areas with populations over 1 million people. Office use AVO based on Trip
+Generation Manual 9th edition - Land Use 715 (Single Tenant Office).
+
+3. Trip generation rate not available for LU 826 during the AM Peak hour. Average rate and directional splits for LU 820 were assumed.
+
+
+
+
+\\srv-dfs-wa\MM_Projects\Projects\15\15027.00 - 2nd and Stewart\Traffic Analysis\Trip Generation\2ndStewartTripGen                                                             6/30/2015
+                                                                                              Trip Generation
+
+
+
+2nd and Stewart
+
+    Person Trips by Mode of Travel
+                                                    Percent               Daily                          AM Peak Hour                                   PM Peak Hour
+    Trip Generation Summary                        By Mode1           Person Trips               In          Out      Total                     In          Out      Total
+    Proposed Use
+    Residential
+     Walk, Bike, Other Trips                           50%                  660                  10             40             50               42              22             64
+     Transit Trips                                     30%                  400                   6             24             30               25              13             38
+     Person Trips by Vehicle                           20%                  268                   4             16             20               16              10             26
+     Total                                            100%                 1,328                 20             80             100              83              45             128
+
+    Retail
+     Walk, Bike, Other Trips                           80%                  140                  2               1               3               4               5               9
+     Transit Trips                                     5%                    10                  0               0               0               0               1               1
+     Person Trips by Vehicle                           15%                   31                  0               1               1               1               0               1
+     Total                                            100%                  181                  2               2               4               5               6              11
+
+    Existing Use
+    Office
+     Walk, Bike, Other Trips                           15%                   10                   2              0               2               0               2               2
+     Transit Trips                                     55%                   50                   7              1               8               1               6               7
+     Person Trips by Vehicle                           30%                   37                   3              1               4               1               3               4
+     Total                                            100%                   97                  12              2              14               2              11              13
+
+    Retail
+     Walk, Bike, Other Trips                           80%                  420                  6               3               9              11              15              26
+     Transit Trips                                     5%                    30                  1               0               1               1               1               2
+     Person Trips by Vehicle                           15%                   75                  0               1               1               2               2               4
+     Total                                            100%                  525                  7               4              11              14              18              32
+
+    Net New Project Person Trips
+     Walk, Bike, Other Trips                                                790                 10              41              51              46              25              71
+     Transit Trips                                                          360                 -1              23              22              24              8               32
+     Person Trips by Vehicle                                                262                 1               16              17              16              7               23
+     Total                                                                 1,412                10              80              90              86              40             126
+
+    1. Residential person trip mode splits based on 2009 - 2013 American Community Survey 5-Year Estimates for census tract (#81) of the proposed project. Office use mode split based
+    on a review of the 2014 Center City Commuter Mode Split Survey for workers in Commercial Core
+
+
+
+                                                Vehicle Trip Generation
+                                                                      Daily Vehicle             AM Peak Hour Vehicle Trips                     PM Peak Hour Vehicle Trips
+    Land Use                                          AVO                 Trips                  In       Out         Total                     In       Out         Total
+    Proposed Use
+    Residential1                                       1.16                 230                  3              14              17              14              8              22
+    Retail                                             1.48                  21                  0               1               1               1              0               1
+    Subtotal                                                                251                  3              15              18              15              8              23
+    Existing Use
+    Office2                                            1.23                  30                  2               1               3               1               2               3
+    Retail                                             1.48                  51                  0               1               1               1               2               3
+
+    Net New Trips                                                           170                  1              13              14              13               4              17
+    1. Average Vehicle Occupancy (AVO) based on 2009 - 2013 American Community Survey 5-Year Estimates for census tract (#81), report B08137.
+    2. Average Vehicle Occupancy (AVO) based on 2014 Center City Commuter Mode Split Survey using carpool and single occupancy vehicle statistics.
+
+
+
+
+\\srv-dfs-wa\MM_Projects\Projects\15\15027.00 - 2nd and Stewart\Traffic Analysis\Trip Generation\2ndStewartTripGen                                                                       6/30/2015
+Appendix E:Parking Demand Worksheets
+                                          Appendix E - Parking Demand
+                                Seattle Apartment Parking Demand Rate Calculation
+             Project Information
+             Project:                   2nd & Stewart
+             Project No:                15027.00
+             Unit Mix
+             Studio & Open one bedroom units:                0
+             One bedroom units:                              83
+             Two bedroom units:                              72
+             Three bedroom units                             22
+             Total apartment units:                         177    *Assumed breakdown based on
+                                                                   unit mix percentages
+             Census Data
+             Cesus Tract Number:               81
+
+             Renter occupied housing with:
+             No Vehicle                      1167
+             1 Vehicle                        727
+             2 vehicles                       138
+             3 vehicles                        0
+             *US Census Bureau, 2009 - 2013 American Community Survey, Report B25044
+
+             Vehicle Ownership Rate Calculation
+
+             Studio, open, and one bedroom unit auto ownership:1
+                        0.38           autos/unit
+
+             One, two, and three bedroom unit auto ownership:2
+                        0.49           autos/unit
+
+             1. Assumes no vehicle or one vehicle ownership
+             2. Assumes no vehicle, one vehicle, two, and three vehicle ownership
+
+             Weighted Average Vehicle Ownership Rate for Proposed Apartments:
+                       0.49           autos/unit
+
+             Residential Peak Parking Demand
+
+                          87               Vehicles
+
+             ULI Apartment Visitor Parking Demand Rate
+
+                         0.05              autos/unit
+
+             Visitor Parking Demand Rate Calculation
+
+             Wtd. Avg. Vehicle Ownership + ULI Visitor Rate=
+                         9             Vehicles
+
+             Total Localized Peak Parking Demand
+
+                          96               vehicles
+
+
+
+Apartment Demand                                                                                 11/12/2015
+                                      Appendix E - Parking Demand
+                                  Seattle Retail Parking Demand Rate Calculation
+Project Information
+Project:                1012 Harrison
+Project No:             14325.00
+Retail Size:
+Commercial Space
+                  2,755 sf                 Specialty Retail
+
+Local Mode Split Data1:
+
+Vehicle                           15%
+Walk / Bicycle                    80%
+Transit                            5%
+                                  100%
+
+Parking Demand Rate2:
+
+           2.55            stalls / 1,000 sf (ITE Shopping Center #820)
+
+Localized Parking Demand Rate:
+
+Parking Demand Rate x Vehicle Mode Split
+          0.38         vehicles / 1,000 sf                  (Specialty Retail)
+
+Parking Demand:
+Retail Size x Localized Parking Demand Rate
+             2             vehicles
+
+Notes:
+1. Based on the assumption that retail serves the local residents and employees and the majority of trips would be walking.
+
+2 Based on ITE Parking Generation (4th Edition, 2010) shopping center land use 820 for non-Friday weekday, non-December.
+
+
+
+
+Retail Demand                                                                                                       11/12/2015
+

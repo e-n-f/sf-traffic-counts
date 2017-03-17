@@ -1,0 +1,2602 @@
+  400 Dexter Office
+            MUP No. 3016362
+
+
+        Transportation Impact Study
+                         July 30, 2014
+
+
+
+
+                        Prepared for:
+                   Collins Woerman
+     710 Second Avenue, Suite 1400
+            Seattle, WA 98104-1710
+
+
+
+
+                        Prepared by:
+
+                           TENW
+Transportation Engineering NorthWest
+
+
+         11400 SE 8th Street, Suite 200
+                 Bellevue, WA 98004
+              Office: (425) 889-6747
+                 Fax: (425) 889-8369
+                                                                                                               Transportation Impact Study
+                                                                                                                          400 Dexter Office
+
+
+
+
+Table of Contents
+FINDINGS/CONCLUSIONS ....................................................................................... 1
+INTRODUCTION ....................................................................................................... 3
+    Project Description ..................................................................................................... 3
+    Project Approach ...................................................................................................... 3
+    Primary Data and Information Sources ........................................................................... 5
+EXISTING CONDITIONS ............................................................................................. 8
+    Roadway Network .................................................................................................... 8
+    Transit Service........................................................................................................... 8
+    Non-motorized Transportation Facilities.......................................................................... 8
+    Existing Peak-Hour Traffic Volumes ................................................................................ 8
+    Level of Service ....................................................................................................... 10
+TRAFFIC IMPACT ANALYSIS ....................................................................................... 12
+    Project Trip Generation ............................................................................................. 12
+    Project Trip Distribution and Assignment ....................................................................... 13
+    Future Traffic Volumes ............................................................................................... 15
+    Future Level of Service .............................................................................................. 18
+    Site Access Analysis ................................................................................................. 19
+    Future Transit Service ................................................................................................ 19
+    Future Non-Motorized Facilities .................................................................................. 19
+    Transportation Concurrency ....................................................................................... 20
+    Parking Demand Analysis .......................................................................................... 20
+    Justification for Parking Supply Increase ........................................................................ 21
+PROJECT MITIGATION MEASURES .............................................................................. 22
+    South Lake Union Capital Improvement Project Contribution ............................................. 22
+    Level of Service ....................................................................................................... 22
+    Parking .................................................................................................................. 22
+    TMP ...................................................................................................................... 22
+
+
+Appendices
+Appendix A – Existing Traffic Count Data Sheets
+Appendix B – Trip Generation Calculations
+Appendix C – Future 2015 Traffic Volumes & Road Network from SR-99 North Access Connection Project
+Appendix D – LOS Analysis Results and Site Access Analysis
+Appendix E – Parking Demand Calculations
+Appendix F – SLU Pro-Rata Mitigation Calculations
+
+
+
+
+      TENW                                                                                                                   July 30, 2014
+                                                                                                                                   Page i
+                                                                                                            Transportation Impact Study
+                                                                                                                       400 Dexter Office
+
+
+
+
+List of Figures and Tables
+
+Figure 1 Project Site Vicinity ....................................................................................................... 6
+Figure 2 Preliminary Site Plan ..................................................................................................... 7
+Figure 3 Existing Weekday PM Peak Hour Traffic Volumes .............................................................. 9
+Figure 4 Project Trip Distribution and Assignment ........................................................................... 14
+Figure 5 2016 Without-Project PM Peak Hour Traffic Volumes ........................................................ 16
+Figure 6 2016 With-Project PM Peak Hour Traffic Volumes ............................................................ 17
+
+
+
+
+Table 1 LOS Criteria for Signalized and Unsignalized Intersections1 ............................................... 10
+Table 2 Existing PM Peak Hour LOS Summary ............................................................................ 11
+Table 3 Trip Generation Summary for 400 Dexter Office ............................................................. 13
+Table 4 Future 2016 PM Peak Hour LOS Summary ..................................................................... 18
+Table 5 400 Dexter Office – Transportation Concurrency Assessment ............................................. 20
+
+
+
+
+      TENW                                                                                                                July 30, 2014
+                                                                                                                                Page ii
+                                                                                          Transportation Impact Study
+                                                                                                     400 Dexter Office
+
+
+
+
+FINDINGS/CONCLUSIONS
+This traffic impact analysis has been prepared for the proposed 400 Dexter Office development.
+
+        Project Proposal. The project proposal includes up to 252,010 square feet (sf) of office space,
+        up to 7,500 sf restaurant, and up to 10,000 sf of retail area (7,400 + 2,600 sf mezzanine) on a
+        site located at 400 Dexter Avenue in the South Lake Union (SLU) neighborhood of Seattle. The
+        existing site contains a variety of existing commercial uses totaling approximately 35,200 sf, all of
+        which will be demolished. The anticipated year of project occupancy for the project is 2016.
+
+        Trip Generation. The proposed office development is anticipated to generate a net total of 1,325
+        daily vehicle trips, with 196 net new trips occurring during the weekday AM peak hour, and 175
+        net new trips during the weekday PM peak hour.
+
+        Access. Vehicle access to/from the site would be provided on the alley located along the east side
+        of the project site, which intersects with both Republican Street and Harrison Street. Turn movements
+        at both alley intersections are anticipated to operate at LOS C or better in 2016 with the project
+        during the PM peak hour.
+
+        Intersection Level of Service (LOS). 11 study intersections were evaluated for PM hour LOS in the
+        future with or without the proposed project.
+
+                Turn movements at the four unsignalized study intersections adjacent to the site alley on
+                Republican and Harrison and on 8th Avenue are anticipated to operate at LOS D or better.
+                Three of the signalized study intersections on Fairview Avenue are expected to operate at
+                LOS F in the future with or without the proposed project in the PM peak hour.
+
+                The Dexter/Denny, Fairview/Mercer, and Fairview/Denny intersections are anticipated to
+                continue to operate a LOS F and as they serve as gateway access points to/from the SLU
+                area. The added traffic from the 400 Dexter office project is not anticipated to be significant.
+
+                The Fairview/Republican intersection is anticipated to operate at LOS F in the future without
+                the proposed 400 Dexter office project based using existing signal timing provided by the
+                City. Based on projected traffic growth, split-phasing the intersection in the east-west direction
+                and maintaining the 160-second cycle would improve the intersection to LOS D operation
+                in the PM peak hour with an average delay of about 55 seconds. As a result, it is
+                recommended that the City give consideration to east-west split phasing at this intersection
+                in the future to accommodate the anticipated pipeline development.
+
+                The Fairview/Harrison intersection is anticipated to operate in the LOS E during the PM peak
+                hour with the proposed 400 Dexter office and other pipeline projects. Re-optimizing green
+                splits would improve the LOS at this intersection during the PM peak hour in the future.
+
+
+
+
+     TENW                                                                                              July 30, 2014
+                                                                                                             Page 1
+                                                                                Transportation Impact Study
+                                                                                           400 Dexter Office
+
+
+
+ Transit & Non-Motorized Impacts. Existing transit service in the vicinity area is anticipated to
+ accommodate the anticipated increase in ridership demand from the project. The project location is
+ well served with adequate bicycle and pedestrian facilities to accommodate the increased demand
+ generated by the project. Secure bicycle storage will be provided for on-site office employees.
+
+ Transportation Concurrency. Transportation concurrency was evaluated for the proposed 400 Dexter
+ Office project based on City guidelines outlined in the Director’s Rule 2009-5. The calculated v/c
+ ratios for the tested screenlines were determined to remain below the adopted LOS standard with the
+ proposed development. Therefore, the proposed development was determined to meet the City of
+ Seattle concurrency requirements.
+
+ Parking. The peak parking demand for the office, restaurant, and retail uses is anticipated to be 371
+ parking stalls at 11:00 a.m. on a weekday. This would be accommodated by the proposed 475
+ stall parking supply. While peak parking for the restaurant may exceed supply after 7:00 p.m.,
+ shared parking would accommodate peak parking demand throughout a weekday, and no parking
+ spillover is anticipated. On-site parking for the office use is proposed at a ratio of 1.42 stalls per
+ 1,000 gsf. Since this exceeds the parking limit of 1 stall per 1,000 gsf for non-residential uses, a
+ special exception to the code is proposed.
+
+ Project Mitigation. The following describes the measures proposed to mitigate project impacts.
+
+     1. South Lake Union Capital Improvement Project Contribution.
+         The project is required to contribute payment for its share of South Lake Union capital
+         improvement projects, as identified in the Seattle Department of Transportation’s South Lake
+         Union Transportation Study. The pro-rata contribution for the proposed 400 Dexter Office
+         project is $74,863 based on the number of PM peak hour trips generated by the proposed
+         office, restaurant, and retail uses less the credit for removal of the existing on-site uses.
+
+     2. Level of Service
+         It is recommended that the City give consideration to east-west split phasing the
+         Fairview/Republican intersection in the future to accommodate the anticipated pipeline
+         development.
+
+         It is recommended that the City consider re-optimizing green splits which would improve the
+         LOS at the Fairview/Harrison intersection during the PM peak hour in the future.
+
+     3. Parking
+         None
+
+     4. TMP
+         A Transportation Manage Plan (TMP) will be required of the proposed office project, which
+         will include goals to help reduce single-occupancy vehicle usage.
+
+
+
+
+TENW                                                                                         July 30, 2014
+                                                                                                   Page 2
+                                                                                    Transportation Impact Study
+                                                                                               400 Dexter Office
+
+
+
+
+INTRODUCTION
+     This traffic study documents the traffic impacts associated with the proposed 400 Dexter Office
+     Development. The project site is located at 400 Dexter Avenue N on the southeast corner of Dexter
+     and Republican Street; see also Figure 1 site vicinity map.
+
+Project Description
+     The proposed 400 Dexter Office Development includes up to 252,010 square feet (sf) of office
+     space, up to 7,500 sf restaurant, and up to 10,000 sf of retail area (7,400 + 2,600 sf mezzanine).
+     Vehicle access to/from the site would be provided on the alley located along the east side of the
+     project site with access north and south to Republican and Harrison Streets as shown on the
+     preliminary site plan concept in Figure 2.
+
+     The existing site includes several commercial uses that will be removed, including Excellence Health
+     and Wellness (7,342 sf health/fitness club), Ordo Templi (819 sf office for religious not for profit),
+     EMFA (3,857 sf event space), Home Grown (11,188 sf manufacturing), and Seattle Automotive
+     (12,000 sf automotive care center).
+
+     The anticipated year of occupancy for the project is 2016.
+
+Project Approach
+     Based on discussions with John Shaw of the City of Seattle Department of Planning and Development
+     (DPD), the following tasks were undertaken to evaluate and disclose the traffic impacts associated
+     with the 400 Dexter Office Development project:
+                    Assessed existing conditions through field reconnaissance and reviewed existing
+                     planning documents;
+                    Described and assessed existing transportation conditions in the study area;
+                    Documented existing public transit service and non-motorized facilities;
+                    Estimated trip generation for weekday daily and peak hour conditions;
+                    Documented trip distribution and assignment of project-generated traffic;
+                    Documented traffic forecasts and assumptions for year 2016 PM peak hour
+                     conditions with and without the proposed development;
+                    Conducted PM peak hour level of service (LOS) analyses at the following study
+                     intersections:
+                          1. Dexter Avenue / Republican Street
+                          2. Dexter Avenue / Harrison Street
+                          3. Dexter Avenue / Denney Way
+                          4. Republican Street / Alley Access
+                          5. Harrison Street / Alley Access
+                          6. 8th Avenue / Republican Street
+
+
+   TENW                                                                                          July 30, 2014
+                                                                                                       Page 3
+                                                                     Transportation Impact Study
+                                                                                400 Dexter Office
+
+
+
+              7. 8th Avenue / Harrison Street
+              8. Fairview Avenue / Mercer Street
+              9. Fairview Avenue / Republican Street
+              10. Fairview Avenue / Harrison Street
+              11. Fairview Avenue / Denny Way
+          Assessed transportation concurrency based on the guidelines outlined in the
+           Director’s Rule 2009-5;
+          Evaluated parking demand based on peak parking demand rates from the ITE
+           Parking Generation Manual with future mode share projections in the 2012 Center
+           City Commuter Mode Split Survey Results, using CTR-Affected mode-share.
+
+
+
+
+TENW                                                                              July 30, 2014
+                                                                                        Page 4
+                                                                              Transportation Impact Study
+                                                                                         400 Dexter Office
+
+
+
+
+Primary Data and Information Sources
+              Institute of Transportation Engineers (ITE) Trip Generation Manual, 9th Edition, 2012.
+              Institute of Transportation Engineers (ITE) Trip Generation Handbook, 2nd Edition,
+               2004.
+              2012 Center City Commuter Mode Split Survey Results; the Gilmore Research
+               Group, March 2013.
+              SR-99 North Access Connection Supplemental EIS; future 2015/16 traffic volumes
+               and roadway network changes provided by Parsons-Brinkerhoff and SDOT.
+              2013 and 2014 PM Peak Hour traffic counts by All Traffic Data.
+              2010 Update to the Highway Capacity Manual, Transportation Research Board.
+              Metro/King County Website, June 2014.
+              City of Seattle Signal Timing Data.
+              Department of Planning and Development (DPD) Director’s Rule 2009-5
+               Transportation Concurrency Project Review System, effective 4/13/2009.
+              ITE Parking Generation, 4th Edition, year 2010.
+
+
+
+
+   TENW                                                                                    July 30, 2014
+                                                                                                 Page 5
+                                 Transportation Impact Study
+                                            400 Dexter Office
+
+
+
+
+Figure 1 Project Site Vicinity
+
+
+
+
+ TENW                                         July 30, 2014
+                                                    Page 6
+                                 Transportation Impact Study
+                                            400 Dexter Office
+
+
+
+
+Figure 2 Preliminary Site Plan
+
+
+
+
+ TENW                                         July 30, 2014
+                                                    Page 7
+                                                                                       Transportation Impact Study
+                                                                                                  400 Dexter Office
+
+
+
+
+EXISTING CONDITIONS
+Roadway Network
+     The primary vehicle travel routes to and from the site include Dexter Avenue, Republican Street, and
+     Harrison Street. These roadways serving the project site are described below:
+             Dexter Avenue is a two-way street classified as a Minor Arterial. In the project vicinity, Dexter
+             Avenue has sidewalks, buffered bike lanes, and parking on both sides of the street. Most
+             City street intersections along Dexter Avenue are signalized with crosswalks. Channelization
+             has been modified slightly to accommodate road construction near the project vicinity.
+             Republican Street is a two-way street classified as Minor Arterial east of Dexter Avenue.
+             Adjacent to the site, Republican Street in a non-arterial street with sidewalks on both sides
+             and parking on the north side only.
+             Harrison Street is a two-way street classified as a local Access Street. In the project vicinity,
+             Harrison Street has sidewalks and parking is allowed on both sides of the street. Harrison
+             Street from Aurora Ave N to 8th Ave N is currently closed to traffic due to roadway
+             construction.
+
+Transit Service
+     The project site is served by Metro Transit. The nearest Metro Transit bus stop is located adjacent to
+     the project site on the west side of Dexter Avenue just north of Harrison Street. The stop serves routes
+     26, 28 with frequent service to/from downtown, Queen Anne, Fremont, Green Lake, and
+     Broadview. There is currently no bus shelter for this stop. There are several other transit stops within
+     a half-mile of the site on Mercer Street and Westlake Avenue. These public transit facilities provide
+     frequent service to areas throughout the region.
+
+     Two blocks east of the site on Westlake Avenue is the Seattle Street Car which provides service
+     between South Lake Union and downtown. The Westlake Hub station in downtown provides a
+     transfer point to the Seattle Transit Tunnel, which provides connection to transit services that serve the
+     region.
+
+Non-motorized Transportation Facilities
+     Non-motorized transportation facilities in the project vicinity include sidewalks on all adjacent streets,
+     crosswalks at signalized intersections, and bicycle lanes on Dexter Avenue. Dexter Avenue is
+     considered a major bicycle facility in the Seattle Bicycling Map that provides signed and striped
+     bicycle lanes on both sides between Fremont and downtown Seattle.
+
+Existing Peak-Hour Traffic Volumes
+     Existing PM peak hour traffic volumes at the study intersections were collected by All Traffic Data in
+     December 2013 and June 2014. Figure 3 illustrates the existing PM peak hour traffic volumes at
+     11 of the 13 study intersections; the two study intersections at the alley and 8th Avenue on Harrison
+     were under construction so traffic count data was not available. The detailed traffic count data sheets
+     are provided in Appendix A.
+
+
+
+   TENW                                                                                             July 30, 2014
+                                                                                                          Page 8
+                                                          Transportation Impact Study
+                                                                     400 Dexter Office
+
+
+
+
+ Figure 3 Existing Weekday PM Peak Hour Traffic Volumes
+
+
+
+
+TENW                                                                   July 30, 2014
+                                                                             Page 9
+                                                                                                          Transportation Impact Study
+                                                                                                                     400 Dexter Office
+
+
+
+
+Level of Service
+     Based on traffic scoping discussions with City transportation staff, level of service (LOS) analyses
+     were conducted at the following study intersections:
+                1. Dexter Avenue / Republican Street
+                2. Dexter Avenue / Harrison Street
+                3. Dexter Avenue / Denney Way
+                4. Republican Street / Alley Access
+                5. Harrison Street / Alley Access (under construction)
+                6. 8th Avenue / Republican Street
+                7. 8th Avenue / Harrison Street (under construction)
+                8. Fairview Avenue / Mercer Street
+                9. Fairview Avenue / Republican Street
+                10. Fairview Avenue / Harrison Street
+                11. Fairview Avenue / Denny Way
+
+     LOS generally refers to the degree of congestion on a roadway or intersection. It is a measure of
+     vehicle operating speed, travel time, travel delays, and driving comfort. A letter scale from A to F
+     generally describes intersection LOS. At signalized intersections, LOS A represents free-flow
+     conditions (motorists experience little or no delays), and LOS F represents forced-flow conditions
+     where motorists experience an average delay in excess of 80 seconds per vehicle.
+
+     The LOS reported for signalized intersections represents the average control delay (sec/veh) and can
+     be reported for the overall intersection, for each approach, and for each lane group or movement
+     (additional v/c ratio criteria apply to lane group or movement LOS only). The LOS reported at two-
+     way stop-controlled intersections is based on the average control delay and can be reported for each
+     controlled minor approach, controlled minor lane group, and controlled major-street movement
+     (additional v/c ratio criteria apply to lane group or movement LOS only). Table 1 outlines current
+     HCM 2010 LOS criteria for signalized and unsignalized intersections based on these methods.
+
+     Table 1
+     LOS Criteria for Signalized and Unsignalized Intersections1
+                 SIGNALIZED INTERSECTIONS                                        UNSIGNALIZED INTERSECTIONS
+                                 LOS by Volume-to                                                     LOS by Volume-to
+                                Capacity (V/C) Ratio2                                                Capacity (V/C) Ratio3
+      Control Delay                                                      Control Delay
+       (sec/veh)                    1.0              > 1.0               (sec/veh)                     1.0              > 1.0
+             10                     A                   F                     10                       A                  F
+        > 10 to  20                 B                   F                > 10 to  15                   B                  F
+        > 20 to  35                 C                   F                > 15 to  25                   C                  F
+        > 35 to  55                 D                   F                > 25 to  35                   D                  F
+        > 55 to  80                 E                   F                > 35 to  50                   E                  F
+            > 80                     F                   F                     > 50                      F                  F
+
+     1 Source: HCM2010 Highway Capacity Manual, Transportation Research Board, 2010.
+     2 For approach-based and intersection-wide assessments at signals, LOS is defined solely by control delay.
+     3 For two-way stop intersections, LOS criteria apply to each lane on a given approach and to each approach on minor
+     street. LOS not calculated for major-street approaches or for intersection as a whole at two-way stop controlled intersections.
+
+
+
+
+   TENW                                                                                                                 July 30, 2014
+                                                                                                                             Page 10
+                                                                                                 Transportation Impact Study
+                                                                                                            400 Dexter Office
+
+
+
+ LOS calculations for the study intersections were calculated using the methodology and procedures
+ outlined in the 2010 Highway Capacity Manual (HCM), Transportation Research Board (TRB), using
+ the Synchro 8 software program. Existing signal timing was provided by the SDOT.
+
+ The existing PM peak hour LOS analysis results for the study intersections are summarized in Table 2
+ with the detailed LOS worksheets provided in Appendix D.
+
+          Table 2
+          Existing PM Peak Hour LOS Summary
+                                                                  2014 Existing Conditions
+          Study Intersection                                       LOS1            Delay (sec)
+
+          Signalized
+          1. Dexter Ave / Republican Street                          A                 8.5
+          2. Dexter Ave / Harrison Street                            A                 8.4
+          3. Dexter Ave / Denny Way2                                 C                26.0
+          8. Fairview Ave / Mercer Street2                           F                99.2
+          9. Fairview Ave / Republican Street                        E                56.4
+          10. Fairview Ave / Harrison Street                         A                 8.5
+          11. Fairview Ave / Denny Way                               D                40.5
+          Unsignalized
+          4. Republican Street / Alley
+                    NB Turns from Alley                              B                11.9
+                    WB Left-Turn                                     A                 7.8
+          5. Harrison Street / Alley                               N/A3
+          6. 8th Ave / Republican Street
+                    EB Left-Turn                                     A                 7.7
+                    NB Turns                                         B                12.9
+          7. 8th Ave / Harrison Street                             N/A3
+
+          1. LOS based on Synchro analysis with HCM 2010 methods unless otherwise noted.
+          2. LOS at these intersections based on HCM 2000 methods.
+          3. LOS analysis not available due to roadway construction in the area.
+
+
+
+ As shown in Table 2, nine of the 11 existing study intersections currently operate at LOS D or better
+ during the PM peak hour. Two of the study intersections were under construction during the time of
+ the traffic counts.
+
+
+
+
+TENW                                                                                                          July 30, 2014
+                                                                                                                   Page 11
+                                                                                    Transportation Impact Study
+                                                                                               400 Dexter Office
+
+
+
+
+TRAFFIC IMPACT ANALYSIS
+Project Trip Generation
+     The proposed 400 Dexter Office Development includes up to 252,010 square feet (sf) of office
+     space, up to 7,500 sf restaurant, and up to 10,000 sf of retail area (7,400 + 2,600 sf mezzanine).
+     The existing site includes several uses that will be removed, and trip generation credit was applied
+     for the existing uses to be replaced.
+
+     The weekday AM peak hour, PM peak hour, and daily trip generation estimate for the proposed
+     office, restaurant, retail, and existing uses were based on trip rates published in the Institute of
+     Transportation Engineers (ITE) Trip Generation Manual, 9th edition. Local mode split adjustments
+     were made to the trips associated with the proposed office and existing uses based on the 2012
+     Center City Commuter Mode Split Survey Results for the South Lake Union Area (ref. Table 6), unless
+     otherwise noted. The CTR-Affected Commute Mode Share was used for the proposed office use
+     assuming a future TMP for the project, while the Non CTR-Affected Commute Mode Share was used
+     for the existing uses. Three steps were used to calculate the trip generation for the proposed use and
+     existing on-site uses to be removed.
+
+     First, ITE trip rates were used to determine vehicular trip generation for the proposed uses. Vehicle
+     trip generation was then converted to person trips using an average vehicle occupancy (AVO) factor
+     of 1.10 for the proposed office and 1.20 for the proposed restaurant and retail.
+
+     Second, local mode-split data was used to assign the person trips into the following categories:
+
+                       Type                 Office            Restaurant/Retail
+                       Non-Vehicle           16%                     50%
+                       Transit               26%                     0%
+                       Vehicle               58%                     50%
+
+     Third, an AVO was applied to the person trips traveling by vehicle to obtain the number of vehicle
+     trips. An AVO of 1.10 was assumed for the proposed office and an AVO of 1.20 was assumed
+     for the proposed restaurant and retail. Since the assumed AVO are the same as those used in Step
+     1 above, no reductions in trip generation were made as a result of AVO.
+
+     Table 3 summarizes the weekday daily and peak hour trip generation for the proposed office
+     development and restaurant/retail uses, as well as the trip generation for the existing uses that will
+     be removed. The table also summarizes the net addition of trips based on the proposed less existing
+     use. The detailed trip generation calculations are included in Attachment B.
+
+
+
+
+   TENW                                                                                          July 30, 2014
+                                                                                                      Page 12
+                                                                                     Transportation Impact Study
+                                                                                                400 Dexter Office
+
+
+
+
+               Table 3
+               Trip Generation Summary for 400 Dexter Office
+
+                                                       Vehicular Trips Generated
+
+                Time Period                     In           Out             Total
+                Daily
+
+                  Proposed Uses                938            938           1,876
+
+                  Less Existing Uses           -276          -275            -551
+
+                  Net                          662            663           1,325
+
+                AM Peak Hour
+
+                  Proposed Uses                207            30             237
+                  Less Existing Uses            -28           -13            -41
+
+                  Net                          179            17             196
+
+                PM Peak Hour
+
+                  Proposed Uses                 51            184            235
+
+                  Less Existing Uses           -28            -32            -60
+
+                  Net                           23            152            175
+
+
+
+
+     As shown in Table 3, the proposed development is estimated to generate a net addition of 1,325
+     weekday trips per day, with 196 net new trips occurring during the weekday AM peak hour and
+     175 net new trips occurring during the weekday PM peak hour.
+
+Project Trip Distribution and Assignment
+     The distribution of vehicle trips for the proposed office and restaurant/retail uses were estimated
+     based on DPD Director’s Rule 2009-5 and general traffic patterns in the vicinity of the site. The
+     distribution assumed that the SR-99 and North Portal improvements currently under construction in the
+     project vicinity would be completed prior to the anticipated year of opening of the proposed
+     development. The SR-99 North Portal improvements and SR-99 off-ramp north of the site are
+     anticipated to be complete prior to 2016; the project year of opening is anticipated in 2016.
+
+     The distribution and net PM peak hour assignment of inbound and outbound trips for the proposed
+     office and restaurant/retail uses less the existing uses are shown in Figure 4.
+
+
+
+
+   TENW                                                                                           July 30, 2014
+                                                                                                       Page 13
+                                                     Transportation Impact Study
+                                                                400 Dexter Office
+
+
+
+
+ Figure 4 Project Trip Distribution and Assignment
+
+
+
+
+TENW                                                              July 30, 2014
+                                                                       Page 14
+                                                                                     Transportation Impact Study
+                                                                                                400 Dexter Office
+
+
+
+
+Future Traffic Volumes
+     The year 2016 future without-project traffic volumes at the study intersections are based on weekday
+     PM peak hour traffic volumes documented in the SR-99 North Access Connection EIS along with the
+     addition of traffic from the following 19 pipeline projects (as directed by City staff):
+         1. 810 Dexter
+         2. 435 Dexter
+         3. 501 Fairview
+         4. 8th and Republican
+         5. 325 9th Ave
+         6. 400 9th Ave
+         7. 500 9th Ave
+         8. 777 Thomas St
+         9. 528 Pontius Ave
+         10. 1260 Republican St
+         11. 500 Fairview Ave
+         12. 221 Minor Ave N
+         13. 222 Fairview Ave N
+         14. 400 Boren Ave N
+         15. 307 Fairview Ave N
+         16. 400 Fairview Ave
+         17. 420 Pontius Ave / 409 Yale Ave N / 1265 Republican St
+         18. 300 8th Ave N
+         19. 333 8th Ave N
+
+     The City’s SR-99 North Access Connection Project will connect the SR-99 tunnel’s north entrance at
+     Harrison Street to the existing roadway north of the Mercer Street bridge. It will also build new on-
+     and off-ramps at Republican and Harrison Streets, extend Sixth Avenue North between Harrison and
+     Mercer Streets. Future PM peak hour traffic volumes were developed in the Supplemental EIS from
+     the SR-99 North Access Connection Project. These PM peak hour traffic volumes represented future
+     traffic in year 2015-2016 in the vicinity of the 400 Dexter Office Development. The 2015-2016
+     traffic volumes from the SR-99 North Access Connection SEIS were provided by Parsons Brinkerhoff,
+     the City’s traffic consultant for the SEIS. Also provided were the future roadway network for the study
+     area including the new Aurora Avenue corridor. The future 2015-2016 PM peak hour traffic volumes
+     and roadway network changes from the SR-99 North Access Connection project are provided in
+     Appendix C.
+
+     The future 2016 without-project PM peak hour traffic volumes at the study intersections were
+     developed by adding the traffic from the 19 pipeline projects to the year 2015-2016 traffic volumes
+     from the SR-99 North Access Connection project. The 2016 without-project traffic volumes are
+     shown in Figure 5. Adding the trip assignment from the proposed 400 Dexter Office development
+     (shown in Figure 4) to the future 2016 without-project traffic volumes results in the 2016 With-Project
+     traffic volumes at the study intersections shown in Figure 6.
+
+
+
+
+   TENW                                                                                           July 30, 2014
+                                                                                                       Page 15
+                                                             Transportation Impact Study
+                                                                        400 Dexter Office
+
+
+
+
+Figure 5 2016 Without-Project PM Peak Hour Traffic Volumes
+
+
+
+
+     TENW                                                                 July 30, 2014
+                                                                               Page 16
+                                                          Transportation Impact Study
+                                                                     400 Dexter Office
+
+
+
+
+Figure 6 2016 With-Project PM Peak Hour Traffic Volumes
+
+
+
+
+    TENW                                                               July 30, 2014
+                                                                            Page 17
+                                                                                                 Transportation Impact Study
+                                                                                                            400 Dexter Office
+
+
+
+
+Future Level of Service
+     Future LOS were evaluated at the 9 study intersections and 2 alley access intersections for the
+     anticipated year of occupancy (2016). The future roadway network assumed in the year 2016 LOS
+     analysis was based on future intersection geometry with the planned improvements associated with
+     the SR-99 North Portal project. The signal timing was optimized at the new intersections along
+     Dexter. The 2016 weekday PM peak hour LOS results at the study intersections are summarized in
+     Table 4. The detailed LOS worksheets are included in Appendix C.
+
+         Table 4
+         Future 2016 PM Peak Hour LOS Summary
+                                                          2016 Without Project             2016 With Project
+                                                                         Delay                         Delay
+         Study Intersection                              LOS1            (sec)            LOS          (sec)
+
+         Signalized
+         1. Dexter Ave / Republican Street                 B              19.0             B            19.6
+         2. Dexter Ave / Harrison Street                   B              17.2             B            18.4
+         3. Dexter Ave / Denny Way2                        F              81.2             F            89.1
+         8. Fairview Ave / Mercer      Street2             F              >100             F            >100
+         9. Fairview Ave / Republican Street               F              >100             F            >100
+         10. Fairview Ave / Harrison Street                D              54.3             E            70.8
+         11. Fairview Ave / Denny Way                      F              >100             F            >100
+         Unsignalized
+         4. Republican Street / Alley
+                  NB Turns from Alley                      B              14.9            C             15.8
+                  WB Left-Turn                             A               8.0             B            13.0
+         5. Harrison Street / Alley
+                  SB Turns from Alley                      B              14.6            D             33.9
+                  EB Left-Turn                             A               8.3            A              8.5
+         6. 8th Ave / Republican Street
+                  EB Left-Turn                             A               7.8            A              7.8
+                  NB Turns                                 C              15.0            C             15.8
+         7. 8th Ave / Harrison Street
+                  EB Left-Turn                             A               8.4            A              8.4
+                  NB Turns                                 D              28.4            D             34.8
+         1. LOS based on Synchro analysis with HCM 2010 methods unless otherwise noted.
+         2. LOS at these intersections based on HCM 2000 methods.
+
+
+     As shown in Table 4, turn movements at the four unsignalized study intersections adjacent to the alley
+     on Republican and Harrison and on 8th Avenue are anticipated to operate at LOS D or better. Three
+     of the signalized study intersections on Fairview Avenue are expected to operate at LOS F in the
+     future with or without the proposed project in the PM peak hour. The detailed LOS files at the study
+     intersections are included in Appendix D.
+
+
+   TENW                                                                                                        July 30, 2014
+                                                                                                                    Page 18
+                                                                                      Transportation Impact Study
+                                                                                                 400 Dexter Office
+
+
+
+     The Dexter/Denny, Fairview/Mercer, and Fairview/Denny intersections have typically operated a
+     LOS F and are anticipated to continue as they serve as gateway access points to/from the SLU area.
+     The added traffic from the 400 Dexter office project is not anticipated to be significant.
+
+     The Fairview/Republican intersection has recently experienced higher volumes of traffic and is
+     expected to receive additional growth in pipeline development traffic from the SLU Area. As a result,
+     this intersection is anticipated to operate at a poor LOS F in the future without the proposed 400
+     Dexter office project based using existing signal timing provided by the City. Based on projected
+     traffic growth, split-phasing the intersection in the east-west direction and maintaining the 160-second
+     cycle would improve the intersection to LOS D operation in the PM peak hour with an average delay
+     of about 55 seconds. As a result, it is recommended that the City give consideration to east-west split
+     phasing at this intersection in the future to accommodate the anticipated pipeline development.
+
+     The Fairview/Harrison intersection is also anticipated to accommodate increased traffic growth along
+     Harrison due to pipeline development in the SLU area. As a result, the intersection is anticipated to
+     operate in the LOS E during the PM peak hour with the proposed 400 Dexter office and other
+     pipeline projects. Re-optimizing green splits would improve the LOS at this intersection during the
+     PM peak hour in the future.
+
+Site Access Analysis
+     Vehicle access is proposed on the alley, which would provide access north to Republican Street and
+     south to Harrison Street. All turning movements at the alley intersections with Republican and Harrison
+     Streets are expected to operate at LOS D or better during the PM peak hour and shown in the
+     previous LOS Table 4. The detailed LOS files at the alley driveways are included in Appendix D.
+
+Future Transit Service
+     The proposed office development would add new office employees to the vicinity area. While this
+     project would increase the demand for transit service in the area, the transit capacity is expected to
+     accommodate this increased demand with no significant adverse impact. Also, an increase in transit
+     demand would be considered positive since this would result in a decrease in passenger cars on the
+     surrounding road network.
+
+Future Non-Motorized Facilities
+     The demand on pedestrian facilities in the project vicinity is expected to increase with the proposed
+     office development. While this project would increase the demand on pedestrian facilities, this
+     increased demand is not expected to result in a significant adverse impact. Existing pedestrian
+     facilities in the vicinity area (i.e. sidewalks) are sufficient to accommodate the additional pedestrian
+     demand. Further, any increase in pedestrian demand would be considered positive since this would
+     result in a decrease in passenger cars on the surrounding road network.
+
+     The proposed project is anticipated to generate some bicycle trips. The project location adjacent to
+     Dexter Avenue N provides convenient access to a major bicycle facility with signed and striped lanes
+     on both sides. Secure bicycle storage will be provided for office employees to meet City code
+     requirements. A total of 89 long-term spaces and 13 short-term spaces are proposed.
+
+
+   TENW                                                                                            July 30, 2014
+                                                                                                        Page 19
+                                                                                                       Transportation Impact Study
+                                                                                                                  400 Dexter Office
+
+
+
+
+Transportation Concurrency
+    Prior to development approval, a transportation concurrency analysis is conducted based on DPD
+    Director’s Rule 2009-5. Transportation concurrency standards are used to determine the acceptable
+    balance between the demand for use of the arterial systems and the capacity of the transportation
+    system. Total capacity is based on the facilities currently in existence, and known future projects.
+
+    Transportation concurrency review in the City of Seattle is evaluated first by determining applicable
+    screenlines. A screenline is an imaginary line drawn across several arterials at a particular place
+    where the volume to-capacity ratio (v/c) is calculated. For the 400 Dexter Office Development
+    project, Screenline 5.12 (Ship Canal Fremont Bridge), Screenline 5.13 (Ship Canal Aurora Ave),
+    and Screenline 8 (South Lake Union) were evaluated.
+
+    Baseline peak-hour traffic volumes for the screenlines were obtained from Director’s Rule 2009-5.
+    Project-generated traffic was then added to baseline traffic volumes at the screenlines. The total traffic
+    volume, including PM peak hour trips from the proposed 400 Dexter Office Development project,
+    was then divided by the capacity of all roadways crossing the screenlines to obtain a volume to
+    capacity (v/c) ratio. This ratio was then compared to the LOS standard. Table 5 summarizes the
+    transportation concurrency review results. As shown, the v/c ratios with the development are below
+    the adopted LOS standard.
+
+
+     Table 5
+     400 Dexter Office – Transportation Concurrency Assessment
+                                                                 Baseline       Proposed          With
+                                                                Peak-Hour        Project         Project            V/C
+     Screenline                       Dir.     Capacity1         Volume1           Trips        V/C Ratio        Threshold1
+     5.12      Ship Canal             NB          1,600            1,757             8             1.10               1.2
+             Fremont Bridge            SB         1,600            1,229             1             0.77               1.2
+
+
+     5.13 Ship Canal                  NB          5,100            4,472             7             0.88               1.2
+             Aurora Ave N              SB         5,100            3,756             1             0.74               1.2
+
+
+     8. South Lake Union              EB          6,000            4,509            107            0.77               1.2
+                                      WB          3,600            3,020             14            0.84               1.2
+
+     1   Data obtained from Director’s Rule 2009-5 Transportation Concurrency Project Review System.
+
+
+
+Parking Demand Analysis
+    Peak parking demand for the office, restaurant, and retail uses was calculated based on information
+    from the ITE Parking Generation manual (4th edition, year 2010) and local mode-share information
+    for the SLU neighborhood. First, the ITE Parking Generation manual was used to identify suburban
+    parking demand rates for office, restaurant, and retail uses. Then, mode share projections for CTR-
+    Affected companies were used from in the Center City Commuter Mode Split Survey Results (Gilmore
+    Research Group) to estimate mode-share for the proposed uses.
+
+
+
+   TENW                                                                                                             July 30, 2014
+                                                                                                                         Page 20
+                                                                                     Transportation Impact Study
+                                                                                                400 Dexter Office
+
+
+
+     The mode-share indicates that about 58 percent of the trips generated in the SLU area would be
+     made by vehicle (including single-occupant vehicles and carpools/vanpools). However, the
+     proposed TMP for the project will have an SOV goal of 50 percent for the office use. As a result,
+     the suburban parking rate (2.84) was factored by the projected TMP vehicle mode share (50%),
+     resulting in an adjusted parking demand rate for the project area of about 1.42 vehicles per 1,000
+     gsf of office building area. Using the adjusted 1.42 parking demand rate would result in a peak
+     weekday parking demand of 358 stalls for the office use based on 252,010 square feet of office
+     area.
+
+     The ITE parking demand rate for suburban “quality restaurant” is 10.6, and parking demand for
+     suburban retail is 2.55 vehicles per 1,000 gsf. To determine peak parking demand, the 50 percent
+     vehicle mode-share was also applied to the suburban parking demand rate. The detailed calculations
+     are provided in Appendix E.
+
+     Additionally, peak parking for office, retail, and restaurant occur at different times during a typical
+     weekend. An hourly estimate of peak parking demand was estimated using parking demand and
+     utilization information from the ITE Parking Generation manual. The hourly parking demand profile
+     is included in Appendix E. As shown, with a shared parking concept, the peak demands of the
+     office, restaurant, and retail uses would be accommodated within the proposed 475-stall parking
+     garage. With the shared parking concept, the additional parking demand for the restaurant use
+     after 7:00 p.m. is anticipated to utilize available on-site parking from the office use.
+
+     The peak parking demand is anticipated to be 371 parking stalls at 11:00 a.m. on a weekday.
+     This would be accommodated by the proposed 475 stall parking supply. While peak parking for
+     the restaurant may exceed supply after 7:00 p.m., shared parking would accommodate the peak
+     parking demand throughout a weekday, and no parking spillover is anticipated. On-site parking for
+     the office use is proposed at a ratio of 1.42 stalls per 1,000 gsf. Since this exceeds the parking
+     limit of 1 stall per 1,000 gsf for non-residential uses, a special exception to the code is proposed
+
+Justification for Parking Supply Increase
+     On-site parking for the office use is proposed at a ratio of approximately 1.42 stalls per 1,000 gsf
+     for a total of approximately 358 parking stalls. This exceeds the parking limit of 1 stall per 1,000
+     gsf for non-residential uses as outlined in the Seattle Municipal Code (SMC) section 23.48.032.B.1.
+     As a result, a special exception to the code is proposed.
+
+
+
+
+   TENW                                                                                           July 30, 2014
+                                                                                                       Page 21
+                                                                                       Transportation Impact Study
+                                                                                                  400 Dexter Office
+
+
+
+
+PROJECT MITIGATION MEASURES
+South Lake Union Capital Improvement Project Contribution
+      The project is required to contribute payment for its share of South Lake Union capital improvement
+      projects, as identified in the Seattle Department of Transportation’s South Lake Union Transportation
+      Plan. Improvements in the Plan provide improved facilities for vehicles, pedestrians, bicycles, and
+      transit users. The transportation mitigation for the 400 Dexter Office project was estimated using the
+      SLU Pro-Rata methodology, which was developed consistent with DPD TIP#243 (Transportation
+      Mitigation Payments).
+
+      The pro-rata calculations for the proposed 400 Dexter Office development were made based on up
+      to 252,010 gsf office, up to 7,500 sf restaurant, and up to 10,000 sf retail area (7,400 + 2,600
+      sf mezzanine), and credit for the existing uses that will be removed. The resulting pro-rata contribution
+      is estimated at $74,863 based on the number of PM peak hour trips generated by the proposed
+      office, restaurant, and retail uses less the credit for removal of the existing uses. If the proposed
+      building areas are reduced at the time of building permit application, the pro-rata mitigation cost
+      would also be less. The detailed pro-rata mitigation calculations are provided in Appendix F.
+
+Level of Service
+      The Fairview/Republican intersection is anticipated to operate at LOS F during the PM peak hour
+      due to increased growth in pipeline development traffic from the SLU Area. Split-phasing the
+      intersection in the east-west direction and maintaining the 160-second cycle would improve the
+      intersection to LOS D operation in the PM peak hour with an average delay of about 55 seconds.
+      As a result, it is recommended that the City give consideration to east-west split phasing at this
+      intersection in the future to accommodate the anticipated pipeline development.
+
+      The Fairview/Harrison intersection is also anticipated to accommodate increased traffic growth along
+      Harrison due to pipeline development in the SLU area. As a result, the intersection is anticipated to
+      operate in the LOS E during the PM peak hour with the proposed 400 Dexter office and other
+      pipeline projects. It is recommended that the City consider re-optimizing green splits which would
+      improve the LOS at this intersection during the PM peak hour in the future.
+
+Parking
+      The peak parking demand is anticipated to be 371 parking stalls at 11:00 a.m. on a weekday.
+      This would be accommodated by the proposed 475 stall parking supply. While peak parking for
+      the restaurant may exceed supply after 7:00 p.m., shared parking would accommodate peak
+      parking demand throughout a weekday, and no parking spillover is anticipated. On-site parking for
+      the office use is proposed at a ratio of 1.42 stalls per 1,000 gsf. Since this exceeds the parking
+      limit of 1 stall per 1,000 gsf for non-residential uses, a special exception to the code is proposed.
+
+TMP
+      Based on the proposed use as an office development, a Transportation Manage Plan (TMP) will be
+      required, which will include goals to help reduce single-occupancy vehicle usage.
+
+   TENW                                                                                             July 30, 2014
+                                                                                                         Page 22
+                                Transportation Impact Study
+                                           400 Dexter Office
+
+
+
+
+ Appendix A
+Existing Traffic Count Sheets
+Peak Hour Summary
+
+
+
+            Eric Boivin
+          (303) 668-0220
+
+
+                                          Dexter Ave N & Republican St
+                                                               4:45 PM to 5:45 PM
+                                                            Tuesday, December 03, 2013
+
+
+                                       Dexter Ave N              0                          0
+
+
+
+
+                                                                     566                        615
+
+
+                                                            18       431   117
+
+                                                            É        Æ     Ê
+
+Republican St                                                               Peds   98
+
+
+                                                                                                                          Ç   109
+
+   0            74                                                                                                        Ã   50    176      0
+
+                                                                                                                          É   17
+                                    Peds 56
+
+
+
+
+                                                                                                            Peds 42
+
+
+                           54   È
+
+   0           121         60   Ä                                                                                                   210      0
+
+                           7    Ê
+
+                                                                            Peds   29                                                Republican St
+
+                                                                                        Ç       Å     È
+                                                                                        6       452   33
+                                                                                                           Dexter Ave N
+
+
+
+
+                                                                     455                        491
+
+
+
+
+                                                                 0                          0
+
+
+ Approach       PHF        HV%           Volume
+    EB          0.69       1.7%                       121
+    WB          0.81       1.7%                       176
+    NB          0.84       1.4%                       491
+    SB          0.87       2.3%                       566
+Intersection    0.87       1.8%                1,354
+
+Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                              In           Out
+
+
+
+
+                                                                                                                              HV 2.3%
+Total Vehicle Summary
+
+
+
+
+                                                                                                                             PHF 0.87
+                                                                                                                                             566           615
+                                                                                                                                              18     431    117
+                                                                                                                                                                                   HV 1.7%
+                                                                                                                                                                                  PHF 0.81
+                                                                                                                                                     98
+
+                                                                                                                      54                                                          109
+                       Eric Boivin                                                                 Out 74                                                                                   176 In
+
+
+
+
+                                                                                                                                        56
+
+
+
+
+                                                                                                                                                                  42
+                     (303) 668-0220                                                                                   60                                                          50
+                                                                                                       In 121                                                                               210 Out
+                                                                                                                         7                                                        17
+
+                                                                                                                                                     29
+                                                                                                                 HV 1.7%
+Dexter Ave N & Republican St                                                                                    PHF 0.69
+
+
+
+
+                                                                                                                                                                        HV 1.4%
+                                                                                                                                                                       PHF 0.84
+                                                                                                                                                 6   452    33
+Tuesday, December 03, 2013                                                                                                                   Out             In
+                                                                                                                                             455            491
+4:00 PM to 6:00 PM
+                                                                                                                                  Peak Hour Summary
+                                                                                                                                  4:45 PM to 5:45 PM
+15-Minute Interval Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                   Southbound                    Eastbound                        Westbound                                                      Pedestrians
+   Start                Dexter Ave N                 Dexter Ave N                 Republican St                    Republican St                      Interval                      Crosswalk
+   Time         L        T       R       HV    L      T       R       HV    L       T      R       HV       L        T      R                HV        Total           North       South East        West
+ 4:00 PM        1        78       7       3   33     128      6        1   17      20      4        1       8       15      21                2         338             20           4      9         15
+ 4:15 PM        0        84      11       2   23     111      2        4   10      17      2        0       5        2      23                1         290             22           4      8          8
+ 4:30 PM        0        93      12       3   24     111      1        4   20      15      2        0       2        8      12                1         300             10           2      8         12
+ 4:45 PM        2        99      12       2   31     119      4        5   21      19      4        1       3       13      22                0         349             17           7     12         13
+ 5:00 PM        2       106       5       2   28     103      3        1   14      14      1        0       2       13      23                1         314             29           3      7         12
+ 5:15 PM        2       138       6       3   35     119      9        4    8      16      0        1       7       13      34                2         387             30           9     12         18
+ 5:30 PM        0       109      10       0   23      90      2        3   11      11      2        0       5       11      30                0         304             22          10     11         13
+ 5:45 PM        1       141       7       4    6      99      4        1    7       9      4        0       5       13      25                0         321             32           3      2         13
+Total Survey    8       848      70      19   203    880      31      23   108     121     19      3       37       88          190          7         2,603            182            42   69       104
+
+
+
+Peak Hour Summary
+4:45 PM to 5:45 PM
+                        Northbound                   Southbound                    Eastbound                        Westbound                                                      Pedestrians
+    By
+                        Dexter Ave N                 Dexter Ave N                 Republican St                    Republican St                          Total                     Crosswalk
+ Approach
+                In       Out     Total   HV    In     Out     Total   HV    In     Out     Total   HV       In      Out     Total            HV                        North       South East        West
+  Volume       491      455       946     7   566    615     1,181    13   121     74       195     2      176      210      386              3        1,354            98          29     42         56
+   %HV                     1.4%                         2.3%                          1.7%                             1.7%                            1.8%
+   PHF                       0.84                         0.87                         0.69                             0.81                           0.87
+
+                        Northbound                   Southbound                    Eastbound                        Westbound
+   By
+                        Dexter Ave N                 Dexter Ave N                 Republican St                    Republican St                          Total
+Movement
+                L        T       R   Total     L      T       R   Total      L      T      R    Total        L       T      R    Total
+  Volume        6       452      33 491       117    431      18 566        54     60      7    121         17      50     109 176                     1,354
+   PHF         0.75     0.82    0.69 0.84     0.84   0.91    0.50 0.87     0.64   0.79    0.44 0.69        0.61    0.96    0.80 0.81                   0.87
+
+
+
+Rolling Hour Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                   Southbound                    Eastbound                        Westbound                                                      Pedestrians
+   Start                Dexter Ave N                 Dexter Ave N                 Republican St                    Republican St                      Interval                      Crosswalk
+   Time         L        T       R       HV    L      T       R       HV    L       T      R       HV       L        T      R                HV        Total           North       South East        West
+ 4:00 PM        3       354      42      10   111    469      13      14   68      71      12       2      18       38      78                4        1,277            69          17     37         48
+ 4:15 PM        4       382      40       9   106    444      10      14   65      65       9       1      12       36      80                3        1,253            78          16     35         45
+ 4:30 PM        6       436      35      10   118    452      17      14   63      64       7       2      14       47      91                4        1,350            86          21     39         55
+ 4:45 PM        6       452      33       7   117    431      18      13   54      60       7       2      17       50     109                3        1,354            98          29     42         56
+ 5:00 PM        5       494      28       9   92     411      18       9   40      50       7       1      19       50     112                3        1,326            113         25     32         56
+Peak Hour Summary
+
+
+
+            Eric Boivin
+          (303) 668-0220
+
+
+                                                      Dexter Ave N & Harrison St
+                                                               5:00 PM to 6:00 PM
+                                                            Tuesday, December 03, 2013
+
+
+                                       Dexter Ave N              0                         0
+
+
+
+
+                                                                     450                       549
+
+
+                                                            15       394   41
+
+                                                            É        Æ     Ê
+
+Harrison St                                                                Peds   22
+
+
+                                                                                                                         Ç   53
+
+   0            99                                                                                                       Ã   84   166         0
+
+                                                                                                                         É   29
+                                    Peds 33
+
+
+
+
+                                                                                                           Peds 38
+
+
+                           25   È
+
+   0           145         81   Ä                                                                                                 148         0
+
+                           39   Ê
+
+                                                                           Peds   31                                                    Harrison St
+
+                                                                                       Ç       Å     È
+                                                                                       0       471   26
+                                                                                                          Dexter Ave N
+
+
+
+
+                                                                     462                       497
+
+
+
+
+                                                                 0                         0
+
+
+ Approach       PHF        HV%           Volume
+    EB          0.74       2.1%                       145
+    WB          0.92       0.6%                       166
+    NB          0.85       1.8%                       497
+    SB          0.89       2.4%                       450
+Intersection    0.93       1.9%                1,258
+
+Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                           In           Out
+
+
+
+
+                                                                                                                           HV 2.4%
+Total Vehicle Summary
+
+
+
+
+                                                                                                                          PHF 0.89
+                                                                                                                                          450           549
+                                                                                                                                           15     394    41
+                                                                                                                                                                                HV 0.6%
+                                                                                                                                                                               PHF 0.92
+                                                                                                                                                  22
+
+                                                                                                                    25                                                         53
+                       Eric Boivin                                                                Out 99                                                                                 166 In
+
+
+
+
+                                                                                                                                     33
+
+
+
+
+                                                                                                                                                               38
+                     (303) 668-0220                                                                                 81                                                         84
+                                                                                                      In 145                                                                             148 Out
+                                                                                                                    39                                                         29
+
+                                                                                                                                                  31
+                                                                                                                HV 2.1%
+Dexter Ave N & Harrison St                                                                                     PHF 0.74
+
+
+
+
+                                                                                                                                                                     HV 1.8%
+                                                                                                                                                                    PHF 0.85
+                                                                                                                                              0   471    26
+Tuesday, December 03, 2013                                                                                                                Out             In
+                                                                                                                                          462            497
+4:00 PM to 6:00 PM
+                                                                                                                               Peak Hour Summary
+                                                                                                                               5:00 PM to 6:00 PM
+15-Minute Interval Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                   Southbound                   Eastbound                       Westbound                                                     Pedestrians
+   Start                Dexter Ave N                 Dexter Ave N                 Harrison St                     Harrison St                      Interval                      Crosswalk
+   Time         L        T       R       HV    L      T       R       HV    L      T       R      HV       L       T       R              HV        Total           North       South East        West
+ 4:00 PM        4        68       5       3   14     116      4        1   11     36      15       0       8      10       3               0         294             5            2      4         10
+ 4:15 PM        1        79       2       2   10      98      3        4   11     21       7       0       7       9       5               0         253             1            3      6          7
+ 4:30 PM        1        82       9       2   12     100      4        4   10     21       6       2       5      11       8               0         269             2            3      8         15
+ 4:45 PM        4        98      10       3   11     109      2        3   10     19      11       1       8      17      11               2         310             5            8     13         13
+ 5:00 PM        0        95       3       1    9      98      6        2    3     27      19       0       9      20      16               0         305             5            8      9          3
+ 5:15 PM        0       129       9       4   12     111      3        4    7     15      10       1       6      20      17               1         339             6            8      6         13
+ 5:30 PM        0       107       7       2    5      88      3        3    7     19       6       1       8      22      12               0         284             5           11     18          7
+ 5:45 PM        0       140       7       2   15      97      3        2    8     20       4       1       6      22       8               0         330             6            4      5         10
+Total Survey   10       798      52      19   88     817      28      23   67     178      78     6       57      131         80          3         2,384            35             47   69        78
+
+
+
+Peak Hour Summary
+5:00 PM to 6:00 PM
+                        Northbound                   Southbound                   Eastbound                       Westbound                                                     Pedestrians
+    By
+                        Dexter Ave N                 Dexter Ave N                 Harrison St                     Harrison St                          Total                     Crosswalk
+ Approach
+                In       Out     Total   HV    In     Out     Total   HV    In    Out     Total   HV       In     Out     Total           HV                        North       South East        West
+  Volume       497      462       959     9   450    549       999    11   145    99       244     3      166     148      314             1        1,258            22          31     38         33
+   %HV                     1.8%                         2.4%                         2.1%                            0.6%                           1.9%
+   PHF                       0.85                         0.89                        0.74                            0.92                          0.93
+
+                        Northbound                   Southbound                   Eastbound                       Westbound
+   By
+                        Dexter Ave N                 Dexter Ave N                  Harrison St                     Harrison St                         Total
+Movement
+                L        T       R   Total      L     T       R   Total      L      T       R  Total        L       T       R  Total
+  Volume        0       471      26 497        41    394      15 450        25     81      39 145          29      84      53 166                   1,258
+   PHF         0.00     0.84    0.72 0.85     0.68   0.89    0.63 0.89     0.78   0.75    0.51 0.74       0.81    0.95    0.78 0.92                 0.93
+
+
+
+Rolling Hour Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                   Southbound                   Eastbound                       Westbound                                                     Pedestrians
+   Start                Dexter Ave N                 Dexter Ave N                 Harrison St                     Harrison St                      Interval                      Crosswalk
+   Time         L        T       R       HV    L      T       R       HV    L      T       R      HV       L       T       R              HV        Total           North       South East        West
+ 4:00 PM       10       327      26      10   47     423      13      12   42     97      39       3      28      47      27               2        1,126            13          16     31         45
+ 4:15 PM        6       354      24       8   42     405      15      13   34     88      43       3      29      57      40               2        1,137            13          22     36         38
+ 4:30 PM        5       404      31      10   44     418      15      13   30     82      46       4      28      68      52               3        1,223            18          27     36         44
+ 4:45 PM        4       429      29      10   37     406      14      12   27     80      46       3      31      79      56               3        1,238            21          35     46         36
+ 5:00 PM        0       471      26       9   41     394      15      11   25     81      39       3      29      84      53               1        1,258            22          31     38         33
+Peak Hour Summary
+
+
+
+            Eric Boivin
+          (303) 668-0220
+
+
+                                                       Dexter Ave N & Denny Way
+                                                                 4:45 PM to 5:45 PM
+                                                               Thursday, October 10, 2013
+
+
+                                        Dexter Ave N               0                       0
+
+
+
+
+                                                                       496                     702
+
+
+                                                             183       233   80
+
+                                                                           
+
+Denny Way                                                                    Peds   247
+
+
+                                                                                                                            69
+
+   0           922                                                                                                          710   780        0
+
+                                                                                                                            1
+                                     Peds 124
+
+
+
+
+                                                                                                           Peds 187
+
+
+                           196   
+
+   0           978         776                                                                                                    878        0
+
+                           6     
+
+                                                                             Peds   333                                                  Denny Way
+
+                                                                                                   
+                                                                                      29       437   22
+                                                                                                          Dexter Ave N
+
+
+
+
+                                                                       240                     488
+
+
+
+
+                                                                   0                       0
+
+
+ Approach       PHF         HV%           Volume
+    EB          0.93        1.3%                       978
+    WB          0.95        1.8%                       780
+    NB          0.87        1.4%                       488
+    SB          0.93        1.8%                       496
+Intersection    0.97        1.6%                2,742
+
+Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                         In         Out
+
+
+
+
+                                                                                                                        HV 1.8%
+Total Vehicle Summary
+
+
+
+
+                                                                                                                       PHF 0.93
+                                                                                                                                        496         702
+                                                                                                                                        183   233   80
+                                                                                                                                                                            HV 1.8%
+                                                                                                                                                                           PHF 0.95
+                                                                                                                                              247
+
+                                                                                                                196                                                        69
+                       Eric Boivin                                                                Out 922                                                                             780 In
+
+
+
+
+                                                                                                                                  124
+
+
+
+
+                                                                                                                                                          187
+                     (303) 668-0220                                                                             776                                                        710
+                                                                                                   In 978                                                                             878 Out
+                                                                                                                  6                                                        1
+
+                                                                                                                                              333
+                                                                                                             HV 1.3%
+Dexter Ave N & Denny Way                                                                                    PHF 0.93
+
+
+
+
+                                                                                                                                                                 HV 1.4%
+                                                                                                                                                                PHF 0.87
+                                                                                                                                         29   437   22
+Thursday, October 10, 2013                                                                                                              Out          In
+                                                                                                                                        240         488
+4:00 PM to 6:00 PM
+                                                                                                                            Peak Hour Summary
+                                                                                                                            4:45 PM to 5:45 PM
+15-Minute Interval Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                   Southbound                   Eastbound                    Westbound                                                       Pedestrians
+   Start                Dexter Ave N                 Dexter Ave N                 Denny Way                    Denny Way                       Interval                         Crosswalk
+   Time         L        T       R       HV    L      T       R       HV    L      T     R        HV    L       T     R                 HV      Total           North          South East      West
+ 4:00 PM        5        28      3        2   26      42      34       3   49     213    2         5    0      180    21                 3       603             25             33     20       26
+ 4:15 PM        3        56      6        0   27      48      48       2   53     241    1         3    0      163    21                 2       667             45             52     23       22
+ 4:30 PM        5        46      3        1   26      46      33       2   49     231    1         6    0      179    20                 6       639             46             59     15       24
+ 4:45 PM        6        89      3        2   27      57      38       4   45     217    1         3    0      165    27                 6       675             38             50     35       22
+ 5:00 PM        7       105      4        2   18      49      47       3   49     196    3         4    0      183    21                 2       682             65             95     44       23
+ 5:15 PM       10       117      7        1   18      62      46       1   47     194    2         4    1      192    13                 4       709             69             94     53       41
+ 5:30 PM        6       126      8        2   17      65      52       1   55     169    0         2    0      170     8                 2       676             75             94     55       38
+ 5:45 PM        8        98      1        0   20      56      47       2   44     122    2         4    0      172     8                 2       578             90             73     58       42
+Total Survey   50       665      35      10   179    425      345     18   391    1,583   12      31    1      1,404      139           27      5,229            453            550   303      238
+
+
+
+Peak Hour Summary
+4:45 PM to 5:45 PM
+                        Northbound                   Southbound                   Eastbound                    Westbound                                                       Pedestrians
+    By
+                        Dexter Ave N                 Dexter Ave N                 Denny Way                    Denny Way                        Total                            Crosswalk
+ Approach
+                In       Out     Total   HV    In     Out     Total   HV    In    Out     Total   HV    In     Out     Total            HV                      North          South East      West
+  Volume       488      240       728     7   496    702     1,198     9   978    922    1,900    13   780     878    1,658             14      2,742            247            333    187     124
+   %HV                      1.4%                         1.8%                        1.3%                         1.8%                          1.6%
+   PHF                       0.87                         0.93                        0.93                         0.95                         0.97
+
+                        Northbound                   Southbound                   Eastbound                    Westbound
+   By
+                        Dexter Ave N                 Dexter Ave N                 Denny Way                    Denny Way                        Total
+Movement
+                 L       T       R   Total      L     T       R   Total     L      T     R   Total      L       T     R   Total
+  Volume        29      437      22 488        80    233     183 496       196    776    6   978        1      710    69 780                    2,742
+   PHF         0.73     0.87    0.69 0.87     0.74   0.90    0.88 0.93     0.89   0.89  0.50 0.93      0.25    0.92  0.64 0.95                  0.97
+
+
+
+Rolling Hour Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                   Southbound                   Eastbound                    Westbound                                                       Pedestrians
+   Start                Dexter Ave N                 Dexter Ave N                 Denny Way                    Denny Way                       Interval                          Crosswalk
+   Time         L        T       R       HV    L      T       R       HV    L      T     R        HV    L       T     R                 HV      Total           North          South East      West
+ 4:00 PM       19       219      15       5   106    193     153      11   196    902    5        17    0      687    89                17      2,584            154            194    93       94
+ 4:15 PM       21       296      16       5   98     200     166      11   196    885    6        16    0      690    89                16      2,663            194            256    117      91
+ 4:30 PM       28       357      17       6   89     214     164      10   190    838    7        17    1      719    81                18      2,705            218            298    147     110
+ 4:45 PM       29       437      22       7   80     233     183       9   196    776    6        13    1      710    69                14      2,742            247            333    187     124
+ 5:00 PM       31       446      20       5   73     232     192       7   195    681    7        14    1      717    50                10      2,645            299            356    210     144
+Peak Hour Summary
+                                                                                                       Site ID: 4
+
+
+            Eric Boivin
+          (303) 668-0220
+
+
+                                                     Alley & Republican St
+                                                          4:15 PM to 5:15 PM
+                                                         Thursday, June 05, 2014
+
+
+                                       Alley             0                        0
+
+
+
+
+                                                             13                       0
+
+
+                                                     4       0    9
+
+                                                     É       Æ    Ê
+
+Republican St                                                     Peds   62
+
+
+                                                                                                        Ç   0
+
+   0           158                                                                                      Ã   154     155      0
+
+                                                                                                        É   1
+                                     Peds 1
+
+
+
+
+                                                                                              Peds 4
+
+
+                           0     È
+
+   0           226         226   Ä                                                                                  236      0
+
+                           0     Ê
+
+                                                                  Peds   61                                          Republican St
+
+                                                                              Ç       Å   È
+                                                                              0       0   1
+
+
+                                                             1                        1
+                                                                                              Alley
+
+
+
+
+                                                         0                        0
+
+
+ Approach       PHF         HV%          Volume
+    EB          0.90        2.7%               226
+    WB          0.90        0.0%               155
+    NB          0.25       100.0%              1
+    SB          0.65        0.0%               13
+Intersection    0.96        1.8%               395
+
+Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                          In           Out
+
+
+
+
+                                                                                                                           HV 0.0%
+Total Vehicle Summary
+
+
+
+
+                                                                                                                          PHF 0.65
+                                                                                                                                          13            0
+                                                                                                                                             4   0      9
+                                                                                                                                                                                HV 0.0%
+                                                                                                                                                                               PHF 0.90
+                                                                                                                                                 62
+
+                                                                                                                      0                                                        0
+                       Eric Boivin                                                                Out 158                                                                                 155 In
+                                                                                                                    226                                                        154
+
+
+
+
+                                                                                                                                     1
+
+
+
+
+                                                                                                                                                              4
+                     (303) 668-0220
+                                                                                                      In 226                                                                              236 Out
+                                                                                                                      0                                                        1
+
+   Site ID: 4                                                                                                                                    61
+                                                                                                                HV 2.7%
+
+
+
+
+                                                                                                                                                                   HV 100.0%
+Alley & Republican St                                                                                          PHF 0.90
+
+
+
+
+                                                                                                                                                                  PHF 0.25
+                                                                                                                                             0   0      1
+Thursday, June 05, 2014                                                                                                                  Out            In
+                                                                                                                                          1              1
+4:00 PM to 6:00 PM
+                                                                                                                               Peak Hour Summary
+                                                                                                                               4:15 PM to 5:15 PM
+15-Minute Interval Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                  Southbound                    Eastbound                        Westbound                                                       Pedestrians
+   Start                   Alley                       Alley                     Republican St                    Republican St                   Interval                          Crosswalk
+   Time         L        T       R      HV    L      T       R       HV    L       T      R       HV       L        T      R             HV        Total          North            South East      West
+ 4:00 PM        1        0       0       0    0      0       1        0    0      57      1        1       0       33      1              0          94            10               17      0       0
+ 4:15 PM        0        0       0       0    0      0       0        0    0      63      0        1       0       36      0              0          99            15                7      0       1
+ 4:30 PM        0        0       0       0    2      0       3        0    0      45      0        2       0       40      0              0          90            14               19      0       0
+ 4:45 PM        0        0       1       1    4      0       1        0    0      61      0        1       1       35      0              0         103             9               16      3       0
+ 5:00 PM        0        0       0       0    3      0       0        0    0      57      0        2       0       43      0              0         103            24               19      1       0
+ 5:15 PM        0        0       0       0    0      0       4        0    0      42      0        0       0       42      0              0          88            24               26      2       0
+ 5:30 PM        0        0       0       0    3      0       1        0    0      37      0        0       0       43      0              0          84            39               27      5       2
+ 5:45 PM        0        0       0       0    2      0       1        0    0      46      0        0       2       48      0              1          99            20               15      0       0
+Total Survey    1        0       1      1    14       0      11      0     0      408      1      7        3       320         1         1            760          155             146     11       3
+
+
+
+Peak Hour Summary
+4:15 PM to 5:15 PM
+                        Northbound                  Southbound                    Eastbound                        Westbound                                                       Pedestrians
+    By
+                           Alley                        Alley                    Republican St                    Republican St                       Total                         Crosswalk
+ Approach
+                In      Out     Total   HV   In      Out     Total   HV    In     Out     Total   HV       In      Out     Total         HV                       North            South East      West
+  Volume         1       1       2       1   13       0       13      0   226     158      384     6      155      236      391           0            395         62               61      4       1
+   %HV                    100.0%                        0.0%                         2.7%                             0.0%                            1.8%
+   PHF                      0.25                         0.65                         0.90                             0.90                           0.96
+
+                        Northbound                  Southbound                    Eastbound                        Westbound
+   By
+                            Alley                       Alley                    Republican St                    Republican St                       Total
+Movement
+                L        T        R  Total    L      T        R  Total      L      T      R    Total        L       T      R    Total
+  Volume        0        0        1  1        9      0        4  13        0      226     0    226         1       154     0    155                   395
+   PHF         0.00     0.00    0.25 0.25    0.56   0.00    0.33 0.65     0.00   0.90    0.00 0.90        0.25    0.90    0.00 0.90                   0.96
+
+
+
+Rolling Hour Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                  Southbound                    Eastbound                        Westbound                                                       Pedestrians
+   Start                   Alley                       Alley                     Republican St                    Republican St                   Interval                          Crosswalk
+   Time         L        T       R      HV    L      T       R       HV    L       T      R       HV       L        T      R             HV        Total          North            South East      West
+ 4:00 PM        1        0       1       1    6      0       5        0    0      226     1        5       1       144     1              0         386            48               59      3       1
+ 4:15 PM        0        0       1       1    9      0       4        0    0      226     0        6       1       154     0              0         395            62               61      4       1
+ 4:30 PM        0        0       1       1    9      0       8        0    0      205     0        5       1       160     0              0         384            71               80      6       0
+ 4:45 PM        0        0       1       1   10      0       6        0    0      197     0        3       1       163     0              0         378            96               88     11       2
+ 5:00 PM        0        0       0       0    8      0       6        0    0      182     0        2       2       176     0              1         374            107              87      8       2
+Peak Hour Summary
+                                                                                                                  Site ID: 1
+
+
+            Eric Boivin
+          (303) 668-0220
+
+
+                                                    8th Ave N & Republican St
+                                                               4:15 PM to 5:15 PM
+                                                              Thursday, June 05, 2014
+
+
+                                        8th Ave N             0                         0
+
+
+
+
+                                                                  10                        7
+
+
+                                                          3       0    7
+
+                                                          É       Æ    Ê
+
+Republican St                                                          Peds   60
+
+
+                                                                                                                   Ç   3
+
+   0           154                                                                                                 Ã   115     146      0
+
+                                                                                                                   É   28
+                                     Peds 22
+
+
+
+
+                                                                                                       Peds 15
+
+
+                           4     È
+
+   0           236         216   Ä                                                                                             246      0
+
+                           16    Ê
+
+                                                                       Peds   70                                                Republican St
+
+                                                                                   Ç        Å    È
+                                                                                   36       0    23
+
+
+                                                                  44                        59
+                                                                                                      8th Ave N
+
+
+
+
+                                                              0                         0
+
+
+ Approach       PHF         HV%          Volume
+    EB          0.91        3.0%                    236
+    WB          0.89        2.7%                    146
+    NB          0.82        0.0%                    59
+    SB          0.63        0.0%                    10
+Intersection    0.94        2.4%                    451
+
+Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                          In         Out
+
+
+
+
+                                                                                                                          HV 0.0%
+Total Vehicle Summary
+
+
+
+
+                                                                                                                         PHF 0.63
+                                                                                                                                          10          7
+                                                                                                                                          3    0      7
+                                                                                                                                                                             HV 2.7%
+                                                                                                                                                                            PHF 0.89
+                                                                                                                                               60
+
+                                                                                                                     4                                                      3
+                      Eric Boivin                                                                Out 154                                                                               146 In
+
+
+
+
+                                                                                                                                    22
+
+
+
+
+                                                                                                                                                            15
+                    (303) 668-0220                                                                                 216                                                      115
+                                                                                                     In 236                                                                            246 Out
+                                                                                                                    16                                                      28
+
+   Site ID: 1                                                                                                                                  70
+                                                                                                               HV 3.0%
+8th Ave N & Republican St                                                                                     PHF 0.91
+
+
+
+
+                                                                                                                                                                  HV 0.0%
+                                                                                                                                                                 PHF 0.82
+                                                                                                                                          36   0      23
+Thursday, June 05, 2014                                                                                                                  Out          In
+                                                                                                                                         44           59
+4:00 PM to 6:00 PM
+                                                                                                                              Peak Hour Summary
+                                                                                                                              4:15 PM to 5:15 PM
+15-Minute Interval Summary
+4:00 PM to 6:00 PM
+ Interval              Northbound                  Southbound                    Eastbound                        Westbound                                                     Pedestrians
+   Start                8th Ave N                   8th Ave N                   Republican St                    Republican St                  Interval                         Crosswalk
+   Time         L       T       R      HV    L      T       R       HV    L       T      R       HV       L        T      R              HV      Total           North          South East      West
+ 4:00 PM        8       0       3       0    1      1       2        0    1      54      4        1       6       24      2               2       106             19             32      7       14
+ 4:15 PM        5       0       6       0    1      0       0        0    0      59      3        1       8       28      0               1       110             11              9      3        5
+ 4:30 PM        9       0       5       0    2      0       1        0    3      45      2        2       6       30      1               1       104             17             15      3        3
+ 4:45 PM       10       0       8       0    1      0       1        0    0      58      7        2       5       26      1               1       117             12             33      4        4
+ 5:00 PM       12       0       4       0    3      0       1        0    1      54      4        2       9       31      1               1       120             20             13      5       10
+ 5:15 PM        9       1       4       0    0      0       1        0    0      34      5        0       6       39      1               1       100             16             18      4       14
+ 5:30 PM       10       1       7       0    2      1       0        0    0      38      2        0       8       30      3               3       102             26             24      3       15
+ 5:45 PM       17       0       7       1    1      0       0        0    0      46      4        0       7       28      0               0       110             19             25      6        5
+Total Survey   80       2       44     1    11       2       6      0     5      388     31      8       55       236         9          10         869           140            169    35       70
+
+
+
+Peak Hour Summary
+4:15 PM to 5:15 PM
+                       Northbound                  Southbound                    Eastbound                        Westbound                                                     Pedestrians
+    By
+                        8th Ave N                    8th Ave N                  Republican St                    Republican St                      Total                        Crosswalk
+ Approach
+               In      Out     Total   HV   In      Out     Total   HV    In     Out     Total   HV       In      Out     Total          HV                      North          South East      West
+  Volume       59       44      103     0   10       7       17      0   236     154      390     7      146      246      392            4          451          60             70     15       22
+   %HV                     0.0%                        0.0%                         3.0%                             2.7%                           2.4%
+   PHF                     0.82                         0.63                         0.91                             0.89                          0.94
+
+                       Northbound                  Southbound                    Eastbound                        Westbound
+   By
+                        8th Ave N                   8th Ave N                   Republican St                    Republican St                      Total
+Movement
+                 L      T       R  Total     L      T       R  Total       L      T      R    Total        L       T      R    Total
+  Volume        36      0      23 59         7      0       3  10         4      216     16 236           28      115     3    146                  451
+   PHF         0.75    0.00   0.72 0.82     0.58   0.00   0.75 0.63      0.33   0.92    0.57 0.91        0.78    0.93    0.75 0.89                  0.94
+
+
+
+Rolling Hour Summary
+4:00 PM to 6:00 PM
+ Interval              Northbound                  Southbound                    Eastbound                        Westbound                                                     Pedestrians
+   Start                8th Ave N                   8th Ave N                   Republican St                    Republican St                  Interval                         Crosswalk
+   Time         L       T       R      HV    L      T       R       HV    L       T      R       HV       L        T      R              HV      Total           North          South East      West
+ 4:00 PM       32       0      22       0    5      1       4        0    4      216     16       6      25       108     4               5       437             59             89     17       26
+ 4:15 PM       36       0      23       0    7      0       3        0    4      216     16       7      28       115     3               4       451             60             70     15       22
+ 4:30 PM       40       1      21       0    6      0       4        0    4      191     18       6      26       126     4               4       441             65             79     16       31
+ 4:45 PM       41       2      23       0    6      1       3        0    1      184     18       4      28       126     6               6       439             74             88     16       43
+ 5:00 PM       48       2      22       1    6      1       2        0    1      172     15       2      30       128     5               5       432             81             80     18       44
+www.idaxdata.com
+
+
+
+
+                                                                            594
+
+
+
+                                                                                                  613
+                                                                   1
+                                     HV %:   PHF
+                  N
+
+
+
+
+                                                    FAIRVIEW AVE
+
+
+
+
+                                                                        137
+
+                                                                                   137
+
+
+
+                                                                                                         320
+                                EB   2.5%    0.91                                                                                          Date:           Tue, Apr 29, 2014
+
+
+
+
+                                                                                              0
+                                WB 1.5%      0.93                                                                                  Count Period:       4:00 PM        to        6:00 PM
+                                NB   1.2%    0.92                                                                                    Peak Hour:        4:45 PM        to        5:45 PM
+                                SB   1.3%    0.85
+                                NWB 0.0%     0.38
+                              TOTAL 1.7%     0.99                                       14
+
+
+                                                                                                                                                           MERCER ST
+
+                                                                                                                                                                                 11
+                        40                                              MERCER ST
+      1,754                                                                                                                                                            391
+                      1,570                                                                                                                                                           2,223
+                                                                       FAIRVIEW AVE                                                                                    1,522
+                        43                    ##                                                                                              0
+      1,670
+                                                                              Peak Hour                                                                                310
+                        17                                                                                                                                                            3,008
+                                                                              TEV: 5,892
+                                                                                                                                                                       0
+                 11                                                           PHF:        0.99
+
+                         MERCER ST
+
+                                                                                                                                     87
+
+
+
+
+                                                                                                                                                                 M
+                                                                                        234
+
+
+
+
+                                                                                                                                                                 ER
+                                                                                                                                                            0
+
+
+
+
+                                                                                                                                                                   C
+                                                                                                                                                                    ER
+                                                                                                                                                       0
+
+
+
+
+                                                                                                                                                                           PL
+                                                                                                                                                   6
+
+                                                                                                                    FAIRVIEW AVE
+                                                                                                                                             0
+
+
+
+
+                                                                                                                                                                                0
+                                                                       89
+
+                                                                                  182
+
+                                                                                          1,118
+
+                                                                                                        10
+
+                                                                                                                1
+
+
+
+
+                                                                                                                                                                           6
+                                                                                                        1,399
+
+
+
+
+                                                                                                                                                                44
+                                                                                   464
+
+
+
+
+                                                                                                                                                                  4
+Mark Skaggs: 425 - 250 - 0777                                                                                                                                         mark.skaggs@idaxdata.com
+www.idaxdata.com
+
+
+
+
+ Two-Hour Count Summaries
+                          MERCER ST                          MERCER ST                           FAIRVIEW AVE                   FAIRVIEW AVE                  MERCER PL                         Rolling
+                                                                                                                                                                                       15-min
+ Interval Start            Eastbound                          Westbound                             Northbound                   Southbound                  Northwestbound                      One
+                                                                                                                                                                                        Total
+                  LT      TH      BR       RT       HL       LT       TH        RT       LT        TH       RT      HR    LT     BL      TH     RT    HL      BL       BR       HR               Hour
+    4:00 PM        6      442     14        5        0        66      293       82        19        32      261      2     85     0      45      37   0        0        0        0     1,389
+    4:15 PM       11      496     19        6        0        54      384       79        23        28      209      4     77     0      25      39   0        0        0        0     1,454
+    4:30 PM       11      388     13        2        1        74      369       77        21        23      276      4     70     0      17      32   0        0        0        0     1,378
+    4:45 PM       12      385      8        2        0        73      380       80        18        51      291      1     84     0      53      37   0        0        0        0     1,475     5,696
+    5:00 PM       12      426      9       11        0        73      386      100        21        40      252      3     70     0      21      32   0        0        0        0     1,456     5,763
+    5:15 PM       10      364     10        1        0        88      341      104        26        44      306      3     81     0      46      38   0        4        0        0     1,466     5,775
+    5:30 PM        6      395     16        3        0        76      415      107        24        47      269      3     85     0      17      30   0        2        0        0     1,495     5,892
+    5:45 PM       10      347      7        7        0        92      348       94        12        56      253      1     67     0      33      30   0        1        0        0     1,358     5,775
+  Count Total     78     3,243    96       37        1       596     2,916     723       164       321     2,117    21    619     0     257     275   0        7        0        0     11,471
+    Peak Hr       40     1,570    43       17        0       310     1,522     391        89       182     1,118    10    320     0     137     137   0        6        0        0     5,892
+ Note: Two-hour count summary volumes include heavy vehicles but excludes bicycles in overall count.
+
+
+   Interval                          Heavy Vehicle Totals                                                     Bicycles                                  Pedestrians (Crossing Leg)
+     Start         EB        WB        NB        SB       NWB           Total       EB        WB         NB          SB   NWB       Total      East   West     North    South        SE         Total
+   4:00 PM          9        10          5         4       0             28          0         0          4           0    0          4         0      16        1        26          10         53
+   4:15 PM         15        16          7         3       0             41          0         0          0           0    0          0         1      16        2        25           6         50
+   4:30 PM          4        12          6         1       0             23          1         0          1           2    0          4         0      22        3        29          15         69
+   4:45 PM         14         9          7         3       0             33          3         0          1           0    0          4         0      22        0        25          13         60
+   5:00 PM         10         8          3         1       0             22          2         0          0           1    0          3         0      35        8       119          25        187
+   5:15 PM          9         6          4         2       0             21          1         0          0           0    0          1         0      43        2        44          23        112
+   5:30 PM          8        10          3         2       0             23          5         0          0           0    0          5         0      44        4        46          26        120
+   5:45 PM          3         3          7         3       0             16          2         0          5           0    0          7         0      43        0        33          21         97
+  Count Total      72        74         42        19       0            207         14         0         11           3    0         28         1     241       20       347         139        748
+   Peak Hr         41        33         17         8       0             99         11         0          1           1    0         13         0     144       14       234          87        479
+
+
+
+
+Mark Skaggs: 425 - 250 - 0777                                                                                                                                            mark.skaggs@idaxdata.com
+Peak Hour Summary
+                                                                                                                               Site ID: 3
+
+
+            Eric Boivin
+          (303) 668-0220
+
+
+                                                Fairview Ave N & Harrison St
+                                                                     5:00 PM to 6:00 PM
+                                                                    Thursday, June 05, 2014
+
+
+                                        Fairview Ave N              0                         0
+
+
+
+
+                                                                        330                       1070
+
+
+                                                               34       279   17
+
+                                                               É        Æ     Ê
+
+Harrison St                                                                   Peds   2
+
+
+                                                                                                                                Ç   91
+
+   0            96                                                                                                              Ã   46      151         0
+
+                                                                                                                                É   14
+                                     Peds 261
+
+
+
+
+                                                                                                                Peds 3
+
+
+                           168   È
+
+   0           253         49    Ä                                                                                                          77          0
+
+                           36    Ê
+
+                                                                              Peds   230                                                          Harrison St
+
+                                                                                         Ç        Å      È
+                                                                                         16       811    11
+                                                                                                              Fairview Ave N
+
+
+
+
+                                                                        329                       838
+
+
+
+
+                                                                    0                         0
+
+
+ Approach       PHF         HV%           Volume
+    EB          0.89        1.6%                         253
+    WB          0.80        0.0%                         151
+    NB          0.91        1.6%                         838
+    SB          0.91        7.9%                         330
+Intersection    0.97        2.7%                  1,572
+
+Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                          In          Out
+
+
+
+
+                                                                                                                         HV 7.9%
+Total Vehicle Summary
+
+
+
+
+                                                                                                                        PHF 0.91
+                                                                                                                                         330         1,070
+                                                                                                                                          34   279    17
+                                                                                                                                                                             HV 0.0%
+                                                                                                                                                                            PHF 0.80
+                                                                                                                                               2
+
+                                                                                                                 168                                                        91
+                       Eric Boivin                                                                 Out 96                                                                              151 In
+
+
+
+
+                                                                                                                                   261
+                                                                                                                  49                                                        46
+
+
+
+
+                                                                                                                                                             3
+                     (303) 668-0220
+                                                                                                    In 253                                                                              77 Out
+                                                                                                                  36                                                        14
+
+   Site ID: 3                                                                                                                                  230
+                                                                                                              HV 1.6%
+Fairview Ave N & Harrison St                                                                                 PHF 0.89
+
+
+
+
+                                                                                                                                                                  HV 1.6%
+                                                                                                                                                                 PHF 0.91
+                                                                                                                                          16   811    11
+Thursday, June 05, 2014                                                                                                                  Out           In
+                                                                                                                                         329          838
+4:00 PM to 6:00 PM
+                                                                                                                             Peak Hour Summary
+                                                                                                                             5:00 PM to 6:00 PM
+15-Minute Interval Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                    Southbound                   Eastbound                    Westbound                                                    Pedestrians
+   Start               Fairview Ave N                Fairview Ave N                Harrison St                  Harrison St                     Interval                      Crosswalk
+   Time         L        T       R       HV    L       T       R       HV    L      T       R      HV       L    T       R               HV      Total           North       South East         West
+ 4:00 PM        7       177      2        3    5       64       5       5   26      7       6       2       6   11      16                0       332             2           43      1          42
+ 4:15 PM        4       192      5        7    3       67       7       5   25      7      11       1       2   14      20                1       357             0           26      1          28
+ 4:30 PM        5       161      2        6    5       75       8       7   27      6       9       4       5   13      22                0       338             1           46      1          40
+ 4:45 PM        1       170      6        6    4       65       7       8   38      5      12       3       3    7      27                0       345             3           28      1          35
+ 5:00 PM        3       180      2        3    3       62       9       4   27     20      14       0       5   14      28                0       367             0           48      0          66
+ 5:15 PM        3       200      6        3    3       67       9       9   57      7       7       3       3   11      25                0       398             1           45      3          49
+ 5:30 PM        5       208      1        1    6       75      10       6   49     10       7       1       2    9      20                0       402             1           68      0          67
+ 5:45 PM        5       223      2        6    5       75       6       7   35     12       8       0       4   12      18                0       405             0           69      0          79
+Total Survey   33      1,511     26      35   34      550      61      51   284    74       74     14   30       91        176           1         2,944           8             373    7       406
+
+
+
+Peak Hour Summary
+5:00 PM to 6:00 PM
+                        Northbound                    Southbound                   Eastbound                    Westbound                                                    Pedestrians
+    By
+                       Fairview Ave N                Fairview Ave N                Harrison St                  Harrison St                        Total                       Crosswalk
+ Approach
+                In      Out      Total   HV    In      Out     Total   HV    In    Out     Total   HV    In     Out     Total            HV                      North       South East         West
+  Volume       838      329     1,167    13   330    1,070 1,400       26   253    96       349     4   151     77       228              0        1,572          2           230     3         261
+   %HV                      1.6%                          7.9%                        1.6%                         0.0%                            2.7%
+   PHF                       0.91                          0.91                        0.89                         0.80                           0.97
+
+                        Northbound                    Southbound                   Eastbound                    Westbound
+   By
+                       Fairview Ave N                Fairview Ave N                 Harrison St                  Harrison St                       Total
+Movement
+                 L       T       R    Total     L      T       R    Total     L      T       R  Total     L       T       R  Total
+  Volume        16      811      11 838        17     279      34 330       168     49      36 253       14      46      91 151                    1,572
+   PHF         0.80     0.91    0.46 0.91     0.71    0.93    0.85 0.91     0.74   0.61    0.64 0.89    0.70    0.82    0.81 0.80                  0.97
+
+
+
+Rolling Hour Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                    Southbound                   Eastbound                    Westbound                                                    Pedestrians
+   Start               Fairview Ave N                Fairview Ave N                Harrison St                  Harrison St                     Interval                       Crosswalk
+   Time         L        T       R       HV    L       T       R       HV    L      T       R      HV    L       T       R               HV      Total           North       South East         West
+ 4:00 PM       17       700      15      22   17      271      27      25   116    25      38      10   16      45      85                1      1,372            6           143     4         145
+ 4:15 PM       13       703      15      22   15      269      31      24   117    38      46       8   15      48      97                1      1,407            4           148     3         169
+ 4:30 PM       12       711      16      18   15      269      33      28   149    38      42      10   16      45     102                0      1,448            5           167     5         190
+ 4:45 PM       12       758      15      13   16      269      35      27   171    42      40       7   13      41     100                0      1,512            5           189     4         217
+ 5:00 PM       16       811      11      13   17      279      34      26   168    49      36       4   14      46      91                0      1,572            2           230     3         261
+Peak Hour Summary
+
+
+
+            Eric Boivin
+          (303) 668-0220
+
+
+                                    Fairview Ave N & Republican St
+                                                                     4:45 PM to 5:45 PM
+                                                                   Tuesday, January 07, 2014
+
+
+                                       Fairview Ave N              0                         0
+
+
+
+
+                                                                       395                       1126
+
+
+                                                              71       252   72
+
+                                                              É        Æ     Ê
+
+Republican St                                                                Peds   47
+
+
+                                                                                                                             Ç   257
+
+   0           145                                                                                                           Ã   67    334      0
+
+                                                                                                                             É   10
+                                    Peds 65
+
+
+
+
+                                                                                                              Peds 15
+
+
+                           54   È
+
+   0           162         77   Ä                                                                                                      152      0
+
+                           31   Ê
+
+                                                                             Peds   25                                                  Republican St
+
+                                                                                         Ç       Å      È
+                                                                                         7       815    3
+                                                                                                            Fairview Ave N
+
+
+
+
+                                                                       293                       825
+
+
+
+
+                                                                   0                         0
+
+
+ Approach       PHF        HV%           Volume
+    EB          0.76       0.0%                         162
+    WB          0.83       0.3%                         334
+    NB          0.95       1.7%                         825
+    SB          0.88       4.8%                         395
+Intersection    0.96       2.0%                  1,716
+
+Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                             In            Out
+
+
+
+
+                                                                                                                             HV 4.8%
+Total Vehicle Summary
+
+
+
+
+                                                                                                                            PHF 0.88
+                                                                                                                                            395           1,126
+                                                                                                                                             71     252    72
+                                                                                                                                                                                   HV 0.3%
+                                                                                                                                                                                  PHF 0.83
+                                                                                                                                                    47
+
+                                                                                                                       54                                                         257
+                       Eric Boivin                                                                  Out 145                                                                                 334 In
+
+
+
+
+                                                                                                                                       65
+
+
+
+
+                                                                                                                                                                  15
+                     (303) 668-0220                                                                                    77                                                         67
+                                                                                                        In 162                                                                              152 Out
+                                                                                                                       31                                                         10
+
+                                                                                                                                                    25
+                                                                                                                  HV 0.0%
+Fairview Ave N & Republican St                                                                                   PHF 0.76
+
+
+
+
+                                                                                                                                                                        HV 1.7%
+                                                                                                                                                                       PHF 0.95
+                                                                                                                                                7   815    3
+Tuesday, January 07, 2014                                                                                                                   Out             In
+                                                                                                                                            293            825
+4:00 PM to 6:00 PM
+                                                                                                                                 Peak Hour Summary
+                                                                                                                                 4:45 PM to 5:45 PM
+15-Minute Interval Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                    Southbound                    Eastbound                        Westbound                                                     Pedestrians
+   Start               Fairview Ave N                Fairview Ave N                Republican St                    Republican St                    Interval                       Crosswalk
+   Time         L        T       R       HV    L       T       R       HV    L       T      R       HV       L        T      R              HV        Total            North       South East        West
+ 4:00 PM        6       180      1        4   16       63      16       5    9       9      10       0       5        7      80              0         402              10           8      3          6
+ 4:15 PM        3       213      1        7   14       64      17       5   15      12       7       1       1       16      47              0         410               8           1      0          6
+ 4:30 PM        6       155      2        5   19       56       8       6    8      19       4       2       5       17      85              0         384              10           5      5         13
+ 4:45 PM        2       214      1        3   17       76      19       6   15      15       6       0       4       17      60              1         446              14           5      2         12
+ 5:00 PM        1       193      0        5   13       53      18       5   15      22       6       0       0       10      57              0         388              11           4      4         10
+ 5:15 PM        3       197      0        1   27       61      14       3   13      28      12       0       2       13      70              0         440              12           6      4         21
+ 5:30 PM        1       211      2        5   15       62      20       5   11      12       7       0       4       27      70              0         442              10          10      5         22
+ 5:45 PM        0       195      1        4   22       43      21       5   22      18       4       1       3       25      72              0         426              11           8      3         22
+Total Survey   22      1,558     8       34   143     478     133      40   108     135     56      4       24       132       541          1         3,338             86             47   26       112
+
+
+
+Peak Hour Summary
+4:45 PM to 5:45 PM
+                        Northbound                    Southbound                    Eastbound                        Westbound                                                     Pedestrians
+    By
+                       Fairview Ave N                Fairview Ave N                Republican St                    Republican St                        Total                      Crosswalk
+ Approach
+                In      Out      Total   HV    In      Out     Total   HV    In     Out     Total   HV       In      Out     Total          HV                         North       South East        West
+  Volume       825      293     1,118    14   395    1,126 1,521       19   162     145      307     0      334      152      486            1        1,716             47          25     15         65
+   %HV                      1.7%                          4.8%                         0.0%                             0.3%                          2.0%
+   PHF                       0.95                          0.88                         0.76                             0.83                         0.96
+
+                        Northbound                    Southbound                    Eastbound                        Westbound
+   By
+                       Fairview Ave N                Fairview Ave N                Republican St                    Republican St                        Total
+Movement
+                L        T       R    Total     L      T       R    Total     L      T      R    Total        L       T      R    Total
+  Volume        7       815      3    825      72     252      71 395        54     77      31 162           10      67     257 334                   1,716
+   PHF         0.58     0.95    0.38 0.95     0.67    0.83    0.89 0.88     0.90   0.69    0.65 0.76        0.63    0.62    0.92 0.83                 0.96
+
+
+
+Rolling Hour Summary
+4:00 PM to 6:00 PM
+ Interval               Northbound                    Southbound                    Eastbound                        Westbound                                                     Pedestrians
+   Start               Fairview Ave N                Fairview Ave N                Republican St                    Republican St                    Interval                       Crosswalk
+   Time         L        T       R       HV    L       T       R       HV    L       T      R       HV       L        T      R              HV        Total            North       South East        West
+ 4:00 PM       17       762      5       19   66      259      60      22   47      55      27       3      15       57     272              1        1,642             42          19     10         37
+ 4:15 PM       12       775      4       20   63      249      62      22   53      68      23       3      10       60     249              1        1,628             43          15     11         41
+ 4:30 PM       12       759      3       14   76      246      59      20   51      84      28       2      11       57     272              1        1,658             47          20     15         56
+ 4:45 PM        7       815      3       14   72      252      71      19   54      77      31       0      10       67     257              1        1,716             47          25     15         65
+ 5:00 PM        5       796      3       15   77      219      73      18   61      80      29       1       9       75     269              0        1,696             44          28     16         75
+ www.idaxdata.com
+
+
+                                              FAIRVIEW AVE
+                                               DENNY WAY
+                                                                                                                                             Date: Thu, Feb 27, 2014
+                N                                   Peak Hour                                                                        Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                       Peak Hour: 5:00 PM to 6:00 PM
+
+
+
+
+                                                       499
+
+
+
+                                                                         566
+                           FAIRVIEW AVE
+
+
+
+
+                                                                                                                                                                            14
+                                                         305
+
+                                                                    117
+                                              77
+
+
+
+                                                                                                           DENNY WAY                                                             160
+
+
+      1,076                                                                                                 50            716                                                                               1
+                    139                                TEV: 2,986                                          617
+
+
+
+
+                                                                                                                                                               287
+
+
+
+
+                                                                                                                                                                                                    212
+                    721                                PHF: 0.94                                            49
+      871            11                                                                                                   979                           3
+
+
+          DENNY WAY                                                                                                                                                              266
+                                                         382
+
+                                                                    377
+
+                                                                                  141
+
+                                                                                            FAIRVIEW AVE
+
+
+
+
+                                                                                                                             HV %:             PHF
+
+
+
+
+                                                                                                                                                                                          9
+                                                                                                                    EB       1.1%              0.95
+                                                                                                                    WB       1.3%              0.93
+                                                                                                                    NB       2.2%              0.87
+                                                       365
+
+
+
+                                                                         900
+
+
+
+
+                                                                                                                    SB       5.0%              0.96
+                                                                                                                  TOTAL      2.1%              0.94
+Two-Hour Count Summaries
+                          DENNY WAY                                        DENNY WAY                                     FAIRVIEW AVE                        FAIRVIEW AVE
+    Interval                                                                                                                                                                              15-min           Rolling
+      Start               Eastbound                                            Westbound                                  Northbound                          Southbound                   Total          One Hour
+                    LT                    TH            RT          LT              TH                      RT      LT          TH             RT       LT           TH          RT
+    4:00 PM         29                    156            4          13             109                      9       100         104              21     32            61         7            645
+    4:15 PM         26                    189            2          13             114                      21      98              91           36     26            59         23           698
+    4:30 PM         27                    176            1          10             125                      18      87              84           25     27            57         11           648
+    4:45 PM         31                    166            4          15             130                      15      86              79           36     25            75         19           681          2,672
+    5:00 PM         38                    169            1          10             152                      16      97              87           46     38            76         16           746          2,773
+    5:15 PM         36                    181            3          16             157                      11      107         117              36     27            78         21           790          2,865
+    5:30 PM         36                    176            2          15             166                      12      80              97           28     26            79         21           738          2,955
+    5:45 PM         29                    195            5           8             142                      11      98              76           31     26            72         19           712          2,986
+  Count Total       252               1,408              22         100           1,095                     113     753         735            259      227          557         137      5,658
+    Peak Hr         139                   721            11         49             617                      50      382         377            141      117          305         77       2,986
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                                    Bicycles                                     Pedestrians (Crossing Leg)
+      Start         EB           WB                NB          SB         Total         EB                  WB      NB       SB          Total        East           West        North          South           Total
+    4:00 PM          6                    3        7           4           20           1                   0        0          3         4           32              30             27             30          119
+    4:15 PM          7                    4        3           10          24           2                   0        1          0         3           36              46             26             33          141
+    4:30 PM          3                    3        8           7           21           0                   0        0          0         0           38              39             25             53          155
+    4:45 PM          5                    3        6           6           20           0                   0        1          7         8           34              57             17             50          158
+    5:00 PM          1                    4        5           5           15           2                   0        1          4         7           49              82             33             73          237
+    5:15 PM          2                    1        5           5           13           0                   0        2          3         5           43              57             37             66          203
+    5:30 PM          2                    2        5           9           18           1                   0        3          4         8           72              77             39             65          253
+    5:45 PM          5                    2        5           6           18           0                   1        3          3         7           48              71             51             62          232
+  Count Total       31              22             44          52         149           6                   1       11       24           42          352            459          255               432      1,498
+    Peak Hr         10                    9        20          25          64           3                   1        9       14           27          212            287          160               266         925
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                               mark.skaggs@idaxdata.com
+                               Transportation Impact Study
+                                          400 Dexter Office
+
+
+
+
+ Appendix B
+Trip Generation Calculations
+                                                                                 400 Dexter Office
+                                                                                Daily Trip Generation Estimate
+                                                                                                                     Mode-Split                                             Vehicle Trip Generation
+                                          ITE LUC                    ITE Auto                   Person                                                     Total Auto
+Land Use                   Size (sf)        No.1         Rate          Trips       AVO 2         Trips    Non-Vehicle    Transit   Vehicle     AVO 2          Trips            Enter              Exit
+DAILY
+Proposed Uses:
+Office 3                   252,010 sf       710       equation        2,650          1.10        2,915       16.4%       25.5%      58.1%       1.10         1,540              770               770
+
+Quality Restaurant          7,500 sf        931          89.95         675           1.20         810        50%          0%        50%         1.20          338               169               169
+                       4
+             Pass-by         44%                                                                                                                              -149              -74                -75
+
+Specialty Retail           10,000 sf        826          44.32         443           1.20         532        50%          0%        50%         1.20          222               111               111
+                       4
+             Pass-by         34%                                                                                                                              -75               -38                -37
+
+                                                                                                                                                             1,876              938               938
+
+Less Existing Use:
+Health/Fitness Club         7,342 sf        492          32.93         242           1.10         266        50%          0%        50%         1.10          -121              -61                -60
+Office 3                     819 sf         710       equation          34           1.10         37         10%          16%       74%         1.10          -25               -13                -12
+Event Space 5               3,857 sf        n/a           n/a            -             -           -           -            -         -           -            0                 0                  0
+Manufacturing 3            11,188 sf        140          3.82           43           1.10         47         10%          16%       74%         1.10          -32               -16                -16
+Automotive 6               12,000 sf        942          31.10         373           1.10         410         0%          0%        100%        1.10          -373              -186              -187
+                                                                                                                                                              -551              -276              -275
+
+
+                                                                                                                                     NET NEW DAILY TRIPS     1,325              662               663
+
+Notes:
+1. Institute of Transportation Engineers (ITE) Trip Generation manual, 9th Edition, 2012 Land Use Code.
+2. AVO = Average Vehicle Occupancy. No adjustments were made to trip generation due to AVO.
+3. Mode-split based on 2012 Center City Commuter Mode Split Survey Results. Proposed use CTR-affected data, existing use non-CTR-affected data.
+4. Pass-by trips determined based on methodology included in the ITE Trip Generation Handbook, 2nd Edition.
+5. No trip credit was applied for the event space.
+6. Daily trip rate based on a k-factor of 10 with respect to the PM peak hour trip rate. 10*3.11=31.10.
+
+
+
+
+                                                                                                                                                                    7/30/2014 400 Dexter Office - TGEN.xls
+                                                                                       400 Dexter Office
+                                                                                AM Peak Hour Trip Generation Estimate
+                                                                                                                                  Mode-Split                                                  Vehicle Trip Generation
+                                                ITE LUC                    ITE Auto                       Person                                                             Total Auto
+                                                                                                  2                                                                      2
+Land Use                           Size (sf)      No.1       Trip Rate       Trips        AVO              Trips    Non-Vehicle           Transit     Vehicle     AVO           Trips            Enter               Exit
+AM PEAK HOUR
+Proposed Use:
+         3
+Office                             252,010 sf        710     equation         401          1.10            441           16.4%            25.5%        58.1%      1.10          233               205                28
+
+Quality Restaurant                  7,500 sf         931        0.81           6           1.20             7             50%               0%          50%       1.20           3                 1                  2
+                       Pass-by 4     44%                                                                                                                                         -1                0                  -1
+
+Specialty Retail                   10,000 sf         826        0.70           7           1.20             8             50%               0%          50%       1.20           3                 1                  2
+                       Pass-by 4     34%                                                                                                                                         -1                0                  -1
+
+                                                                                                                                                                                237               207                30
+
+Less Existing Uses:
+Health/Fitness Club                 7,342 sf         492        1.41           10          1.10            11             50%               0%          50%       1.10           -5                -2                 -3
+         3
+Office                               819 sf          710     equation          4           1.10             4             10%              16%          74%       1.10           -3                -3                 0
+               6
+Event Space                         3,857 sf         n/a        n/a            -             -              -              -                 -            -        -             0                 0                  0
+                   3
+Manufacturing                      11,188 sf         140        0.73           8           1.10             9             10%              16%         74%        1.10           -6                -5                 -1
+Automotive                         12,000 sf         942        2.25           27          1.10            30              0%               0%         100%       1.10          -27               -18                 -9
+                                                                                                                                                                                -41               -28                -13
+
+
+                                                                                                                                              NET NEW AM PEAK HOUR TRIPS        196               179                17
+
+Notes:
+1. Institute of Transportation Engineers (ITE) Trip Generation manual, 9th Edition, 2012 Land Use Code.
+2. AVO = Average Vehicle Occupancy. No adjustments were made to trip generation due to AVO.
+3. Mode-split based on 2012 Center City Commuter Mode Split Survey Results. Proposed use CTR-affected data, existing use non-CTR-affected data.
+4. Pass-by trips determined based on methodology included in the ITE Trip Generation Handbook, 2nd Edition.
+5. AM trip rate based on PM rate for Specialty Retail (LUC 826) factored by ratio of AM to PM trip rate for Shopping Center (LUC 820). 0.70 = 2.71*(0.96/3.71).
+6. No trip credit was applied for the event space.
+
+
+
+
+                                                                                                                                                                                      7/30/2014 400 Dexter Office - TGEN.xls
+                                                                                400 Dexter Office
+                                                                        PM Peak Hour Trip Generation Estimate
+                                                                                                                  Mode-Split                                          Vehicle Trip Generation
+                                               ITE LUC                 ITE Auto             Person                                                   Total Auto
+Land Use                        Size (sf)        No.1     Trip Rate      Trips     AVO 2     Trips Non-Vehicle       Transit   Vehicle   AVO 2          Trips           Enter               Exit
+PM PEAK HOUR
+Proposed Uses:
+Office 3                       252,010 sf        710      equation       361         1.10    397          16.4%      25.5%      58.1%     1.10          210               36                174
+
+Quality Restaurant               7,500 sf        931         7.49         56         1.20     67          50%         0%        50%       1.20          28                19                 9
+                   Pass-by 4      44%                                                                                                                   -12               -8                 -4
+
+Specialty Retail                10,000 sf        826         2.71         27         1.20     32          50%         0%        50%       1.20          13                 6                 7
+                   Pass-by 4      34%                                                                                                                    -4               -2                 -2
+
+                                                                                                                                                        235               51                184
+
+Less Existing Uses:
+Health/Fitness Club 7            7,342 sf        492         3.53         26         1.10     29          50%         0%        50%       1.10          -13               -7                 -6
+         3,5
+Office                            819 sf         710      equation         5         1.10     6           10%         16%       74%       1.10           -4               -1                 -3
+Event Space 6                    3,857 sf        n/a         n/a           -          -        -            -           -         -         -            0                 0                 0
+Manufacturing 3                 11,188 sf        140         0.73          8         1.10     9           10%         16%       74%       1.10           -6               -2                 -4
+Automotive 7                    12,000 sf        942         3.11         37         1.10     41           0%         0%        100%      1.10          -37               -18               -19
+                                                                                                                                                        -60               -28               -32
+
+
+                                                                                                                        NET NEW PM PEAK HOUR TRIPS      175               23                152
+
+Notes:
+1. Institute of Transportation Engineers (ITE) Trip Generation manual, 9th Edition, 2012 Land Use Code.
+2. AVO = Average Vehicle Occupancy. No adjustments were made to trip generation due to AVO.
+3. Mode-split based on 2012 Center City Commuter Mode Split Survey Results. Proposed use CTR-affected data, existing use non-CTR-affected data.
+4. Pass-by trips determined based on methodology included in the ITE Trip Generation Handbook, 2nd Edition.
+5. Per Institute of Transportation Engineers (ITE) Trip Generation Manual, 5th Edition.
+6. No trip credit was applied for the event space.
+7. Mode-split assumed 100% vehicle for Automotive use and 50% Vehicle for Health/Fitness Club.
+
+
+
+
+                                                                                                                                                             7/30/2014 400 Dexter Office - TGEN.xls
+                                                 Transportation Impact Study
+                                                            400 Dexter Office
+
+
+
+
+               Appendix C
+Future PM Peak Hour Traffic Volumes and Roadway Network
+                       from the
+         SR-99 North Access Connection Project
+                               Transportation Impact Study
+                                          400 Dexter Office
+
+
+
+
+Appendix D
+LOS Analysis Worksheets
+           and
+Site Access Analysis Results
+                       Transportation Impact Study
+                                  400 Dexter Office
+
+
+
+
+Existing LOS Results
