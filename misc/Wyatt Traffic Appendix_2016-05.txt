@@ -1,0 +1,2072 @@
+                               Appendix A
+                           Roundabout Concepts
+
+
+
+
+Wyatt Way NW Transportation Analysis
+City of Bainbridge Island, WA
+                                 Appendix B
+                              Traffic Count Data
+
+
+
+
+Wyatt Way NW Transportation Analysis
+City of Bainbridge Island, WA
+ www.idaxdata.com
+
+
+                                           MADISON AVE N
+                                           WYATT WAY NE
+                                                                                                                                                   Date: Wed, Jun 11, 2014
+                N                                        Peak Hour                                                                         Count Period: 7:00 AM to 9:00 AM
+                                                                                                                                             Peak Hour: 8:00 AM to 9:00 AM
+                           MADISON AVE N
+
+
+
+
+                                                            320
+
+
+
+                                                                             216
+
+
+
+
+                                                                                                                                                                                  4
+                                                              267
+                                                   42
+
+
+
+
+                                                                         11
+                                                                                                                   WYATT WAY NE                                                       6
+
+
+      109                                                                                                            4           37                                                                            4
+                     86                                     TEV: 845                                                25
+
+
+
+
+                                                                                                                                                                      14
+
+
+
+
+                                                                                                                                                                                                        17
+                     83                                     PHF: 0.91                                                8
+      313           144                                                                                                         101                           3
+
+
+      WYATT WAY NE                                                                                                                                                                    2
+                                                                                                   MADISON AVE N
+                                                              42
+
+                                                                         126
+
+                                                                                       7
+
+
+
+
+                                                                                                                                    HV %:            PHF
+
+
+
+
+                                                                                                                                                                                              0
+                                                                                                                           EB       0.3%             0.78
+                                                                                                                           WB       5.4%             0.58
+                                                                                                                           NB       2.9%             0.88
+                                                            419
+
+
+
+                                                                             175
+
+
+
+
+                                                                                                                           SB       0.9%             0.84
+                                                                                                                         TOTAL      1.3%             0.91
+Two-Hour Count Summaries
+                         WYATT WAY NE                                        WYATT WAY NE                                    MADISON AVE N                         MADISON AVE N
+    Interval                                                                                                                                                                                  15-min          Rolling
+      Start                Eastbound                                               Westbound                                    Northbound                            Southbound               Total         One Hour
+                    LT                     TH                RT          LT            TH                           RT     LT         TH             RT       LT           TH         RT
+    7:00 AM          4                         4              4          0                 3                        1      14             19           0         0          23        3           75
+    7:15 AM         14                         12             21         2                 2                        2       4             13           0         0          32        4           106
+    7:30 AM          8                         24             42         1                 6                        6      11             18           1         2          45        4           168
+    7:45 AM         19                         22             38         1             15                           2      12             31           0         6          69        13          228          577
+    8:00 AM         15                         15             26         0                 3                        0       8             26           1         3          60        7           164          666
+    8:15 AM         22                         34             44         0                 6                        1       8             33           1         5          57        10          221          781
+    8:30 AM         27                         20             33         5                 9                        2      11             37           2         2          67        14          229          842
+    8:45 AM         22                         14             41         3                 7                        1      15             30           3         1          83        11          231          845
+  Count Total       131                    145               249         12            51                           15     83         207              8         19        436        66      1,422
+    Peak Hr         86                         83            144         8             25                           4      42         126              7         11        267        42          845
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval               Heavy Vehicle Totals                                                                          Bicycles                                      Pedestrians (Crossing Leg)
+      Start         EB           WB                     NB          SB         Total       EB                       WB     NB       SB         Total        East           West       North         South          Total
+    7:00 AM          1                     0            4           0           5              0                    0       0         2         2            0              0             0             0           0
+    7:15 AM          0                     1            0           1           2              0                    0       0         0         0            5              1             0             1           7
+    7:30 AM          2                     0            0           1           3              0                    0       0         2         2            3              3             0             0           6
+    7:45 AM          0                     0            3           0           3              1                    0       0         5         6            0              0             0             0           0
+    8:00 AM          0                     0            1           1           2              0                    0       0         1         1            4              4             0             0           8
+    8:15 AM          0                     1            0           1           2              0                    0       0         3         3            7              5             6             1          19
+    8:30 AM          1                     1            4           1           7              2                    1       0         0         3            4              3             0             1           8
+    8:45 AM          0                     0            0           0           0              1                    3       0         0         4            2              2             0             0           4
+  Count Total        4                     3            12          5           24             4                    4       0       13          21          25              18            6             3          52
+    Peak Hr          1                     2            5           3           11             3                    4       0         4         11          17              14            6             2          39
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                                    mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                           MADISON AVE N
+                                           WYATT WAY NE
+                                                                                                                                                 Date: Wed, Jun 11, 2014
+                N                                        Peak Hour                                                                       Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                           Peak Hour: 4:30 PM to 5:30 PM
+                           MADISON AVE N
+
+
+
+
+                                                            336
+
+
+
+                                                                             453
+
+
+
+
+                                                                                                                                                                                2
+                                                              251
+                                                   69
+
+
+
+
+                                                                         16
+                                                                                                                WYATT WAY NE                                                        2
+
+
+      336                                                                                                        21           170                                                                             14
+                     71                                     TEV: 1,242                                          137
+
+
+
+
+                                                                                                                                                                    13
+
+
+
+
+                                                                                                                                                                                                       13
+                     44                                     PHF: 0.96                                            12
+      227           112                                                                                                        78                           2
+
+
+      WYATT WAY NE                                                                                                                                                                  1
+                                                                                                MADISON AVE N
+                                                              130
+
+                                                                         361
+
+                                                                                       18
+
+
+
+
+                                                                                                                                 HV %:             PHF
+
+
+
+
+                                                                                                                                                                                            10
+                                                                                                                        EB       1.8%              0.80
+                                                                                                                        WB       0.6%              0.64
+                                                                                                                        NB       0.6%              0.85
+                                                            375
+
+
+
+                                                                             509
+
+
+
+
+                                                                                                                        SB       0.6%              0.93
+                                                                                                                      TOTAL      0.8%              0.96
+Two-Hour Count Summaries
+                         WYATT WAY NE                                        WYATT WAY NE                                 MADISON AVE N                          MADISON AVE N
+    Interval                                                                                                                                                                                 15-min          Rolling
+      Start                Eastbound                                               Westbound                                  Northbound                            Southbound                Total         One Hour
+                    LT                     TH                RT          LT             TH                       RT     LT          TH             RT       LT           TH         RT
+    4:00 PM         25                         12             30         2              17                       5      24              68           1         3          65        10           262
+    4:15 PM         19                         12             28         2              26                       5      31              68           3         2          59        14           269
+    4:30 PM         16                         6              27         4              31                       5      45          102              2         3          63        19           323
+    4:45 PM         21                         10             30         5              19                       4      23              85           3         6          71        13           290         1,144
+    5:00 PM         24                         17             30         1              32                       3      28              99           9         3          55        20           321         1,203
+    5:15 PM         10                         11             25         2              55                       9      34              75           4         4          62        17           308         1,242
+    5:30 PM         16                         9              19         3              21                       7      34              56           3         2          53        15           238         1,157
+    5:45 PM         19                         5              19         3              17                       4      26              63           1         2          50        18           227         1,094
+  Count Total       150                        82            208         22             218                      42     245         616              26        25        478        126      2,238
+    Peak Hr         71                         44            112         12             137                      21     130         361              18        16        251        69       1,242
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval               Heavy Vehicle Totals                                                                       Bicycles                                       Pedestrians (Crossing Leg)
+      Start         EB           WB                     NB          SB         Total        EB                   WB     NB       SB          Total        East           West       North          South        Total
+    4:00 PM          2                     1            1           2           6           0                    0       0          3         3            0              9             2              1        12
+    4:15 PM          1                     0            1           2           4           0                    0       0          3         3            9              0             0              0           9
+    4:30 PM          1                     0            2           1           4           0                    2       2          0         4            1              1             1              0           3
+    4:45 PM          0                     0            1           0           1           0                    2       2          1         5            2              3             0              1           6
+    5:00 PM          3                     0            0           0           3           1                    1       0          0         2            3              4             0              0           7
+    5:15 PM          0                     1            0           1           2           1                    9       6          1         17           7              5             1              0        13
+    5:30 PM          1                     0            2           2           5           2                    1       3          0         6            6              1             0              0           7
+    5:45 PM          0                     0            0           0           0           0                    0       0          0         0            4              7             0              0        11
+  Count Total        8                     2            7           8           25          4                    15     13          8         40          32              30            4              2        68
+    Peak Hr          4                     1            3           2           10          2                    14     10          2         28          13              13            2              1        29
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                                  mark.skaggs@idaxdata.com
+                                                    TURNING MOVEMENTS DIAGRAM
+                        7:00 AM - 9:00 AM PEAK HOUR:                                   7:45 AM TO 8:45 AM
+
+                                                                        Peds = 0
+
+
+
+
+                                                       Bicycles
+                                   Grow Avenue NW
+
+
+
+
+                                                                         U-Turn
+                                                                  113                      77
+
+                                                      2                 0
+
+                                                      23          71    19
+
+            Wyatt Way W                                                                                           Wyatt Way W
+                                                                                                            5       0        Bicycles
+
+                  171                                                                                       97              112
+
+
+
+
+                                                                                                                                          Peds = 14
+ Peds = 1
+
+
+
+
+                                                                                                            10      0        U-Turn
+
+              U-Turn      0        42
+
+                  425           271                                                                                         310
+
+             Bicycles     5     112
+                                   Grow Avenue NW
+
+
+
+
+                                                                                  51       30    20                         HV          PHF
+
+            INTERSECTION                                                          0               0                SB       0.9%        0.78
+
+PEAK HOUR VOLUME                                                  193                      101                     NB       1.0%        0.84
+                                                                                  U-Turn
+
+
+
+
+                                                                                                 Bicycles
+
+
+
+
+             IN         751                                                                                        WB       6.3%        0.80
+
+            OUT         751                                                                                        EB       1.6%        0.81
+
+                                                                        Peds = 6                                 INTRS.     2.1%        0.85
+
+                                                                                                                 PHF = Peak Hour Factor
+                                                                                                                 HV = Heavy Vehicle
+
+                                                     Wyatt Way W @ Grow Avenue NW
+
+                                                                  Bainbridge Island, WA
+
+COUNTED BY:                   SN                                                            DATE OF COUNT: Wed. 2/10/16
+
+REDUCED BY:                   CN                                                            TIME OF COUNT:       7:00 AM - 9:00 AM
+
+REDUCTION DATE:               Thu. 2/11/16                                                  WEATHER:             Overcast
+                                                                                  INTERSECTION TURNING MOVEMENTS REDUCTION SHEET
+
+
+
+
+LOCATION:            Wyatt Way W @ Grow Avenue NW                                                              DATE OF COUNT:                 Wed. 2/10/16                                                             COUNTED BY:              SN
+                     Bainbridge Island, WA                                                                     TIME OF COUNT:                 7:00 AM - 9:00 AM                                                        WEATHER:                 Overcast
+
+
+        TIME                        FROM NORTH ON                                       FROM SOUTH ON                                           FROM EAST ON                                           FROM WEST ON
+     INTERVAL                                                                                                                                                                                                                                        INTERVAL
+                                     Grow Avenue NW                                     Grow Avenue NW                                           Wyatt Way W                                            Wyatt Way W
+      ENDING                                                                                                                                                                                                                                         TOTALS
+         AT          Peds Bicycle    HV      U-Turn   Left    Thru Right Peds Bicycle    HV    U-Turn   Left       Thru Right Peds Bicycle      HV    U-Turn   Left          Thru Right Peds Bicycle   HV     U-Turn   Left        Thru Right
+      05:15 AM           0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+      05:30 AM           0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+      05:45 AM           0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+      06:00 AM           0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+      06:15 AM           0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+      06:30 AM           0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+      06:45 AM           0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+      07:00 AM           0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+      07:15 AM           0    0       0        0      0           4    1    0    0       0       0      2           3    0     2       0        4       0         0          15    0     0      0       1       0       1           16    3             45
+      07:30 AM           0    0       1        0      6           0    0    1    3       2       0      4           5    2     1       0        0       0         4           5    1     0      0       0       0       2           43    16            88
+      07:45 AM           0    2       0        0      2           16   6    3    6       1       0      10          10   1     0       0        0       0         0          16    3     0      3       3       0       5           76    34           179
+      08:00 AM           0    0       0        0      4           16   4    1    0       0       0      13          4    4     0       0        5       0         2          25    1     0      2       1       0       10          72    34           189
+      08:15 AM           0    1       0        0      1           16   4    1    0       1       0      11          5    7     4       0        0       0         2          17    2     1      0       0       0       6           53    14           138
+      08:30 AM           0    0       0        0      8           17   7    2    0       0       0      12          12   6     7       0        1       0         1          25    2     0      1       3       0       20          75    36           221
+      08:45 AM           0    1       1        0      6           22   8    2    0       0       0      15          9    3     3       0        1       0         5          30    0     0      2       3       0       6           71    28           203
+      09:00 AM           0    0       2        0      7           19   4    2    0       0       0      18          5    2     0       0        1       0         5          22    1     0      0       1       0       2           58    23           166
+
+PEAK HOUR TOTALS         0    2       1        0      19          71   23   6    0        1      0      51          30   20    14      0         7      0         10         97     5     1     5       7       0       42          271   112   INTERSECTION
+ ALL MOVEMENTS                                             113                                               101                                                       112                                                   425                       751
+       % HV                         0.9%                                                1.0%                                                   6.3%                                                    1.6%                                            2.1%
+    PEAK HOUR                                              0.78                                              0.84                                                     0.80                                                   0.81                      0.85
+     FACTOR
+
+
+HV = Heavy Vehicle
+PHF = Peak Hour Factor                                                                  7:00 AM - 9:00 AM PEAK HOUR:                7:45 AM                       TO 8:45 AM
+
+
+REDUCED BY:              CN                                                                                                                                                             DATE OF REDUCTION:                                           2/11/2016
+
+
+                                                                                                         ROLLING HOUR COUNT
+
+                                    FROM NORTH ON                                       FROM SOUTH ON                                           FROM EAST ON                                           FROM WEST ON
+                                                                                                                                                                                                                                                     INTERVAL
+                                     Grow Avenue NW                                     Grow Avenue NW                                           Wyatt Way W                                            Wyatt Way W
+                                                                                                                                                                                                                                                     TOTALS
+  TIME INTERVAL      Peds Bicycle    HV      U-Turn   Left    Thru Right Peds Bicycle    HV    U-Turn   Left       Thru Right Peds Bicycle      HV    U-Turn   Left          Thru Right Peds Bicycle   HV     U-Turn   Left        Thru Right
+5:00 AM - 6:00 AM        0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+5:15 AM - 6:15 AM        0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+5:30 AM - 6:30 AM        0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+5:45 AM - 6:45 AM        0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+6:00 AM - 7:00 AM        0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+6:15 AM - 7:15 AM        0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+6:30 AM - 7:30 AM        0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+6:45 AM - 7:45 AM        0    0       0        0      0           0    0    0    0       0       0      0           0    0     0       0        0       0         0           0    0     0      0       0       0       0           0     0             0
+7:00 AM - 8:00 AM        0    2       1        0      12          36   11   5    9       3       0      29          22   7     3       0        9       0         6          61    5     0      5       5       0       18         207    87           501
+7:15 AM - 8:15 AM        0    3       1        0      13          48   14   6    9       4       0      38          24   14    5       0        5       0         8          63    7     1      5       4       0       23         244    98           594
+7:30 AM - 8:30 AM        0    3       0        0      15          65   21   7    6       2       0      46          31   18    11      0        6       0         5          83    8     1      6       7       0       41         276    118          727
+7:45 AM - 8:45 AM        0    2       1        0      19          71   23   6    0       1       0      51          30   20    14      0        7       0         10         97    5     1      5       7       0       42         271    112          751
+8:00 AM - 9:00 AM        0    2       3        0      22          74   23   7    0       1       0      56          31   18    14      0        3       0         13         94    5     1      3       7       0       34         257    101          728
+ www.idaxdata.com
+
+
+                                        GROW AVE NW
+                                        WYATT WAY NW
+                                                                                                                                       Date: Wed, Jun 11, 2014
+                N                                  Peak Hour                                                                   Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                 Peak Hour: 4:30 PM to 5:30 PM
+
+
+
+
+                                                      82
+
+
+
+                                                                       84
+                          GROW AVE NW
+
+
+
+
+                                                                                                                                                                      2
+                                             18
+
+                                                        51
+
+                                                                   13
+                                                                                                      WYATT WAY NW                                                        0
+
+
+      427                                                                                              16           330                                                                            12
+                     15                               TEV: 889                                        302
+
+
+
+
+                                                                                                                                                           0
+
+
+
+
+                                                                                                                                                                                             6
+                    199                               PHF: 0.93                                        12
+      309            95                                                                                             220                           3
+
+
+     WYATT WAY NW                                                                                                                                                         5
+                                                        107
+
+                                                                   53
+
+                                                                                8
+
+                                                                                        GROW AVE NW
+
+
+
+
+                                                                                                                       HV %:             PHF
+
+
+
+
+                                                                                                                                                                                  15
+                                                                                                              EB       1.6%              0.81
+                                                                                                              WB       0.6%              0.78
+                                                                                                              NB       2.4%              0.86
+                                                      158
+
+
+
+                                                                       168
+
+
+
+
+                                                                                                              SB       1.2%              0.73
+                                                                                                            TOTAL      1.3%              0.93
+Two-Hour Count Summaries
+                     WYATT WAY NW                                   WYATT WAY NW                                   GROW AVE NW                           GROW AVE NW
+    Interval                                                                                                                                                                       15-min         Rolling
+      Start               Eastbound                                          Westbound                              Northbound                            Southbound                Total        One Hour
+                    LT                  TH             RT          LT           TH                     RT     LT          TH             RT       LT           TH         RT
+    4:00 PM          3                      57          16         1            46                     4      21              10           2         1          10        3            174
+    4:15 PM          8                      47          19         1            64                     5      33              13           5         6          16        2            219
+    4:30 PM          1                      42          13         4            83                     3      32              15           2         3          13        3            214
+    4:45 PM          6                      50          28         2            54                     2      28              11           2         8          15        5            211         818
+    5:00 PM          3                      62          30         5            64                     7      20              14           2         1          13        5            226         870
+    5:15 PM          5                      45          24         1            101                    4      27              13           2         1          10        5            238         889
+    5:30 PM          1                      43          14         1            70                     2      31              14           2         2          12        4            196         871
+    5:45 PM          2                      41          18         3            55                     5      18              10           2         3          12        3            172         832
+  Count Total       29                  387            162         18           537                    32     210         100              19        25        101        30       1,650
+    Peak Hr         15                  199             95         12           302                    16     107             53           8         13         51        18           889
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                              Bicycles                                       Pedestrians (Crossing Leg)
+      Start         EB         WB                 NB          SB        Total       EB                 WB     NB       SB          Total        East           West       North          South       Total
+    4:00 PM          2                  0         2           0          4          2                  0       0          0         2            2              2             0              0          4
+    4:15 PM          1                  1         1           0          3          3                  0       2          0         5            0              0             0              0          0
+    4:30 PM          1                  2         4           0          7          0                  0       2          1         3            3              0             0              0          3
+    4:45 PM          0                  0         0           1          1          0                  1       2          1         4            1              0             0              2          3
+    5:00 PM          3                  0         0           0          3          1                  1       0          0         2            2              0             0              3          5
+    5:15 PM          1                  0         0           0          1          2                  10     11          0         23           0              0             0              0          0
+    5:30 PM          0                  2         2           1          5          3                  1       2          0         6            1              0             0              0          1
+    5:45 PM          2                  0         0           0          2          0                  0       0          1         1            0              0             0              0          0
+  Count Total       10                  5         9           2          26         11                 13     19          3         46           9              2             0              5       16
+    Peak Hr          5                  2         4           1          12         3                  12     15          2         32           6              0             0              5       11
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                        mark.skaggs@idaxdata.com
+                                 Appendix C
+                                 Sim Traffic
+
+
+
+
+Wyatt Way NW Transportation Analysis
+City of Bainbridge Island, WA
+Queuing and Blocking Report
+2014 AM Existing                                                      4/29/2016
+
+Intersection: 17: Grow Ave NW & Wyatt Way NW/Wyatt Way NE
+Movement                       EB    WB     NB     SB
+Directions Served             LTR   LTR    LTR    LTR
+Maximum Queue (ft)            104     54    56     55
+Average Queue (ft)             83     37    40     38
+95th Queue (ft)               108     52    58     56
+Link Distance (ft)            774   846    257   1266
+Upstream Blk Time (%)
+Queuing Penalty (veh)
+Storage Bay Dist (ft)
+Storage Blk Time (%)
+Queuing Penalty (veh)
+
+Intersection: 18: Madison Ave N & Wyatt Way NE
+Movement                       EB    WB    NB     NB      SB
+Directions Served             LTR   LTR     L     TR     LTR
+Maximum Queue (ft)             95     54   30     77      96
+Average Queue (ft)             57     29   24     47      60
+95th Queue (ft)                86     53   41     73      91
+Link Distance (ft)            846   447          630    1316
+Upstream Blk Time (%)
+Queuing Penalty (veh)
+Storage Bay Dist (ft)                      200
+Storage Blk Time (%)
+Queuing Penalty (veh)
+
+Network Summary
+Network wide Queuing Penalty: 0
+
+
+
+
+214035/Bainbridge/Kitsap                                       SimTraffic Report
+Lochner                                                                  Page 1
+Queuing and Blocking Report
+2014 PM Existing                                                      4/29/2016
+
+Intersection: 17: Grow Ave NW & Wyatt Way NW/Wyatt Way NE
+Movement                       EB    WB     NB     SB
+Directions Served             LTR   LTR    LTR    LTR
+Maximum Queue (ft)            100     74    93     55
+Average Queue (ft)             59     56    57     35
+95th Queue (ft)                81     77    92     48
+Link Distance (ft)            774   846    257   1266
+Upstream Blk Time (%)
+Queuing Penalty (veh)
+Storage Bay Dist (ft)
+Storage Blk Time (%)
+Queuing Penalty (veh)
+
+Intersection: 18: Madison Ave N & Wyatt Way NE
+Movement                       EB    WB    NB     NB      SB
+Directions Served             LTR   LTR     L     TR     LTR
+Maximum Queue (ft)            101     56   53    116     175
+Average Queue (ft)             61     46   44     73      90
+95th Queue (ft)                77     63   60    111     139
+Link Distance (ft)            846   447          630    1316
+Upstream Blk Time (%)
+Queuing Penalty (veh)
+Storage Bay Dist (ft)                      200
+Storage Blk Time (%)
+Queuing Penalty (veh)
+
+Network Summary
+Network wide Queuing Penalty: 0
+
+
+
+
+214035/Bainbridge/Kitsap                                       SimTraffic Report
+Lochner                                                                  Page 1
+Queuing and Blocking Report
+2035 AM Baseline                                                      4/29/2016
+
+Intersection: 17: Grow Ave NW & Wyatt Way NW/Wyatt Way NE
+Movement                       EB    WB     NB     SB
+Directions Served             LTR   LTR    LTR    LTR
+Maximum Queue (ft)            170     55    56     55
+Average Queue (ft)            106     41    33     37
+95th Queue (ft)               154     58    60     55
+Link Distance (ft)            775   849    259   1266
+Upstream Blk Time (%)
+Queuing Penalty (veh)
+Storage Bay Dist (ft)
+Storage Blk Time (%)
+Queuing Penalty (veh)
+
+Intersection: 18: Madison Ave N & Wyatt Way NE
+Movement                       EB    WB    NB     NB      SB
+Directions Served             LTR   LTR     L     TR     LTR
+Maximum Queue (ft)            118     55   30     71     104
+Average Queue (ft)             75     25   25     43      66
+95th Queue (ft)               112     55   42     68     100
+Link Distance (ft)            849   449          630    1318
+Upstream Blk Time (%)
+Queuing Penalty (veh)
+Storage Bay Dist (ft)                      200
+Storage Blk Time (%)
+Queuing Penalty (veh)
+
+Network Summary
+Network wide Queuing Penalty: 0
+
+
+
+
+214035/Bainbridge/Kitsap                                       SimTraffic Report
+Lochner                                                                  Page 1
+Queuing and Blocking Report
+2035 PM Baseline                                                      4/29/2016
+
+Intersection: 17: Grow Ave NW & Wyatt Way NW/Wyatt Way NE
+Movement                       EB    WB     NB     SB
+Directions Served             LTR   LTR    LTR    LTR
+Maximum Queue (ft)            188   118    120     54
+Average Queue (ft)             92     77    76     40
+95th Queue (ft)               178   116    135     57
+Link Distance (ft)            774   846    257   1266
+Upstream Blk Time (%)
+Queuing Penalty (veh)
+Storage Bay Dist (ft)
+Storage Blk Time (%)
+Queuing Penalty (veh)
+
+Intersection: 18: Madison Ave N & Wyatt Way NE
+Movement                       EB    WB     NB    NB      SB
+Directions Served             LTR   LTR      L    TR     LTR
+Maximum Queue (ft)            111     93   225   288     139
+Average Queue (ft)             76     65    66   161      99
+95th Queue (ft)               109     94   178   265     146
+Link Distance (ft)            846   447          630    1268
+Upstream Blk Time (%)
+Queuing Penalty (veh)
+Storage Bay Dist (ft)                      200
+Storage Blk Time (%)                              11
+Queuing Penalty (veh)                             17
+
+Network Summary
+Network wide Queuing Penalty: 17
+
+
+
+
+214035/Bainbridge/Kitsap                                       SimTraffic Report
+Lochner                                                                  Page 1
+                                 Appendix D
+                                Sidra Outputs
+
+
+
+
+Wyatt Way NW Transportation Analysis
+City of Bainbridge Island, WA
+MOVEMENT SUMMARY
+      Site: Madison Ave - 2014 AM Mini-Roundabout
+Wyatt Way & Madison Ave N
+Roundabout
+
+
+
+ Movement Performance - Vehicles
+ Mov        OD          Demand Flows          Deg.     Average      Level of    95% Back of Queue           Prop.      Effective   Average
+ ID         Mov          Total    HV          Satn      Delay       Service     Vehicles    Distance       Queued     Stop Rate    Speed
+                        veh/h      %           v/c         sec                      veh            ft                   per veh       mph
+ South: Madison Ave N
+ 3          L2            42       1.0       0.187          5.7      LOS A            1.0         25.3        0.41         0.26       23.3
+ 8          T1           126       1.0       0.187          5.7      LOS A            1.0         25.3        0.41         0.26       23.5
+ 18         R2             7       1.0       0.187          5.7      LOS A            1.0         25.3        0.41         0.26       23.1
+ Approach                175       1.0       0.187          5.7      LOS A            1.0         25.3        0.41         0.26       23.4
+
+ East: Wyatt Way
+ 1          L2             8       1.0       0.043          4.5      LOS A            0.2            5.2      0.43         0.27       23.9
+ 6          T1            25       1.0       0.043          4.5      LOS A            0.2            5.2      0.43         0.27       23.5
+ 16         R2             4       1.0       0.043          4.5      LOS A            0.2            5.2      0.43         0.27       23.3
+ Approach                 37       1.0       0.043          4.5      LOS A            0.2            5.2      0.43         0.27       23.6
+
+ North: Madison
+ 7          L2            11       1.0       0.303          6.4      LOS A            1.8         44.6        0.28         0.14       23.7
+ 4          T1           267       1.0       0.303          6.4      LOS A            1.8         44.6        0.28         0.14       23.5
+ 14         R2            42       1.0       0.303          6.4      LOS A            1.8         44.6        0.28         0.14       22.6
+ Approach                320       1.0       0.303          6.4      LOS A            1.8         44.6        0.28         0.14       23.4
+
+ West: Wyatt Way
+ 5          L2            86       2.0       0.368          8.5      LOS A            2.2         55.0        0.56         0.44       22.3
+ 2          T1            83       2.0       0.368          8.5      LOS A            2.2         55.0        0.56         0.44       22.1
+ 12         R2           144       2.0       0.368          8.5      LOS A            2.2         55.0        0.56         0.44       21.7
+ Approach                313       2.0       0.368          8.5      LOS A            2.2         55.0        0.56         0.44       22.0
+
+ All Vehicles            845       1.4       0.368          7.0      LOS A            2.2         55.0        0.42         0.28       22.9
+
+
+Level of Service (LOS) Method: Delay (HCM 2000).
+Roundabout LOS Method: Same as Signalised Intersections.
+Vehicle movement LOS values are based on average delay per movement
+Intersection and Approach LOS values are based on average delay for all vehicle movements.
+Roundabout Capacity Model: SIDRA Standard.
+HCM Delay Formula option is used. Control Delay does not include Geometric Delay since Exclude Geometric Delay option applies.
+Gap-Acceptance Capacity: SIDRA Standard (Akçelik M3D).
+HV (%) values are calculated for All Movement Classes of All Heavy Vehicle Model Designation.
+
+
+
+
+SIDRA INTERSECTION 6.1 | Copyright © 2000-2015 Akcelik and Associates Pty Ltd | sidrasolutions.com
+Organisation: H. W. LOCHNER, INC. | Processed: Friday, April 29, 2016 2:03:26 PM
+Project: W:\4_Reports-Analysis\Traffic Analysis\Bainbridge 2014 AM.sip6
+MOVEMENT SUMMARY
+      Site: Madison Ave - 2014 AM Urban Compact Roundabout
+Wyatt Way & Madison Ave N
+Roundabout
+
+
+
+ Movement Performance - Vehicles
+ Mov        OD          Demand Flows          Deg.     Average      Level of    95% Back of Queue           Prop.      Effective   Average
+ ID         Mov          Total    HV          Satn      Delay       Service     Vehicles    Distance       Queued     Stop Rate    Speed
+                        veh/h      %           v/c         sec                      veh            ft                   per veh       mph
+ South: Madison Ave N
+ 3          L2            42       1.0       0.165          4.9      LOS A            0.9         22.3        0.39         0.24       24.3
+ 8          T1           126       1.0       0.165          4.9      LOS A            0.9         22.3        0.39         0.24       24.1
+ 18         R2             7       1.0       0.165          4.9      LOS A            0.9         22.3        0.39         0.24       23.5
+ Approach                175       1.0       0.165          4.9      LOS A            0.9         22.3        0.39         0.24       24.1
+
+ East: Wyatt Way
+ 1          L2             8       1.0       0.038          4.1      LOS A            0.2            4.7      0.42         0.25       24.7
+ 6          T1            25       1.0       0.038          4.1      LOS A            0.2            4.7      0.42         0.25       24.1
+ 16         R2             4       1.0       0.038          4.1      LOS A            0.2            4.7      0.42         0.25       23.8
+ Approach                 37       1.0       0.038          4.1      LOS A            0.2            4.7      0.42         0.25       24.2
+
+ North: Madison
+ 7          L2            11       1.0       0.281          5.8      LOS A            1.6         40.6        0.26         0.13       24.4
+ 4          T1           267       1.0       0.281          5.8      LOS A            1.6         40.6        0.26         0.13       24.1
+ 14         R2            42       1.0       0.281          5.8      LOS A            1.6         40.6        0.26         0.13       23.2
+ Approach                320       1.0       0.281          5.8      LOS A            1.6         40.6        0.26         0.13       24.0
+
+ West: Wyatt Way
+ 5          L2            86       2.0       0.342          7.7      LOS A            2.0         50.5        0.53         0.41       23.2
+ 2          T1            83       2.0       0.342          7.7      LOS A            2.0         50.5        0.53         0.41       22.8
+ 12         R2           144       2.0       0.342          7.7      LOS A            2.0         50.5        0.53         0.41       22.2
+ Approach                313       2.0       0.342          7.7      LOS A            2.0         50.5        0.53         0.41       22.6
+
+ All Vehicles            845       1.4       0.342          6.2      LOS A            2.0         50.5        0.40         0.26       23.6
+
+
+Level of Service (LOS) Method: Delay (HCM 2000).
+Roundabout LOS Method: Same as Signalised Intersections.
+Vehicle movement LOS values are based on average delay per movement
+Intersection and Approach LOS values are based on average delay for all vehicle movements.
+Roundabout Capacity Model: SIDRA Standard.
+HCM Delay Formula option is used. Control Delay does not include Geometric Delay since Exclude Geometric Delay option applies.
+Gap-Acceptance Capacity: SIDRA Standard (Akçelik M3D).
+HV (%) values are calculated for All Movement Classes of All Heavy Vehicle Model Designation.
+
+
+
+
+SIDRA INTERSECTION 6.1 | Copyright © 2000-2015 Akcelik and Associates Pty Ltd | sidrasolutions.com
+Organisation: H. W. LOCHNER, INC. | Processed: Friday, April 29, 2016 2:03:23 PM
+Project: W:\4_Reports-Analysis\Traffic Analysis\Bainbridge 2014 AM.sip6
+MOVEMENT SUMMARY
+      Site: Madison Ave - 2014 PM Mini-Roundabout
+Wyatt Way & Madison Ave N
+Roundabout
+
+
+
+ Movement Performance - Vehicles
+ Mov        OD          Demand Flows          Deg.     Average      Level of    95% Back of Queue          Prop.       Effective   Average
+ ID         Mov          Total    HV          Satn      Delay       Service     Vehicles    Distance      Queued      Stop Rate    Speed
+                        veh/h      %           v/c         sec                      veh            ft                   per veh       mph
+ South: Madison Ave N
+ 3          L2           130       1.0       0.580         11.6      LOS B            4.9       123.6         0.55         0.35       21.6
+ 8          T1           361       1.0       0.580         11.6      LOS B            4.9       123.6         0.55         0.35       22.1
+ 18         R2            81       1.0       0.580         11.6      LOS B            4.9       123.6         0.55         0.35       21.7
+ Approach                572       1.0       0.580         11.6      LOS B            4.9       123.6         0.55         0.35       22.0
+
+ East: Wyatt Way
+ 1          L2            21       1.0       0.271          9.2      LOS A            1.6         39.9        0.72         0.66       22.9
+ 6          T1           137       1.0       0.271          9.2      LOS A            1.6         39.9        0.72         0.66       22.2
+ 16         R2            12       1.0       0.271          9.2      LOS A            1.6         39.9        0.72         0.66       22.3
+ Approach                170       1.0       0.271          9.2      LOS A            1.6         39.9        0.72         0.66       22.3
+
+ North: Madison
+ 7          L2            16       1.0       0.394          8.9      LOS A            2.4         61.2        0.58         0.47       23.0
+ 4          T1           251       1.0       0.394          8.9      LOS A            2.4         61.2        0.58         0.47       22.9
+ 14         R2            69       1.0       0.394          8.9      LOS A            2.4         61.2        0.58         0.47       21.8
+ Approach                336       1.0       0.394          8.9      LOS A            2.4         61.2        0.58         0.47       22.7
+
+ West: Wyatt Way
+ 5          L2            71       2.0       0.273          7.3      LOS A            1.5         39.3        0.54         0.42       22.6
+ 2          T1            44       2.0       0.273          7.3      LOS A            1.5         39.3        0.54         0.42       22.4
+ 12         R2           112       2.0       0.273          7.3      LOS A            1.5         39.3        0.54         0.42       22.0
+ Approach                227       2.0       0.273          7.3      LOS A            1.5         39.3        0.54         0.42       22.3
+
+ All Vehicles           1305       1.2       0.580          9.8      LOS A            4.9       123.6         0.58         0.43       22.2
+
+
+Level of Service (LOS) Method: Delay (HCM 2000).
+Roundabout LOS Method: Same as Signalised Intersections.
+Vehicle movement LOS values are based on average delay per movement
+Intersection and Approach LOS values are based on average delay for all vehicle movements.
+Roundabout Capacity Model: SIDRA Standard.
+HCM Delay Formula option is used. Control Delay does not include Geometric Delay since Exclude Geometric Delay option applies.
+Gap-Acceptance Capacity: SIDRA Standard (Akçelik M3D).
+HV (%) values are calculated for All Movement Classes of All Heavy Vehicle Model Designation.
+
+
+
+
+SIDRA INTERSECTION 6.1 | Copyright © 2000-2015 Akcelik and Associates Pty Ltd | sidrasolutions.com
+Organisation: H. W. LOCHNER, INC. | Processed: Friday, April 29, 2016 2:01:53 PM
+Project: W:\4_Reports-Analysis\Traffic Analysis\Bainbridge 2014 PM.sip6
+MOVEMENT SUMMARY
+      Site: Madison Ave - 2014 PM Urban Compact Roundabout
+Wyatt Way & Madison Ave N
+Roundabout
+
+
+
+ Movement Performance - Vehicles
+ Mov        OD          Demand Flows          Deg.     Average      Level of    95% Back of Queue          Prop.       Effective   Average
+ ID         Mov          Total    HV          Satn      Delay       Service     Vehicles    Distance      Queued      Stop Rate    Speed
+                        veh/h      %           v/c         sec                      veh            ft                   per veh       mph
+ South: Madison Ave N
+ 3          L2           130       1.0       0.515          9.2      LOS A            4.0       102.0         0.48         0.29       22.9
+ 8          T1           361       1.0       0.515          9.2      LOS A            4.0       102.0         0.48         0.29       23.0
+ 18         R2            81       1.0       0.515          9.2      LOS A            4.0       102.0         0.48         0.29       22.5
+ Approach                572       1.0       0.515          9.2      LOS A            4.0       102.0         0.48         0.29       22.9
+
+ East: Wyatt Way
+ 1          L2            21       1.0       0.236          7.7      LOS A            1.4         35.1        0.69         0.61       23.8
+ 6          T1           137       1.0       0.236          7.7      LOS A            1.4         35.1        0.69         0.61       23.1
+ 16         R2            12       1.0       0.236          7.7      LOS A            1.4         35.1        0.69         0.61       23.0
+ Approach                170       1.0       0.236          7.7      LOS A            1.4         35.1        0.69         0.61       23.2
+
+ North: Madison
+ 7          L2            16       1.0       0.361          7.9      LOS A            2.2         55.3        0.55         0.43       23.9
+ 4          T1           251       1.0       0.361          7.9      LOS A            2.2         55.3        0.55         0.43       23.5
+ 14         R2            69       1.0       0.361          7.9      LOS A            2.2         55.3        0.55         0.43       22.5
+ Approach                336       1.0       0.361          7.9      LOS A            2.2         55.3        0.55         0.43       23.4
+
+ West: Wyatt Way
+ 5          L2            71       2.0       0.253          6.7      LOS A            1.4         36.4        0.52         0.39       23.5
+ 2          T1            44       2.0       0.253          6.7      LOS A            1.4         36.4        0.52         0.39       23.1
+ 12         R2           112       2.0       0.253          6.7      LOS A            1.4         36.4        0.52         0.39       22.4
+ Approach                227       2.0       0.253          6.7      LOS A            1.4         36.4        0.52         0.39       22.9
+
+ All Vehicles           1305       1.2       0.515          8.2      LOS A            4.0       102.0         0.53         0.39       23.1
+
+
+Level of Service (LOS) Method: Delay (HCM 2000).
+Roundabout LOS Method: Same as Signalised Intersections.
+Vehicle movement LOS values are based on average delay per movement
+Intersection and Approach LOS values are based on average delay for all vehicle movements.
+Roundabout Capacity Model: SIDRA Standard.
+HCM Delay Formula option is used. Control Delay does not include Geometric Delay since Exclude Geometric Delay option applies.
+Gap-Acceptance Capacity: SIDRA Standard (Akçelik M3D).
+HV (%) values are calculated for All Movement Classes of All Heavy Vehicle Model Designation.
+
+
+
+
+SIDRA INTERSECTION 6.1 | Copyright © 2000-2015 Akcelik and Associates Pty Ltd | sidrasolutions.com
+Organisation: H. W. LOCHNER, INC. | Processed: Friday, April 29, 2016 2:01:51 PM
+Project: W:\4_Reports-Analysis\Traffic Analysis\Bainbridge 2014 PM.sip6
+MOVEMENT SUMMARY
+      Site: Madison Ave - 2035 AM Mini-Roundabout
+Wyatt Way & Madison Ave N
+Roundabout
+
+
+
+ Movement Performance - Vehicles
+ Mov        OD          Demand Flows          Deg.     Average      Level of    95% Back of Queue           Prop.      Effective   Average
+ ID         Mov          Total    HV          Satn      Delay       Service     Vehicles    Distance       Queued     Stop Rate    Speed
+                        veh/h      %           v/c         sec                      veh            ft                   per veh       mph
+ South: Madison Ave N
+ 3          L2            43       1.0       0.191          5.7      LOS A            1.0         25.9        0.42         0.27       23.3
+ 8          T1           128       1.0       0.191          5.7      LOS A            1.0         25.9        0.42         0.27       23.5
+ 18         R2             7       1.0       0.191          5.7      LOS A            1.0         25.9        0.42         0.27       23.0
+ Approach                178       1.0       0.191          5.7      LOS A            1.0         25.9        0.42         0.27       23.4
+
+ East: Wyatt Way
+ 1          L2             8       1.0       0.043          4.6      LOS A            0.2            5.2      0.44         0.27       23.9
+ 6          T1            25       1.0       0.043          4.6      LOS A            0.2            5.2      0.44         0.27       23.5
+ 16         R2             4       1.0       0.043          4.6      LOS A            0.2            5.2      0.44         0.27       23.3
+ Approach                 37       1.0       0.043          4.6      LOS A            0.2            5.2      0.44         0.27       23.6
+
+ North: Madison
+ 7          L2            11       1.0       0.309          6.5      LOS A            1.8         45.8        0.29         0.14       23.6
+ 4          T1           272       1.0       0.309          6.5      LOS A            1.8         45.8        0.29         0.14       23.5
+ 14         R2            43       1.0       0.309          6.5      LOS A            1.8         45.8        0.29         0.14       22.6
+ Approach                326       1.0       0.309          6.5      LOS A            1.8         45.8        0.29         0.14       23.4
+
+ West: Wyatt Way
+ 5          L2            87       2.0       0.374          8.7      LOS A            2.2         56.3        0.56         0.45       22.3
+ 2          T1            84       2.0       0.374          8.7      LOS A            2.2         56.3        0.56         0.45       22.1
+ 12         R2           146       2.0       0.374          8.7      LOS A            2.2         56.3        0.56         0.45       21.6
+ Approach                317       2.0       0.374          8.7      LOS A            2.2         56.3        0.56         0.45       21.9
+
+ All Vehicles            858       1.4       0.374          7.0      LOS A            2.2         56.3        0.42         0.29       22.9
+
+
+Level of Service (LOS) Method: Delay (HCM 2000).
+Roundabout LOS Method: Same as Signalised Intersections.
+Vehicle movement LOS values are based on average delay per movement
+Intersection and Approach LOS values are based on average delay for all vehicle movements.
+Roundabout Capacity Model: SIDRA Standard.
+HCM Delay Formula option is used. Control Delay does not include Geometric Delay since Exclude Geometric Delay option applies.
+Gap-Acceptance Capacity: SIDRA Standard (Akçelik M3D).
+HV (%) values are calculated for All Movement Classes of All Heavy Vehicle Model Designation.
+
+
+
+
+SIDRA INTERSECTION 6.1 | Copyright © 2000-2015 Akcelik and Associates Pty Ltd | sidrasolutions.com
+Organisation: H. W. LOCHNER, INC. | Processed: Friday, April 29, 2016 2:06:03 PM
+Project: W:\4_Reports-Analysis\Traffic Analysis\Bainbridge 2035 AM.sip6
+MOVEMENT SUMMARY
+      Site: Madison Ave - 2035 AM Urban Compact Roundabout
+Wyatt Way & Madison Ave N
+Roundabout
+
+
+
+ Movement Performance - Vehicles
+ Mov        OD          Demand Flows          Deg.     Average      Level of    95% Back of Queue           Prop.      Effective   Average
+ ID         Mov          Total    HV          Satn      Delay       Service     Vehicles    Distance       Queued     Stop Rate    Speed
+                        veh/h      %           v/c         sec                      veh            ft                   per veh       mph
+ South: Madison Ave N
+ 3          L2            43       1.0       0.169          4.9      LOS A            0.9         22.9        0.39         0.24       24.3
+ 8          T1           128       1.0       0.169          4.9      LOS A            0.9         22.9        0.39         0.24       24.1
+ 18         R2             7       1.0       0.169          4.9      LOS A            0.9         22.9        0.39         0.24       23.5
+ Approach                178       1.0       0.169          4.9      LOS A            0.9         22.9        0.39         0.24       24.1
+
+ East: Wyatt Way
+ 1          L2             8       1.0       0.038          4.1      LOS A            0.2            4.7      0.42         0.25       24.7
+ 6          T1            25       1.0       0.038          4.1      LOS A            0.2            4.7      0.42         0.25       24.1
+ 16         R2             4       1.0       0.038          4.1      LOS A            0.2            4.7      0.42         0.25       23.8
+ Approach                 37       1.0       0.038          4.1      LOS A            0.2            4.7      0.42         0.25       24.2
+
+ North: Madison
+ 7          L2            11       1.0       0.287          5.9      LOS A            1.7         41.7        0.27         0.13       24.4
+ 4          T1           272       1.0       0.287          5.9      LOS A            1.7         41.7        0.27         0.13       24.1
+ 14         R2            43       1.0       0.287          5.9      LOS A            1.7         41.7        0.27         0.13       23.2
+ Approach                326       1.0       0.287          5.9      LOS A            1.7         41.7        0.27         0.13       24.0
+
+ West: Wyatt Way
+ 5          L2            87       2.0       0.348          7.8      LOS A            2.0         51.7        0.54         0.42       23.2
+ 2          T1            84       2.0       0.348          7.8      LOS A            2.0         51.7        0.54         0.42       22.8
+ 12         R2           146       2.0       0.348          7.8      LOS A            2.0         51.7        0.54         0.42       22.2
+ Approach                317       2.0       0.348          7.8      LOS A            2.0         51.7        0.54         0.42       22.6
+
+ All Vehicles            858       1.4       0.348          6.3      LOS A            2.0         51.7        0.40         0.27       23.5
+
+
+Level of Service (LOS) Method: Delay (HCM 2000).
+Roundabout LOS Method: Same as Signalised Intersections.
+Vehicle movement LOS values are based on average delay per movement
+Intersection and Approach LOS values are based on average delay for all vehicle movements.
+Roundabout Capacity Model: SIDRA Standard.
+HCM Delay Formula option is used. Control Delay does not include Geometric Delay since Exclude Geometric Delay option applies.
+Gap-Acceptance Capacity: SIDRA Standard (Akçelik M3D).
+HV (%) values are calculated for All Movement Classes of All Heavy Vehicle Model Designation.
+
+
+
+
+SIDRA INTERSECTION 6.1 | Copyright © 2000-2015 Akcelik and Associates Pty Ltd | sidrasolutions.com
+Organisation: H. W. LOCHNER, INC. | Processed: Friday, April 29, 2016 2:06:02 PM
+Project: W:\4_Reports-Analysis\Traffic Analysis\Bainbridge 2035 AM.sip6
+MOVEMENT SUMMARY
+      Site: Madison Ave - 2035 PM Mini-Roundabout
+Wyatt Way & Madison Ave N
+Roundabout
+
+
+
+ Movement Performance - Vehicles
+ Mov        OD          Demand Flows          Deg.     Average      Level of    95% Back of Queue          Prop.       Effective   Average
+ ID         Mov          Total    HV          Satn      Delay       Service     Vehicles    Distance      Queued      Stop Rate    Speed
+                        veh/h      %           v/c         sec                      veh            ft                   per veh       mph
+ South: Madison Ave N
+ 3          L2           152       1.0       0.686         15.6      LOS B            7.3       182.8         0.73         0.56       20.6
+ 8          T1           459       1.0       0.686         15.6      LOS B            7.3       182.8         0.73         0.56       21.3
+ 18         R2            28       1.0       0.686         15.6      LOS B            7.3       182.8         0.73         0.56       20.9
+ Approach                639       1.0       0.686         15.6      LOS B            7.3       182.8         0.73         0.56       21.1
+
+ East: Wyatt Way
+ 1          L2            22       1.0       0.400         13.5      LOS B            2.7         67.5        0.84         0.87       21.9
+ 6          T1           171       1.0       0.400         13.5      LOS B            2.7         67.5        0.84         0.87       21.1
+ 16         R2            15       1.0       0.400         13.5      LOS B            2.7         67.5        0.84         0.87       21.4
+ Approach                208       1.0       0.400         13.5      LOS B            2.7         67.5        0.84         0.87       21.2
+
+ North: Madison
+ 7          L2            16       1.0       0.544         12.5      LOS B            4.2       106.8         0.72         0.66       22.2
+ 4          T1           341       1.0       0.544         12.5      LOS B            4.2       106.8         0.72         0.66       22.1
+ 14         R2            80       1.0       0.544         12.5      LOS B            4.2       106.8         0.72         0.66       20.9
+ Approach                437       1.0       0.544         12.5      LOS B            4.2       106.8         0.72         0.66       21.9
+
+ West: Wyatt Way
+ 5          L2            85       2.0       0.411         10.2      LOS B            2.6         66.6        0.68         0.59       21.9
+ 2          T1            78       2.0       0.411         10.2      LOS B            2.6         66.6        0.68         0.59       21.7
+ 12         R2           146       2.0       0.411         10.2      LOS B            2.6         66.6        0.68         0.59       21.2
+ Approach                309       2.0       0.411         10.2      LOS B            2.6         66.6        0.68         0.59       21.5
+
+ All Vehicles           1593       1.2       0.686         13.4      LOS B            7.3       182.8         0.73         0.64       21.4
+
+
+Level of Service (LOS) Method: Delay (HCM 2000).
+Roundabout LOS Method: Same as Signalised Intersections.
+Vehicle movement LOS values are based on average delay per movement
+Intersection and Approach LOS values are based on average delay for all vehicle movements.
+Roundabout Capacity Model: SIDRA Standard.
+HCM Delay Formula option is used. Control Delay does not include Geometric Delay since Exclude Geometric Delay option applies.
+Gap-Acceptance Capacity: SIDRA Standard (Akçelik M3D).
+HV (%) values are calculated for All Movement Classes of All Heavy Vehicle Model Designation.
+
+
+
+
+SIDRA INTERSECTION 6.1 | Copyright © 2000-2015 Akcelik and Associates Pty Ltd | sidrasolutions.com
+Organisation: H. W. LOCHNER, INC. | Processed: Friday, April 29, 2016 2:08:05 PM
+Project: W:\4_Reports-Analysis\Traffic Analysis\Bainbridge 2035 PM.sip6
+MOVEMENT SUMMARY
+      Site: Madison Ave - 2035 PM Urban Compact Roundabout
+Wyatt Way & Madison Ave N
+Roundabout
+
+
+
+ Movement Performance - Vehicles
+ Mov        OD          Demand Flows          Deg.     Average      Level of    95% Back of Queue          Prop.       Effective   Average
+ ID         Mov          Total    HV          Satn      Delay       Service     Vehicles    Distance      Queued      Stop Rate    Speed
+                        veh/h      %           v/c         sec                      veh            ft                   per veh       mph
+ South: Madison Ave N
+ 3          L2           152       1.0       0.606         11.7      LOS B            5.3       134.2         0.63         0.43       22.3
+ 8          T1           459       1.0       0.606         11.7      LOS B            5.3       134.2         0.63         0.43       22.5
+ 18         R2            28       1.0       0.606         11.7      LOS B            5.3       134.2         0.63         0.43       22.0
+ Approach                639       1.0       0.606         11.7      LOS B            5.3       134.2         0.63         0.43       22.4
+
+ East: Wyatt Way
+ 1          L2            22       1.0       0.342         10.7      LOS B            2.2         55.7        0.81         0.77       23.1
+ 6          T1           171       1.0       0.342         10.7      LOS B            2.2         55.7        0.81         0.77       22.3
+ 16         R2            15       1.0       0.342         10.7      LOS B            2.2         55.7        0.81         0.77       22.3
+ Approach                208       1.0       0.342         10.7      LOS B            2.2         55.7        0.81         0.77       22.4
+
+ North: Madison
+ 7          L2            16       1.0       0.497         10.6      LOS B            3.5         88.5        0.67         0.58       23.2
+ 4          T1           341       1.0       0.497         10.6      LOS B            3.5         88.5        0.67         0.58       22.9
+ 14         R2            80       1.0       0.497         10.6      LOS B            3.5         88.5        0.67         0.58       21.8
+ Approach                437       1.0       0.497         10.6      LOS B            3.5         88.5        0.67         0.58       22.7
+
+ West: Wyatt Way
+ 5          L2            85       2.0       0.379          9.0      LOS A            2.4         61.0        0.65         0.55       22.8
+ 2          T1            78       2.0       0.379          9.0      LOS A            2.4         61.0        0.65         0.55       22.4
+ 12         R2           146       2.0       0.379          9.0      LOS A            2.4         61.0        0.65         0.55       21.8
+ Approach                309       2.0       0.379          9.0      LOS A            2.4         61.0        0.65         0.55       22.3
+
+ All Vehicles           1593       1.2       0.606         10.7      LOS B            5.3       134.2         0.67         0.54       22.5
+
+
+Level of Service (LOS) Method: Delay (HCM 2000).
+Roundabout LOS Method: Same as Signalised Intersections.
+Vehicle movement LOS values are based on average delay per movement
+Intersection and Approach LOS values are based on average delay for all vehicle movements.
+Roundabout Capacity Model: SIDRA Standard.
+HCM Delay Formula option is used. Control Delay does not include Geometric Delay since Exclude Geometric Delay option applies.
+Gap-Acceptance Capacity: SIDRA Standard (Akçelik M3D).
+HV (%) values are calculated for All Movement Classes of All Heavy Vehicle Model Designation.
+
+
+
+
+SIDRA INTERSECTION 6.1 | Copyright © 2000-2015 Akcelik and Associates Pty Ltd | sidrasolutions.com
+Organisation: H. W. LOCHNER, INC. | Processed: Friday, April 29, 2016 2:08:03 PM
+Project: W:\4_Reports-Analysis\Traffic Analysis\Bainbridge 2035 PM.sip6
+                                Appendix E
+                              Synchro Outputs
+
+
+
+
+Wyatt Way NW Transportation Analysis
+City of Bainbridge Island, WA
+Queues                                                               Bainbridge 2014 AM w Signal.syn
+18: Madison Ave N & Wyatt Way NE                                                              4/29/2016
+
+
+
+Lane Group                    EBT    WBT       NBL    NBT     SBT
+Lane Group Flow (vph)         401      64        48   151     381
+v/c Ratio                     0.64   0.11      0.12   0.21    0.52
+Control Delay                 12.0     7.6      8.4    8.1    11.0
+Queue Delay                    0.0     0.0      0.0    0.0     0.0
+Total Delay                   12.0     7.6      8.4    8.1    11.0
+Queue Length 50th (ft)          32       5        5     14      41
+Queue Length 95th (ft)          89     15        21     47    107
+Internal Link Dist (ft)       830     402             579    1265
+Turn Bay Length (ft)                            200
+Base Capacity (vph)           953     917      611    1112   1112
+Starvation Cap Reductn           0       0        0      0       0
+Spillback Cap Reductn            0       0        0      0       0
+Storage Cap Reductn              0       0        0      0       0
+Reduced v/c Ratio             0.42    0.07     0.08   0.14    0.34
+Intersection Summary
+
+
+
+
+214035/Bainbridge/Kitsap 2/19/2016 2014 AM Existing                                     Synchro 9 Report
+Lochner                                                                                          Page 1
+HCM Signalized Intersection Capacity Analysis                                      Bainbridge 2014 AM w Signal.syn
+18: Madison Ave N & Wyatt Way NE                                                                                       4/29/2016
+
+
+
+Movement                      EBL     EBT     EBR     WBL       WBT      WBR      NBL    NBT      NBR    SBL       SBT     SBR
+Lane Configurations
+Traffic Volume (vph)           86       83     144       8         25       4       42     126       7     11       267      42
+Future Volume (vph)            86       83     144       8         25       4       42     126       7     11       267      42
+Ideal Flow (vphpl)           1900    1900     1900    1900      1900     1900    1900    1900     1900   1900     1900     1900
+Total Lost time (s)                    4.0                        4.0              4.0      4.0                      4.0
+Lane Util. Factor                     1.00                       1.00             1.00    1.00                     1.00
+Frpb, ped/bikes                       0.99                       1.00             1.00    1.00                     1.00
+Flpb, ped/bikes                      1.00                        1.00             0.99    1.00                     1.00
+Frt                                   0.94                       0.99             1.00    0.99                     0.98
+Flt Protected                         0.99                       0.99             0.95    1.00                     1.00
+Satd. Flow (prot)                    1735                       1757             1741    1827                     1835
+Flt Permitted                         0.89                       0.89             0.55    1.00                     0.99
+Satd. Flow (perm)                    1573                       1588             1010    1827                     1819
+Peak-hour factor, PHF         0.78    0.78     0.78   0.58       0.58    0.58     0.88    0.88    0.88   0.84      0.84     0.84
+Adj. Flow (vph)               110      106     185      14         43       7       48     143       8     13       318       50
+RTOR Reduction (vph)             0      73        0      0          5       0        0        5      0      0         13       0
+Lane Group Flow (vph)            0     328        0      0         59       0       48     146       0      0       368        0
+Confl. Peds. (#/hr)              6                2      2                  6       14              17     17                 14
+Confl. Bikes (#/hr)                               3                         4                                                  4
+Heavy Vehicles (%)             0%      0%       0%      5%        5%      5%       3%      3%      3%      1%       1%       1%
+Turn Type                    Perm      NA             Perm        NA             Perm      NA            Perm       NA
+Protected Phases                        4                          8                        2                        6
+Permitted Phases                4                        8                           2                      6
+Actuated Green, G (s)                 11.6                       11.6             13.0   13.0                      13.0
+Effective Green, g (s)                11.6                       11.6             13.0   13.0                      13.0
+Actuated g/C Ratio                    0.36                       0.36             0.40   0.40                      0.40
+Clearance Time (s)                     4.0                        4.0              4.0    4.0                       4.0
+Vehicle Extension (s)                  3.0                        3.0              3.0    3.0                       3.0
+Lane Grp Cap (vph)                     559                        565              402    728                       725
+v/s Ratio Prot                                                                           0.08
+v/s Ratio Perm                       c0.21                       0.04             0.05                            c0.20
+v/c Ratio                             0.59                       0.11             0.12   0.20                      0.51
+Uniform Delay, d1                      8.5                        7.0              6.2    6.4                       7.4
+Progression Factor                    1.00                       1.00             1.00   1.00                      1.00
+Incremental Delay, d2                  1.6                        0.1              0.1    0.1                       0.6
+Delay (s)                             10.1                        7.1              6.3    6.5                       8.0
+Level of Service                         B                          A                A      A                         A
+Approach Delay (s)                    10.1                        7.1                     6.5                       8.0
+Approach LOS                             B                          A                       A                         A
+Intersection Summary
+HCM 2000 Control Delay                          8.5          HCM 2000 Level of Service              A
+HCM 2000 Volume to Capacity ratio              0.54
+Actuated Cycle Length (s)                      32.6      Sum of lost time (s)                      8.0
+Intersection Capacity Utilization            57.2%       ICU Level of Service                        B
+Analysis Period (min)                            15
+c Critical Lane Group
+
+
+
+214035/Bainbridge/Kitsap 2/19/2016 2014 AM Existing                                                             Synchro 9 Report
+Lochner                                                                                                                  Page 2
+Queues                                                                Bainbridge 2014 PM w Signal.syn
+18: Madison Ave N & Wyatt Way NE                                                               4/29/2016
+
+
+
+Lane Group                    EBT    WBT       NBL    NBT      SBT
+Lane Group Flow (vph)         284     266      153    446      361
+v/c Ratio                     0.52   0.45      0.25   0.44     0.37
+Control Delay                  9.4   11.8       8.5    8.9      7.8
+Queue Delay                    0.0     0.0      0.0    0.0      0.0
+Total Delay                    9.4   11.8       8.5    8.9      7.8
+Queue Length 50th (ft)          19     33        15     48       34
+Queue Length 95th (ft)          55     56        51   130      105
+Internal Link Dist (ft)       830     402             579     1265
+Turn Bay Length (ft)                            200
+Base Capacity (vph)           913    1073      727    1198    1151
+Starvation Cap Reductn           0       0        0       0       0
+Spillback Cap Reductn            0       0        0       0       0
+Storage Cap Reductn              0       0        0       0       0
+Reduced v/c Ratio             0.31    0.25     0.21    0.37    0.31
+Intersection Summary
+
+
+
+
+214035/Bainbridge/Kitsap 2/19/2016 2014 PM Existing                                      Synchro 9 Report
+Lochner                                                                                           Page 1
+HCM Signalized Intersection Capacity Analysis                                      Bainbridge 2014 PM w Signal.syn
+18: Madison Ave N & Wyatt Way NE                                                                                       4/29/2016
+
+
+
+Movement                      EBL     EBT     EBR     WBL       WBT      WBR      NBL    NBT      NBR    SBL       SBT     SBR
+Lane Configurations
+Traffic Volume (vph)           71       44     112      21       137       12     130     361       18     16      251       69
+Future Volume (vph)            71       44     112      21        137      12     130      361      18     16       251      69
+Ideal Flow (vphpl)           1900    1900     1900    1900      1900     1900    1900    1900     1900   1900     1900     1900
+Total Lost time (s)                    4.0                        4.0              4.0      4.0                      4.0
+Lane Util. Factor                     1.00                       1.00             1.00    1.00                     1.00
+Frpb, ped/bikes                       0.99                       1.00             1.00    1.00                     1.00
+Flpb, ped/bikes                      1.00                        1.00             1.00    1.00                     1.00
+Frt                                   0.93                       0.99             1.00    0.99                     0.97
+Flt Protected                         0.98                       0.99             0.95    1.00                     1.00
+Satd. Flow (prot)                    1693                       1850             1786    1865                     1817
+Flt Permitted                         0.83                       0.95             0.60    1.00                     0.97
+Satd. Flow (perm)                    1419                       1760             1135    1865                     1775
+Peak-hour factor, PHF         0.80    0.80     0.80   0.64       0.64    0.64     0.85    0.85    0.85   0.93      0.93     0.93
+Adj. Flow (vph)                 89      55      140     33        214      19      153     425      21     17       270       74
+RTOR Reduction (vph)             0      96        0      0          7       0        0        4      0      0         18       0
+Lane Group Flow (vph)            0     188        0      0        259       0      153     442       0      0       343        0
+Confl. Peds. (#/hr)                                     13                           1                                         1
+Confl. Bikes (#/hr)                              2                                                  10
+Heavy Vehicles (%)             2%      2%       2%      1%        1%      1%       1%      1%      1%      1%       1%       1%
+Turn Type                    Perm      NA             Perm        NA             Perm      NA            Perm       NA
+Protected Phases                        4                          8                        2                        6
+Permitted Phases                4                        8                           2                      6
+Actuated Green, G (s)                  8.6                        8.6             16.2    16.2                     16.2
+Effective Green, g (s)                 8.6                        8.6             16.2    16.2                     16.2
+Actuated g/C Ratio                    0.26                       0.26             0.49    0.49                     0.49
+Clearance Time (s)                     4.0                        4.0              4.0     4.0                      4.0
+Vehicle Extension (s)                  3.0                        3.0              3.0     3.0                      3.0
+Lane Grp Cap (vph)                    372                        461               560     921                      876
+v/s Ratio Prot                                                                           c0.24
+v/s Ratio Perm                        0.13                      c0.15             0.13                             0.19
+v/c Ratio                             0.51                       0.56             0.27    0.48                     0.39
+Uniform Delay, d1                     10.3                       10.5              4.9     5.5                      5.2
+Progression Factor                    1.00                       1.00             1.00    1.00                     1.00
+Incremental Delay, d2                  1.1                        1.6              0.3     0.4                      0.3
+Delay (s)                             11.4                       12.0              5.1     5.9                      5.5
+Level of Service                         B                          B                A       A                        A
+Approach Delay (s)                    11.4                       12.0                      5.7                      5.5
+Approach LOS                             B                          B                        A                        A
+Intersection Summary
+HCM 2000 Control Delay                          7.8          HCM 2000 Level of Service              A
+HCM 2000 Volume to Capacity ratio              0.51
+Actuated Cycle Length (s)                      32.8      Sum of lost time (s)                      8.0
+Intersection Capacity Utilization            73.9%       ICU Level of Service                       D
+Analysis Period (min)                            15
+c Critical Lane Group
+
+
+
+214035/Bainbridge/Kitsap 2/19/2016 2014 PM Existing                                                             Synchro 9 Report
+Lochner                                                                                                                  Page 2
+Queues                                                           Bainbridge 2035 AM w Signal & 2wayStop.syn
+18: Madison Ave N & Wyatt Way NE                                                                      4/29/2016
+
+
+
+Lane Group                   EBT     WBT      NBL     NBT        SBT
+Lane Group Flow (vph)        407       64       49    153        388
+v/c Ratio                    0.73    0.13     0.12    0.19       0.48
+Control Delay                16.0      8.4     8.8     8.3       10.9
+Queue Delay                   0.0      0.0     0.0     0.0        0.0
+Total Delay                  16.0      8.4     8.8     8.3       10.9
+Queue Length 50th (ft)         50        8       5      17         49
+Queue Length 95th (ft)         88      15       23      51       120
+Internal Link Dist (ft)      830      402             579       1265
+Turn Bay Length (ft)                           200
+Base Capacity (vph)          776      730     426     796        800
+Starvation Cap Reductn          0        0       0       0         0
+Spillback Cap Reductn           0        0       0       0         0
+Storage Cap Reductn             0        0       0       0         0
+Reduced v/c Ratio            0.52     0.09    0.12    0.19      0.48
+Intersection Summary
+
+
+
+
+214035/Bainbridge/Kitsap 2/19/2016 2035 AM Signal & 2way Stop                                   Synchro 9 Report
+Lochner                                                                                                  Page 1
+HCM Signalized Intersection Capacity Analysis Bainbridge 2035 AM w Signal & 2wayStop.syn
+18: Madison Ave N & Wyatt Way NE                                                  4/29/2016
+
+
+
+Movement                     EBL      EBT     EBR     WBL       WBT      WBR      NBL    NBT      NBR    SBL       SBT     SBR
+Lane Configurations
+Traffic Volume (vph)           87       84     146       8         25       4       43     128       7     11       272      43
+Future Volume (vph)            87       84     146       8         25       4       43     128       7     11       272      43
+Ideal Flow (vphpl)           1900    1900     1900    1900      1900     1900    1900    1900     1900   1900     1900     1900
+Lane Width                     10       10      10      10         10      10       10       10     10     10        10      10
+Total Lost time (s)                    4.0                        4.0              4.0      4.0                      4.0
+Lane Util. Factor                     1.00                       1.00             1.00    1.00                     1.00
+Frpb, ped/bikes                       0.99                       1.00             1.00    1.00                     0.99
+Flpb, ped/bikes                      1.00                        1.00             0.99    1.00                     1.00
+Frt                                   0.94                       0.99             1.00    0.99                     0.98
+Flt Protected                         0.99                       0.99             0.95    1.00                     1.00
+Satd. Flow (prot)                    1619                       1640             1622    1705                     1712
+Flt Permitted                         0.89                       0.90             0.54    1.00                     0.99
+Satd. Flow (perm)                    1465                       1489               918   1705                     1700
+Peak-hour factor, PHF        0.78     0.78    0.78    0.58       0.58    0.58     0.88    0.88    0.88   0.84      0.84    0.84
+Adj. Flow (vph)              112       108    187       14         43       7       49     145       8     13       324      51
+RTOR Reduction (vph)            0       79       0       0          5       0        0        4      0      0         11      0
+Lane Group Flow (vph)           0      328       0       0         59       0       49     149       0      0       377       0
+Confl. Peds. (#/hr)             6                2       2                  6       14              17     17                14
+Confl. Bikes (#/hr)                              3                          4                                                 4
+Heavy Vehicles (%)            0%       0%      0%       5%        5%      5%       3%      3%      3%      1%       1%      1%
+Turn Type                   Perm       NA             Perm        NA             Perm      NA            Perm       NA
+Protected Phases                        4                          8                        2                        6
+Permitted Phases                4                        8                           2                      6
+Actuated Green, G (s)                 13.0                       13.0             18.3   18.3                      18.3
+Effective Green, g (s)                13.0                       13.0             18.3   18.3                      18.3
+Actuated g/C Ratio                    0.33                       0.33             0.47   0.47                      0.47
+Clearance Time (s)                     4.0                        4.0              4.0    4.0                       4.0
+Vehicle Extension (s)                  3.0                        3.0              3.0    3.0                       3.0
+Lane Grp Cap (vph)                     484                        492              427    793                       791
+v/s Ratio Prot                                                                           0.09
+v/s Ratio Perm                       c0.22                       0.04             0.05                            c0.22
+v/c Ratio                             0.68                       0.12             0.11   0.19                      0.48
+Uniform Delay, d1                     11.3                        9.2              5.9    6.1                       7.2
+Progression Factor                    1.00                       1.00             1.00   1.00                      1.00
+Incremental Delay, d2                  3.8                        0.1              0.5    0.5                       2.1
+Delay (s)                             15.1                        9.3              6.5    6.7                       9.3
+Level of Service                         B                          A                A      A                         A
+Approach Delay (s)                    15.1                        9.3                     6.6                       9.3
+Approach LOS                             B                          A                       A                         A
+Intersection Summary
+HCM 2000 Control Delay                         11.0          HCM 2000 Level of Service              B
+HCM 2000 Volume to Capacity ratio              0.56
+Actuated Cycle Length (s)                      39.3       Sum of lost time (s)                     8.0
+Intersection Capacity Utilization            57.8%        ICU Level of Service                       B
+Analysis Period (min)                            15
+c Critical Lane Group
+
+
+214035/Bainbridge/Kitsap 2/19/2016 2035 AM Signal & 2way Stop                                                   Synchro 9 Report
+Lochner                                                                                                                  Page 2
+Queues                                                           Bainbridge 2035 PM w Signal & 2wayStop.syn
+18: Madison Ave N & Wyatt Way NE                                                                      4/29/2016
+
+
+
+Lane Group                   EBT     WBT      NBL      NBT      SBT
+Lane Group Flow (vph)        387      324     179      573      470
+v/c Ratio                    0.69    0.54     0.46     0.70     0.59
+Control Delay                16.0    14.6     13.4     14.7     11.9
+Queue Delay                   0.0      0.0     0.0      0.0      0.0
+Total Delay                  16.0    14.6     13.4     14.7     11.9
+Queue Length 50th (ft)         52      57       25       91       65
+Queue Length 95th (ft)       110       78       71     190      158
+Internal Link Dist (ft)      830      402              579     1217
+Turn Bay Length (ft)                           200
+Base Capacity (vph)          804      918     553     1176     1134
+Starvation Cap Reductn          0        0       0       0         0
+Spillback Cap Reductn           0        0       0       0         0
+Storage Cap Reductn             0        0       0       0         0
+Reduced v/c Ratio            0.48     0.35    0.32    0.49      0.41
+Intersection Summary
+
+
+
+
+214035/Bainbridge/Kitsap 5:00 pm 2/19/2016 2035 PM Signal & 2way Stop                           Synchro 9 Report
+Lochner                                                                                                  Page 1
+HCM Signalized Intersection Capacity Analysis Bainbridge 2035 PM w Signal & 2wayStop.syn
+18: Madison Ave N & Wyatt Way NE                                                  4/29/2016
+
+
+
+Movement                      EBL     EBT     EBR     WBL        WBT      WBR      NBL    NBT      NBR    SBL       SBT     SBR
+Lane Configurations
+Traffic Volume (vph)           85       78     146      22        171       15     152     459       28     16      341       80
+Future Volume (vph)            85       78     146      22         171      15     152      459      28     16       341      80
+Ideal Flow (vphpl)           1900    1900     1900    1900       1900     1900    1900    1900     1900   1900     1900     1900
+Total Lost time (s)                    4.0                         4.0              4.0      4.0                      4.0
+Lane Util. Factor                     1.00                        1.00             1.00    1.00                     1.00
+Frpb, ped/bikes                       0.99                        1.00             1.00    1.00                     1.00
+Flpb, ped/bikes                      1.00                         1.00             1.00    1.00                     1.00
+Frt                                   0.94                        0.99             1.00    0.99                     0.98
+Flt Protected                         0.99                        0.99             0.95    1.00                     1.00
+Satd. Flow (prot)                    1702                        1852             1786    1862                     1824
+Flt Permitted                         0.84                        0.94             0.47    1.00                     0.98
+Satd. Flow (perm)                    1448                        1756               878   1862                     1783
+Peak-hour factor, PHF        0.80     0.80    0.80     0.64       0.64    0.64     0.85    0.85    0.85   0.93      0.93    0.93
+Adj. Flow (vph)              106        98     182       34        267      23      179     540      33     17       367      86
+RTOR Reduction (vph)            0       68       0        0          6       0        0        4      0      0         17      0
+Lane Group Flow (vph)           0      319       0        0        318       0      179     569       0      0       453       0
+Confl. Peds. (#/hr)                                      13                           1                                        1
+Confl. Bikes (#/hr)                             2                                                    10
+Heavy Vehicles (%)            2%       2%      2%       1%         1%      1%       1%      1%      1%      1%       1%       1%
+Turn Type                   Perm       NA             Perm         NA             Perm      NA            Perm       NA
+Protected Phases                        4                           8                        2                        6
+Permitted Phases                4                         8                           2                      6
+Actuated Green, G (s)                 13.5                        13.5             17.3    17.3                     17.3
+Effective Green, g (s)                13.5                        13.5             17.3    17.3                     17.3
+Actuated g/C Ratio                    0.35                        0.35             0.45    0.45                     0.45
+Clearance Time (s)                     4.0                         4.0              4.0     4.0                      4.0
+Vehicle Extension (s)                  3.0                         3.0              3.0     3.0                      3.0
+Lane Grp Cap (vph)                     503                         610              391     830                      794
+v/s Ratio Prot                                                                            c0.31
+v/s Ratio Perm                       c0.22                        0.18             0.20                             0.25
+v/c Ratio                             0.63                        0.52             0.46    0.69                     0.57
+Uniform Delay, d1                     10.6                        10.1              7.5     8.6                      8.0
+Progression Factor                    1.00                        1.00             1.00    1.00                     1.00
+Incremental Delay, d2                  2.6                         0.8              0.9     2.4                      1.0
+Delay (s)                             13.2                        10.9              8.3    10.9                      9.0
+Level of Service                         B                           B                A       B                        A
+Approach Delay (s)                    13.2                        10.9                     10.3                      9.0
+Approach LOS                             B                           B                        B                        A
+Intersection Summary
+HCM 2000 Control Delay                         10.7           HCM 2000 Level of Service              B
+HCM 2000 Volume to Capacity ratio              0.66
+Actuated Cycle Length (s)                      38.8        Sum of lost time (s)                     8.0
+Intersection Capacity Utilization            91.8%         ICU Level of Service                       F
+Analysis Period (min)                            15
+c Critical Lane Group
+
+
+
+214035/Bainbridge/Kitsap 5:00 pm 2/19/2016 2035 PM Signal & 2way Stop                                            Synchro 9 Report
+Lochner                                                                                                                   Page 2
+HCM Unsignalized Intersection Capacity Analysis                                             Bainbridge 2014 AM Existing.syn
+18: Madison Ave N & Wyatt Way NE                                                                                            4/29/2016
+
+
+
+Movement                             EBL      EBT      EBR     WBL     WBT      WBR       NBL    NBT    NBR    SBL       SBT     SBR
+Lane Configurations
+Sign Control                                 Stop                      Stop                      Stop                    Stop
+Traffic Volume (vph)                  86       83      144        8      25        4        42    126      7     11       267      42
+Future Volume (vph)                   86       83      144        8      25        4        42    126      7     11       267      42
+Peak Hour Factor                    0.78     0.78      0.78    0.58    0.58     0.58      0.88   0.88   0.88   0.84      0.84    0.84
+Hourly flow rate (vph)              110       106      185       14      43        7        48    143      8     13       318      50
+Direction, Lane #                   EB 1     WB 1      NB 1    NB 2    SB 1
+Volume Total (vph)                    401       64       48     151      381
+Volume Left (vph)                     110       14       48        0      13
+Volume Right (vph)                    185         7        0       8      50
+Hadj (s)                            -0.22     0.06     0.55    0.01    -0.05
+Departure Headway (s)                  5.5      6.5      7.1     6.5      5.7
+Degree Utilization, x                0.61     0.12     0.09    0.27     0.60
+Capacity (veh/h)                      623      458      466     504      599
+Control Delay (s)                    16.7     10.3       9.6   10.7     17.0
+Approach Delay (s)                   16.7     10.3     10.5             17.0
+Approach LOS                            C         B        B               C
+Intersection Summary
+Delay                                                   15.2
+Level of Service                                           C
+Intersection Capacity Utilization                     57.2%        ICU Level of Service                   B
+Analysis Period (min)                                     15
+
+
+
+
+214035/Bainbridge/Kitsap 2/19/2016 2014 AM Existing                                                                   Synchro 9 Report
+Lochner                                                                                                                        Page 1
+HCM Unsignalized Intersection Capacity Analysis                                              Bainbridge 2014 PM Existing.syn
+18: Madison Ave N & Wyatt Way NE                                                                                             4/29/2016
+
+
+
+Movement                             EBL      EBT      EBR     WBL      WBT      WBR       NBL    NBT    NBR    SBL       SBT     SBR
+Lane Configurations
+Sign Control                                 Stop                       Stop                      Stop                    Stop
+Traffic Volume (vph)                  71       44      112       21      137       12      130     361     18     16       251      69
+Future Volume (vph)                   71       44      112       21      137       12       130    361     18     16       251      69
+Peak Hour Factor                    0.80     0.80      0.80    0.64     0.64     0.64      0.85   0.85   0.85   0.93      0.93    0.93
+Hourly flow rate (vph)                89       55      140       33      214       19       153    425     21     17       270      74
+Direction, Lane #                   EB 1     WB 1      NB 1    NB 2     SB 1
+Volume Total (vph)                    284      266      153      446      361
+Volume Left (vph)                      89       33      153         0      17
+Volume Right (vph)                    140       19         0      21       74
+Hadj (s)                            -0.20     0.00     0.52    -0.02    -0.10
+Departure Headway (s)                  7.9      8.2      8.3      7.8      7.7
+Degree Utilization, x                0.62     0.60     0.35     0.96     0.77
+Capacity (veh/h)                      430      414      425      446      455
+Control Delay (s)                    23.1     22.8     14.6     59.2     32.2
+Approach Delay (s)                   23.1     22.8     47.8              32.2
+Approach LOS                            C        C         E                D
+Intersection Summary
+Delay                                                   35.0
+Level of Service                                           E
+Intersection Capacity Utilization                     73.9%         ICU Level of Service                   D
+Analysis Period (min)                                     15
+
+
+
+
+214035/Bainbridge/Kitsap 2/19/2016 2014 PM Existing                                                                    Synchro 9 Report
+Lochner                                                                                                                         Page 1
+HCM Unsignalized Intersection Capacity Analysis                                            Bainbridge 2035 AM Baseline.syn
+18: Madison Ave N & Wyatt Way NE                                                                                            4/29/2016
+
+
+
+Movement                             EBL      EBT      EBR     WBL     WBT      WBR       NBL    NBT    NBR    SBL       SBT     SBR
+Lane Configurations
+Sign Control                                 Stop                      Stop                      Stop                    Stop
+Traffic Volume (vph)                  87       84      146        8      25        4        43    128      7     11       272      43
+Future Volume (vph)                   87       84      146        8      25        4        43    128      7     11       272      43
+Peak Hour Factor                    0.78     0.78      0.78    0.58    0.58     0.58      0.88   0.88   0.88   0.84      0.84    0.84
+Hourly flow rate (vph)              112       108      187       14      43        7        49    145      8     13       324      51
+Direction, Lane #                   EB 1     WB 1      NB 1    NB 2    SB 1
+Volume Total (vph)                    407       64       49     153      388
+Volume Left (vph)                     112       14       49        0      13
+Volume Right (vph)                    187         7        0       8      51
+Hadj (s)                            -0.22     0.06     0.55    0.01    -0.06
+Departure Headway (s)                  5.5      6.6      7.1     6.6      5.8
+Degree Utilization, x                0.63     0.12     0.10    0.28     0.62
+Capacity (veh/h)                      619      452      463     499      596
+Control Delay (s)                    17.4     10.5       9.7   10.9     17.8
+Approach Delay (s)                   17.4     10.5     10.6             17.8
+Approach LOS                            C         B        B               C
+Intersection Summary
+Delay                                                   15.8
+Level of Service                                           C
+Intersection Capacity Utilization                     57.8%        ICU Level of Service                   B
+Analysis Period (min)                                     15
+
+
+
+
+214035/Bainbridge/Kitsap 2/19/2016 2035 AM Baseline                                                                   Synchro 9 Report
+Lochner                                                                                                                        Page 1
+HCM Unsignalized Intersection Capacity Analysis                                             Bainbridge 2035 PM Baseline.syn
+18: Madison Ave N & Wyatt Way NE                                                                                             4/29/2016
+
+
+
+Movement                             EBL      EBT      EBR     WBL      WBT      WBR       NBL    NBT    NBR    SBL       SBT     SBR
+Lane Configurations
+Sign Control                                 Stop                       Stop                      Stop                    Stop
+Traffic Volume (vph)                  85       78      146       22      171       15      152     459     28     16       341      80
+Future Volume (vph)                   85       78      146       22      171       15       152    459     28     16       341      80
+Peak Hour Factor                    0.80     0.80      0.80    0.64     0.64     0.64      0.85   0.85   0.85   0.93      0.93    0.93
+Hourly flow rate (vph)              106        98      183       34      267       23       179    540     33     17       367      86
+Direction, Lane #                   EB 1     WB 1      NB 1    NB 2     SB 1
+Volume Total (vph)                    387      324      179      573      470
+Volume Left (vph)                     106       34      179         0      17
+Volume Right (vph)                    183       23         0      33       86
+Hadj (s)                            -0.19     0.00     0.52    -0.02    -0.09
+Departure Headway (s)                  8.9      9.4      9.8      9.3      9.1
+Degree Utilization, x                0.96     0.85     0.49     1.00     1.00
+Capacity (veh/h)                      398      375      355      573      470
+Control Delay (s)                    66.2     47.4     20.7     75.7     76.3
+Approach Delay (s)                   66.2     47.4     62.6              76.3
+Approach LOS                             F        E        F                 F
+Intersection Summary
+Delay                                                   64.1
+Level of Service                                           F
+Intersection Capacity Utilization                     91.8%         ICU Level of Service                   F
+Analysis Period (min)                                     15
+
+
+
+
+214035/Bainbridge/Kitsap 5:00 pm 2/19/2016 2035 PM Baseline                                                            Synchro 9 Report
+Lochner                                                                                                                         Page 1
+HCM Unsignalized Intersection Capacity Analysis                                              Bainbridge 2014 PM Existing.syn
+17: Grow Ave NW & Wyatt Way NW/Wyatt Way NE                                                                                      5/4/2016
+
+
+
+Movement                             EBL      EBT      EBR     WBL      WBT     WBR        NBL    NBT    NBR    SBL       SBT       SBR
+Lane Configurations
+Sign Control                                 Stop                       Stop                      Stop                    Stop
+Traffic Volume (vph)                  15      199        95      12      302       16      107      53      8     13        51        18
+Future Volume (vph)                   15      199        95      12      302       16       107     53      8     13        51        18
+Peak Hour Factor                    0.81     0.81      0.81    0.78     0.78     0.78      0.86   0.86   0.86   0.73      0.73      0.73
+Hourly flow rate (vph)                19      246      117       15      387       21       124     62      9     18        70        25
+Direction, Lane #                   EB 1     WB 1      NB 1    SB 1
+Volume Total (vph)                    382      423      195      113
+Volume Left (vph)                      19       15      124       18
+Volume Right (vph)                    117       21         9      25
+Hadj (s)                            -0.14    -0.01     0.13    -0.08
+Departure Headway (s)                  5.5      5.6      6.5      6.6
+Degree Utilization, x                0.59     0.66     0.35     0.21
+Capacity (veh/h)                      616      618      483      449
+Control Delay (s)                    16.2     18.7     13.1     11.3
+Approach Delay (s)                   16.2     18.7     13.1     11.3
+Approach LOS                            C        C         B        B
+Intersection Summary
+Delay                                                   16.1
+Level of Service                                           C
+Intersection Capacity Utilization                     45.1%         ICU Level of Service                   A
+Analysis Period (min)                                     15
+Description: Grow Ave NW
+Wyatt Way NW
+
+
+
+
+214035/Bainbridge/Kitsap 2/19/2016 2014 PM Existing                                                                    Synchro 9 Report
+Lochner                                                                                                                         Page 1
+HCM Unsignalized Intersection Capacity Analysis                                          Bainbridge 2014 PM w TWSC.syn
+17: Grow Ave NW & Wyatt Way NW/Wyatt Way NE                                                                                     5/4/2016
+
+
+
+Movement                            EBL      EBT      EBR     WBL     WBT     WBR        NBL    NBT    NBR    SBL       SBT        SBR
+Lane Configurations
+Traffic Volume (veh/h)                15     199        95      12     302       16      107      53     8     13         51         18
+Future Volume (Veh/h)                 15     199        95      12     302       16      107      53     8     13         51         18
+Sign Control                                Free                      Free                      Stop                    Stop
+Grade                                        0%                        0%                        0%                      0%
+Peak Hour Factor                    0.81    0.81      0.81    0.78    0.78     0.78      0.86   0.86   0.86   0.73      0.73       0.73
+Hourly flow rate (vph)                19     246      117       15     387       21       124     62      9     18        70         25
+Pedestrians                                     5                                                  6
+Lane Width (ft)                             12.0                                                12.0
+Walking Speed (ft/s)                          4.0                                                4.0
+Percent Blockage                                0                                                  1
+Right turn flare (veh)
+Median type                                 None                      None
+Median storage veh)
+Upstream signal (ft)                                                   910
+pX, platoon unblocked
+vC, conflicting volume               408                       369                       841    786    310    810        834        402
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                   408                       369                       841    786    310    810        834        402
+tC, single (s)                        4.1                       4.1                       7.1    6.5    6.2    7.1        6.5        6.2
+tC, 2 stage (s)
+tF (s)                                2.2                       2.2                       3.5    4.0    3.3    3.5        4.0        3.3
+p0 queue free %                       98                        99                        43     80     99     93         76         96
+cM capacity (veh/h)                 1151                      1189                       216    313    726    245        295        647
+Direction, Lane #                   EB 1    WB 1      NB 1    SB 1
+Volume Total                         382      423      195     113
+Volume Left                           19       15      124      18
+Volume Right                         117       21        9      25
+cSH                                 1151    1189       248     323
+Volume to Capacity                  0.02     0.01     0.79    0.35
+Queue Length 95th (ft)                  1        1     146      38
+Control Delay (s)                     0.6      0.4    57.5    22.0
+Lane LOS                                A        A       F       C
+Approach Delay (s)                   0.6      0.4     57.5    22.0
+Approach LOS                                             F       C
+Intersection Summary
+Average Delay                                          12.7
+Intersection Capacity Utilization                    45.1%        ICU Level of Service                   A
+Analysis Period (min)                                    15
+Description: Grow Ave NW
+Wyatt Way NW
+
+
+
+
+214035/Bainbridge/Kitsap 2/19/2016 2014 PM Existing                                                                  Synchro 9 Report
+Lochner                                                                                                                       Page 1
+HCM Unsignalized Intersection Capacity Analysis                                             Bainbridge 2035 PM Baseline.syn
+17: Grow Ave NW & Wyatt Way NW/Wyatt Way NE                                                                                      5/4/2016
+
+
+
+Movement                             EBL      EBT      EBR     WBL      WBT     WBR        NBL    NBT    NBR    SBL       SBT       SBR
+Lane Configurations
+Sign Control                                 Stop                       Stop                      Stop                    Stop
+Traffic Volume (vph)                  19      274        97      12      346       21      116      63      8     17        56        23
+Future Volume (vph)                   19      274        97      12      346       21       116     63      8     17        56        23
+Peak Hour Factor                    0.81     0.81      0.81    0.78     0.78     0.78      0.86   0.86   0.86   0.73      0.73      0.73
+Hourly flow rate (vph)                23      338      120       15      444       27       135     73      9     23        77        32
+Direction, Lane #                   EB 1     WB 1      NB 1    SB 1
+Volume Total (vph)                    481      486      217      132
+Volume Left (vph)                      23       15      135       23
+Volume Right (vph)                    120       27         9      32
+Hadj (s)                            -0.11    -0.01     0.13    -0.09
+Departure Headway (s)                  6.2      6.2      7.4      7.6
+Degree Utilization, x                0.82     0.84     0.45     0.28
+Capacity (veh/h)                      481      486      442      424
+Control Delay (s)                    31.7     34.1     16.3     13.4
+Approach Delay (s)                   31.7     34.1     16.3     13.4
+Approach LOS                            D        D        C         B
+Intersection Summary
+Delay                                                   28.2
+Level of Service                                           D
+Intersection Capacity Utilization                     52.3%         ICU Level of Service                   A
+Analysis Period (min)                                     15
+Description: Grow Ave NW
+Wyatt Way NW
+
+
+
+
+214035/Bainbridge/Kitsap 5:00 pm 2/19/2016 2035 PM Baseline                                                            Synchro 9 Report
+Lochner                                                                                                                         Page 1
+HCM Unsignalized Intersection Capacity AnalysisBainbridge 2035 PM w Signal & 2wayStop.syn
+17: Grow Ave NW & Wyatt Way NW/Wyatt Way NE                                         5/4/2016
+
+
+
+Movement                            EBL      EBT      EBR     WBL     WBT     WBR        NBL     NBT    NBR    SBL       SBT     SBR
+Lane Configurations
+Traffic Volume (veh/h)                19     274        97      12     346       21       116      63     8     17         56      23
+Future Volume (Veh/h)                 19     274        97      12     346       21       116      63     8     17         56      23
+Sign Control                                Free                      Free                       Stop                    Stop
+Grade                                        0%                        0%                         0%                      0%
+Peak Hour Factor                    0.81    0.81      0.81    0.78    0.78     0.78      0.86    0.86   0.86   0.73      0.73    0.73
+Hourly flow rate (vph)                23     338      120       15     444       27       135      73      9     23        77      32
+Pedestrians                                     5                                                   6                       5
+Lane Width (ft)                             12.0                                                 12.0                    12.0
+Walking Speed (ft/s)                          4.0                                                 4.0                     4.0
+Percent Blockage                                0                                                   1                       0
+Right turn flare (veh)
+Median type                                 None                      None
+Median storage veh)
+Upstream signal (ft)                                                   910
+pX, platoon unblocked
+vC, conflicting volume               476                       464                       1013    956    404    982       1002     468
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol                   476                       464                       1013    956    404    982       1002     468
+tC, single (s)                        4.1                       4.1                        7.1    6.5    6.2    7.1        6.5     6.2
+tC, 2 stage (s)
+tF (s)                                2.2                       2.2                        3.5    4.0    3.3    3.5        4.0     3.3
+p0 queue free %                       98                        99                           8    70     99     86         67      95
+cM capacity (veh/h)                 1082                      1097                        147    247    643    168        233     593
+Direction, Lane #                   EB 1    WB 1      NB 1    SB 1
+Volume Total                         481      486      217     132
+Volume Left                           23       15      135      23
+Volume Right                         120       27        9      32
+cSH                                 1082    1097       176     253
+Volume to Capacity                  0.02     0.01     1.23    0.52
+Queue Length 95th (ft)                  2        1     298      69
+Control Delay (s)                     0.6      0.4   195.2    33.8
+Lane LOS                                A        A       F       D
+Approach Delay (s)                   0.6      0.4    195.2    33.8
+Approach LOS                                             F       D
+Intersection Summary
+Average Delay                                          36.0
+Intersection Capacity Utilization                    52.5%        ICU Level of Service                    A
+Analysis Period (min)                                    15
+Description: Grow Ave NW
+Wyatt Way NW
+
+
+
+
+214035/Bainbridge/Kitsap 5:00 pm 2/19/2016 2035 PM Signal & 2way Stop                                                 Synchro 9 Report
+Lochner                                                                                                                        Page 1
+                                Appendix F
+                        Collision Summary Report
+
+
+
+
+Wyatt Way NW Transportation Analysis
+City of Bainbridge Island, WA
+Wyatt Way NW - Madison Ave N to Lovell Ave NW - Collision Report (2013-2015)
+
+
+
+
+                                                                                                                                                                                                          FIRST COLLISION
+                  BLOCK NUMBER
+
+
+
+
+                                                    DIST FROM REF
+
+
+
+
+                                                                                                                                                                                                                                       Crash Diagram
+                                     INTERSECTING
+
+
+
+
+                                                                                                                                                                                                          TYPE / OBJECT
+                                                                                                                 MOST SEVERE
+                                                                               POINT NAME
+     TRAFFICWAY
+
+
+
+
+                                     TRAFFICWAY
+
+
+
+
+                                                                                                                                                                      CONDITIONS
+
+
+
+                                                                                                                                                                                     CONDITIONS
+                                                                                                                 INJURY TYPE
+                                                                               REFERENCE
+
+
+
+
+                                                                                                                                                                      ROADWAY
+                                                                    FROM REF
+                                                                    COMP DIR
+
+
+
+
+                                                                                                                                                                                     LIGHTING
+     PRIMARY
+
+
+
+
+                                                                                                                                                                      SURFACE
+                                                                    MI or FT
+
+
+
+
+                                                                                                                                                                                                          STRUCK
+                                                                                                                                                             #PEDAL
+                                                                                                                                                     #PEDS
+                                                    POINT
+
+
+
+
+                                                                    POINT
+
+
+
+
+                                                                                                                                              #VEH
+                                                                                                DATE
+
+
+
+                                                                                                         TIME
+
+
+
+
+                                                                                                                                       #FAT
+                                                                                                                               # INJ
+ GROW AVE NW      500 WYATT WAY NW                                                          10/22/2014 11:27 No Injury 0               0      2      0        0         Wet        Daylight          Entering at angle
+
+
+
+ GROW AVE NW      400 WYATT WAY NW                                                          1/26/2014 13:49 No Injury 0                0      2      0        0         Dry        Daylight          Entering at angle
+
+
+                                                                                                                Possible
+ GROW AVE NW                     WYATT WAY NW                                                8/8/2014   16:00                  1       0      2      0        0         Dry        Daylight          Entering at angle
+                                                                                                                 Injury
+
+
+ MADISON AVE N 200 WYATT WAY NW                                                              8/4/2013   16:25 No Injury 0              0      2      0        0         Dry        Daylight          Entering at angle
+
+                                                                                                                                                                                     Dark-
+ MADISON AVE N 400 WYATT WAY NW                                                              2/7/2015   18:29 No Injury 0              0      2      0        0         Wet          Street          Entering at angle
+                                                                                                                                                                                   Lights On
+                                                                                                                                                                                                   From same direction -
+ MADISON AVE N 500 WYATT WAY NW                                                             8/23/2013   9:29 No Injury 0               0      2      0        0         Dry        Daylight       both going straight - one
+                                                                                                                                                                                                     stopped - rear-end
+
+ MADISON AVE N 200 WYATT WAY NW                                                             8/29/2014   8:55 No Injury 0               0      2      0        0         Wet        Daylight          Entering at angle
+
+
+
+ MADISON AVE N 200 WYATT WAY NW                                                             7/31/2015 17:06 No Injury 0                0      2      0        0         Dry        Daylight          Entering at angle
+
+
+
+
+LOCHNER                                                                                                                                                                                                                     Updated 03/25/2016
+                           Appendix G
+               Roundabout Construction Cost Estimates
+
+
+
+
+Wyatt Way NW Transportation Analysis
+City of Bainbridge Island, WA
+City of Bainbridge Island
+Wyatt Way NW & Madison Ave N (Compact Roundabout)
+
+May 3, 2016
+
+CONSTRUCTION COST ESTIMATE
+
+
+
+       Sect.                                                                                      Unit         Total
+ No.                                     Item                             Quantity       Unit
+        No.                                                                                       Cost         Cost
+
+  1    1-09 Mobilization & Demobilization (8% of Construction Subtotal)              1   LS     $41,000.00     $41,000.00
+  2    1-05 Construction Surveying (5%)                                              1   LS     $26,000.00     $26,000.00
+  3    1-07 SPCC Plan                                                                1   LS       $200.00          $200.00
+  4    1-07 Potholing                                                                1   FA      $5,000.00       $5,000.00
+  5    1-09 Force Account                                                            1   FA      $5,000.00       $5,000.00
+  6    1-10 Traffic Control Labor Supervisor                                         1   LS     $15,000.00     $15,000.00
+  7    1-10 Traffic Control Labor                                              1,200 HR            $42.00      $50,400.00
+  8    1-10 Temporary Traffic Control Devices                                        1   LS     $20,000.00     $20,000.00
+  9    1-10 Portable Changeable Message Sign                                         4   EA      $6,000.00     $24,000.00
+ 10    1-10 Operation of Portable Changeable Message Sign                      2,200 HR             $3.50        $7,700.00
+ 11    2-01 Clearing and Grubbing                                                    1   LS     $10,000.00     $10,000.00
+ 12    2-02 Removal of Structures and Obstructions                                   1   LS     $15,000.00     $15,000.00
+ 13    2-02 Removing Asphalt Concrete Pavement                                   560     SY         $8.00        $4,480.00
+ 14    2-02 Saw cutting                                                        2,000     LF         $5.00      $10,000.00
+ 15    2-03 Roadway Excavation, Including Haul                                   455     CY        $23.00      $10,465.00
+ 16    2-03 Unsuitable Foundation Excavation, Including Haul                     100     CY        $25.00        $2,500.00
+ 17    2-03 Gravel Borrow, Including Haul                                        400 TON           $17.00        $6,800.00
+ 18    2-09 Shoring or Extra Excavation Class B                                  540     LF         $1.00          $540.00
+ 19    4-04 Crushed Surfacing Top Course                                         100 TON           $25.00        $2,500.00
+ 20    4-04 Crushed Surfacing Base Course                                        200 TON           $25.00        $5,000.00
+ 21    5-04 HMA CL 1/2 In. PG 64-22                                              220 TON          $100.00      $22,000.00
+ 22    5-04 Incidental HMA for driveways, Class B                                    10 TON       $120.00        $1,200.00
+ 23    7-04 Solid Wall PVC Storm Sewer Pipe 12" Diam                             650     LF        $35.00      $22,750.00
+ 24    7-05 Catch Basin Type I                                                       6   EA      $1,000.00       $6,000.00
+ 25    7-05 Catch Basin Type II, 48 In. Dia.                                         1   EA      $3,000.00       $3,000.00
+ 26    7-05 Catch Basin Type II, 54 In. Dia.                                         1   EA      $4,500.00       $4,500.00
+ 27    7-12 Adjust Valve Box                                                         6   EA       $350.00        $2,100.00
+ 28    7-14 Hydrant Assembly                                                         2   EA      $4,000.00       $8,000.00
+ 29    8-01 Temporary Water Pollution/Erosion Control                                1   LS     $10,000.00     $10,000.00
+ 30    8-01 Temporary Water Pollution/Erosion Control Plan                           1   LS      $2,500.00       $2,500.00
+ 31    8-01 Temporary Reinforced Silt Fencing                                  1,100     LF         $7.00        $7,700.00
+ 32    8-03 Landscape (including irrigation, etc.)                                   1   LS     $35,000.00     $35,000.00
+ 33    8-04 Cement Concrete Curb & Gutter                                      1,200     LF        $25.00      $30,000.00
+ 34    8-04 Cement Concrete Traffic Curb                                         120     LF        $20.00        $2,400.00
+ 35    8-04 Roundabout Truck Apron Cement Concrete Curb                          450     LF        $25.00      $11,250.00
+ 36    8-04 Roundabout Central Island Cement Concrete Curb                       120     LF        $30.00        $3,600.00
+
+H.W. Lochner, Inc
+9115 118th Avenue SE, Suite 130
+Bellevue, WA 98005                                             1 of 2                                        Revised 04/29/2016
+CONSTRUCTION COST ESTIMATE
+
+
+
+       Sect.                                                                                   Unit         Total
+ No.                                    Item                          Quantity        Unit
+        No.                                                                                    Cost         Cost
+ 37    8-06 Cement Conc. Driveway Entrance                                       50   SY        $50.00        $2,500.00
+ 38    8-13 Adjust Monument Case and Cover                                       1    EA       $700.00          $700.00
+ 39    8-14 Sidewalk Curb Ramp Type 1                                            8    EA      $1,700.00     $13,600.00
+ 40    8-14 Cement Concrete Bicycle Ramp                                         8    EA      $1,500.00     $12,000.00
+ 41    8-14 Cement Concrete Sidewalk                                         600      SY        $35.00      $21,000.00
+ 42    8-14 Stamped concrete, central & splitter islands                     250      SY        $75.00      $18,750.00
+ 43    8-18 Mailbox Support                                                      4    EA       $400.00        $1,600.00
+ 44    8-20 Illumination System (underground)                                    1    LS     $50,000.00     $50,000.00
+ 45    8-21 Permanent Signing                                                    1    LS     $10,000.00     $10,000.00
+ 46    8-22 Plastic Crosswalk Stripe                                         650      SF        $10.00        $6,500.00
+ 47    8-22 Plastic Traffic Letter                                               16   EA       $100.00        $1,600.00
+ 48    8-22 Plastic Line                                                    1100      LF         $2.00        $2,200.00
+ 49    8-22 Plastic Wide Line                                                540      LF         $2.00        $1,080.00
+ 50    8-22 Plastic Bicycle Lane Symbol                                          4    EA       $250.00        $1,000.00
+ 51    8-23 Temporary Pavement Marking                                     1,200      LF         $0.60          $720.00
+ 52    8-23 Removing Temporary Pavement Marking                            1,200      LF         $0.60          $720.00
+
+                                                                       TOTAL CONSTRUCTION COST            $577,555.00
+
+                                                                    20% Miscellaneous & Contingency        $115,511.00
+
+                                                                           Total Construction Cost        $693,066.00
+Assumptions
+    No Design Engineering
+    No Utility relocation
+    No Construction management
+    No Environmental
+    No Right of Way
+
+
+
+
+H.W. Lochner, Inc
+9115 118th Avenue SE, Suite 130
+Bellevue, WA 98005                                         2 of 2                                         Revised 04/29/2016
+City of Bainbridge Island
+Wyatt Way NW & Madison Ave N (Mini Roundabout)
+
+May 3, 2016
+
+CONSTRUCTION COST ESTIMATE
+
+
+
+       Sect.                                                                                       Unit         Total
+ No.                                    Item                              Quantity        Unit
+        No.                                                                                        Cost         Cost
+
+  1    1-09 Mobilization & Demobilization (8% of Construction Subtotal)              1    LS     $36,000.00     $36,000.00
+  2    1-05 Construction Surveying (5%)                                              1    LS     $23,000.00     $23,000.00
+  3    1-07 SPCC Plan                                                                1    LS       $200.00          $200.00
+  4    1-07 Potholing                                                                1    FA      $5,000.00       $5,000.00
+  5    1-09 Force Account                                                            1    FA      $5,000.00       $5,000.00
+  6    1-10 Traffic Control Labor Supervisor                                         1    LS     $15,000.00     $15,000.00
+  7    1-10 Traffic Control Labor                                              1,400 HR             $42.00      $58,800.00
+  8    1-10 Temporary Traffic Control Devices                                        1    LS     $20,000.00     $20,000.00
+  9    1-10 Portable Changeable Message Sign                                         4    EA      $6,000.00     $24,000.00
+ 10    1-10 Operation of Portable Changeable Message Sign                      2,200 HR              $3.50        $7,700.00
+ 11    2-01 Clearing and Grubbing                                                    1    LS      $7,000.00       $7,000.00
+ 12    2-02 Removal of Structures and Obstructions                                   1    LS      $5,000.00       $5,000.00
+ 13    2-02 Removing Asphalt Concrete Pavement                                   300      SY         $8.00        $2,400.00
+ 14    2-02 Saw cutting                                                        2,400      LF         $5.00      $12,000.00
+ 15    2-03 Roadway Excavation, Including Haul                                   400      CY        $23.00        $9,200.00
+ 16    2-03 Unsuitable Foundation Excavation, Including Haul                         75   CY        $25.00        $1,875.00
+ 17    2-03 Gravel Borrow, Including Haul                                        300 TON            $17.00        $5,100.00
+ 18    2-09 Shoring or Extra Excavation Class B                                  540      LF         $1.00          $540.00
+ 19    4-04 Crushed Surfacing Top Course                                         100 TON            $25.00        $2,500.00
+ 20    4-04 Crushed Surfacing Base Course                                        200 TON            $25.00        $5,000.00
+ 21    5-04 HMA CL 1/2 In. PG 64-22                                              220 TON           $100.00      $22,000.00
+ 22    5-04 Incidental HMA for driveways, Class B                                    10 TON        $120.00        $1,200.00
+ 23    7-04 Solid Wall PVC Storm Sewer Pipe 12" Diam                             650      LF        $35.00      $22,750.00
+ 24    7-05 Catch Basin Type I                                                       6    EA      $1,000.00       $6,000.00
+ 25    7-05 Catch Basin Type II, 48 In. Dia.                                         1    EA      $3,000.00       $3,000.00
+ 26    7-05 Catch Basin Type II, 54 In. Dia.                                         1    EA      $4,500.00       $4,500.00
+ 27    7-12 Adjust Valve Box                                                         6    EA       $350.00        $2,100.00
+ 28    7-14 Hydrant Assembly                                                         1    EA      $4,000.00       $4,000.00
+ 29    8-01 Temporary Water Pollution/Erosion Control                                1    LS      $5,000.00       $5,000.00
+ 30    8-01 Temporary Water Pollution/Erosion Control Plan                           1    LS      $2,500.00       $2,500.00
+ 31    8-01 Temporary Reinforced Silt Fencing                                  1,000      LF         $7.00        $7,000.00
+ 32    8-03 Hardscape (Textured Concrete)                                            1    LS      $5,000.00       $5,000.00
+ 33    8-04 Cement Concrete Curb & Gutter                                      1,200      LF        $25.00      $30,000.00
+ 34    8-04 Cement Concrete Traffic Curb                                         120      LF        $20.00        $2,400.00
+ 35    8-04 Roundabout Truck Apron Cement Concrete Curb                          340      LF        $25.00        $8,500.00
+ 36    8-04 Roundabout Central Island Cement Concrete Curb                           60   LF        $30.00        $1,800.00
+
+H.W. Lochner, Inc
+9115 118th Avenue SE, Suite 130
+Bellevue, WA 98005                                             1 of 2                                         Revised 04/29/2016
+CONSTRUCTION COST ESTIMATE
+
+
+
+       Sect.                                                                                  Unit         Total
+ No.                                   Item                          Quantity        Unit
+        No.                                                                                   Cost         Cost
+ 37    8-06 Cement Conc. Driveway Entrance                                      50   SY        $50.00        $2,500.00
+ 38    8-13 Adjust Monument Case and Cover                                      1    EA       $700.00          $700.00
+ 39    8-14 Sidewalk Curb Ramp Type 1                                           8    EA      $1,700.00     $13,600.00
+ 40    8-14 Cement Concrete Bicycle Ramp                                        8    EA      $1,500.00     $12,000.00
+ 41    8-14 Cement Concrete Sidewalk                                        600      SY        $35.00      $21,000.00
+ 42    8-14 Stamped Concrete Central & Splitter Islands                     100      SY        $75.00        $7,500.00
+ 43    8-18 Mailbox Support                                                     4    EA       $400.00        $1,600.00
+ 44    8-20 Illumination System (underground)                                   1    LS     $50,000.00     $50,000.00
+ 45    8-21 Permanent Signing                                                   1    LS     $10,000.00     $10,000.00
+ 46    8-22 Plastic Crosswalk Stripe                                        650      SF        $10.00        $6,500.00
+ 47    8-22 Plastic Traffic Letter                                              16   EA       $100.00        $1,600.00
+ 48    8-22 Plastic Line                                                   1100      LF         $2.00        $2,200.00
+ 49    8-22 Plastic Wide Line                                               540      LF         $2.00        $1,080.00
+ 50    8-22 Plastic Bicycle Lane Symbol                                         4    EA       $250.00        $1,000.00
+ 51    8-23 Temporary Pavement Marking                                    1,200      LF         $0.60          $720.00
+ 52    8-23 Removing Temporary Pavement Marking                           1,200      LF         $0.60          $720.00
+
+                                                                      TOTAL CONSTRUCTION COST            $505,785.00
+
+                                                                   20% Miscellaneous & Contingency        $101,157.00
+
+                                                                          Total Construction Cost        $606,942.00
+Assumptions
+    No Design Engineering
+    No Utility relocation
+    No Construction management
+    No Environmental
+    No Right of Way
+
+
+
+
+H.W. Lochner, Inc
+9115 118th Avenue SE, Suite 130
+Bellevue, WA 98005                                        2 of 2                                         Revised 04/29/2016
+

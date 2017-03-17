@@ -1,0 +1,969 @@
+MEMORANDUM
+Date:           May 31, 2016                                                          TG:   15115.00
+To:             John Shaw - DPD
+From:           Kurt Gahnberg, Transpo Group
+cc:             Robert Lee, Chainqui Development Belltown, LLC
+                Peter Lian, GWest Architecture, LLC
+Subject:        2401 3rd Avenue Transportation/Parking Analysis (DPD # 3021375)
+
+This memorandum summarizes the transportation and parking analysis completed for the proposed
+residential and retail project located at 2401 3rd Avenue in Seattle, WA. The scope of this analysis
+was coordinated with City of Seattle staff. The proposed development plan, anticipated trip
+generation, review of access operations, and anticipated peak parking demand are reviewed.
+
+
+Project Description
+The project is located at 2401 3rd Avenue on the northwest side of Battery Street. The site is
+currently occupied by a bank that is approximately 7,800 square feet (sf) with a drive-through and
+associated parking. Existing access is provided by driveways located on 3rd Avenue and Battery
+Street.
+
+The proposed project includes the construction of residential and retail uses with up to 134
+residential apartment units and approximately 5,000 sf of ground floor retail. Site access would be
+consolidated to the alley between Wall Street and Battery Street located at the northwestern property
+line of the site. Up to 73 parking spaces would be provided. The project is anticipated to be
+constructed and occupied by 2018. The first floor site plan is shown on Figure 1.
+
+
+
+
+      11730 118th Avenue N.E., Suite 600, Kirkland, WA 98034   |   425.821.3665   |
+                                              63 BIKE STALLS
+
+
+
+
+                              Figure 1 – Preliminary First Floor Site Plan
+
+
+Transportation Network
+The following provides a summary of the key roadways in the vicinity of the site.
+
+2nd Avenue is classified as a principal arterial by the City of Seattle and accommodates one-way
+southbound travel. Parking is allowed on both sides of the street near the project site. Sidewalks are
+provided along both sides of the street within the vicinity of the project site and a dedicated bike lane
+with a signed bike route is also provided along 2nd Avenue.
+
+3rd Avenue is classified as a minor arterial by the City of Seattle and accommodates two-way traffic
+with on-street parking on both sides of the street. Sidewalks are also provided on both sides of the
+street with marked crosswalks at Wall Street and Battery Street. No bicycle facilities are provided.
+
+Wall Street is classified as a principal arterial from Denny Way to 2nd Avenue and a minor arterial
+from 2nd Avenue to Alaskan Way by the City of Seattle. It accommodates one-way traffic southwest-
+bound with on-street parking on both sides of the street. Sidewalks are provided on both sides of
+the street with marked crosswalks at 2nd Avenue and 3rd Avenue. No bicycle facilities are provided.
+
+                                                                                                       2
+Battery Street is classified as a principal arterial by the City of Seattle and accommodates one-way
+travel northeast-bound. On-street parking is provided on both sides of the street. Sidewalk is
+provided on both sides of the street with marked crosswalks at 2nd Avenue and 3rd Avenue. No
+bicycle facilities are provided.
+
+
+Transit
+King County Metro operates approximately 39 routes in the area with 18 stops within a 1/4-mile
+radius of the proposed project. Transit stops are located along 3rd Avenue approximately two blocks
+south and two blocks north of the project site. Just outside of the 1/4-mile radius, bus stops along
+Lenora Street, 3rd Avenue, and 4th Avenue provide access to seven Sound Transit routes traveling
+north, east, and south. The entire region is easily accessible from this site via transit.
+
+
+Trip Generation
+Trip generation estimates have been prepared for the project based on trip rates identified using the
+Institute of Transportation Engineers (ITE) Trip Generation Manual, 9th Edition (2012) and
+consideration for average vehicle occupancies and mode splits typical of the Belltown neighborhood.
+This methodology has been approved by City staff and is consistent with previous studies conducted
+in the area.
+
+Some ITE land uses represent vehicle trip rates observed in more suburban settings than the
+proposed project. To calibrate the trip generation to the local character of the proposed project, the
+vehicle trips based on ITE trip rates are converted to person trips through the use of average vehicle
+occupancy (AVO) rates derived from NCHRP Report 365. Once person trips were derived, local
+mode split information was applied to arrive at transit, non-motorized, carpool and single occupant
+vehicles (SOV) trips. Person trips by mode were determined by multiplying the person trips by the
+estimated mode splits.
+
+The basis of residential trip generation was ITE land-use code 220 (Apartment) and mode splits
+from the American Community Survey (ACS) data 1 for the Belltown neighborhood. The proposed
+retail trip generation was based on ITE land-use code 826 (Specialty Retail Center) due to the
+proposed small size and neighborhood serving use. The retail would serve the local area including
+residents and employees living and working nearby. This would result in a high proportion of walking
+trips to and from the surrounding neighborhood. The analysis assumes that 10 percent of the retail
+customers would drive to the site.
+
+Table 1 summarizes the resulting net new weekday daily, AM, and PM peak hour vehicle trip
+generation. Trip credits for the existing uses were estimated using a similar method as described
+above. Detailed trip generation calculations for the proposed development are provided in
+Attachment A.
+
+
+
+
+1
+    ACS 2013, Census Tract 80.01
+
+
+                                                                                                     3
+Table 1. Estimated Weekday Vehicle Trip Generation
+                                                                 AM Peak-Hour Trips1                      PM Peak-Hour Trips1
+                                                  Daily
+Land Use                             Size         Trips          In         Out         Total             In     Out     Total
+Proposed Use
+     Residential1                  134 DU          470           7           28           35              31      16      47
+     Retail                       5,000 sf          30           1            0            1              1       0        1
+     Subtotal                                      490           8           28           36              32      16      48
+Existing Use
+     Drive-in Bank                7,760 sf         570          26           21           47              47      47      94
+
+
+Net New Trips                                      -70          -18           7           -11             -15     -31     -46
+Notes: sf = square-feet.
+1. Vehicle trips were estimated based on person trip calculations and localized mode split information.
+
+
+As shown in the Table 1, the development is anticipated to generate fewer trips than the existing
+drive-in bank, resulting in a net decrease of -70 weekday daily trips, -11 weekday AM peak hour
+trips and -46 weekday PM peak hours trips.
+
+
+Driveway Evaluation
+Garage access is proposed off the existing alley between Wall Street and Battery Street. Traffic
+operations at the site access were evaluated for the weekday PM peak hour period. Future 2018
+traffic volumes were forecast by increasing existing traffic counts 2 along Battery Street and Wall
+Street by 1.5-percent per year as well as traffic from previously approved “pipeline” development
+projects that would increase background traffic and adding project generated traffic. This growth
+rate was determined from previous studies conducted in the area and coordinated with City of
+Seattle staff.3
+
+The following six pipeline projects were considered in the area:
+
+              3031 Western Avenue                                                      2200 7th Avenue
+              2202 8th Avenue                                                          2116 4th Avenue
+              2200 Western Avenue                                                      2100 7th Avenue
+
+Project trips were assigned to the driveway turning movements based on the roadway network in
+the project vicinity and existing work travel patterns of residents living within 1/4 mile of the site. 4 It
+is anticipated that traffic associated with the development would travel to/from the south along 2nd
+Avenue, 3rd Avenue, and 5th Avenue. The total proposed project traffic was then added to 2018
+weekday PM peak hour background traffic volumes to estimate traffic volumes at the site access
+driveway under buildout conditions as shown on Figure 2.
+
+
+
+
+2
+    Turning movement counts collected in August 2015. Detailed count data provided in Attachment B
+3
+ Final Environmental Impact Statement for the Swedish Cherry Hill for the Major Institution Master Plan Appendix C:
+Transportation Technical Report, Transpo Group, November 2014
+4
+ Based on the US Census Bureau’s OnTheMap online mapping tool. Provided data is based on the Census Bureau’s
+American Community Survey and Longitudinal Employer-Household Dynamics programs.
+
+
+                                                                                                                                 4
+                              Figure 2 Trip Distribution and Assignment
+
+Intersection level of service (LOS) for future with-project conditions were evaluated at the site access
+driveway using the Synchro 9 software program based on the procedures identified in the Highway
+Capacity Manual (HCM, 2010). At side-street stop-controlled intersections such as access
+driveways, LOS is measured in average delay per vehicle during the peak hour of traffic and is
+reported for the worst operating movement of the intersection. Attachment C provides a detailed
+explanation of LOS criteria and definitions.
+
+Access to the alley at Wall Street is anticipated to operate at LOS C with 19 seconds of delay and
+the access to the alley at Battery Street is anticipated to operate at LOS B with 12 seconds of delay.
+A detailed LOS worksheet is included in Attachment D.
+
+
+Parking Analysis
+An analysis of the parking code requirements, the proposed parking supply, and the anticipated
+demand for the proposed project was completed. The following sections describe parking supply
+requirements under the City of Seattle parking code, the proposed parking supply, and the estimated
+peak parking demand of the project.
+
+
+
+                                                                                                      5
+Parking Code Requirements
+Auto Parking Requirements. The project includes 73 parking spaces for the residential and
+retail uses. Per Seattle Municipal Code (SMC) 23.54.015, there is no minimum parking
+requirement for development located within the Belltown Urban Center.
+
+Bicycle Parking Requirements. SMC Section 23.49.019, Table A outlines the bicycle parking
+siting and quantity requirements. The code requires a minimum number of bicycle parking spaces
+for residential, retail, and office uses. Bicycle paring is not required for retail uses under 10,000
+square feet. Required bicycle parking rate is reduced in half after the first 50 parking spaces
+provided per land use. The bicycle parking requirements are shown in Table 2.
+
+Table 2. Bicycle Parking Code Requirements
+             Land Use                                  Size1       Parking Rate2           Required Parking
+                                                                                  3
+Residential (First 50 spaces)                     100 DU            1 per 2 DUs                    50
+Residential (Remaining spaces)                     34 DU            1 per 4 DUs                    9
+Total Residential                                 134 DU                 -                         59
+Retail                                            5,000 SF        0 for <10,000 SF                none
+Total Bicycle Parking Supply                                                                       59
+1.   DU = Dwelling Unit, SF = Square Feet
+2.   From Seattle Municipal Code 23.54.015, Table E.
+3.   For the first 50 spaces, then 1 per 8 DUs.
+
+
+As shown in Table 2, the project would be required to provide 59 bicycle spaces. The project is
+proposing to supply 63 bicycle parking spaces, which would exceed the required bicycle parking
+supply. Additionally, the project is proposing an on-sidewalk bike storage rack, which could be
+utilized for short-term bicycle parking.
+
+On-Site Parking Supply
+The proposed project would provide on-site parking for 73 below-grade parking stalls. The parking
+garage would be accessed via a driveway on the alley between 2nd Avenue and 3rd Avenue
+connecting Wall Street and Battery Street. The existing on-site parking stalls would be removed as
+part of the proposed project.
+
+Parking Demand
+Parking demand for a residential development peaks during nighttime conditions, after 10:00 p.m.
+Parking demand for the residential component of the project was reviewed based on US Census
+data related to vehicle ownership as described below. The parking rate used to estimate the peak
+parking demand for the retail is based on the ITE Parking Generation suburban rates for a
+shopping center (#820). The vehicle mode split was assumed to be the same as used to estimate
+weekday PM peak hour trip generation. The retail use typically peaks midday.
+
+Residential
+The weekday peak parking demand for the proposed residential units was estimated using local
+vehicle ownership rates from US Census data.5 The peak parking demand for this type of residential
+project is expected to be below national averages because the project is located near frequent transit
+service and is well-connected with bicycle and pedestrian facilities described earlier. Based on local
+vehicle ownership rates and the proposed mix of residential units, a peak parking demand rate of
+
+5
+ Selected Economic Characteristics (U.S. Census Bureau, American Community Survey 2013), Commuting to Work,
+Census Tract 80.01 (Report #B25044).
+
+
+                                                                                                              6
+0.72 vehicles per dwelling unit was estimated. This results in a weekday peak resident parking
+demand of 96 vehicles. The detailed ownership rate calculations are provided in Attachment E. The
+estimated peak residential parking demand of 96 parking spaces would not be accommodated by
+the proposed supply of 73 parking spaces, with a potential spillover of approximately 23 vehicles.
+
+Residential visitor parking demand peaks in the early evening hours. Residential visitor peak parking
+demand rates are 0.05 vehicles per dwelling unit based on previously approved transportation
+studies in the area.6 This results in a visitor weekday peak parking demand of approximately 7
+vehicles.
+
+Retail
+The weekday retail parking demand was calculated based on Parking Generation (ITE, 4th Edition).
+A rate of 2.55 stalls per 1,000 square feet, which is reduced by the mode split of vehicles
+representing only 10 percent of anticipated retail travel, gives a rate of 0.26 stalls per 1,000 square
+feet of retail. Using these rates, the anticipated peak parking demand is estimated to be 2 vehicles
+for the retail land use and is anticipated to be accommodated on-street within the project vicinity.
+
+Table 3 provides a summary of the estimated peak parking demand for the site by use.
+
+Table 3. Estimated Peak Parking Demand
+Land Use                              Size              Parking Rate         Localized Peak Parking Demand (vehicles)
+
+Residential                                                 0.72                                  96
+                                     134 du
+Residential Visitor                                         0.05                                   7
+Retail                               5.0 ksf                0.26                                   2
+Note: du = dwelling units, ksf = 1,000 square feet
+
+
+Shared Parking
+Given the mix of uses it is unlikely that they would peak at the same time. Apartment and
+residential uses typically peak in the overnight hours while retail typically peak midday. Figure 3
+shows the anticipated parking demand by time of day based on the proposed land uses.
+
+
+
+
+6   Consistent with Transportation Technical Report 2220 8th Avenue, Heffron Transportation, Inc., May 2014.
+
+
+                                                                                                                    7
+                                    Hourly Shared Parking Demand
+           120
+
+
+           100
+                        Proposed Supply: 73
+            80
+Vehicles
+
+
+
+
+            60
+
+
+            40
+
+
+            20
+
+
+             0
+
+
+
+
+                                                           Time
+                                   Residential Apartment     Residential Guest   Retail
+
+
+                                       Figure 3 Hourly Shared Parking
+
+As shown in Figure 3 the peak shared parking demand is anticipated to be 100 vehicles and could
+not be accommodated in the total proposed supply of 73 stalls but would reduce the anticipated
+spillover to 27 vehicles. Retail parking could be used during the late evening hours to
+accommodate some of the residential peak.
+
+On- Street Parking
+Given that an overnight parking spillover could occur, a review of the 2015 SDOT parking study
+was completed to see if the anticipated spillover of 27 vehicles could be accommodated on-street.
+The review was completed for an approximately 800-foot walking radius from the project site.
+Consideration was given to nearby pipeline developments described previously as well as the
+project listed below:
+
+                 2031 3rd Avenue                                     2300 6th Avenue
+                 600 Wall Street                                     307 Broad Street
+
+These developments are not anticipated to generate off-site parking demand within 800 feet of the
+project site with the exception of 600 Wall Street. The 600 Wall Street project is anticipated to
+have a total overspill of approximately 4 vehicles during the overnight hours with 1 vehicle within
+800-foot parking radius overlap with the project site. Approximately 34 on-street parking spaces
+are available after 7 PM, which could accommodate the anticipated parking overspill. Utilization
+within 800 feet of the project site is currently at approximately 88 percent utilization and is
+anticipated to remain at 88 percent under future without-project conditions. With the anticipated
+spillover utilization could be approximately 98 percent in the study area.
+
+                                                                                                  8
+The anticipated parking overspill, could result in some additional circulation through the study area
+as drivers search for parking; however, given the low vehicle ownership the proportional traffic
+volume impact would be small. The difficulty finding parking could encourage reduced auto
+ownership rates over time, consistent with City of Seattle urban transportation goals. As described
+previously, the neighborhood has amenities nearby that are accessible via walking, biking, or
+transit; reducing the need to rely on personal vehicles as the primary mode of travel.
+
+Additionally, the parking review was completed for the 7 PM hour when retail and restaurant uses
+are still utilizing on-street parking. It is anticipated that in the later evening hours the on-street
+parking would not be as utilized for the retail/restaurant uses and more parking could be available
+for residential uses.
+
+
+Transportation Concurrency
+The City of Seattle has implemented a Transportation Concurrency system to comply with one of
+the requirements of the Washington State Growth Management Act (GMA). The system, described
+in the DPD Director’s Rule 5-2009 and the City’s Land Use and Zoning Code, is designed to provide
+a mechanism that determines whether adequate transportation facilities would be available
+“concurrent” with proposed development projects.
+
+Directional traffic is anticipated to be reduced with completion of the proposed project. Therefore,
+transportation concurrency is not affected by the proposed project; thus, the project would meet the
+City’s concurrency requirements.
+
+
+Summary and Findings
+The proposed project would replace an existing 7,760 sf drive-in bank with a residential project,
+with up to 134 apartment units and 5,000 sf of retail space. A parking garage with 73 vehicle stalls
+and 63 bicycle parking spaces is proposed. Access would be via the alley off Wall Street and
+Battery Street.
+
+It is estimated that the trip generation would result in a net decrease when compared to the current
+use. An analysis of the site driveway was conducted evaluating the weekday PM peak hour
+conditions. It is anticipated that the Wall Street/Alley Access would operate at LOS C and the Batter
+Street/Alley Access would operate at LOS B. As such, no operational or safety issues are anticipated
+with the proposed access.
+
+The proposed project would remove the existing parking stalls associated with the on-site use. As
+noted, a total weekday peak parking demand of 96 vehicles has been estimated for the residential
+uses (after 10:00 p.m.); and 7 vehicles associated with residential visitors peak parking demand
+(between 7:00 and 10:00 p.m.), and 2 retail stalls (midday). The on-site supply of 73 spaces is would
+result in spillover parking. If shared parking were utilized it is anticipated that the parking overspill
+would be approximately 27 vehicles and could be accommodated on-street.
+
+The proposed project would meet transportation concurrency requirements.
+
+
+
+
+                                                                                                         5
+                                                                               Trip Generation
+
+
+
+2401 3rd Avenue
+
+
+
+Person Trips
+       Land Use                                     Size                                   Trip Rate1                 Inbound %           AVO Rate2           Person Trips
+       Proposed Use
+       Residential (LU 220)                                134 units                                                                         1.11
+         Daily                                                                        T = 6.06(X)+123.56                  50%                                     1,039
+         AM Peak Hour                                                                  T = 0.49(X)+3.73                   20%                                       77
+         PM Peak Hour                                                                 T = 0.55(X)+17.65                   65%                                      101
+
+
+           Specialty Retail Center (LU 826)                 5,000 sf                                                                         1.48
+            Daily                                                                   44.32 trips/1,000 sq. ft.             50%                                      328
+            AM Peak Hour³                                                            0.96 trips/1,000 sq. ft.             62%                                        7
+            PM Peak Hour                                                             2.71 trips/1,000 sq. ft.             44%                                       20
+
+
+           Existing Use
+           Drive-in Bank (LU 912)                           7,760 sf                                                                         1.48
+           Daily                                                                    148.15 trips/1,000 sq. ft.            50%                                     1,701
+           AM Peak Hour                                                              12.08 trips/1,000 sq. ft.            57%                                      139
+           PM Peak Hour                                                              24.30 trips/1,000 sq. ft.            50%                                      279
+
+
+
+
+Notes:
+1. Trip rates based on Institute of Transportation Engineers' (ITE) Trip Generation Manual 9th Edition average trip rate and equation as shown for the land uses noted.
+
+
+2. AVO = average vehicle occupancy is based on rates published in NCHRP 365 for Urban Areas for the residential and retail use.
+
+
+3. Rate for the AM Peak Hour was not provided; Shopping Center (LU 820) is listed as a related use and was used for the AM Peak Hour.
+
+
+
+
+Q:\Projects\15\15115.00 - 2401 3rd Avenue Mixed-Use\Traffic Analysis\Trip Generation\2401_3rd_Trip_Gen_342016 Update                                                      5/31/2016
+                                                                                               Trip Generation
+
+
+
+2401 3rd Avenue
+
+    Person Trips by Mode of Travel
+                                                      Percent                Daily                         AM Peak Hour                          PM Peak Hour
+    Trip Generation Summary                          By Mode1            Person Trips                 In       Out      Total             In         Out      Total
+    Proposed Use
+    Residential1
+      Walk, Bike, Other Trips                            39%                    400                   6        24            30          25             14      39
+      Transit Trips                                      14%                    150                   2         9            11           9              5      14
+      Person Trips by Vehicle                            47%                    489                   7        29            36          32             16      48
+      Total                                             100%                   1,039                 15        62            77          66             35     101
+
+    Retail2
+     Walk, Bike, Other Trips                             85%                    280                   3         2            5            7             10      17
+     Transit Trips                                        5%                     20                   0         0            0            0              1       1
+     Person Trips by Vehicle                             10%                     28                   1         1            2            2              0       2
+     Total                                              100%                    328                   4         3            7            9             11      20
+
+    Existing Use
+    Drive-in Bank
+     Walk, Bike, Other Trips                             35%                    600                  28        21            49          49              49     98
+     Transit Trips                                       15%                    260                  12         9            21          21              21     42
+     Person Trips by Vehicle                             50%                    841                  39        30            69          70              69    139
+     Total                                              100%                   1,701                 79        60           139         140             139    279
+
+
+    Net New Project Person Trips
+     Walk, Bike, Other Trips                                                     80                  -19        5           -14         -17             -25     -42
+     Transit Trips                                                              -90                  -10        0           -10         -12             -15     -27
+     Person Trips by Vehicle                                                   -324                  -31        0           -31         -36             -53     -89
+     Total                                                                     -334                  -60        5           -55         -65             -93    -158
+
+    1. Person trip mode splits based on 2009 - 2013 American Community Survey 5-Year Estimates for census tract (#80.01).
+    2. Mode split considers that the retail space is anticipated to serve mainly the immediate vicinity.
+
+
+
+                                                   Vehicle Trip Generation
+                                                                         Daily Vehicle              AM Peak Hour Vehicle Trips          PM Peak Hour Vehicle Trips
+    Land Use                                             AVO1                  Trips                  In       Out          Total         In            Out    Total
+    Proposed Use
+    Residential1                                         1.03                   470                   7        28            35          31             16      47
+    Retail                                               1.48                    20                   1         0             1           1              0       1
+    Subtotal                                                                    490                   8        28            36          32             16      48
+    Existing Use
+    Drive-in Bank                                        1.48                   570                   26       21            47           47             47     94
+    Subtotal                                                                    570                  26        21           47           47             47     94
+    Net New Trips                                                               -80                  -18        7           -11          -15            -31    -46
+    1. Residential Average Vehicle Occupancy (AVO) based on 2009 - 2013 American Community Survey 5-Year Estimates for census tract (#80.01), report B08137.
+
+
+
+
+Q:\Projects\15\15115.00 - 2401 3rd Avenue Mixed-Use\Traffic Analysis\Trip Generation\2401_3rd_Trip_Gen_342016 Update                                                   5/31/2016
+ www.idaxdata.com
+
+
+                                           ALLEY
+                                          WALL ST
+                                                                                                                        Date: Tue, Aug 04, 2015
+                N                          Peak Hour                                                            Count Period: 4:00 PM to 6:00 PM
+                                                                                                                  Peak Hour: 5:00 PM to 6:00 PM
+
+
+
+
+                                              2
+
+
+
+                                                             2
+                          ALLEY
+
+
+
+
+                                                                                                                                                0
+                                      1
+
+                                               1
+
+                                                         0
+                                                                                   WALL ST                                                           97
+
+
+      360                                                                           1            354                                                                            20
+                                              TEV: 365                             351
+
+
+
+
+                                                                                                                                       6
+
+
+
+
+                                                                                                                                                                        5
+                                              PHF: 0.94                             2
+      0                                                                                             0                           1
+
+
+                WALL ST                                                                                                                             156
+                                                                           ALLEY
+                                               8
+
+                                                         1
+
+                                                                   0
+
+
+
+
+                                                                                                    HV %:              PHF
+
+
+
+
+                                                                                                                                                              1
+                                                                                           EB               -            -
+                                                                                           WB       7.6%               0.95
+                                                                                           NB       0.0%               0.75
+                                                                                           SB       0.0%               0.50
+                                              3
+
+
+
+                                                             9
+
+
+
+
+                                                                                         TOTAL      7.4%               0.94
+Two-Hour Count Summaries
+                          WALL ST                                 WALL ST                           ALLEY                               ALLEY
+    Interval                                                                                                                                                  15-min           Rolling
+      Start               Eastbound                              Westbound                       Northbound                            Southbound              Total          One Hour
+                    LT            TH           RT        LT          TH             RT     LT           TH             RT       LT         TH       RT
+    4:00 PM         0                 0        0         1           96              0       3              0            0         0        0        2            102
+    4:15 PM         0                 0        0         2           72              0       2              0            0         0        0        0            76
+    4:30 PM         0                 0        0         0           82              0       3              0            0         0        0        1            86
+    4:45 PM         0                 0        0         0           72              0       1              0            0         0        0        0            73            337
+    5:00 PM         0                 0        0         0           93              0       2              1            0         0        1        0            97            332
+    5:15 PM         0                 0        0         0           85              1       3              0            0         0        0        0            89            345
+    5:30 PM         0                 0        0         1           83              0       3              0            0         0        0        0            87            346
+    5:45 PM         0                 0        0         1           90              0       0              0            0         0        0        1            92            365
+  Count Total       0                 0        0         5           673             1     17               1            0         0        1        4            702
+    Peak Hr         0                 0        0         2           351             1       8              1            0         0        1        1            365
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                           Bicycles                                       Pedestrians (Crossing Leg)
+      Start         EB      WB            NB        SB       Total     EB           WB     NB       SB           Total        East         West      North          South         Total
+    4:00 PM         0             9       0         0         9        0             6       0          0         6            5            0            12             25        42
+    4:15 PM         0             4       0         0         4        0             4       1          0         5            0            0            19             34        53
+    4:30 PM         0             8       0         0         8        0             4       0          0         4            1            1            15             23        40
+    4:45 PM         0             5       0         0         5        0             2       0          0         2            2            0            25             31        58
+    5:00 PM         0             8       0         0         8        1             4       0          0         5            1            2            28             43        74
+    5:15 PM         0         10          0         0         10       0             4       1          0         5            1            1            16             27        45
+    5:30 PM         0             2       0         0         2        0             7       0          0         7            1            3            26             48        78
+    5:45 PM         0             7       0         0         7        0             5       0          0         5            2            0            27             38        67
+  Count Total       0         53          0         0         53       1            36       2          0         39          13            7         168               269      457
+    Peak Hr         0         27          0         0         27       1            20       1          0         22           5            6            97             156      264
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                    mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                          ALLEY
+                                        BATTERY ST
+                                                                                                                           Date: Tue, Aug 04, 2015
+                N                            Peak Hour                                                             Count Period: 4:00 PM to 6:00 PM
+                                                                                                                     Peak Hour: 4:00 PM to 5:00 PM
+
+
+
+
+                                                1
+
+
+
+                                                               4
+                           ALLEY
+
+
+
+
+                                                                                                                                                    0
+                                        0
+
+                                                 0
+
+                                                           1
+                                                                                      BATTERY ST                                                        73
+
+
+      0                                                                                                0                                                                           0
+                     3                          TEV: 227
+
+
+
+
+                                                                                                                                          9
+
+
+
+
+                                                                                                                                                                           8
+                    219                         PHF: 0.73
+      222            0                                                                             223                             9
+
+
+          BATTERY ST                                                                                                                                    55
+                                                                              ALLEY
+                                                 0
+
+                                                           1
+
+                                                                     3
+
+
+
+
+                                                                                                       HV %:              PHF
+
+
+
+
+                                                                                                                                                                 1
+                                                                                              EB       3.2%               0.73
+                                                                                              WB               -            -
+                                                                                              NB       0.0%               0.50
+                                                                                              SB       0.0%               0.25
+                                                0
+
+
+
+                                                               4
+
+
+
+
+                                                                                            TOTAL      3.1%               0.73
+Two-Hour Count Summaries
+                          BATTERY ST                            BATTERY ST                             ALLEY                               ALLEY
+    Interval                                                                                                                                                     15-min           Rolling
+      Start                Eastbound                               Westbound                       Northbound                             Southbound              Total          One Hour
+                    LT             TH            RT        LT          TH              RT     LT           TH             RT       LT         TH        RT
+    4:00 PM          1                 75        0         0             0              0      0               1            1         0        0        0            78
+    4:15 PM          0                 58        0         0             0              0      0               0            0         1        0        0            59
+    4:30 PM          1                 48        0         0             0              0      0               0            2         0        0        0            51
+    4:45 PM          1                 38        0         0             0              0      0               0            0         0        0        0            39            227
+    5:00 PM          1                 53        1         0             0              0      0               0            0         0        1        0            56            205
+    5:15 PM          3                 53        0         0             0              0      0               1            0         0        0        0            57            203
+    5:30 PM          0                 49        2         0             0              0      0               0            0         0        0        0            51            203
+    5:45 PM          1                 54        1         0             0              0      0               0            1         1        0        0            58            222
+  Count Total        8             428           4         0             0              0      0               2            4         2        1        0            449
+    Peak Hr          3             219           0         0             0              0      0               1            3         1        0        0            227
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval               Heavy Vehicle Totals                                             Bicycles                                       Pedestrians (Crossing Leg)
+      Start         EB       WB             NB        SB       Total     EB            WB     NB       SB           Total        East         West      North          South           Total
+    4:00 PM          2             0        0         0         2            2          0      0           0         2            5            5            16             9           35
+    4:15 PM          3             0        0         0         3            0          0      1           0         1            0            2            10             13          25
+    4:30 PM          1             0        0         0         1            2          0      0           0         2            2            1            18             15          36
+    4:45 PM          1             0        0         0         1            5          0      0           0         5            1            1            29             18          49
+    5:00 PM          3             0        0         0         3            4          0      0           0         4            1            1            18             22          42
+    5:15 PM          3             0        0         0         3            2          0      1           0         3            1            2            36             23          62
+    5:30 PM          1             0        0         0         1            10         0      0           0         10           0            0            6              20          26
+    5:45 PM          1             0        0         0         1            4          0      0           0         4            3            2            18             22          45
+  Count Total       15             0        0         0         15           29         0      2           0         31          13            14        151               142         320
+    Peak Hr          7             0        0         0         7            9          0      1           0         10           8            9            73             55          145
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                       mark.skaggs@idaxdata.com
+                                                    Highway Capacity Manual 2010
+
+Signalized intersection level of service (LOS) is defined in terms of a weighted average control delay for
+the entire intersection. Control delay quantifies the increase in travel time that a vehicle experiences due
+to the traffic signal control as well as provides a surrogate measure for driver discomfort and fuel
+consumption. Signalized intersection LOS is stated in terms of average control delay per vehicle (in
+seconds) during a specified time period (e.g., weekday PM peak hour). Control delay is a complex
+measure based on many variables, including signal phasing and coordination (i.e., progression of
+movements through the intersection and along the corridor), signal cycle length, and traffic volumes with
+respect to intersection capacity and resulting queues. Table 1 summarizes the LOS criteria for signalized
+intersections, as described in the Highway Capacity Manual 2010 (Transportation Research Board,
+2010).
+
+Table 1. Level of Service Criteria for Signalized Intersections
+                           Average Control Delay
+ Level of Service            (seconds/vehicle)                  General Description
+          A                           ≤10                       Free Flow
+          B                         >10 – 20                    Stable Flow (slight delays)
+          C                         >20 – 35                    Stable flow (acceptable delays)
+                                                                Approaching unstable flow (tolerable delay, occasionally wait through more
+          D                         >35 – 55
+                                                                than one signal cycle before proceeding)
+          E                         >55 – 80                    Unstable flow (intolerable delay)
+             1
+         F                            >80                       Forced flow (congested and queues fail to clear)
+Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+1. If the volume-to-capacity (v/c) ratio for a lane group exceeds 1.0 LOS F is assigned to the individual lane group. LOS for overall approach or
+      intersection is determined solely by the control delay.
+
+
+
+
+Unsignalized intersection LOS criteria can be further reduced into two intersection types: all-way stop
+and two-way stop control. All-way stop control intersection LOS is expressed in terms of the weighted
+average control delay of the overall intersection or by approach. Two-way stop-controlled intersection
+LOS is defined in terms of the average control delay for each minor-street movement (or shared
+movement) as well as major-street left-turns. This approach is because major-street through vehicles are
+assumed to experience zero delay, a weighted average of all movements results in very low overall
+average delay, and this calculated low delay could mask deficiencies of minor movements. Table 2 shows
+LOS criteria for unsignalized intersections.
+
+                 Table 2. Level of Service Criteria for Unsignalized Intersections
+                                   Level of Service                            Average Control Delay (seconds/vehicle)
+                                            A                                                        0 – 10
+                                            B                                                      >10 – 15
+                                            C                                                      >15 – 25
+                                            D                                                      >25 – 35
+                                            E                                                      >35 – 50
+                                            F1                                                        >50
+                 Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+                 1. If the volume-to-capacity (v/c) ratio exceeds 1.0, LOS F is assigned an individual lane group for all unsignalized
+                    intersections, or minor street approach at two-way stop-controlled intersections. Overall intersection LOS is
+                    determined solely by control delay.
+HCM 2010 TWSC                                                          2401 3RD AVENUE MIXED-USE
+1: Alley & Wall St                                                                    With-Project 2018 PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           1.7
+
+Movement                          EBL EBT EBR        WBL WBT WBR        NBL NBT NBR               SBL SBT SBR
+Traffic Vol, veh/h                   0    0    0       33 370     5       12    5    0               0    5    5
+Future Vol, veh/h                    0    0    0       33 370     5       12    5    0               0    5    5
+Conflicting Peds, #/hr               0    0 162       161    0    0      162    0 161                0    0    0
+Sign Control                      Stop Stop Stop     Free Free Free     Stop Stop Stop            Stop Stop Stop
+RT Channelized                       -    - None        -    - None        -    - None               -    - None
+Storage Length                       -    -    -        0    -    -        -    -    -               -    -    -
+Veh in Median Storage, #             -    0    -        -    0    -        -    0    -               -    0    -
+Grade, %                             -    0    -        -    0    -        -    0    -               -    0    -
+Peak Hour Factor                    92   94   94       94   94   92       94   92   94              92   92   92
+Heavy Vehicles, %                    2    0    0        8    8    2        0    2    0               2    2    2
+Mvmt Flow                            0    0    0       35 394     5       13    5    0               0    5    5
+
+Major/Minor                                         Major2            Minor1                    Minor2
+Conflicting Flow All                                   161   0    0      795 630        -            - 628 558
+       Stage 1                                           -   -    -      161 161        -            - 467       -
+       Stage 2                                           -   -    -      634 469        -            - 161       -
+Critical Hdwy                                         4.18   -    -       7.1 6.52      -            - 6.52 6.22
+Critical Hdwy Stg 1                                      -   -    -         -     -     -            - 5.52      -
+Critical Hdwy Stg 2                                      -   -    -       6.1 5.52      -            -     -     -
+Follow-up Hdwy                                       2.272   -    -       3.5 4.018     -            - 4.018 3.318
+Pot Cap-1 Maneuver                                   1382    -    -      308 399        0            0 400 529
+       Stage 1                                           -   -    -         -     -     0            0 562       -
+       Stage 2                                           -   -    -      471 561        0            0     -     -
+Platoon blocked, %                                           -    -
+Mov Cap-1 Maneuver                                   1382    -    -     250    329      -             -   330   529
+Mov Cap-2 Maneuver                                      -    -    -     250    329      -             -   330     -
+       Stage 1                                          -    -    -       -      -      -             -   548     -
+       Stage 2                                          -    -    -     450    547      -             -     -     -
+
+Approach                                              WB                 NB                        SB
+HCM Control Delay, s                                  0.6               19.4                      14.1
+HCM LOS                                                                   C                          B
+
+Minor Lane/Major Mvmt            NBLn1 WBL WBT WBR SBLn1
+Capacity (veh/h)                    269 1382  -   - 406
+HCM Lane V/C Ratio                0.068 0.025 -   - 0.027
+HCM Control Delay (s)              19.4   7.7 -   - 14.1
+HCM Lane LOS                          C     A -   -     B
+HCM 95th %tile Q(veh)               0.2   0.1 -   -   0.1
+
+
+
+
+Transpo                                                                                             Synchro 9 Report
+HCM 2010 TWSC                                                                 2401 3RD AVENUE MIXED-USE
+2: Battery St & Alley                                                                        With-Project 2018 PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           1.5
+
+Movement                          EBL EBT EBR               WBL WBT WBR       NBL NBT NBR                SBL SBT SBR
+Traffic Vol, veh/h                   9 230     0               0    0    0       0    5    5               19    0    0
+Future Vol, veh/h                    9 230     0               0    0    0       0    5    5               19    0    0
+Conflicting Peds, #/hr              82    0    0               0    0   81       0    0    0               81    0   82
+Sign Control                      Free Free Free            Free Free Free    Stop Stop Stop             Stop Stop Stop
+RT Channelized                       -    - None               -    - None       -    - None                -    - None
+Storage Length                       -    -    -               -    -    -       -    -    -                -    -    -
+Veh in Median Storage, #             -    0    -               -    0    -       -    0    -                -    0    -
+Grade, %                             -    0    -               -    0    -       -    0    -                -    0    -
+Peak Hour Factor                    73   73   92              92   73   73      92   92   92               73   92   73
+Heavy Vehicles, %                    3    3    2               2    0    0       2    2    2                0    2    0
+Mvmt Flow                           12 315     0               0    0    0       0    5    5               26    0    0
+
+Major/Minor                      Major1                                      Minor1                    Minor2
+Conflicting Flow All                 82    0      -                               -   422    239          348    422     -
+       Stage 1                        -    -      -                               -   340       -          82      82    -
+       Stage 2                        -    -      -                               -     82      -         266    340     -
+Critical Hdwy                     4.16     -      -                               -   6.54   6.94          7.5   6.54    -
+Critical Hdwy Stg 1                   -    -      -                               -   5.54      -            -      -    -
+Critical Hdwy Stg 2                   -    -      -                               -      -      -          6.5   5.54    -
+Follow-up Hdwy                    2.23     -      -                               -   4.02   3.32          3.5   4.02    -
+Pot Cap-1 Maneuver                1506     -      0                               0   522    762          587    522     0
+       Stage 1                        -    -      0                               0   638       -            -      -    0
+       Stage 2                        -    -      0                               0      -      -         722    638     0
+Platoon blocked, %                         -
+Mov Cap-1 Maneuver                1506     -      -                               -   476    762          529    476      -
+Mov Cap-2 Maneuver                   -     -      -                               -   476      -          529    476      -
+       Stage 1                       -     -      -                               -   632      -            -      -      -
+       Stage 2                       -     -      -                               -     -      -          704    632      -
+
+Approach                            EB                                          NB                        SB
+HCM Control Delay, s                0.3                                        11.3                      12.2
+HCM LOS                                                                           B                         B
+
+Minor Lane/Major Mvmt            NBLn1 EBL      EBT SBLn1
+Capacity (veh/h)                    586 1506      - 529
+HCM Lane V/C Ratio                0.019 0.008     - 0.049
+HCM Control Delay (s)              11.3   7.4     0 12.2
+HCM Lane LOS                          B     A     A     B
+HCM 95th %tile Q(veh)               0.1     0     -   0.2
+
+
+
+
+Transpo                                                                                                    Synchro 9 Report
+                                         Attachment E - Parking Demand
+                                 Seattle Apartment Parking Demand Rate Calculation
+          Project Information
+          Project:                   2401 3rd Ave
+          Project No:                15115.00
+          Unit Mix
+          Studio & Open one bedroom units:                  60
+          One bedroom units:                                58
+          Two bedroom units:                                16
+          Three bedroom units                               0
+          Total apartment units:                           134
+
+          Census Data
+          Census Tract Number:                 80.01
+
+          Renter occupied housing with:
+          No Vehicle                     953
+          1 Vehicle                     1392
+          2 vehicles                     314
+          3 vehicles                     82
+          *2009-2013 American Community Survey 5-Year Estimates (Report #B25044)
+
+          Vehicle Ownership Rate Calculation
+
+          Studio, open, and one bedroom unit auto ownership:1
+                     0.59           autos/unit
+
+          One, two, and three bedroom unit auto ownership:2
+                     0.83           autos/unit
+
+          1. Assumes no vehicle or one vehicle ownership
+          2. Assumes no vehicle, one vehicle, two, and three vehicle ownership
+
+          Weighted Average Vehicle Ownership Rate for Proposed Apartments:
+                    0.72           autos/unit
+
+          Residential Peak Parking Demand
+
+                       96               Vehicles
+
+          ULI Apartment Visitor Parking Demand Rate
+
+                      0.05              autos/unit
+
+          Visitor Parking Demand Rate Calculation
+
+          Wtd. Avg. Vehicle Ownership + ULI Visitor Rate=
+                      7             Vehicles
+
+          Total Localized Peak Parking Demand
+
+                      103               vehicles
+
+
+
+Apartment Demand                                                                     5/31/2016
+                                               Attachment E - Parking Demand
+                                       Seattle Office Parking Demand Rate Calculation
+                Project Information
+                Project:                2401 3rd Ave
+                Project No:             15115.00
+                Retail Size:
+                Commercial Space
+                                  5,000 sf
+
+                Local Mode Split Data1:
+
+                Vehicle                            10%
+                Walk / Bicycle                     85%
+                Transit                             5%
+                                                   100%
+
+                Parking Demand Rate2:
+
+                           2.55             stalls / 1,000 sf (Shopping Center #820)
+
+                Localized Parking Demand Rate:
+
+                Parking Demand Rate x Vehicle Mode Split
+                         0.26          vehicles / 1,000 sf                    (Specialty Retail)
+
+                Parking Demand:
+                Office Size x Localized Parking Demand Rate
+                             2            vehicles
+
+                Notes:
+                1. Person trip mode splits for Retail use based on 2009 -2013 American Community 5-Year Estimates for
+                census
+                2  Basedtract 80.02
+                          on ITE Parking Generation (4th Edition, 2010) Specialty Retail land use 820 for weekday urban location.
+
+
+
+
+Retail Demand                                                                                                                       5/31/2016
+

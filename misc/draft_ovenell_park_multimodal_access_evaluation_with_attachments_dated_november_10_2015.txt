@@ -1,0 +1,1210 @@
+--- DRAFT ---
+
+
+
+
+November 10, 2015                                                                          TG: 13277.00, Task 03
+
+Ms. Deborah Knight
+City of Stanwood
+10220 270th Street NW
+Stanwood, WA 98292
+
+SUBJECT:         OVENELL PARK MULTIMODAL ACCESS EVALUATION
+
+Dear Deborah:
+
+A transportation evaluation was requested by the City of Stanwood to assess future access to the Ovenell
+Park property adjacent to SR 532. A range of access alternatives were considered at the outset and three
+concepts were developed for further analysis. The analysis considered the influence of the park access on
+intersection operations in the vicinity of the site. The findings show that a roundabout located at a new park
+access would enhance safety while maintaining mobility on SR 532 and access to nearby properties.
+
+
+Preferred Concept
+The Ovenell park property is located in the City of
+Stanwood’s Urban Growth Area (UGA) on the
+western edge of the city, south of SR 532 and
+generally between Advanced Heated Storage and the
+Camano Gateway Bridge. A single-lane roundabout is
+the preferred access concept because it provides
+several benefits, including 1) intersection operations
+that meet City standards, 2) proven safety records,
+and 3) opportunities to introduce access management
+at other access points on the highway.
+                                                               Park property extents in the City’s Urban Growth Area
+    1. The City and Washington State Department
+       of Transportation (WSDOT) maintain standards for intersection operations to ensure efficient
+       movement of people and goods. A roundabout located at the park access would meet both standards
+       upon opening and forecast year 2035, which is consistent with the City’s Transportation Plan (City of
+       Stanwood, 2015).
+
+    2. Roundabouts naturally slow vehicle speeds as traffic merges and circulates through the intersection.
+       When located on higher speed roadways, roundabouts can also be designed to slow traffic and serve
+       as a gateway treatment into a City or urban area. Roundabout intersections also have fewer conflict
+       points as compared to signalized and stop sign-controlled intersections.
+
+    3. Access management techniques can enhance traffic safety while maintaining accessibility of adjacent
+       properties. A roundabout allows for U-turns as an alternative to left-turns out of minor streets and
+       driveways. This allows for the conversion of business driveways to right-in, right-out or three-quarter
+       driveways that also allow inbound left-turns.
+
+
+    11730 118th Avenue N.E., Suite 600, Kirkland, WA 98034 | 425.821.3665 |
+--- DRAFT ---                                                                                       Ms. Deborah Knight
+                                                                                                    November 10, 2015
+                                                                                                          Page 2 of 11
+
+
+
+
+These are the primary reasons a roundabout is recommended as the preferred concept for a new access
+point to the Ovenell Park property. The report that follows describes our assumptions and approach,
+evaluation criteria, and detailed results for three concepts which includes the preferred concept.
+
+
+Assumptions and Approach
+The analysis of three access concepts selected for evaluation began with a broad review of alternatives that
+included a new access on SR 532 and shared driveways with adjacent land uses. The future park is
+anticipated to be a regional attraction for City and County residents to participate in activities and utilize the
+open space, waterfront and trail amenities. The approximate 20-acre park is much larger than other City parks
+and given the regional draw, it is anticipated to serve residents from a broader area.
+
+
+Alternatives removed from further consideration
+A new access driveway to the park was considered aligning
+with the existing stop sign-controlled intersection at SR 532 /
+270th Street NW (Lovers Road). This alternative was
+determined to be infeasible due to several reasons,
+including:
+      Intersection operations would not meet City
+         standards;
+      Limited intersection sight distance; and
+      Steep grade required to meet bridge approach.                     From SR 532 looking west towards the future park
+
+Similar alternatives were explored that considered new access points on the southern side of SR 532 aligning
+with new access points to properties on the north, such as the Orchard Nursery. These other alternatives
+were either revised to be included in the concepts for further review, or removed altogether due to geometric
+constraints and/or impacts to driveway relocations.
+
+
+Traffic volumes
+Future traffic volumes were developed based on three primary sources: existing traffic counts collected on
+SR 532, trips anticipated to be generated by the future park, and forecast volumes from the City’s travel
+demand model that was developed for the Transportation Plan.
+
+Traffic counts. Recent tube counts on SR 532 show the evening commute period experiences the highest
+traffic volumes during a typical weekday1. Turning movement counts were collected at the SR 532 / 104th
+Drive NW intersection and two nearby driveways during the PM peak hour (4 to 6 p.m.) on October 7, 2015.
+Attachment A contains a copy of both the tube count data and turning movement counts.
+
+Trip generation and distribution. Parks of all types typically generate the most trips on weekends, and
+these trips may be concentrated over a short period of time due to events beginning or ending at specific
+times that have large attendance levels. A weekend trip generation rate was selected to represent a
+
+
+
+1
+        WSDOT collected traffic counts on SR 532 just west of 102nd Avenue NW in March 2013.
+--- DRAFT ---                                                                                                       Ms. Deborah Knight
+                                                                                                                    November 10, 2015
+                                                                                                                          Page 3 of 11
+
+
+
+
+reasonable worst-case scenario. This ensures that if the access operates acceptably during this higher
+volume time period, the access will operate at that level or better during other time periods2.
+
+Forecast volumes. The City developed a travel demand model for the year 2035 as part of the long-range
+planning effort for the Transportation Plan. The access analysis is consistent with that model and used
+forecast volumes to ensure the concepts have a long-range service life. Growth in the forecast model
+volumes was applied to existing volumes to arrive at forecast 2035 traffic volumes at the park access.
+
+
+Intersection operations and standards
+Signalized and stop sign-controlled intersection operations were evaluated based on the level of service
+(LOS) methodology identified in the Highway Capacity Manual (HCM, 2010) and evaluated using Synchro
+software. Roundabout intersection operations were evaluated with SIDRA software with standard WSDOT
+protocols. LOS is measured in average control delay per vehicle and is typically reported using the
+intersection delay. Attachment B contains the HCM LOS definitions.
+
+Traffic operations for an intersection are described alphabetically with a range of levels of service (LOS A
+through F), with LOS A indicating free-flowing traffic and LOS F indicating extreme congestion and long
+vehicle delays. The City of Stanwood has an LOS standard of D or better for all intersections, except for stop
+sign-controlled intersections which have a standard of LOS E or better. WSDOT’s standard is LOS D or better
+for SR 532.
+
+
+Evaluation Criteria
+Concepts were evaluated based on whether it is a desirable (●), acceptable (◒), or an undesirable (○) option
+for each criterion. The following criteria were used to highlight the advantages and disadvantages of each
+concept:
+
+         Traffic operations measure how well the park access and nearby intersections process vehicles and
+          allow turning movements without excessive delays.
+         Safety identifies how well each concept addresses common safety considerations, such as the type
+          of traffic control, sight distance, and separation of travel modes.
+         Non-motorized mobility assesses to what extent pedestrian and bicycle connections are enhanced
+          and the quality of facilities that are provided.
+         Right-of-way impacts include the additional right-of-way required based on the footprint of each
+          concept.
+         Cost estimates are planning-level estimates of the cost of the transportation improvements
+          identified.
+
+
+
+
+2
+           The park is anticipated to generate 86 peak hour vehicle trips with one-half inbound and one-half outbound (43 in / 43 out)
+based on the Trip Generation Manual, 9th Edition (Institute of Transportation Engineers). The majority of the trips will be oriented to/from
+the City of Stanwood and it was assumed that approximately 85 percent of park trips would travel to/from the east, while the remaining
+15 percent would travel to/from the west based on select zone analysis from the City’s travel demand model.
+--- DRAFT ---                                                                               Ms. Deborah Knight
+                                                                                            November 10, 2015
+                                                                                                  Page 4 of 11
+
+
+
+
+Access Concepts
+Three concepts were selected from a range of access alternatives. The three concepts varied in access
+location and the type of intersection traffic control required to maintain City standards for intersection
+operations. For concepts that include a new access to accommodate park traffic, the best location was
+determined to be at the eastern edge of the Ovenell Park property. This allows for maximum sight distance
+from the Camano Gateway Island Bridge and preserves as much continuous park property for recreational
+activities. Attachment C provides the lane configurations, traffic volumes, and LOS results for each concept
+while detailed cost estimates for each concept is included in Attachment D.
+
+The following pages present the results of the transportation evaluation for the following three concepts:
+
+       Concept A extends the existing two-way left turn-lane (TWLTL) on SR 532 to the west and provides
+        a stop sign-controlled intersection at the park access.
+       Concept B extends the TWLTL on SR 532 to the west and provides a single-lane roundabout
+        intersection at the park access.
+       Concept C provides a traffic signal at the SR 532 / 104th Drive NW intersection and upgrades
+        Saratoga Drive to provide access to the park.
+--- DRAFT ---                                                                         Ms. Deborah Knight
+                                                                                      November 10, 2015
+                                                                                            Page 5 of 11
+
+
+
+
+Concept A – Extend TWLTL with a Stop Sign-Controlled Intersection at the Park Access
+This concept is illustrated in Figure 1 and extends the
+                                                              Evaluation Criteria      Concept A
+existing three lane cross-section with a two-way left-
+turn lane (TWLTL) for SR 532 to the west. The TWLTL       Traffic Operations
+would allow left-turns from the highway into existing     Intersection LOS/Delay          ●
+driveways and a new park access driveway on the
+                                                          Vehicle Turn Lane Queuing       ◒
+eastern edge of the park property. The left-turning
+                                                          Safety
+vehicles exiting the park could use the TWLTL to
+accelerate and merge with westbound traffic. This         Non-Motorized                   ◒
+concept would also extend existing sidewalk on the        Motorized                       ◒
+south side of SR 532 west to the park property.
+                                                          Non-Motorized Mobility
+
+Advantages of Concept A include:                          Pedestrian crossings            ◒
+    Traffic operations results for stop sign-control     Bicycle connectivity            ◒
+       at the park access are forecast to operate at
+                                                          Impacts
+       LOS D in 2035, which is within the City
+       standards but not as efficient as a roundabout.    Right-of-Way (ROW)              ●
+    Extension of sidewalk south of SR 532                Costs
+       provides a non-motorized connection to the         Estimated Costs                 ●
+       park.
+    The TWLTL provides storage for vehicles              Overall                         ◒
+       turning into existing driveways, and removes
+                                                          ● – Desirable
+       them from the through lanes on SR 532.
+    Preliminary layouts show the concept could be        ◒ – Acceptable
+       completed within the existing right-of-way.        ○ – Undesirable
+    The estimated cost of this concept is the lowest
+       cost option of the three concepts at
+       approximately $1.1 million.
+
+Disadvantages of Concept A include:
+     Driveways for nearby properties maintain
+       existing turning movements with limited options
+       for implementing access management on
+       SR 532.
+     TWLTLs can be confusing for some motorists
+       and do not have the same history of safety
+       improvements that roundabouts have shown.
+ Not to scale
+
+
+
+
+                                                   Orchard
+                                                   Nursery
+
+
+
+
+                                                                    LEGEND
+
+
+                                                                     Stop Sign
+
+                                            PARK             Landscaping
+
+                                                                           Curb Ramp
+
+                                                              Sidewalk
+
+
+
+Figure 1: Illustration of Access Concept A
+Ovenall Park Multimodal Access Evaluation
+--- DRAFT ---                                                                          Ms. Deborah Knight
+                                                                                       November 10, 2015
+                                                                                             Page 7 of 11
+
+
+
+
+Concept B (Preferred) – Extend TWLTL with Single-Lane Roundabout Intersection at the Park Access
+This concept is illustrated in Figure 2 and extends the
+                                                               Evaluation Criteria      Concept B
+existing three lane cross-section with a two-way left-
+turn lane (TWLTL) for SR 532 to the west. A                Traffic Operations
+roundabout at the park access would provide a              Intersection LOS/Delay          ●
+gateway treatment to both the park and City of
+                                                           Vehicle Turn Lane Queuing       ●
+Stanwood for travelers on SR 532. Roundabouts have
+                                                           Safety
+safety benefits over traditional intersection
+configurations, in addition to improved intersection       Non-Motorized                   ●
+operations. Orchard Nursery’s site access driveway         Motorized                       ●
+would be modified to provide a new eastbound left-turn
+                                                           Non-Motorized Mobility
+lane and restrict southbound movements to rights-only.
+This concept would also extend sidewalk on the south       Pedestrian crossings            ◒
+side of SR 532 west to the park property.                  Bicycle connectivity            ◒
+                                                           Impacts
+Advantages of Concept B include:
+    Traffic operations results for the roundabout         Right-of-Way (ROW)              ●
+       are forecast to operate at LOS C in 2035,           Costs
+       which is within the City standards.                 Estimated Costs                 ◒
+    Visitors exiting the park could access SR 532
+       with shorter queues and delays as compared to       Overall                         ●
+       Concepts A and C.
+    Roundabouts have several safety benefits that         ● – Desirable
+       include slowing vehicle speeds and reducing         ◒ – Acceptable
+       the number of potential conflict points.
+    The southbound left-turn restriction at the
+                                                           ○ – Undesirable
+       Orchard Nursery driveway are accommodated
+       with U-turns at the roundabout.
+    The TWLTL provides storage for vehicles
+       turning into driveways, and removes them from
+       through lanes on SR 532.
+    Extension of sidewalk south of SR 532 pro-
+       vides a non-motorized connection to the park.
+
+Disadvantages of Concept B include:
+     Preliminary layouts show the concept could be
+       completed within the existing right-of-way, but
+       the intersection would have a larger footprint at
+       the park entrance as compared to Concept A.
+     The estimated cost of this concept is $1.75
+       million, which is more than Concept A (albeit
+       less than Concept C).
+ Not to scale
+
+
+
+
+                                             Orchard
+                                             Nursery
+
+
+
+
+                                                              LEGEND
+
+                                                       Landscaping
+                                  PARK
+                                                                     Curb Ramp
+
+
+
+                                                        Sidewalk
+
+
+
+Figure 2: Illustration of Access Concept B
+Ovenall Park Multimodal Access Evaluation
+--- DRAFT ---                                                                         Ms. Deborah Knight
+                                                                                      November 10, 2015
+                                                                                            Page 9 of 11
+
+
+
+
+Concept C – Install a Traffic Signal at SR 532 / 104th Drive NW and Upgrade Saratoga Drive
+This concept is illustrated in Figure 3 and upgrades
+                                                              Evaluation Criteria      Concept C
+both 104th Drive NW south of SR 532 and Saratoga
+Drive to accommodate park traffic entering the property   Traffic Operations
+from the east via SR 532 / 104th Drive NW. SR 532 /       Intersection LOS/Delay          ●
+104th Drive NW requires the installation of a traffic
+signal to accommodate forecast traffic volumes and
+                                                          Vehicle Turn Lane Queuing       ◒
+meet operational standards. This concept would also       Safety
+
+provide sidewalk on the north side of an improved         Non-Motorized                   ◒
+Saratoga Drive to the park property.
+                                                          Motorized                       ◒
+Advantages of Concept C include:                          Non-Motorized Mobility
+
+    Traffic operations results for the SR 532 / 104th    Pedestrian crossings            ●
+       Drive NW signal are forecast to operate at LOS
+       D in 2035, which is within the City standards.
+                                                          Bicycle connectivity            ◒
+    Construction of new sidewalk on the north side       Impacts
+
+       of Saratoga Drive provides a non-motorized         Right-of-Way (ROW)              ◒
+       connection to the park property and a traffic      Costs
+       signal would provide new, protected pedestrian
+                                                          Estimated Costs                 ○
+       crossings at SR 532 / 104th Drive NW.
+                                                          Overall                         ◒
+Disadvantages of Concept C include:
+     Preliminary layouts show the concept would
+                                                          ● – Desirable
+       require additional right-of-way along Saratoga     ◒ – Acceptable
+       Drive.                                             ○ – Undesirable
+     The estimated cost of this concept is the
+       highest cost option of the three concepts
+       evaluated at approximately $2.4 million.
+     Driveways for nearby properties maintain
+       turning movements at driveways with limited
+       options for implementing access management
+       on SR 532.
+     Saratoga Drive as the primary access to the
+       park property could be confusing for park users
+       as the adjacent properties are industrial land
+       uses.
+     Traffic signals do not have the same history of
+       safety improvements that roundabouts have
+       shown.
+ Not to scale
+
+
+
+
+                                                                104th DR NW
+                PARK
+
+
+
+
+                                                                              LEGEND
+                                                         RIVE
+                                                      AD
+                                                R ATOG                         Traffic Signal
+                                             SA
+
+                                                                Landscaping
+
+                                                                                   Curb Ramp
+
+                                                                   Sidewalk
+
+
+
+Figure 3: Illustration of Access Concept C
+Ovenall Park Multimodal Access Evaluation
+--- DRAFT ---                                                                          Ms. Deborah Knight
+                                                                                       November 10, 2015
+                                                                                            Page 11 of 11
+
+
+
+
+Please let me know if you have any questions or would like to discuss our evaluation or recommended access
+concept further.
+
+Sincerely,
+Transpo Group
+
+
+
+
+Kevin L. Jones, P.E., PTOE
+Associate Director
+
+Enclosed:       Attachment A – Traffic Counts
+                Attachment B – LOS Definitions
+                Attachment C – Lane Configurations, Traffic Volumes, and LOS Results
+                Attachment D – Cost Estimates
+
+KLJ/
+Attachment A:   Traffic Counts
+LOCATION             : SR 532 JCT 102ND AVE NW                                                               Site: 53200403EW
+DIRECTION            : EAST LEG - WESTBOUND
+MILEPOST             : 4.03   COUNTER # 1522
+                                                 Seven Day Volume, per Channel
+                                                            WB SR 532
+                       Wed         Thu          Fri           Sat         Sun         Mon         Tue   Mon - Fri      7 Day
+Interval Start   3/19/2014   3/20/2014   3/21/2014      3/22/2014   3/23/2014   3/24/2014   3/25/2014    Average     Average
+   12:00   AM          69          80          77            125          98          46          92       72.8        83.9
+    1:00   AM          57          47          54             54          49          25          39       44.4        46.4
+    2:00   AM          27          32          43             46          27          12          28       28.4        30.7
+    3:00   AM          19          20          15             27          21          15          15       16.8        18.9
+    4:00   AM          21          13          29             14          20          17          22       20.4        19.4
+    5:00   AM          61          64          54             33          16          60          59       59.6        49.6
+    6:00   AM         122         120         135             59          49         131         128      127.2       106.3
+    7:00   AM         224         281         286            108          92         324         279      278.8       227.7
+    8:00   AM         372         413         437            288         202         375         408      401.0       356.4
+    9:00   AM         428         436         444            407         275         461         408      435.4       408.4
+   10:00   AM         479         459         531            602         457         515         451      487.0       499.1
+   11:00   AM         512         600         613            693         531         596         563      576.8       586.9
+   12:00   PM         624         604         708            789         712         624         639      639.8       671.4
+    1:00   PM         625         662         797            756         630         698         663      689.0       690.1
+    2:00   PM         865         926         978            727         634         812         858      887.8       828.6
+    3:00   PM         960         979         923            769         635         867         950      935.8       869.0
+    4:00   PM        1032        1056         988            735         612         993         994     1012.6       915.7
+    5:00   PM        1011         999        1022            682         537         815         998      969.0       866.3
+    6:00   PM         773         820         812            647         499         784         838      805.4       739.0
+    7:00   PM         582         631         674            553         464         521         567      595.0       570.3
+    8:00   PM         413         520         560            384         311         380         478      470.2       435.1
+    9:00   PM         287         331         421            356         185         264         286      317.8       304.3
+   10:00   PM         171         199         309            246         137         144         164      197.4       195.7
+   11:00   PM         144         155         210            182          93         126         133      153.6       149.0
+Totals               9878       10447        11120          9282        7286        9605       10060    10222.0       9668.3
+
+                                                           Peak Hours
+ 12:00 AM -
+                 11:00 AM    11:00 AM    11:00 AM       10:30 AM    10:30 AM    11:00 AM    11:00 AM    11:00 AM    11:00 AM
+  12:00 PM
+    Volume             512         600            613         698         543         596         563      576.8       586.9
+     Factor           0.89        0.90           0.93        0.94        0.90        0.93        0.92       0.95        0.98
+
+ 12:00 PM -
+                   4:45 PM     4:30 PM     4:45 PM      12:00 PM    12:00 PM      4:00 PM     4:45 PM    4:00 PM     4:00 PM
+  12:00 AM
+    Volume            1048        1069           1040         789         712         993        1058     1012.6       915.7
+     Factor           0.96        0.97           0.98        0.95        0.89        0.97        0.97       0.95        0.96
+
+
+
+
+                                                                                                                           1
+LOCATION             : SR 532 JCT 102ND AVE NW                                                               Site: 53200403NS
+DIRECTION            : NORTH LEG - SOUTHBOUND
+MILEPOST             : 4.03   COUNTER # 1842
+                                                 Seven Day Volume, per Channel
+                                                          102ND AVE NW
+                       Wed         Thu          Fri           Sat         Sun         Mon         Tue   Mon - Fri      7 Day
+Interval Start   3/19/2014   3/20/2014   3/21/2014      3/22/2014   3/23/2014   3/24/2014   3/25/2014    Average     Average
+   12:00   AM          13          10           20            30          39          12          17       14.4        20.1
+    1:00   AM           3          16            7            19          21          10           5        8.2        11.6
+    2:00   AM           5           3            5             5           7           1           2        3.2         4.0
+    3:00   AM           6           5            5             3           3           4           6        5.2         4.6
+    4:00   AM           9          12            8             3           2           7           5        8.2         6.6
+    5:00   AM          31          29           26             9           6          37          35       31.6        24.7
+    6:00   AM          61          63           50            32          19          66          57       59.4        49.7
+    7:00   AM          90          83          107            51          19          93         109       96.4        78.9
+    8:00   AM         114         133          145            87          78         151         122      133.0       118.6
+    9:00   AM         155         125          151           128          96         134         148      142.6       133.9
+   10:00   AM         161         168          173           186         120         190         166      171.6       166.3
+   11:00   AM         163         215          251           220         139         193         167      197.8       192.6
+   12:00   PM         207         203          248           208         220         202         191      210.2       211.3
+    1:00   PM         236         216          254           232         204         190         205      220.2       219.6
+    2:00   PM         213         249          291           230         182         249         241      248.6       236.4
+    3:00   PM         306         319          358           238         196         280         297      312.0       284.9
+    4:00   PM         313         363          367           239         206         368         323      346.8       311.3
+    5:00   PM         366         385          348           228         177         362         281      348.4       306.7
+    6:00   PM         269         294          258           204         124         247         258      265.2       236.3
+    7:00   PM         144         156          213           159         122         166         160      167.8       160.0
+    8:00   PM         154         147          140           140         122         119         111      134.2       133.3
+    9:00   PM          90          95           82            92          50          78          89       86.8        82.3
+   10:00   PM          34          73           70            99          35          28          32       47.4        53.0
+   11:00   PM          32          30           36            47          16          14          21       26.6        28.0
+Totals               3175        3392         3613          2889         2203       3201        3048     3285.8      3074.4
+
+                                                           Peak Hours
+ 12:00 AM -
+                   9:45 AM   11:00 AM    11:00 AM       11:00 AM    10:30 AM    10:30 AM    11:00 AM    11:00 AM    11:00 AM
+  12:00 PM
+    Volume             169         215            251         220         141         220         167      197.8       192.6
+     Factor           0.83        0.84           0.92        0.83        0.90        0.92        0.77       0.95        0.94
+
+ 12:00 PM -
+                   4:45 PM     5:00 PM     3:30 PM        2:30 PM   12:15 PM      4:00 PM     3:30 PM    4:45 PM     4:45 PM
+  12:00 AM
+    Volume             370         385            372         258         227         368         334      350.6       313.0
+     Factor           0.93        0.94           0.88        0.85        0.83        0.96        0.94       0.98        0.98
+
+
+
+
+                                                                                                                           1
+LOCATION             : SR 532 JCT 102ND AVE NW                                                                Site: 53200403SN
+DIRECTION            : SOUTH LEG - NORTHBOUND
+MILEPOST             : 4.03   COUNTER # 0653
+                                                 Seven Day Volume, per Channel
+                                                        TWIN CITY PARKING
+                       Wed         Thu          Fri           Sat         Sun          Mon         Tue   Mon - Fri      7 Day
+Interval Start   3/19/2014   3/20/2014   3/21/2014      3/22/2014   3/23/2014    3/24/2014   3/25/2014    Average     Average
+   12:00   AM           1           1             2            0            1           0           1         1.0        0.9
+    1:00   AM           0           0             0            0            0           0           0         0.0        0.0
+    2:00   AM           0           0             0            0            0           0           0         0.0        0.0
+    3:00   AM           0           0             0            0            0           0           0         0.0        0.0
+    4:00   AM           0           0             0            0            0           0           0         0.0        0.0
+    5:00   AM           5           3             4            0            0           6           5         4.6        3.3
+    6:00   AM           7           7            10            2            0           9          13         9.2        6.9
+    7:00   AM           1           4             6            0            0           8           2         4.2        3.0
+    8:00   AM           4           6             3            1            1           2           1         3.2        2.6
+    9:00   AM           3           3             6            0            3           3           4         3.8        3.1
+   10:00   AM           0           5             3            0            1           2           1         2.2        1.7
+   11:00   AM           4          17             5            2            0           6           2         6.8        5.1
+   12:00   PM           8          11            10            0            2          10          10         9.8        7.3
+    1:00   PM           7           9            13            0            2           6           5         8.0        6.0
+    2:00   PM           7          13             9            0            0           8          13        10.0        7.1
+    3:00   PM          25          23            17            1            0          20          24        21.8       15.7
+    4:00   PM           7           8             7            3            1           8           8         7.6        6.0
+    5:00   PM           3           2             1            3            0           1           2         1.8        1.7
+    6:00   PM           1           0             0            1            0           2           0         0.6        0.6
+    7:00   PM           0           2             1            3            0           0           0         0.6        0.9
+    8:00   PM           0           0             0            2            0           1           0         0.2        0.4
+    9:00   PM           0           0             0            0            0           0           0         0.0        0.0
+   10:00   PM           3           2             6            0            0           5           3         3.8        2.7
+   11:00   PM           0           0             0            0            0           0           0         0.0        0.0
+Totals                  86        116            103           18           11          97          94       99.2        75.0
+
+                                                           Peak Hours
+ 12:00 AM -
+                   5:45 AM   11:00 AM      6:15 AM       5:45 AM      9:00 AM      6:15 AM     6:00 AM   6:15 AM     6:15 AM
+  12:00 PM
+    Volume               9          17             12           2           3           15          13       11.4         8.4
+     Factor           0.56        0.53           0.60        0.50        0.38         0.63        0.33       0.62        0.64
+
+ 12:00 PM -
+                   3:00 PM     3:15 PM     2:45 PM        7:15 PM   12:00 PM       3:15 PM     2:45 PM   3:15 PM      3:15 PM
+  12:00 AM
+    Volume              25          25             20           5           2           22          24       22.0        16.0
+     Factor           0.63        0.52           0.63        0.42        0.25         0.46        0.43       0.56        0.57
+
+
+
+
+                                                                                                                            1
+LOCATION             : SR 532 JCT 102ND AVE NW                                                               Site: 53200403WE
+DIRECTION            : WEST LEG - EASTBOUND
+MILEPOST             : 4.03   COUNTER # 1431
+                                                 Seven Day Volume, per Channel
+                                                            EB SR 532
+                       Wed         Thu          Fri           Sat         Sun         Mon         Tue   Mon - Fri      7 Day
+Interval Start   3/19/2014   3/20/2014   3/21/2014      3/22/2014   3/23/2014   3/24/2014   3/25/2014    Average     Average
+   12:00   AM          12          12          18             35          40          12          23       15.4        21.7
+    1:00   AM          18           9          11             13          12           9          12       11.8        12.0
+    2:00   AM          39          35          42             25          24          30          27       34.6        31.7
+    3:00   AM          85          91          89             34          31          82          97       88.8        72.7
+    4:00   AM         291         294         246             83          44         292         306      285.8       222.3
+    5:00   AM         560         577         482            136          97         540         553      542.4       420.7
+    6:00   AM         769         766         719            217         131         801         825      776.0       604.0
+    7:00   AM         896        1036        1113            384         201        1075        1023     1028.6       818.3
+    8:00   AM         979         873         816            584         449         837         861      873.2       771.3
+    9:00   AM         762         855         909            822         604         821         892      847.8       809.3
+   10:00   AM         829         870         829            933         769         783         795      821.2       829.7
+   11:00   AM         762         735         900            927         774         742         721      772.0       794.4
+   12:00   PM         823         786         950            891         838         783         746      817.6       831.0
+    1:00   PM         726         793         787            769         732         765         737      761.6       758.4
+    2:00   PM         616         682         680            719         629         659         641      655.6       660.9
+    3:00   PM         655         669         728            649         611         635         682      673.8       661.3
+    4:00   PM         575         614         705            650         657         637         556      617.4       627.7
+    5:00   PM         510         619         627            607         500         482         472      542.0       545.3
+    6:00   PM         410         418         435            440         427         374         409      409.2       416.1
+    7:00   PM         216         276         291            287         277         245         248      255.2       262.9
+    8:00   PM         166         190         216            267         206         166         122      172.0       190.4
+    9:00   PM         107         131         148            177         130         111         119      123.2       131.9
+   10:00   PM          70          74          91            101          59          37          63       67.0        70.7
+   11:00   PM          28          37          77             75          32          29          25       39.2        43.3
+Totals              10904       11442        11909          9825        8274       10947       10955    11231.4     10608.0
+
+                                                           Peak Hours
+ 12:00 AM -
+                   8:00 AM     6:45 AM     6:45 AM      10:00 AM    10:45 AM      6:45 AM     6:45 AM   6:45 AM     10:00 AM
+  12:00 PM
+    Volume             979        1074           1126         933         790        1116        1071     1056.6       829.7
+     Factor           0.88        0.86           0.83        0.94        0.94        0.82        0.92       0.86        0.95
+
+ 12:00 PM -
+                 12:00 PM    12:30 PM     12:00 PM      12:00 PM    12:00 PM    12:45 PM    12:15 PM    12:00 PM    12:00 PM
+  12:00 AM
+    Volume             823         799            950         891         838         806         779      817.6       831.0
+     Factor           0.90        0.93           0.94        0.91        0.96        0.92        0.93       0.92        0.95
+
+
+
+
+                                                                                                                           1
+                                               SR 532 Weekday Traffic Volumes
+                                                          at 102nd Avenue
+
+
+1,800
+                 Average Midweek
+                 Average Weekend
+1,600
+
+
+
+1,400
+
+
+
+1,200
+
+
+
+1,000
+
+
+
+ 800
+
+
+
+ 600
+
+
+
+ 400
+
+
+
+ 200
+
+
+
+   -
+        12:00 1:00 2:00 3:00 4:00 5:00 6:00 7:00 8:00 9:00 10:00 11:00 12:00 1:00 2:00 3:00 4:00 5:00 6:00 7:00 8:00 9:00 10:00 11:00
+         AM AM AM AM AM AM AM AM AM AM AM AM PM PM PM PM PM PM PM PM PM PM PM PM
+www.idaxdata.com                                                                                                                                                                                                         01
+
+
+
+
+                                              104TH DR NW
+                                                 SR 532
+                                                                                                                                                       Date: Wed, Oct 07, 2015
+                 N                                          Peak Hour                                                                          Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                                 Peak Hour: 4:30 PM to 5:30 PM
+
+
+
+                                                            53
+
+
+
+                                                                          21
+                              104TH DR NW
+
+
+                                                  44
+
+
+
+
+                                                                               0
+                                                             0
+
+                                                                      9
+
+
+
+
+                                                                                                                                                                            0
+                                                                                                          SR 532
+
+                         0                                                                                11
+                                                                                                                                                                                        0
+       1,220                                                                                                               1,192                                                                                 0
+                        10                              TEV: 1,892                                        1,172
+
+
+
+
+                                                                                                                                                                                                 0
+                                                                                                                                                                            0
+                       598                              PHF: 0.94                                         9
+       627                                                                                                                     623
+                                                                                                          0                                              0                              0
+                        19
+
+                      SR 532
+                                                                                            104TH DR NW
+                                                                                16
+                                                                 4
+
+                                                                          0
+                                                        0
+
+
+
+
+                                                                                                                                                                                             0
+                                                                                                                                     HV %:       PHF
+                                                                                                                           EB        3.5%        0.81
+                                                                                                                           WB        1.0%        0.96
+                                                            28
+
+
+
+                                                                          20
+
+
+
+
+                                                                                                                           NB        0.0%        0.83
+                                                                                                                           SB        0.0%        0.88
+                                                                                                                       TOTAL         1.8%        0.94
+
+
+Two-Hour Count Summaries
+                          SR 532                                                SR 532                                     104TH DR NW                               104TH DR NW
+   Interval                                                                                                                                                                                          15-min           Rolling
+                        Eastbound                                             Westbound                                        Northbound                             Southbound
+     Start                                                                                                                                                                                            Total          One Hour
+                UT      LT    TH                        RT           UT       LT    TH                        RT      UT        LT    TH          RT     UT            LT    TH             RT
+   4:00 PM       0       0                  139         7            0         3      295                     1       0         1          0      6          0         3            0       14        469               0
+   4:15 PM       0       1                  133         3            0         1      278                     7       0         3          0      4          0         3            0       6         439               0
+   4:30 PM       0       4                  183         6            0         2      288                     3       0         0          0      4          0         0            0       11        501               0
+   4:45 PM       0       0                  130         6            0         2      277                     4       0         0          0      6          0         4            0       11        440             1,849
+   5:00 PM       0       3                  134         3            0         2      307                     2       0         3          0      3          0         2            0       13        472             1,852
+   5:15 PM       0       3                  151         4            0         3      300                     2       0         1          0      3          0         3            0       9         479             1,892
+   5:30 PM       0       3                  106         2            0         2      299                     4       0         3          0      3          0         0            0       5         427             1,818
+   5:45 PM       0       2                  116         4            0         0      296                     7       0         2          0      1          0         1            0       12        441             1,819
+ Count Total     0       16                 1,092       35           0         15     2,340                   30      0         13         0      30         0         16           0       81       3,668              0
+ Peak Hour       0       10                 598         19           0         9      1,172                   11      0         4          0      16         0         9            0       44       1,892              0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval               Heavy Vehicle Totals                                                                        Bicycles                                             Pedestrians (Crossing Leg)
+     Start      EB        WB      NB      SB                                  Total    EB                     WB         NB           SB         Total       East           West      North    South                    Total
+   4:00 PM       7           5                      0            0             12      0                          0        0           0          0              0              0               0            1              1
+   4:15 PM       0        10                        0            0             10      0                          0        0           0          0              0              0               0            0              0
+   4:30 PM       11          2                      0            0             13      0                          0        0           0          0              0              0               0            0              0
+   4:45 PM       5           5                      0            0             10      0                          0        0           0          0              0              0               0            0              0
+   5:00 PM       3           3                      0            0             6       0                          0        0           0          0              0              0               0            0              0
+   5:15 PM       3           2                      0            0             5       0                          0        0           0          0              0              0               0            0              0
+   5:30 PM       4           3                      1            0             8       0                          0        0           0          0              0              1               0            0              1
+   5:45 PM       4           3                      0            0             7       0                          0        0           0          0              0              0               0            0              0
+ Count Total     37       33                        1            0             71      0                          0        0           0          0              0              1               0            1              2
+ Peak Hour       22       12                        0            0             34      0                          0        0           0          0              0              0               0            0              0
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                                             mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                                              03
+
+
+
+
+                                 STORAGE DW
+                                    SR 532
+                                                                                                                                    Date: Wed, Oct 07, 2015
+                     N                   Peak Hour                                                                          Count Period: 4:00 PM to 6:00 PM
+                                                                                                                              Peak Hour: 4:00 PM to 5:00 PM
+
+
+
+
+                                                                                       SR 532
+
+                                                                                                                                                                0
+                                                                                       0
+         0                                                                                                    0                                                                       0
+                             0            TEV:  1                                      0
+
+
+
+
+                                                                                                                                                                         0
+                                                                                                                                                       0
+                                          PHF: 0.25                                    0
+         0                   0
+                                                                                                              1                       0
+                             0                                                                                                                                      0
+
+                     SR 532
+                                                                          STORAGE DW
+
+
+
+
+                                                                                                                  HV %:       PHF
+                                                         0
+
+                                                                 1
+                                                 0
+
+
+
+
+                                                                                                                                                                        0
+                                                                                                        EB          -           -
+                                                                                                        WB          -           -
+                                                                                                        NB        0.0%        0.25
+                                                                                                        SB          -           -
+                                             0
+
+
+                                                         1
+
+
+
+
+                                                                                                    TOTAL         0.0%        0.25
+
+
+Two-Hour Count Summaries
+                          SR 532                             SR 532                                     STORAGE DW                                      0
+   Interval                                                                                                                                                                     15-min     Rolling
+                         Eastbound                       Westbound                                          Northbound                            Southbound
+     Start                                                                                                                                                                       Total    One Hour
+                UT       LT    TH        RT      UT      LT    TH                      RT          UT        LT    TH          RT         UT       LT    TH             RT
+   4:00 PM       0       0       0       0           0       0       0                     0       0         0          0      1          0        0            0       0         1          0
+   4:15 PM       0       0       0       0           0       0       0                     0       0         0          0      0          0        0            0       0         0          0
+   4:30 PM       0       0       0       0           0       0       0                     0       0         0          0      0          0        0            0       0         0          0
+   4:45 PM       0       0       0       0           0       0       0                     0       0         0          0      0          0        0            0       0         0          1
+   5:00 PM       0       0       0       0           0       0       0                     0       0         0          0      1          0        0            0       0         1          1
+   5:15 PM       0       0       0       0           0       0       0                     0       0         0          0      0          0        0            0       0         0          1
+   5:30 PM       0       0       0       0           0       0       0                     0       0         0          0      0          0        0            0       0         0          1
+   5:45 PM       0       0       0       0           0       0       0                     0       0         0          0      0          0        0            0       0         0          1
+ Count Total     0       0       0       0           0       0       0                     0       0         0          0      2          0        0            0       0         2          0
+ Peak Hour       0       0       0       0           0       0       0                     0       0         0          0      1          0        0            0       0         1          0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval               Heavy Vehicle Totals                                                     Bicycles                                            Pedestrians (Crossing Leg)
+     Start      EB        WB      NB      SB             Total       EB                    WB         NB           SB         Total       East          West      North    South             Total
+   4:00 PM       0           0       0           0           0       0                         0        0           0          0              0             0               0         0          0
+   4:15 PM       0           0       0           0           0       0                         0        0           0          0              0             0               0         0          0
+   4:30 PM       0           0       0           0           0       0                         0        0           0          0              0             0               0         0          0
+   4:45 PM       0           0       0           0           0       0                         0        0           0          0              0             0               0         0          0
+   5:00 PM       0           0       0           0           0       0                         0        0           0          0              0             0               0         0          0
+   5:15 PM       0           0       0           0           0       0                         0        0           0          0              0             0               0         0          0
+   5:30 PM       0           0       0           0           0       0                         0        0           0          0              0             0               0         0          0
+   5:45 PM       0           0       0           0           0       0                         0        0           0          0              0             0               0         0          0
+ Count Total     0           0       0           0           0       0                         0        0           0          0              0             0               0         0          0
+   Peak Hr       0           0       0           0           0       0                         0        0           0          0              0             0               0         0          0
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                         mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                                       02
+
+
+
+
+                 ORCHARDS NURSERY DW
+                        SR 532
+                                                                                                                              Date: Wed, Oct 07, 2015
+               N                                 Peak Hour                                                            Count Period: 4:00 PM to 6:00 PM
+                                                                                                                        Peak Hour: 4:30 PM to 5:30 PM
+
+
+
+                                                 1
+
+
+
+                                                              0
+                        NURSERY DW
+                        ORCHARDS
+
+
+
+
+                                                      0
+                                       0
+
+                                                 1
+
+
+
+
+                                                                                                                                             0
+                                                                                SR 532
+
+                                                                                0
+                                                                                                                                                       1
+     1,230                                                                                      1230                                                                       0
+                        0                    TEV: 1,859                         1,230
+
+
+
+
+                                                                                                                                                               0
+                                                                                                                                            0
+                        0                    PHF: 0.96                          0
+     628                                                                                         629                          0
+                      628
+                                                                                                                                                       0
+                 SR 532
+                                                                                                          HV %:         PHF
+                                                                                                 EB       2.9%          0.84
+                                                                                                 WB       1.3%          0.92
+                                                                                                 NB           -           -
+                                                                                                 SB       0.0%          0.25
+                                                                                             TOTAL        1.8%          0.96
+
+
+Two-Hour Count Summaries
+                             SR 532                                 SR 532                                0                       ORCHARDS NURSERY DW
+   Interval                                                                                                                                                            15-min       Rolling
+                          Eastbound                               Westbound                          Northbound                            Southbound
+     Start                                                                                                                                                              Total      One Hour
+                UT        LT    TH               RT   UT          LT    TH          RT      UT        LT    TH           RT       UT        LT    TH          RT
+   4:00 PM       0          0        143         0        0        0      318       0       0         0           0      0         0        0          0       1        462           0
+   4:15 PM       0          0        139         0        0        0      291       0       0         0           0      0         0        0          0       0        430           0
+   4:30 PM       0          0        187         0        0        0      299       0       0         0           0      0         0        0          0       0        486           0
+   4:45 PM       0          0        144         0        0        0      286       0       0         0           0      0         0        0          0       0        430         1,808
+   5:00 PM       0          0        136         0        0        0      336       0       0         0           0      0         0        1          0       0        473         1,819
+   5:15 PM       0          0        161         0        0        0      309       0       0         0           0      0         0        0          0       0        470         1,859
+   5:30 PM       0          0        112         0        0        0      303       0       0         0           0      0         0        0          0       0        415         1,788
+   5:45 PM       0          0        122         0        0        0      324       0       0         0           0      0         0        0          0       0        446         1,804
+ Count Total     0          0        1,144       0        0        0      2,466     0       0         0           0      0         0        1          0       1       3,612          0
+ Peak Hour       0          0        628         0        0        0      1,230     0       0         0           0      0         0        1          0       0       1,859          0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval                  Heavy Vehicle Totals                                           Bicycles                                            Pedestrians (Crossing Leg)
+     Start      EB           WB      NB      SB                   Total    EB       WB         NB          SB           Total      East          West      North    South             Total
+   4:00 PM       4              7            0        0            11      0            0        0            0          0             0           0               0           0          0
+   4:15 PM       1             10            0        0            11      0            0        0            0          0             0           0               0           0          0
+   4:30 PM       10             5            0        0            15      0            0        0            0          0             0           0               0           0          0
+   4:45 PM       3              6            0        0            9       0            0        0            0          0             0           0               1           0          1
+   5:00 PM       3              3            0        0            6       0            0        0            0          0             0           0               0           0          0
+   5:15 PM       2              2            0        0            4       0            0        0            0          0             0           0               0           0          0
+   5:30 PM       1              3            0        0            4       0            0        0            0          0             0           0               0           0          0
+   5:45 PM       7              1            0        0            8       0            0        0            0          0             0           0               0           0          0
+ Count Total     31            37            0        0            68      0            0        0            0          0             0           0               1           0          1
+   Peak Hr       18            16            0        0            34      0            0        0            0          0             0           0               1           0          1
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                mark.skaggs@idaxdata.com
+Attachment B:   LOS Definitions
+                                                    Highway Capacity Manual 2010
+
+Signalized intersection level of service (LOS) is defined in terms of a weighted average control delay for
+the entire intersection. Control delay quantifies the increase in travel time that a vehicle experiences due
+to the traffic signal control as well as provides a surrogate measure for driver discomfort and fuel
+consumption. Signalized intersection LOS is stated in terms of average control delay per vehicle (in
+seconds) during a specified time period (e.g., weekday PM peak hour). Control delay is a complex
+measure based on many variables, including signal phasing and coordination (i.e., progression of
+movements through the intersection and along the corridor), signal cycle length, and traffic volumes with
+respect to intersection capacity and resulting queues. Table 1 summarizes the LOS criteria for signalized
+intersections, as described in the Highway Capacity Manual 2010 (Transportation Research Board,
+2010).
+
+Table 1. Level of Service Criteria for Signalized Intersections
+                          Average Control Delay
+ Level of Service           (seconds/vehicle)                  General Description
+
+          A                           10                      Free Flow
+          B                        >10 – 20                    Stable Flow (slight delays)
+          C                        >20 – 35                    Stable flow (acceptable delays)
+                                                               Approaching unstable flow (tolerable delay, occasionally wait through more
+          D                        >35 – 55
+                                                               than one signal cycle before proceeding)
+          E                        >55 – 80                    Unstable flow (intolerable delay)
+         F1                           >80                      Forced flow (congested and queues fail to clear)
+Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+1. If the volume-to-capacity (v/c) ratio for a lane group exceeds 1.0 LOS F is assigned to the individual lane group. LOS for overall approach or
+      intersection is determined solely by the control delay.
+
+
+
+
+Unsignalized intersection LOS criteria can be further reduced into two intersection types: all-way stop
+and two-way stop control. All-way stop control intersection LOS is expressed in terms of the weighted
+average control delay of the overall intersection or by approach. Two-way stop-controlled intersection
+LOS is defined in terms of the average control delay for each minor-street movement (or shared
+movement) as well as major-street left-turns. This approach is because major-street through vehicles are
+assumed to experience zero delay, a weighted average of all movements results in very low overall
+average delay, and this calculated low delay could mask deficiencies of minor movements. Table 2 shows
+LOS criteria for unsignalized intersections.
+
+                 Table 2. Level of Service Criteria for Unsignalized Intersections
+                                   Level of Service                           Average Control Delay (seconds/vehicle)
+
+                                            A                                                       0 – 10
+                                            B                                                      10 – 15
+                                            C                                                      15 – 25
+                                            D                                                      25 – 35
+                                            E                                                      35 – 50
+                                            F 1
+                                                                                                     50
+                Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+                1. If the volume-to-capacity (v/c) ratio exceeds 1.0, LOS F is assigned an individual lane group for all unsignalized
+                   intersections, or minor street approach at two-way stop-controlled intersections. Overall intersection LOS is
+                   determined solely by control delay.
+Attachment C: Lane Configurations, Traffic Volumes, and LOS Results
+Attachment D: Cost Estimates
+City of Stanwood On-Call, SR 532 Improvements, Concept A
+Transpo Job No.: 13227.00
+
+Estimate of Probable Costs
+
+Description of Work:
+Widening of approximately 930 feet of SR 532, from west of 270th St NW to just west of 104th Dr NW. Roadway is a 3-lane typical section
+with a two way left turn lane and a new sidewalk on the south side of SR 532. This concept also includes a new roadway connection to the
+south for the park.
+
+
+                Assumptions:
+             1. This project has not been designed and is being estimated off of a conceptual sketch for planning purposes.
+             2. This concept does not include any utility work that may be required.
+             3. This concept includes widening of pavement to new three-lane section and grinding and overlaying existing pavement within
+                project limits.
+             4. The pavement design used for this concept is the minimum required by the City of Stanwood. Geotechnical investigation of
+                existing soils and pavement design by a licensed engineer would be required to determine if this is adequate for specific
+                conditions at the site.
+             5. The cost of right-of-way or any associated fees is not included in this concept.
+
+
+Last Edit:        JZP 10/29/2015
+
+                                                                Item                                                                                                   Unit
+                                                                                                                                                Quantity    Unit                        Total
+                                                             Description                                                                                               Cost
+       1          Traffic Control                                                                                                                      1     LS        10%         $    50,600.00
+       2          Mobilization                                                                                                                         1     LS         5%         $    25,300.00
+       3          Clearing and Demolition                                                                                                              1     LS        15%         $    75,900.00
+       3          Channelization                                                                                                                       1     LS         5%         $    25,300.00
+       4          Drainage                                                                                                                             1     LS        10%         $    50,600.00
+       5          Illumination                                                                                                                         1     LS        10%         $    50,600.00
+       6          Pavement - Widening and New Construction                                                                                             1     LS    $393,410.00     $ 393,410.00
+       7          Pavement - Grind and Overlay                                                                                                         1     LS    $ 28,200.00     $    28,200.00
+       8          Sidewalk Concrete (5' width, 285 LF)                                                                                               160     SY    $     55.00     $      8,800.00
+       9          Concrete Curb Ramps                                                                                                                  6    EA     $   2,500.00    $    15,000.00
+      10          Concrete Curb and Gutter                                                                                                         2000      LF    $     30.00     $    60,000.00
+      11          Design Fee                                                                                                                           1     LS        15%         $ 118,000.00
+Sub Total1                                                                                                                                                                        $    901,800.00
+
+Contingency (20% of Sub Total1)                                                                                                                                                   $    180,400.00
+
+TOTAL PROJECT ESTIMATE                                                                                                                                                            $ 1,083,000.00
+
+1. This estimate is based a conceptual level of design. Estimates for probable construction costs are based on the best information available at this time and will require
+adjustments as more detailed information becomes available.
+
+
+
+
+  M:\13\13277.00 - Stanwood On Call Engineering 2014\Engineering\Cost Estimate\Estimate of Probable Construction Costs - October 2015.xlsSR 532 Concept A                Printed 10/30/2015 9:52 AM
+City of Stanwood On-Call, SR 532 Improvements, Concept B
+Transpo Job No.: 13227.00
+
+Estimate of Probable Costs
+
+Description of Work:
+Widening of approximately 830 feet of SR 532, from east of 270th St NW to just west of 104th Dr NW. Roadway is a 3-lane typical section
+with a two way left turn lane and a new sidewalk on the south side of SR 532. This concept includes a roundabout that adds a new roadway
+connection to the new park to the south.
+
+
+                Assumptions:
+             1. This project has not been designed and is being estimated off of a conceptual sketch for planning purposes.
+             2. This concept does not include any utility work that may be required.
+             3. This concept includes grinding and overlaying 24 feet of existing pavement for approximately 525 feet of the roadway, and full
+                reconstruction for the remaining footprint.
+             4. The pavement design used for this concept is the minimum required by the City of Stanwood. Geotechnical investigation of
+                existing soils and pavement design by a licensed engineer would be required to determine if this is adequate for specific
+                conditions at the site.
+             5. The cost of right-of-way or any associated fees is not included in this concept.
+
+
+Last Edit:        JZP 10/29/2015
+
+                                                                Item                                                                                                   Unit
+                                                                                                                                                Quantity    Unit                        Total
+                                                             Description                                                                                               Cost
+       1          Traffic Control                                                                                                                      1     LS        15%         $ 103,000.00
+       2          Mobilization                                                                                                                         1     LS         5%         $    34,400.00
+       3          Clearing and Demolition                                                                                                              1     LS        15%         $ 103,000.00
+       3          Channelization                                                                                                                       1     LS        15%         $ 103,000.00
+       4          Drainage                                                                                                                             1     LS        10%         $    68,700.00
+       5          Illumination                                                                                                                         1     LS        10%         $    68,700.00
+       6          Pavement - Widening and New Construction                                                                                             1     LS    $432,930.00     $ 432,930.00
+       7          Pavement - Grind and Overlay                                                                                                         1     LS    $ 16,000.00     $    16,000.00
+       8          Sidewalk Concrete (5' width, 400 LF)                                                                                               230     SY    $     55.00     $    12,650.00
+       9          Patterned Concrete (Roundabout Splitter Island and Interior)                                                                       860     SY    $    150.00     $ 129,000.00
+      10          Concrete Curb Ramps                                                                                                                  6    EA     $   2,500.00    $    15,000.00
+      11          Concrete Curb and Gutter                                                                                                          2700     LF    $     30.00     $    81,000.00
+      12          Design Fee                                                                                                                           1     LS        25%         $ 292,000.00
+Sub Total1                                                                                                                                                                        $ 1,459,400.00
+
+Contingency (20% of Sub Total1)                                                                                                                                                   $    291,900.00
+
+TOTAL PROJECT ESTIMATE                                                                                                                                                            $ 1,752,000.00
+
+1. This estimate is based a conceptual level of design. Estimates for probable construction costs are based on the best information available at this time and will require
+adjustments as more detailed information becomes available.
+
+
+
+
+  M:\13\13277.00 - Stanwood On Call Engineering 2014\Engineering\Cost Estimate\Estimate of Probable Construction Costs - October 2015.xlsSR 532 Concept B                Printed 10/30/2015 9:52 AM
+City of Stanwood On-Call, SR 532 Improvements, Concept C
+Transpo Job No.: 13227.00
+
+Estimate of Probable Costs
+
+Description of Work:
+SR 532 remains generally the same, with channelization and signalization improvements at the 104th Dr NW intersection. Roadway
+reconstruction will be performed to the south along 104th Dr NW and west along Saratoga Dr to provide a route to the City's new park.
+
+                  Assumptions:
+             1. This project has not been designed and is being estimated off of a conceptual sketch for planning purposes.
+             2. This concept does not include any utility work that may be required.
+             3. The concept includes all new construction pavement through the commercial/industrial area to route to the City's new park.
+                It includes one new traffic signal and right-of-way impacts.
+             4. The pavement design used for this concept is the minimum required by the City of Stanwood. Geotechnical investigation of
+                existing soils and pavement design by a licensed engineer would be required to determine if this is adequate for specific
+                conditions at the site.
+
+
+Last Edit:        JZP 10/29/2015
+
+                                                                Item                                                                                                   Unit
+                                                                                                                                                Quantity    Unit                        Total
+                                                             Description                                                                                               Cost
+       1          Traffic Control                                                                                                                      1     LS        10%         $    82,500.00
+       2          Mobilization                                                                                                                         1     LS         5%         $    41,300.00
+       3          Clearing and Demolition                                                                                                              1     LS        15%         $ 123,700.00
+       3          Channelization                                                                                                                       1     LS        15%         $ 123,700.00
+       4          Drainage                                                                                                                             1     LS        10%         $    82,500.00
+       5          Illumination                                                                                                                         1     LS        10%         $    82,500.00
+       6          Pavement - New Construction                                                                                                          1     LS    $440,040.00     $ 440,040.00
+       7          Sidewalk Concrete (5' width, 780 LF)                                                                                               440     SY    $     55.00     $    24,200.00
+       8          Concrete Curb Ramps                                                                                                                 10    EA     $   2,500.00    $    25,000.00
+       9          Concrete Curb and Gutter                                                                                                         2000      LF    $     30.00     $    60,000.00
+      10          Traffic Signal System Complete                                                                                                       1     LS    $275,000.00     $ 275,000.00
+      11          Design Fee                                                                                                                           1     LS        20%         $ 273,000.00
+      12          Right-of-Way Cost Estimate                                                                                                           1     LS    $383,300.00     $ 383,300.00
+Sub Total1                                                                                                                                                                        $ 2,016,800.00
+
+Contingency (20% of Sub Total1)                                                                                                                                                   $    403,400.00
+
+TOTAL PROJECT ESTIMATE                                                                                                                                                            $ 2,421,000.00
+
+1. This estimate is based a conceptual level of design. Estimates for probable construction costs are based on the best information available at this time and will require
+adjustments as more detailed information becomes available.
+
+
+
+
+  M:\13\13277.00 - Stanwood On Call Engineering 2014\Engineering\Cost Estimate\Estimate of Probable Construction Costs - October 2015.xlsSR 532 Concept C                Printed 10/30/2015 9:52 AM
+

@@ -8,3 +8,5 @@
 cat sf.csv | ./process-sf | ./geocode > counts-sf-misc.csv
 
 ./extract-db > counts-sf-db.csv
+
+./extract-idax misc/*.txt > counts-misc.csv

@@ -1,0 +1,2188 @@
+                  TERMINAL 91
+2015 TRAFFIC MONITORING STUDY
+
+
+                                     Prepared for:
+                             Port of Seattle
+
+
+
+                                     Prepared by:
+
+
+
+
+             6544 NE 61st Street, Seattle, WA 98115
+             ph: (206) 523-3939  fx: (206) 523-4949
+
+
+
+
+                             MAY 18, 2016
+                                                                                                                       Terminal 91
+                                                                                                      2015 Traffic Monitoring Study
+
+
+
+
+TABLE OF CONTENTS
+1. INTRODUCTION ........................................................................................................................... 1
+2. MONITORING PROCESS AND THRESHOLDS ......................................................................... 1
+3. GATE AND TERMINAL COUNTS............................................................................................... 2
+   3.1. Count Locations ..................................................................................................................... 2
+   3.2. Cruise Vessel Schedule .......................................................................................................... 3
+   3.3. Automobile Traffic (including Vans/Shuttles)...................................................................... 4
+   3.4. Truck Traffic (and other Large Vehicles) .............................................................................. 7
+4. HISTORIC TRENDS....................................................................................................................... 9
+   4.1. Passenger Trends.................................................................................................................... 9
+   4.2. Automobile Traffic Trends .................................................................................................. 10
+   4.3. Truck and Bus Traffic Trends .............................................................................................. 12
+5. INTERSECTION LEVEL OF SERVICE...................................................................................... 14
+   5.1. Trigger Levels ...................................................................................................................... 14
+   5.2. Year 2015 Traffic Volumes ................................................................................................. 15
+   5.3. Level of Service Analysis .................................................................................................... 22
+6. CONCLUSIONS ........................................................................................................................... 24
+
+APPENDIX A – Level of Service Criteria
+
+APPENDIX B – Intersection Traffic Counts
+
+
+
+
+                                                                                                                            May 18, 2016
+                                                                                                                   Terminal 91
+                                                                                                  2015 Traffic Monitoring Study
+
+FIGURES
+Figure 1. Terminal 91 Access Points...................................................................................................... 3
+Figure 2. Automobile Traffic – AM Peak Period (7:15 – 8:30 A.M.) ..................................................... 5
+Figure 3. Automobile Traffic – PM Peak Period (3:45 – 5:30 P.M.) ...................................................... 6
+Figure 4. Automobile Traffic – Daily (24-Hour Period) ........................................................................ 6
+Figure 5. Daily Automobile Trips by Access Location .......................................................................... 7
+Figure 6. Large Vehicles by Day of Week ............................................................................................. 9
+Figure 7. Cruise Passenger Volume Trends ......................................................................................... 10
+Figure 8. Automobile Trends – AM Peak Period (7:15 – 8:30 A.M.) ................................................... 11
+Figure 9. Automobile Trends – PM Peak Period (3:45 – 5:30 P.M.) .................................................... 11
+Figure 10. Automobile Traffic – Daily (24-Hour Period) .................................................................... 12
+Figure 11. Truck and Bus Trends – AM Peak Period (7:15 – 8:30 A.M.) ............................................ 13
+Figure 12. Truck and Bus Trends – PM Peak Period (3:45 – 5:30 P.M.).............................................. 13
+Figure 13. Truck and Bus Trends – Daily (24-Hour Period)................................................................ 14
+Figure 14. Total Traffic Entering Intersection – Without Cruise Activity ........................................... 16
+Figure 15. 2015 AM Peak Hour Traffic Volumes - Without a Cruise at T-91..................................... 18
+Figure 16. 2015 PM Peak Hour Traffic Volumes - Without a Cruise at T-91 ..................................... 19
+Figure 17. Traffic Volumes Generated by Cruise Operations – AM Peak Hour.................................. 20
+Figure 18. Traffic Volumes Generated by Cruise Operations – PM Peak Hour .................................. 21
+Figure 19. Traffic Operations at Elliott Avenue W / Galer Flyover Intersection ................................. 23
+Figure 20. Traffic Operations at Elliott Avenue W / W Mercer Place Intersection ............................. 23
+
+
+
+TABLES
+Table 1. SFRA Traffic Volume Threshold Criteria ................................................................................ 2
+Table 2. Cruise Passengers at Terminal 91 During 2015 Monitoring Survey ........................................ 4
+Table 3. Automobile Traffic to and from Terminal 91........................................................................... 5
+Table 4. Trucks and Buses to and from Terminal 91 ............................................................................. 8
+Table 5. Level of Service Trigger Levels from SFRA ......................................................................... 14
+Table 6. Weekday Peak Hour Traffic: Cruise Day vs. Non-Cruise Day – 2015 .................................. 17
+Table 7. Traffic Operations With and Without Cruise Traffic – 2015 ................................................. 22
+
+
+
+
+                                                                                                                        May 18, 2016
+                                                                                                    Terminal 91
+                                                                                   2015 Traffic Monitoring Study
+
+
+
+1. INTRODUCTION
+This report presents the results of the traffic monitoring study conducted at the Port of Seattle’s Terminal
+91 in September 2015. This study was conducted in accordance with the Terminal 91 Short Fill Redevel-
+opment Agreement 1 (SFRA) between the Port of Seattle (Port) and the neighborhood community councils
+of Magnolia and Queen Anne (Communities). For this analysis, new traffic counts were collected at all
+Terminal 91 access points and compared to thresholds identified in the SFRA. The results of this study
+were also compared to previous studies conducted since 2009, when the Port opened Smith Cove Cruise
+Terminal.
+
+
+2.      MONITORING PROCESS AND THRESHOLDS
+The SFRA was a “comprehensive resolution of all disputes regarding the Port’s ‘short fill’ redevelopment
+of Terminal 91.” Additionally, the SRFA provided procedures for resolving future issues. The establish-
+ment of a traffic monitoring program was one of the elements of the SFRA, and detailed procedures for
+monitoring traffic are outlined in Section F of the agreement. It states that, “the purpose of the monitoring
+program is to determine whether future traffic volumes and levels of service stay within estimated ranges.
+The Port and the Communities have established “trigger” levels for traffic volumes which, if exceeded,
+will result in more intensive review by the Port and action if required.”
+
+Key steps within the monitoring program stated in the SFRA are as follows:
+
+             Gates: The Port will obtain daily (24 hour), AM and PM peak period gate counts of
+             trucks and autos entering or leaving all Terminal 91 gates for one (1) week each
+             quarter. Gate counts will be reported as trip ends. A trip end is an arrival or a depar-
+             ture. Thus, a single vehicle which enters and then leaves the terminal will generate two
+             trip ends.
+
+             Intersections: Congestion and delay at intersections are measured in terms of Level of
+             Service (LOS) under a system described in Interim Materials on Highway Capacity
+             (Transportation Research Board, 1980). Levels of service range from A through F,
+             with LOS A representing congestion-free service and LOS F representing jammed con-
+             ditions. The Port will obtain LOS determinations for the peak hours at the following
+             intersections once a year: Elliott and Galer; Elliott/15th Avenue and Garfield; 15th and
+             Dravus (until Galer access is completed), West Mercer Place and Elliott; and 20th and
+             Dravus.
+
+According to industry standard, the methodology to determine level of service has been updated many
+times since this agreement was originally drafted. Computers now allow more complex calculations to
+occur, which have resulted in more accurate analyses of intersection operations. The newest methodolo-
+gies from the 2010 edition of the Highway Capacity Manual 2 were used to evaluate intersection
+operations. Details related to the methodology are provided in Section 5.3.
+
+
+
+
+1    Short Fill Redevelopment Agreement, As amended 1985 including 1998 Second Amendment; Port of Seattle, Magnolia
+     Community Club, and Queen Anne Community Council; January 2000.
+2    Transportation Research Board, 2010.
+
+                                                      -1-                                           May 18, 2016
+                                                                                                                    Terminal 91
+                                                                                                   2015 Traffic Monitoring Study
+
+Another change that has occurred since the SFRA was created is construction of the Galer Flyover.
+Therefore, the Galer Flyover/Elliott Avenue W intersection was evaluated instead of the Galer Street
+/Elliott Avenue intersection (which still exists, but is a minor intersection with no connection across the
+railroad tracks to Terminal 91). Finally, the North Gate to Terminal 91 is not currently active; therefore,
+no analysis was performed for intersections along W Dravus Street for this monitoring study.
+
+The SFRA outlined thresholds for both auto and truck traffic volumes over three specific time periods.
+The time periods and volume thresholds are summarized in Table 1. It is noted that the AM and PM
+peak periods differ from traditional traffic analysis time periods. The SFRA defines a 75-minute period
+for the AM peak and a 105-minute period for the PM peak; a typical traffic analysis would evaluate a
+60-minute peak period.
+
+
+            Table 1. SFRA Traffic Volume Threshold Criteria
+
+                                      Time Period                                Automobiles 1             Trucks 1
+              AM Peak                  7:15 – 8:30 A.M.                                 395                     25
+              PM Peak                  3:45 – 5:30 P.M.                                 612                     48
+              Daily                    24 hours                                       3,500                   325
+            Source: SFRA (as amended 1985, 1988)
+            1.    Thresholds are listed for total trip ends. A vehicle that enters the terminal and then exits the terminal
+                  would count as two trip ends.
+
+
+
+3.      GATE AND TERMINAL COUNTS
+3.1. Count Locations
+There are currently three locations where vehicular traffic can enter and exit Terminal 91; these are
+shown on Figure 1.
+
+        1. East Gate – This gate is located off Alaskan Way W, and is accessed via the Galer
+           Flyover.
+
+        2. Center Gate – This gate is accessed via the center ramps of the Magnolia Bridge just
+           west of 15th Avenue W. The Center Gate is closed on weekends.
+
+        3. West Access – On days with cruise activity, a retractable gate at the west end of the
+           Magnolia Bridge is open. Vehicles can enter this gate and park, or traverse the yard
+           beneath the Magnolia Bridge to access Pier 91 south of the bridge. Vehicles also exit
+           the parking lot via this gate. When cruise vessels are at sea, the gate is closed to secure
+           the parking lot.
+
+
+
+
+                                                               -2-                                                       May 18, 2016
+                                                                                            Terminal 91
+                                                                           2015 Traffic Monitoring Study
+
+             Figure 1. Terminal 91 Access Points
+
+
+
+
+Vehicle classification counts were performed at all three Terminal 91 access locations in September
+2015. The machine traffic counts (performed by pneumatic tubes) track the types of vehicles entering
+and exiting the terminals for each hour of the day. These data were collected over a ten-day period from
+Friday, September 4, 2015 through Sunday, September 13, 2015. To augment the machine counts,
+camera counts were performed for four days: Thursday September 10, Friday September 11, Saturday
+September 12, and Sunday September 13. Three of these days, Friday, Saturday, and Sunday were
+cruise days and Thursday was a non-cruise day. These counts were performed during the peak hours for
+disembarkation (7:30 – 9:45 A.M.) and embarkation (11:00 A.M. – 12:45 P.M.). The vehicle types were
+categorized: passenger vehicle (non-commercial), taxi, limo/towncar, shuttle van/bus, charter bus,
+school bus, small truck, medium truck and large truck.
+
+The machine counts classify vehicles by number and spacing of axles; however, the accuracy of the ma-
+chine classification counts can be affected by travel speed. A vehicle that travels faster or slower than
+expected could be registered as a different type of vehicle. For example, a large truck could be recorded
+as two closely-spaced passenger vehicles. The camera counts were used to validate the machine counts
+and determine if adjustments were needed.
+
+
+3.2. Cruise Vessel Schedule
+ Cruise vessels called at Terminal 91 on seven of the ten days surveyed in September 2015. Table 2
+ presents the cruise schedule during the survey period, and the numbers of passengers that embarked
+ or disembarked each vessel while it was at Terminal 91. As shown, the highest passenger volumes
+ occurred on the two surveyed Saturdays when two ships called at Terminal 91. There were no cruise
+ ship calls on Wednesday or Thursday of the survey week.
+
+
+
+
+                                                 -3-                                       May 18, 2016
+                                                                                                                       Terminal 91
+                                                                                                      2015 Traffic Monitoring Study
+
+Table 2. Cruise Passengers at Terminal 91 During 2015 Monitoring Survey
+                                                                                          Number of Passengers
+ Date                          Vessel                                  Disembark                     Embark        Total per Day a
+ Fri, 9/04/15                  Celebrity Solstice                       2,781                        2,727
+                                                                                                                       9,705
+                               Jewel of the Seas                        2,087                        2,110
+ Sat, 9/05/15                  Westerdam                                1,935                        1,910
+                                                                                                                      10,020
+                               Crown Princess                           3,130                        3,045
+ Sun, 9/06/15                  Ruby Princess                            3,136                        3,085
+                                                                                                                       9,027
+                               Amsterdam                                1,407                        1,399
+ Mon, 9/07/15                  Statendam                                1,148                        1,180             2,328
+ Tues, 9/08/15                 Carnival Legend                          2,202                        2,175             4,377
+ Wed, 9/09/15                  None                                                                                        0
+ Thurs, 9/10/15                None                                                                                        0
+ Fri, 9/11/15                  Celebrity Solstice                       2,712                        2,701
+                                                                                                                       9,587
+                               Jewel of the Seas                        2,097                        2,077
+ Sat, 9/12/15                  Westerdam                                1,902                        1,865
+                                                                                                                       9,865
+                               Crown Princess                           3,020                        3,078
+ Sun, 9/13/15                  Ruby Princess                            3,053                        2,694
+                                                                                                                       8,480
+                               Amsterdam                                1,391                        1,342
+Source: Port of Seattle and Cruise Terminals of America, October 2015.
+a.    Does not include passengers who stay on ship to future port of call (passengers in transit).
+
+
+
+
+3.3. Automobile Traffic (including Vans/Shuttles)
+Automobile traffic that entered or exited Terminal 91 was summed for all three access locations. The total
+reflects the “trip ends” defined by the SFRA. Vans and small shuttles, such as those used by Shuttle
+Express and other service providers, are classified as an automobile. Table 3 summarizes the automobile
+trip ends and compares them to the thresholds established in the SFRA. Figure 2 through Figure 4 show
+these data graphically for the three respective time periods. As shown, the AM peak period exceeded the
+thresholds on Fridays, Saturdays and Sundays when there were two cruise ships that called at the terminal
+each day; volumes did not exceed the threshold on Monday or Tuesday when there was only one cruise
+ship call. Daily automobile thresholds were exceeded on six of the seven days when there was cruise
+activity at the terminal. The daily threshold was not exceeded on Monday, which was the Labor Day
+Holiday, and had lower traffic generated by non-cruise uses at the terminal. None of the days exceeded the
+threshold for the PM peak period.
+
+
+
+
+                                                                   -4-                                              May 18, 2016
+                                                                                                                  Terminal 91
+                                                                                                 2015 Traffic Monitoring Study
+
+Table 3. Automobile Traffic to and from Terminal 91
+                                     AM Peak (7:15 – 8:30 AM)        PM Peak (3:45 – 5:30 PM)               Daily (24-hour)
+                                         Threshold = 395                 Threshold = 612                   Threshold = 3,500
+ Friday 9/04/2015                                 569                              312                            7,055
+ Saturday 9/05/2015                               627                              194                            5,647
+ Sunday 9/06/2015                                 625                              186                            5,426
+ Monday 9/07/2015                                 256                              125                            2,499
+ Tuesday 9/08/2015                                347                              272                            3,895
+ Wednesday 9/09/2015                               88                              187                            1,680
+ Thursday 9/10/2015                                71                              161                            1,665
+ Friday 9/11/2015                                 745                              332                            7,184
+ Saturday 9/12/2015                               514                              192                            5,651
+ Sunday 9/13/2015                                 554                              142                            4,829
+Source: Ten-day machine count by IDAX, Friday, September 4, through Sunday, September 13, 2015. Combined volumes at three site
+        access locations to Terminal 91. Machine count volumes were adjusted to reflect vehicle camera counts performed at the East
+        Gate on September 10, 11, 12, and 13, 2015.
+Volumes in bold identify time periods where the Short-Fill Redevelopment Agreement threshold limit is met or exceeded.
+
+
+
+
+                     Figure 2. Automobile Traffic – AM Peak Period (7:15 – 8:30 A.M.)
+
+
+
+
+          Source: Ten-day machine count by IDAX, Friday, September 4, through Sunday, September 13, 2015. Combined volumes at
+          three site access locations to Terminal 91. Machine count volumes were adjusted to reflect vehicle camera counts performed at
+          the East Gate on September 10, 11, 12, and 13, 2015.
+
+
+
+
+                                                               -5-                                                    May 18, 2016
+                                                                                                        Terminal 91
+                                                                                       2015 Traffic Monitoring Study
+
+           Figure 3. Automobile Traffic – PM Peak Period (3:45 – 5:30 P.M.)
+
+
+
+
+                   Figure 4. Automobile Traffic – Daily (24-Hour Period)
+
+
+
+
+Source: Ten-day machine count by IDAX, Friday, September 4, through Sunday, September 13, 2015. Combined volumes at
+three site access locations to Terminal 91. Machine count volumes were adjusted to reflect vehicle camera counts performed at
+the East Gate on September 10, 11, 12, and 13, 2015.
+
+
+
+
+                                                     -6-                                                    May 18, 2016
+                                                                                                           Terminal 91
+                                                                                          2015 Traffic Monitoring Study
+
+The locations where traffic enters the terminal vary depending on cruise operations. The volume by
+access is shown on Figure 5. On days without a cruise ship call, the parking lot at the West Access is
+gated, and the very small number of trips that entered or exiting the terminal at the West Gate is likely
+related to security personnel (4 or fewer trips on those days). The Center Gate is used by non-cruise
+traffic, and is closed on weekends and holidays. On weekdays, the number of automobiles using the
+Center Gate does not vary substantially between a cruise day and a non-cruise day. The largest
+fluctuations in volume occur at the East Gate on days when there is cruise activity. Figure 5 shows the
+daily automobile volumes by access location.
+
+
+                          Figure 5. Daily Automobile Trips by Access Location
+
+
+
+
+        Source: Ten-day machine count by IDAX, September 4, through September 13, 2015.
+
+
+
+
+3.4. Truck Traffic (and other Large Vehicles)
+As with prior Terminal 91 monitoring efforts, the “truck traffic” thresholds were measured for all large
+vehicles generated by Terminal 91 including charter buses, school buses, and shuttles. Almost all large
+vehicles access the terminal through the East Gate; vertical clearance issues prevent large trucks from
+using the other two access points, although some smaller trucks and shuttles may use those gates. The
+volumes of trucks, buses, and shuttles were derived from the adjusted vehicle classification counts. The
+total number of trip ends for all three access locations is summarized in Table 4. As shown, the volume
+of trucks and buses exceeded the AM peak and daily thresholds on all days of the week. The PM peak
+threshold was exceeded on four weekdays; Monday was a holiday.
+
+
+
+
+                                                          -7-                                           May 18, 2016
+                                                                                                                Terminal 91
+                                                                                               2015 Traffic Monitoring Study
+
+Table 4. Trucks and Buses to and from Terminal 91
+                                   AM Peak (7:15 – 8:30 A.M.)      PM Peak (3:45 – 5:30 P.M.)            Daily (24 hour)
+                                        Threshold = 25                 Threshold = 48                   Threshold = 325
+ Friday 9/04/2015                              114                              63                            1,270
+ Saturday 9/05/2015                             87                              14                             695
+ Sunday 9/06/2015                               77                              7                              667
+ Monday 9/07/2015                               44                              16                             384
+ Tuesday 9/08/2015                             110                              61                            1,112
+ Wednesday 9/09/2015                            69                              47                             659
+ Thursday 9/10/2015                             49                              54                            1,206
+ Friday 9/11/2015                              119                              53                            1,206
+ Saturday 9/12/2015                             79                              8                              720
+ Sunday 9/13/2015                               89                              7                              614
+Source: Ten-day machine count by IDAX, September 4, through September 13, 2015.These reflect combined volumes at three site access
+locations to Terminal 91 and include small, medium and large trucks as well as charter and school buses. Machine count volumes were
+adjusted to reflect vehicle camera counts performed at the East Gate on September 10, 11, 12, and 13, 2015.
+Volumes in bold identify time periods where the acceptable threshold limit is met or exceeded
+
+
+
+The types of vehicles were compiled for each day to show the proportion of each type of large vehicle:
+buses, small and medium trucks (2 to 4 axles), and large trucks (more than 5 axles). These are shown on
+Figure 6. It is noted that the First Student School Bus base that was formerly located at Terminal 91 is
+no longer in operation; it closed prior to the 2014 survey. There were no school buses observed during
+the survey; all buses are charter buses associated with cruise activity.
+
+
+
+
+                                                              -8-                                                 May 18, 2016
+                                                                                                                Terminal 91
+                                                                                               2015 Traffic Monitoring Study
+
+                                    Figure 6. Large Vehicles by Day of Week
+
+
+
+
+        Source: Ten-day machine count by IDAX, Friday, September 4, through Sunday, September 13, 2015. Combined volumes at
+        three site access locations to Terminal 91. Machine count volumes were adjusted to reflect vehicle camera counts performed at
+        the East Gate on September 10, 11, 12, and 13, 2015.
+
+
+
+4.      HISTORIC TRENDS
+This section compares results from the three most recent traffic monitoring studies—September 2013,
+2014 and 2015—representing the conditions after the Port opened Smith Cove Cruise Terminal in 2009.
+
+
+4.1. Passenger Trends
+Traffic volumes at Terminal 91 fluctuate from day to day. The largest changes result from cruise activi-
+ties. Figure 7 shows the number of passengers that embark and disembark cruise ships at the terminal by
+day of week for the past three monitoring years. As shown, cruise activity in the mid-week has changed
+over the years; in 2015 there were no ships on Wednesday or Thursday. The weekend activity has
+remained relatively consistent over the years. The change in cruise activity on Friday between 2014 and
+2015 was due to two cruise ships on Fridays instead of one ship in prior years.
+
+
+
+
+                                                             -9-                                                    May 18, 2016
+                                                                                            Terminal 91
+                                                                           2015 Traffic Monitoring Study
+
+                                    Figure 7. Cruise Passenger Volume Trends
+
+
+
+
+        Source:   Port of Seattle
+
+
+
+
+4.2. Automobile Traffic Trends
+Figures 8, 9, and 10 compare historic automobile traffic monitoring results for the AM peak, PM peak
+and 24-hour periods, respectively. Aside from one anomaly in 2014 (Saturday during the AM peak
+hour), traffic volumes are consistent among the years, and proportional to the changes in cruise
+passenger traffic. Data for Thursdays, which is the one day when no cruise activity occurred during the
+past three years, show that non-cruise traffic at Terminal 91 has decreased each year since 2013 for all
+three time periods evaluated.
+
+
+
+
+                                                    - 10 -                                 May 18, 2016
+                                                                                  Terminal 91
+                                                                 2015 Traffic Monitoring Study
+
+          Figure 8. Automobile Trends – AM Peak Period (7:15 – 8:30 A.M.)
+
+
+
+
+Source: Compiled by Heffron Transportation, Inc. October 2015.
+
+
+
+
+          Figure 9. Automobile Trends – PM Peak Period (3:45 – 5:30 P.M.)
+
+
+
+
+Source: Compiled by Heffron Transportation, Inc. October 2015.
+
+
+
+                                                    - 11 -                     May 18, 2016
+                                                                                          Terminal 91
+                                                                         2015 Traffic Monitoring Study
+
+                          Figure 10. Automobile Traffic – Daily (24-Hour Period)
+
+
+
+
+        Source: Compiled by Heffron Transportation, Inc. October 2015.
+
+
+
+
+4.3. Truck and Bus Traffic Trends
+Figures 11, 12, and 13 compare truck volumes to prior monitoring results for the AM peak, PM peak,
+and 24-hour periods, respectively. These volumes include buses and trucks. Both the AM peak period
+and daily volumes of trucks have generally remained the same during the weekdays (the sharp increase
+on Tuesday in the number of trucks likely represents the deliveries that could not occur on Monday due
+to the holiday) but increased on the weekends (including Friday). The number of trucks and buses
+during the PM peak period has decreased from 2013 to 2015, likely a result of school buses no longer
+being stored at Terminal 91.
+
+
+
+
+                                                            - 12 -                      May 18, 2016
+                                                                                                        Terminal 91
+                                                                                       2015 Traffic Monitoring Study
+
+       Figure 11. Truck and Bus Trends – AM Peak Period (7:15 – 8:30 A.M.)
+
+
+
+
+Source: Compiled by Heffron Transportation, Inc. October 2015. Includes small, medium and large trucks as well as charter and
+school buses. (school buses in 2013 only)
+
+
+
+       Figure 12. Truck and Bus Trends – PM Peak Period (3:45 – 5:30 P.M.)
+
+
+
+
+Source: Compiled by Heffron Transportation, Inc. October 2015. Includes small, medium and large trucks as well as charter and
+school buses (school buses in 2013 only).
+
+
+                                                    - 13 -                                                 May 18, 2016
+                                                                                                                Terminal 91
+                                                                                               2015 Traffic Monitoring Study
+
+                       Figure 13. Truck and Bus Trends – Daily (24-Hour Period)
+
+
+
+
+        Source: Compiled by Heffron Transportation, Inc. October 2015. Includes small, medium and large trucks as well as charter and
+        school buses (school buses in 2013 only).
+
+
+
+
+5.      INTERSECTION LEVEL OF SERVICE
+5.1. Trigger Levels
+The SFRA established level of service trigger levels for three off-site intersections. Level of service is a
+qualitative measure used to characterize traffic operating conditions. Six letter designations, “A” through
+“F,” are used to define level of service. LOS A is the best and represents good traffic operations with little
+or no delay to motorists. LOS F is the worst and indicates poor traffic operations with long delays. The
+trigger levels are summarized in Table 5. It is noted that the SFRA included the W Galer Street intersec-
+tion on Elliott Avenue W, which was the primary access to Terminal 91 when the SFRA was created. That
+access has been replaced with the Galer Street Flyover. Therefore, the trigger level previously established
+for Galer Street was applied to the Elliott Avenue W/Galer Flyover intersection.
+
+              Table 5. Level of Service Trigger Levels from SFRA
+
+                Intersection                                                                  Trigger Level
+                Elliott Avenue W/Galer Flyover a                                                  LOS E
+                Elliott Avenue W/W Garfield Street                                                LOS C
+                Elliott Avenue W/W Mercer Place                                                   LOS E
+              Source: Short-Fill Redevelopment Agreement, January 2000.
+              a.    SFRA included the Elliott Avenue W/ W Galer Street intersection, which was the primary access to
+                    Terminal 91. That access has been replaced with the Galer Street Flyover.
+
+
+                                                            - 14 -                                                 May 18, 2016
+                                                                                                        Terminal 91
+                                                                                       2015 Traffic Monitoring Study
+
+
+As previously discussed, the level of service methodology prescribed by the SFRA (Critical Lane Analy-
+sis) is outdated. Computers now allow more complex calculations to occur, which have resulted in more
+accurate analyses of intersection operations. For this study, intersection levels of service were deter-
+mined using the methodologies in the latest edition of the Highway Capacity Manual (Transportation
+Research Board, 2010), which serves as the industry standard. Levels of service for study area intersec-
+tions were calculated using Trafficware’s Synchro 8.0 traffic operations analysis software, which is also
+the latest version of software and corresponds to the 2010 methodology. Current level of service criteria
+for signalized intersections can be found in Appendix A.
+
+In 2013, SDOT installed Traffic Responsive Operations Systems technology along the Elliott/15th Avenue
+corridor between W Armour Street and W Harrison Street. The signalized intersections along this corridor
+section use volume detection technology to change the traffic signal cycles and operation based on traffic
+volume. The technology allows for 15 different operational programs that are available during the day
+(five AM peak hour options, five PM peak hour options, and five off-peak options), instead of just one per
+time period under the former signal system. Each operational program is triggered when a specific traffic
+demand threshold is met. Since the operations can change as volumes change throughout the day, SDOT
+staff recommended that the Synchro model’s cycle length and signal phase times should be “optimized”
+for each condition. 3 This analysis uses the recommended approach.
+
+Levels of service models developed by Seattle Department of Transportation (SDOT) for the Elliott/15th
+Avenue corridor were used for all analyses; these models reflect the current configuration (with the BAT
+lanes) and the volume-responsive traffic signal timing.
+
+
+5.2. Year 2015 Traffic Volumes
+New intersection counts were performed at all three study intersections on Thursday September 10,
+2015. These volumes were performed when no cruise activity was occurring at the Port. Traffic volumes
+are reported for the morning and afternoon peak hour on the Elliott/15th Avenue corridor, which
+occurred from 7:45 to 8:45 A.M. and from 4:45 to 5:45 P.M. It is noted that these peak hours differ from
+the longer-than-60-minute periods prescribed by the SFRA. The peak hours were selected to meet
+industry standard for traffic analysis and level of service definitions, and are consistent with other traffic
+studies performed by the City of Seattle. Traffic volumes without a cruise are shown on Figures 15 and
+16 for the AM and PM peak hours, respectively.
+
+It is interesting to note that traffic volumes have changed very little since the monitoring study was per-
+formed in September 2011. For each year since 2011, the total number of vehicles entering each of the
+intersections during the peak hours is compared on Figure 14. All sets of counts reflect September
+conditions without cruise activity at Terminal 91.Except for the intersection at W Garfield Street/15th
+Avenue W, traffic volumes entering each intersection in 2015 is slightly lower than in the three prior
+years. That intersection had slightly higher southbound through volumes during the PM peak hour than
+in prior years.
+
+
+
+
+3
+    Telephone conversation with Enrique Garcia, Signal Operations (SDOT), November 28, 2011.
+
+                                                         - 15 -                                      May 18, 2016
+                                                                                                                     Terminal 91
+                                                                                                    2015 Traffic Monitoring Study
+
+                  Figure 14. Total Traffic Entering Intersection – Without Cruise Activity
+
+
+
+
+Source: Intersection turning movement counts performed for the respective Terminal 91 Monitoring Studies. All sets of counts reflect
+September conditions without cruise activity at Terminal 91.
+
+
+
+The gate counts described in the prior sections were used to determine the net change in AM and PM peak
+hour traffic associated with cruise activity at Terminal 91. Two conditions with cruise activity were
+evaluated: a typical weekday with one ship call at the terminal (Tuesday) and a peak weekday with two ship
+calls (Friday). These were compared to a day with no cruise (Thursday) to determine the traffic associated
+with cruise activity. The trip generation estimates are summarized in Table 6. As shown, cruise related trips
+are highest during the AM peak hour with 690 trips generated on the peak Friday. During the PM peak hour,
+on the same day, there were 69 cruise-related trips.
+
+It is noted that during the PM peak hour, the trips derived for the one-ship condition are higher than for the
+two-ship condition. This is likely due to the fact that the two-ship condition occurred on a Friday, and
+background traffic generated by other uses at the terminal may have been lower during the late afternoon on
+Friday than during other days of the week. Therefore, trips generated for the one-ship condition reflects the
+worst-case condition. Analysis from prior years shows that the cruise terminal generates little to no traffic in
+the afternoon peak hour since the ships have already left port during that time period.
+
+
+
+
+                                                                 - 16 -                                                  May 18, 2016
+                                                                                                                  Terminal 91
+                                                                                                 2015 Traffic Monitoring Study
+
+Table 6. Weekday Peak Hour Traffic: Cruise Day vs. Non-Cruise Day – 2015
+
+                                                    East Gate           Center Gate       West Access           Total Terminal 91
+                                                   Enter   Exit        Enter    Exit      Enter   Exit        Enter    Exit    Total
+ AM Peak Hour (7:45 to 8:45 A.M.)
+ Non-Cruise Day (Wed, 9/09/15)                       52        27        28         7        0         0       80       34     114
+ Typical Weekday Cruise Day (Tue, 9/8/15)           160       172        34         6       44        42      238      220     458
+ Peak Weekday Cruise Day (Fri, 9/11/15)             325       289        40         5       65        80      430      374     804
+ Net Change with Typical Weekday Cruise            +108      +145         6        -1      +44      +42      +158     +186    +344
+ Net Change with Peak Weekday Cruise               +273      +262      +12         -2      +65      +80      +350     +340    +690
+ PM Peak Hour (4:45 to 5:45 P.M.)
+ Non-Cruise Day (Wed, 9/09/15)                       24        57         5       15         0         0       29       72     101
+ Typical Weekday Cruise Day (Tue, 9/8/15)            28       104         3       24         1         6       32      134     166
+ Peak Weekday Cruise Day (Fri, 9/11/15)              49        87         7       22         2         3       58      112     170
+ Net Change with Typical Weekday Cruise              +4      +47         -2       +9        +1        +6       +3      +62     +65
+ Net Change with Peak Weekday Cruise                +25      +30        +2        +7        +2        +3      +29      +40     +69
+Source: Compiled by Heffron Transportation, Inc. from ten-day machine counts performed by IDAX in September 2015.
+
+
+
+The additional peak hour traffic generated by the cruise terminal on an average weekday (with one ship call)
+and the peak weekday (two ship calls) was distributed to the roadway network and assigned to the study-area
+intersections according to travel patterns defined by traffic counts performed for the 2010 Monitoring study.
+It is noted that in 2015, two cruise ships called at Terminal 91 on 52 days, of which 17 were Fridays and the
+rest were weekend days. The AM and PM cruise terminal trips are shown on Figures 17 and 18, respectively.
+
+
+
+
+                                                              - 17 -                                                May 18, 2016
+                                                                                                                                                               N
+
+
+
+
+                                                                 15 AVE W
+                                                                                                  20
+                                                                                             1,615                     1
+                                                                                            89                             3
+                                                                                                                           3
+                    W DRAVUS ST
+                                                                                           90
+                                                                                                                               2
+                                                                                                7
+                                                                                                    808                817
+                                                                                                                  14
+
+
+
+                                            20 AVE NW
+                                                                                                                                             11 14
+                                                                                                                           32
+
+
+
+
+                                                                            GIL
+                                                                                                                       2,489
+                                   W
+
+
+
+
+                                                                             MA
+                                                                                                                                                     260
+                                VE
+
+
+
+
+                                                                              NA
+                              EA
+
+
+
+
+                                                        W
+
+
+
+
+                                                                                VE
+                                                                                                                                                   833
+                            YK
+
+
+
+
+                                                         AR
+
+
+
+
+                                                                                  W
+                                                            MO
+                          ND
+
+
+
+
+                                                            RY
+                        OR
+
+
+
+
+                                                                 W
+                      TH
+
+
+
+
+                                                                  Y
+                      21AVE W
+
+
+
+
+                                                        GARFIELD
+                                                         STREET
+                                MAGNOLIA
+                                 BRIDGE                                     GALER STREET                           348
+                                                                              FLYOVER                          2,003
+                                                                                                                 27                            187
+                                               TERMINAL
+                                                  91                                                                            0             47         20
+                                                                                                                                    1 5
+                                                                 W
+
+
+
+
+                                                                                                                                                   989
+                                                                   AL
+                                                                     AS
+                                                                       KA
+                                                                         N
+                                                                            W
+                                                                             Y
+
+
+
+
+                                                                                                     W
+                                                                                                         ME
+                                                                                                           RC
+                                                                                                             ER
+                                                                                                                  PL
+                                                                                            BN
+                                                                                                    SF
+                                                                                                     M
+                                                                                                          AI
+                                                                                                          NL
+
+
+
+                                                                                                                           EL
+
+
+
+
+                           ELLIOTT
+                                                                                                            IN
+
+
+                                                                                                                               LIO
+                                                                                                               E
+
+
+                                                                                                                                   TT
+
+
+
+
+                             B AY
+                                                                                                                                      AV
+                                                                                                                                         E
+                                                                                                                                       W
+
+
+
+
+TERMINAL 91                                                Figure 15
+                                       EXISTING (2015) AM PEAK HOUR TRAFFIC VOLUMES
+2015 TRAFFIC MONITORING                        WITHOUT CRUISE AT TERMINAL 91
+
+                                                                                                                                                              10.23.15
+                                                                                                                                                        N
+
+
+
+
+                                                                 15 AVE W
+                                                                                                         3
+                                                                                              1,334                   16
+                                                                                            179                         1
+                                                                                                                       4
+                    W DRAVUS ST
+                                                                                           134
+                                                                                                 0                        1
+                                                                                                  343                 1,946
+                                                                                                                 24
+
+
+
+                                            20 AVE NW
+                                                                                                                                        50 55
+                                                                                                                        40
+
+
+
+
+                                                                            GIL
+                                                                                                                      1,590
+                                   W
+
+
+
+
+                                                                             MA
+                                                                                                                                                695
+                                VE
+
+
+
+
+                                                                              NA
+                              EA
+
+
+
+
+                                                        W
+
+
+
+
+                                                                                VE
+                                                                                                                                              1,894
+                            YK
+
+
+
+
+                                                         AR
+
+
+
+
+                                                                                  W
+                                                            MO
+                          ND
+
+
+
+
+                                                            RY
+                        OR
+
+
+
+
+                                                                 W
+                      TH
+
+
+
+
+                                                                  Y
+                      21AVE W
+
+
+
+
+                                                        GARFIELD
+                                                         STREET
+                                MAGNOLIA
+                                 BRIDGE                                     GALER STREET                          264
+                                                                              FLYOVER                        1,347
+                                                                                                                 10                       534
+                                               TERMINAL
+                                                  91                                                                    38                5       23
+                                                                                                                              4
+                                                                 W
+
+
+
+
+                                                                                                                                              1.984
+                                                                   AL
+
+
+
+
+                                                                                                                                  29
+                                                                     AS
+                                                                       KA
+                                                                         N
+                                                                            W
+                                                                             Y
+
+
+
+
+                                                                                                   W
+                                                                                                        ME
+                                                                                                          RC
+                                                                                                            ER
+                                                                                                                 PL
+                                                                                             BN
+                                                                                                  SF
+                                                                                                    M
+                                                                                                        AI
+                                                                                                         NL
+
+
+
+                                                                                                                        EL
+
+
+
+
+                           ELLIOTT
+                                                                                                             IN
+
+
+                                                                                                                            LIO
+                                                                                                                E
+
+
+                                                                                                                              TT
+
+
+
+
+                             B AY
+                                                                                                                                 AV
+                                                                                                                                    E
+                                                                                                                                  W
+
+
+
+
+TERMINAL 91                                                Figure 16
+                                       EXISTING (2015) PM PEAK HOUR TRAFFIC VOLUMES
+2015 TRAFFIC MONITORING                        WITHOUT CRUISE AT TERMINAL 91
+
+                                                                                                                                                       10.23.15
+                                                                                                                                                        N
+
+
+
+
+                                                               15 AVE W
+                                                                                                 (28)
+                                                                                                  69
+                                                                                          (12)
+                                                                                           19
+                       W DRAVUS ST
+                                                                                         (10) 20
+
+                                                                                           (31) 58                    66
+                                                                                                                     (37)
+
+                                                                                                                                   (37)
+                                          20 AVE NW
+                                                                                                                                    66 (108)
+                                                                                                                      (28)              196
+                                                                                                                       69
+
+
+
+
+                                                                          GIL
+                                      W
+
+
+
+
+                                                                                                                      (31)                      262
+
+
+
+
+                                                                           MA
+                                   VE
+
+
+
+
+                                                                                                                                               (118)
+
+
+
+                                                                            NA
+                                                                                                                       58
+                                 EA
+
+
+
+
+                                                      W
+
+
+
+
+                                                                              VE
+                               YK
+
+
+
+
+                                                       AR
+
+
+
+
+                                                                                W
+                                                          MO
+                             ND
+
+
+
+
+                                                          RY
+                           OR
+
+
+
+
+                                                               W
+                         TH
+
+
+
+
+                                                                Y
+                         21AVE W
+
+
+
+
+                                                      GARFIELD
+                                                       STREET                                                (18)
+                                   MAGNOLIA
+                                    BRIDGE                                GALER STREET                        34
+                                                                            FLYOVER
+                                                                                                            (121)                      35 (15)
+                                                                                                             220
+                                              TERMINAL
+                                                 91
+                                                               W
+
+
+
+
+                                                                                                                                           227
+                                                                 AL
+                                                                   AS
+
+
+
+
+                                                                                                                                          (103)
+                                                                     KA
+                                                                       N
+                                                                          W
+                                                                           Y
+
+
+
+
+                                                                                                   W
+                                                                                                       ME
+                                                                                                         RC
+                                                                                                           ER
+        ELLIOTT                                                                                                 PL
+
+
+          B AY
+                                                                                            BN
+                                                                                                 SF
+                                                                                                   M
+                                                                                                       AI
+                                                                                                        NL
+
+
+
+                                                                                                                        EL
+                                                                                                          IN
+
+
+                                                                                                                            LIO
+                                                                                                             E
+
+
+                                                                                                                             TT
+                                                                                                                                AV
+                                                                                                                                   E
+                                                                                                                                  W
+
+
+
+
+          Key:
+            ( XXX) = Trips generated by One Ship Call (Average Weekdayy)
+             XXX = Trips generated by Two Ship Calls (Peak Weekday Condition)
+
+
+
+                                                          Figure 17
+TERMINAL 91                                        TRAFFIC GENERATED BY
+2015 TRAFFIC MONITORING                       WEEKDAY CRUISE OPERATIONS AT T-91
+                                                       AM PEAK HOUR
+                                                                                                                                                       11.05.15
+                                                                                                                                                       N
+
+
+
+
+                                                               15 AVE W
+                                                                                                 (0)
+                                                                                                  6
+                                                                                          (0)
+                                                                                           1
+                       W DRAVUS ST
+                                                                                         (3) 2
+
+                                                                                           (12) 8                     8
+                                                                                                                     (12)
+
+                                                                                                                                   (12)
+                                          20 AVE NW
+                                                                                                                                    8 (35)
+                                                                                                                      (0)               22
+                                                                                                                       6
+
+
+
+
+                                                                          GIL
+                                      W
+
+
+
+
+                                                                                                                      (12)                      22
+
+
+
+
+                                                                           MA
+                                   VE
+
+
+
+
+                                                                                                                                                (3)
+
+
+
+                                                                            NA
+                                                                                                                        8
+                                 EA
+
+
+
+
+                                                      W
+
+
+
+
+                                                                              VE
+                               YK
+
+
+
+
+                                                       AR
+
+
+
+
+                                                                                W
+                                                          MO
+                             ND
+
+
+
+
+                                                          RY
+                           OR
+
+
+
+
+                                                               W
+                         TH
+
+
+
+
+                                                                Y
+                         21AVE W
+
+
+
+
+                                                      GARFIELD
+                                                       STREET                                                (6)
+                                   MAGNOLIA
+                                    BRIDGE                                GALER STREET                        4
+                                                                            FLYOVER
+                                                                                                            (41)                       3 (0)
+                                                                                                             26
+                                              TERMINAL
+                                                 91
+                                                               W
+
+
+
+
+                                                                                                                                          19
+                                                                 AL
+                                                                   AS
+
+
+
+
+                                                                                                                                          (3)
+                                                                     KA
+                                                                       N
+                                                                          W
+                                                                           Y
+
+
+
+
+                                                                                                  W
+                                                                                                       ME
+                                                                                                         RC
+                                                                                                           ER
+        ELLIOTT                                                                                                 PL
+
+
+          B AY
+                                                                                             BN
+                                                                                                 SF
+                                                                                                    M
+                                                                                                       AI
+                                                                                                        NL
+
+
+
+                                                                                                                        EL
+                                                                                                          IN
+
+
+                                                                                                                            LIO
+                                                                                                             E
+
+
+                                                                                                                             TT
+                                                                                                                                AV
+                                                                                                                                   E
+                                                                                                                                  W
+
+
+
+
+          Key:
+            ( XXX) = Trips generated by One Ship Call (Average Weekdayy)
+             XXX = Trips generated by Two Ship Calls (Peak Weekday Condition)
+
+
+
+                                                          Figure 18
+TERMINAL 91                                        TRAFFIC GENERATED BY
+2015 TRAFFIC MONITORING                       WEEKDAY CRUISE OPERATIONS AT T-91
+                                                       PM PEAK HOUR
+                                                                                                                                                      11.05.15
+                                                                                                                    Terminal 91
+                                                                                                   2015 Traffic Monitoring Study
+
+5.3. Level of Service Analysis
+Peak hour traffic volumes shown on Figures 15 through 18 were used to determine the levels of service
+for study-area intersections. This analysis reflects existing conditions on a normal day (without cruise
+operations at Terminal 91), on a weekday with an average cruise (one ship call), and on a weekday with
+peak cruise operations (two ship calls). The methodology used to determine level of service was
+described in Section 5.1 above. The results are summarized in Table 7.
+
+The level of service results for the without cruise and average cruise conditions are very similar to the
+results from 2011, 2013 and 2014 when weekdays only had one cruise ship call. The peak weekday
+cruise condition with two ship calls shows a slight degradation in operations during the AM peak hour
+when the terminal’s trip generation is highest. Even with the peak cruise condition, all three
+intersections operate within the SFRA trigger levels.
+
+
+Table 7. Traffic Operations With and Without Cruise Traffic – 2015
+                                                          Average Weekday           Average Weekday with Peak Weekday with
+                                    SFRA Trigger           Without Cruise            One Cruise Ship Call Two Cruise Ship Calls
+ Condition/Intersection               Level a            LOS b       Delay c          LOS        Delay      LOS        Delay
+ AM Peak Hour
+  15th Ave/Garfield Street             LOS C               A             4.3            A            4.5            A            5.0
+  Elliott Ave/Galer Flyover             LOS E              B             12.8           B           18.9            C            34.9
+  Elliott Ave/W Mercer Place            LOS E              B             18.7           C           23.3            C            28.2
+ PM Peak Hour
+  15th Ave/Garfield Street             LOS C               A             7.8            A            8.2            A            8.3
+  Elliott Ave/Galer Flyover             LOS E              A             9.2            B           10.6            B            10.8
+  Elliott Ave/W Mercer Place            LOS E              B             12.6           B           12.9            B            12.9
+Source: Heffron Transportation, Inc. Levels of service were calculated using traffic operations models developed by SDOT for the Elliott
+Avenue corridor. They reflect existing signal timing and lane geometry. All analysis was performed using the Synchro 8.0 model and analysis
+methodology.
+a.    Level of service threshold established by Short-Fill Redevelopment Agreement, January 2000. The SFRA included the Elliott Avenue
+      W/W Galer Street intersection, which was the primary access to Terminal 91. That access has been replaced with the Galer Street
+      Flyover.
+b.    Level of service
+c.    Average delay per vehicle in seconds.
+
+Level of service results from Terminal 91 Monitoring Reports dating back to 2011 are compared on Figure
+19 for the Elliott Avenue W/Galer Flyover intersection and on Figure 20 for the Elliott Avenue W/W
+Mercer Place intersection. The charts compare the average vehicle delay without and with cruise traffic.
+The condition with one cruise ship was used since that is the only condition that existed in prior years.
+These show that level of service (represented by average vehicle delay) has been relatively consistent for
+the past five years, and the effect of cruise operations is similar. The chart also shows the higher delay
+condition that existed in 2011 at the Elliott Avenue W/W Mercer Place intersection before left turn lane
+improvements were made. Those improvements lengthened the left turn lane and added vehicle detection
+at the end of that lane so that the green phase for that movement is extended when longer queues exist.
+Those improvements did benefit the AM peak hour conditions. The charts also show that both intersections
+operate within the delay associated with the LOS E threshold established by the SFRA.
+
+
+
+                                                                - 22 -                                                  May 18, 2016
+                                                                                                          Terminal 91
+                                                                                         2015 Traffic Monitoring Study
+
+  Figure 19. Traffic Operations at Elliott Avenue W / Galer Flyover Intersection
+
+
+
+
+Source: Heffron Transportation, Inc., Results from Terminal 91 Monitoring Reports for the respective years.
+
+
+
+
+Figure 20. Traffic Operations at Elliott Avenue W / W Mercer Place Intersection
+
+
+
+
+Source: Heffron Transportation, Inc., Results from Terminal 91 Monitoring Reports for the respective years.
+
+
+
+                                                      - 23 -                                                  May 18, 2016
+                                                                                            Terminal 91
+                                                                           2015 Traffic Monitoring Study
+
+
+
+
+6.      CONCLUSIONS
+This 2015 Terminal 91 Monitoring Study shows that truck trips continue to exceed the volume thresholds
+for AM, PM and daily periods, and have exceeded those thresholds for many years. Automobile trips
+exceed the thresholds during the AM and daily periods on days with cruise operations. However, despite
+the fact that the traffic volume thresholds are exceeded, traffic operations along the Elliott Avenue/15th
+Avenue W corridor still operate below the trigger levels at each of the study intersections during both the
+AM and PM peak hours. This year’s results are very similar to results since 2010.
+
+
+
+
+                                                 - 24 -                                    May 18, 2016
+                                                                                                     Terminal 91
+                                                                                      2015 Traffic Monitoring Study
+
+
+
+
+                   APPENDIX A
+Level of Service Criteria for Signalized Intersections
+Levels of service (LOS) are qualitative descriptions of traffic operating conditions. These levels of ser-
+vice are designated with letters ranging from LOS A, which is indicative of good operating conditions
+with little or no delay, to LOS F, which is indicative of stop-and-go conditions with frequent and
+lengthy delays. Levels of service for this analysis were developed using procedures presented in the
+Highway Capacity Manual (Transportation Research Board, 2010).
+
+Level of service for signalized intersections is defined by the weighted average vehicle delay of all
+movements through an intersection. Vehicle delay is a method of quantifying several intangible factors,
+including driver discomfort, frustration, and lost travel time. Level of service is typically determined for
+the peak one-hour traffic volumes (for example, the PM peak hour). Vehicle delay is a complex measure
+based on many variables, including signal phasing (i.e., progression of movements through the intersec-
+tion), signal cycle length, and traffic volumes with respect to intersection capacity. Table A-1 shows the
+level of service criteria for signalized intersections from the Highway Capacity Manual.
+
+Table A-1. Level of Service Criteria
+
+         Level of Service                 Average Delay Per Vehicle     General Description
+                 A                          Less than 10.0 seconds      Free flow
+                 B                           10.1 to 20.0 seconds       Stable flow (slight delays)
+                C                            20.1 to 35.0 seconds       Stable flow (acceptable delays)
+                D                            35.1 to 55.0 seconds       Approaching unstable flow (tolerable delay—
+                                                                        occasionally wait through more than one
+                                                                        signal cycle before proceeding.
+                 E                           55.1 to 80.0 seconds       Unstable flow (approaching intolerable delay)
+                 F                        Greater than 80.0 seconds     Forced flow (jammed)
+Source: Transportation Research Board, Highway Capacity Manual, 2010.
+
+
+
+
+                                                             A-1                                          May 18, 2016
+                                    Terminal 91
+                     2015 Traffic Monitoring Study
+
+
+
+
+        APPENDIX B
+INTERSECTION TRAFFIC COUNTS
+
+
+
+
+                                   May 18, 2016
+www.idaxdata.com                                                                                                                                                                                            T91_01
+
+
+
+
+                                            15TH AVE W
+                                           W GARFIELD ST
+                                                                                                                                                     Date: Thu, Sep 10, 2015
+                 N                                   Peak Hour                                                                               Count Period: 7:00 AM to 9:00 AM
+                                                                                                                                               Peak Hour: 7:45 AM to 8:45 AM
+
+
+
+                                                      1,725
+
+
+
+                                                                          909
+                              15TH AVE W
+
+
+
+
+                                                        1,615
+                                               89
+
+
+
+                                                                     20
+
+
+
+
+                                                                                                                                                                         11
+                                                                                1
+                                                                                                        W GARFIELD ST
+
+                         0                                                                              1
+                                                                                                                                                                                  1
+       106                                                                                                                        7                                                                         0
+                        90                           TEV: 3,471                                         3
+
+
+
+
+                                                                                                                                                                                            6
+                                                                                                                                                                         9
+                         7                           PHF: 0.97                                          3
+       905                                                                                                                    29
+                                                                                                        0                                              3                           1
+                       808
+
+          W GARFIELD ST
+                                                                                           15TH AVE W
+                                                                                 2
+                                                              14
+
+                                                                        817
+                                                 1
+
+
+
+
+                                                                                                                                                                                        4
+                                                                                                                                      HV %:    PHF
+                                                                                                                         EB           1.5%     0.91
+                                                     2,427
+
+
+
+
+                                                                                                                         WB           0.0%     0.58
+                                                                          834
+
+
+
+
+                                                                                                                         NB           8.5%     0.92
+                                                                                                                         SB           4.3%     0.96
+                                                                                                                     TOTAL            4.6%     0.97
+
+
+Two-Hour Count Summaries
+                      W GARFIELD ST                                     W GARFIELD ST                                     15TH AVE W                               15TH AVE W
+   Interval                                                                                                                                                                                     15-min           Rolling
+                        Eastbound                                             Westbound                                      Northbound                            Southbound
+     Start                                                                                                                                                                                       Total          One Hour
+                UT      LT    TH                     RT            UT         LT    TH                      RT      UT        LT    TH          RT     UT           LT    TH           RT
+   7:00 AM       0      11                 0        175             0           0     0                     0       0         3         181     0          0        0        368       19        757               0
+   7:15 AM       0      15                 0        227             0           0     0                     1       0         2         154     0          0        1        450       18        868               0
+   7:30 AM       0      12                 1        220             0           0     0                     1       0         3         178     2          0        5        384       14        820               0
+   7:45 AM       0      26                 2        221             0           1     0                     0       0         2         207     1          0        5        392       20        877             3,322
+   8:00 AM       0      17                 2        202             0           0     1                     0       0         5         220     1          0        5        423       19        895             3,460
+   8:15 AM       0      20                 2        197             0           2     0                     0       1         2         188     0          1        8        391       22        834             3,426
+   8:30 AM       0      27                 1        188             0           0     2                     1       0         5         202     0          0        2        409       28        865             3,471
+   8:45 AM       0      26                 0        170             0           0     0                     0       0         5         229     1          0        5        382       32        850             3,444
+ Count Total     0      154                8     1,600              0           3     3                     3       1         27       1,559    5          1        31       3,199     172      6,766              0
+ Peak Hour       0      90                 7        808             0           3     3                     1       1         14        817     2          1        20       1,615     89       3,471              0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval              Heavy Vehicle Totals                                                                       Bicycles                                            Pedestrians (Crossing Leg)
+     Start      EB       WB      NB      SB                                   Total   EB                    WB         NB              SB      Total       East          West      North    South                  Total
+   7:00 AM       5           0                 13               13              31    2                         0        1              2       5              0             0           0              0              0
+   7:15 AM       5           0                 12               10              27    4                         0        0              9       13             0             0           0              0              0
+   7:30 AM       7           0                 12               21              40    0                         0        2              4       6              1             2           0              0              3
+   7:45 AM       4           0                 22               12              38    0                         0        1              1       2              0             6           1              1              8
+   8:00 AM       2           0                 19               28              49    0                         0        0              4       4              1             3           0              0              4
+   8:15 AM       3           0                 17               16              36    2                         0        1              1       4              2             0           0              0              2
+   8:30 AM       5           0                 13               18              36    1                         0        2              5       8              3             0           0              0              3
+   8:45 AM       4           0                 22               9               35    0                         0        1              6       7              0             1           0              0              1
+ Count Total     35          0                 130            127             292     9                         0        8             32       49             7             12          1              1           21
+ Peak Hour       14          0                 71               74            159     3                         0        4             11       18             6             9           1              1           17
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                                       mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                                                                  T91_01
+
+
+
+
+                                            15TH AVE W
+                                           W GARFIELD ST
+                                                                                                                                                          Date: Thu, Sep 10, 2015
+                 N                                     Peak Hour                                                                                  Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                                    Peak Hour: 4:15 PM to 5:15 PM
+
+
+
+                                                       1,516
+
+
+
+                                                                             2,096
+                              15TH AVE W
+
+
+
+
+                                                          1,334
+                                               179
+
+
+
+
+                                                                                     0
+                                                                       3
+
+
+
+
+                                                                                                                                                                               2
+                                                                                                            W GARFIELD ST
+
+                         0                                                                                  16
+                                                                                                                                                                                        3
+       204                                                                                                                         21                                                                             0
+                       134                           TEV: 3,985                                             1
+
+
+
+
+                                                                                                                                                                              22
+
+
+
+
+                                                                                                                                                                                                  9
+                         0                           PHF: 0.99                                              4
+       477                                                                                                                             4
+                                                                                                            0                                               0                            2
+                       343
+
+          W GARFIELD ST
+                                                                                               15TH AVE W
+                                                                                      1
+                                                               24
+
+                                                                          1,946
+                                                   0
+
+
+
+
+                                                                                                                                                                                              11
+                                                                                                                                           HV %:    PHF
+                                                                                                                             EB            2.5%     0.90
+                                                       1,681
+
+
+
+                                                                            1,971
+
+
+
+
+                                                                                                                             WB            0.0%     0.66
+                                                                                                                             NB            2.9%     0.96
+                                                                                                                             SB            3.7%     0.96
+                                                                                                                         TOTAL             3.2%     0.99
+
+
+Two-Hour Count Summaries
+                      W GARFIELD ST                                       W GARFIELD ST                                       15TH AVE W                                 15TH AVE W
+   Interval                                                                                                                                                                                           15-min           Rolling
+                        Eastbound                                                 Westbound                                       Northbound                             Southbound
+     Start                                                                                                                                                                                             Total          One Hour
+                UT      LT    TH                     RT             UT            LT    TH                      RT      UT         LT    TH          RT     UT            LT    TH           RT
+   4:00 PM       0      31                 1         84               0              0    2                     2       0          6         457     1          0         2        306       31        923               0
+   4:15 PM       0      32                 0         90               0              2    0                     2       0          2         500     1          0         2        330       42       1,003              0
+   4:30 PM       0      30                 0         75               0              0    0                     7       0          8         456     0          0         1        352       40        969               0
+   4:45 PM       0      35                 0         83               0              0    1                     1       0          9         504     0          0         0        328       48       1,009            3,904
+   5:00 PM       0      37                 0         95               0              2    0                     6       0          5         486     0          0         0        324       49       1,004            3,985
+   5:15 PM       0      37                 0         70               0              1    0                     0       0          9         447     1          0         0        307       50        922             3,904
+   5:30 PM       0      24                 0         66               0              0    2                     3       0          6         451     0          0         1        321       34        908             3,843
+   5:45 PM       0      39                 0         84               0              0    0                     5       0          9         419     0          0         1        283       52        892             3,726
+ Count Total     0      265                1         647              0              5    5                     26      0         54        3,720    3          0         7        2,551     346      7,630              0
+ Peak Hour       0      134                0         343              0              4    1                     16      0         24        1,946    1          0         3        1,334     179      3,985              0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval              Heavy Vehicle Totals                                                                           Bicycles                                              Pedestrians (Crossing Leg)
+     Start      EB       WB      NB      SB                                       Total   EB                    WB         NB               SB      Total       East           West      North    South                  Total
+   4:00 PM       3           0                 16                 8                  27   0                         0        1               1       2              1              3           0              2              6
+   4:15 PM       3           0                 10                 11                 24   0                         0        2               0       2              2              9           0              1           12
+   4:30 PM       1           0                 15                 10                 26   0                         0        2               1       3              1              4           1              0              6
+   4:45 PM       1           0                 19                 20                 40   0                         0        2               0       2              2              4           1              0              7
+   5:00 PM       7           0                 14                 15                 36   0                         0        5               1       6              4              5           1              1           11
+   5:15 PM       5           0                 12                 12                 29   0                         0        8               2       10             2              4           2              0              8
+   5:30 PM       1           0                 11                 16                 28   0                         0        6               0       6              1              6           2              0              9
+   5:45 PM       3           0                 7                  12                 22   0                         0        4               1       5              1              10          0              0           11
+ Count Total     24          0                 104             104                232     0                         0        30              6       36             14             45          7              4           70
+ Peak Hour       12          0                 58                 56              126     0                         0        11              2       13             9              22          3              2           36
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                                             mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                                                     T91_02
+
+
+
+
+                                       15TH AVE W
+                                     GALER FLYOVER
+                                                                                                                                                     Date: Thu, Sep 10, 2015
+                     N                                  Peak Hour                                                                            Count Period: 7:00 AM to 9:00 AM
+                                                                                                                                               Peak Hour: 7:45 AM to 8:45 AM
+
+
+
+
+                                                            2521
+
+
+                                                                              844
+                                 15TH AVE W
+
+
+                                                    2,489
+
+                                                                32
+
+
+
+
+                                                                                                                                                                      87
+                                                                          0
+                                                                                                             GALER
+                                                                                                             FLYOVER
+
+                                                                                                             11
+                                                                                                                                                                           2
+                                                                                                                                 25                                                               7
+                                                            TEV: 3,639                                       14
+
+
+
+
+                                                                                                                                                                                     1
+                                                                                                                                                                0
+                                                            PHF: 0.97                                        0
+                                                                                                                                292
+                                                                                                                                                                             0
+                                                                                                15TH AVE W
+                                                                                     260
+                                                                          833
+                                                                    0
+
+
+
+
+                                                                                                                                                                                 78
+                                                                                                                                     HV %:     PHF
+                                                                                                                           EB          -         -
+                                                                                                                           WB        28.0%     0.69
+                                                            2,503
+
+
+                                                                           1093
+
+
+
+
+                                                                                                                           NB         7.1%     0.93
+                                                                                                                           SB         3.5%     0.96
+                                                                                                                       TOTAL          4.7%     0.97
+
+
+Two-Hour Count Summaries
+                                 0                                       GALER FLYOVER                                      15TH AVE W                         15TH AVE W
+   Interval                                                                                                                                                                              15-min        Rolling
+                         Eastbound                                            Westbound                                         Northbound                     Southbound
+     Start                                                                                                                                                                                Total       One Hour
+                UT       LT    TH                       RT           UT       LT    TH                       RT       UT         LT    TH       RT     UT       LT    TH         RT
+   7:00 AM       0       0                    0         0            0          4          0                 4        0          0     186      61     0        1      569       0        825            0
+   7:15 AM       0       0                    0         0            0          3          0                 2        0          0     161      73     0        8      655       0        902            0
+   7:30 AM       0       0                    0         0            0          8          0                 3        0          0     188      55     0        5      592       0        851            0
+   7:45 AM       0       0                    0         0            0          3          0                 3        0          0     202      64     0        10     644       0        926          3,504
+   8:00 AM       0       0                    0         0            0          1          0                 2        0          0     231      63     0        10     617       0        924          3,603
+   8:15 AM       0       0                    0         0            0          5          0                 2        0          0     191      63     0        3      588       0        852          3,553
+   8:30 AM       0       0                    0         0            0          5          0                 4        0          0     209      70     0        9      640       0        937          3,639
+   8:45 AM       0       0                    0         0            0          2          0                 4        0          0     230      80     0        13     541       0        870          3,583
+ Count Total     0       0                    0         0            0          31         0                 24       0          0     1,598   529     0        59     4,846     0       7,087           0
+ Peak Hour       0       0                    0         0            0          14         0                 11       0          0     833     260     0        32     2,489     0       3,639           0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval               Heavy Vehicle Totals                                                                        Bicycles                                      Pedestrians (Crossing Leg)
+     Start      EB        WB      NB      SB                                  Total        EB                    WB      NB           SB       Total   East          West      North    South            Total
+   7:00 AM       0           2                    18                16          36         0                      0        2           3        5          0           0             0           0           0
+   7:15 AM       0           1                    16                16          33         0                      0        1           10       11         0           0             0           0           0
+   7:30 AM       0           3                    14                24          41         0                      0        0           5        5          0           0             0           0           0
+   7:45 AM       0           2                    22                18          42         0                      0        4           0        4          0           0             0           0           0
+   8:00 AM       0           0                    21                24          45         0                      0        0           7        7          0           0             1           0           1
+   8:15 AM       0           3                    20                23          46         0                      0        0           1        1          1           0             1           0           2
+   8:30 AM       0           2                    15                22          39         0                      0        3           4        7          0           0             0           0           0
+   8:45 AM       0           2                    30                14          46         0                      0        1           5        6          1           0             0           0           1
+ Count Total     0        15                      156           157           328          0                      0        11          35       46         2           0             2           0           4
+   Peak Hr       0           7                    78                87        172          0                      0        7           12       19         1           0             2           0           3
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                                mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                                                          T91_02
+
+
+
+
+                                       15TH AVE W
+                                     GALER FLYOVER
+                                                                                                                                                          Date: Thu, Sep 10, 2015
+                     N                                     Peak Hour                                                                              Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                                    Peak Hour: 4:45 PM to 5:45 PM
+
+
+
+
+                                                               1630
+
+
+                                                                                 1,944
+                                 15TH AVE W
+
+
+                                                       1,590
+
+                                                                   40
+
+
+
+
+                                                                                                                                                                           80
+                                                                             0
+                                                                                                                  GALER
+                                                                                                                  FLYOVER
+
+                                                                                                                  50
+                                                                                                                                                                                  4
+                                                                                                                                     105                                                              7
+                                                               TEV: 4,324                                         55
+
+
+
+
+                                                                                                                                                                                          6
+                                                                                                                                                                      0
+                                                               PHF: 0.96                                          0
+                                                                                                                                     735
+                                                                                                                                                                                  0
+                                                                                                     15TH AVE W
+                                                                             1,894
+
+                                                                                          695
+                                                                       0
+
+
+
+
+                                                                                                                                         HV %:      PHF
+
+
+
+
+                                                                                                                                                                                      57
+                                                                                                                                EB          -         -
+                                                                                                                                WB         6.7%     0.75
+                                                               1,645
+
+
+                                                                               2589
+
+
+
+
+                                                                                                                                NB         2.2%     0.96
+                                                                                                                                SB         4.9%     0.94
+                                                                                                                            TOTAL          3.3%     0.96
+
+
+Two-Hour Count Summaries
+                                 0                                          GALER FLYOVER                                        15TH AVE W                          15TH AVE W
+   Interval                                                                                                                                                                                   15-min       Rolling
+                         Eastbound                                               Westbound                                          Northbound                       Southbound
+     Start                                                                                                                                                                                     Total      One Hour
+                UT       LT    TH                       RT              UT       LT    TH                         RT       UT        LT    TH        RT     UT        LT    TH        RT
+   4:00 PM       0       0                    0           0             0            8          0                 13       0         0      395     117     1         10        377   0        921           0
+   4:15 PM       0       0                    0           0             0            15         0                 15       0         0      449     157     0         6         411   0       1,053          0
+   4:30 PM       0       0                    0           0             0            22         0                 19       0         0      421     165     0         8         416   0       1,051          0
+   4:45 PM       0       0                    0           0             0            8          0                 16       0         0      466     187     0         9         389   0       1,075         4,100
+   5:00 PM       0       0                    0           0             0            13         0                 7        0         0      506     169     0         6         427   0       1,128         4,307
+   5:15 PM       0       0                    0           0             0            13         0                 13       0         0      457     165     0         15        377   0       1,040         4,294
+   5:30 PM       0       0                    0           0             0            21         0                 14       0         0      465     174     0         10        397   0       1,081         4,324
+   5:45 PM       0       0                    0           0             0            12         0                 9        1         0      459     200     0         10        356   0       1,047         4,296
+ Count Total     0       0                    0           0             0         112           0                 106      1         0      3,618 1,334     1         74     3,150    0       8,396          0
+ Peak Hour       0       0                    0           0             0            55         0                 50       0         0      1,894   695     0         40     1,590    0       4,324          0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval               Heavy Vehicle Totals                                                                             Bicycles                                       Pedestrians (Crossing Leg)
+     Start      EB        WB      NB      SB                                     Total          EB                    WB      NB           SB       Total   East           West      North    South          Total
+   4:00 PM       0           4                    14                   13            31         0                      0        0           2        2          2            0            0           0          2
+   4:15 PM       0           5                    9                    13            27         0                      0        0           1        1          3            0            3           0          6
+   4:30 PM       0           4                    8                    13            25         0                      0        0           3        3          2            0            0           0          2
+   4:45 PM       0           2                    19                   23            44         0                      0        0           0        0          0            0            0           0          0
+   5:00 PM       0           1                    15                   18            34         0                      0        0           3        3          6            0            3           0          9
+   5:15 PM       0           2                    11                   21            34         0                      0        0           3        3          0            0            0           0          0
+   5:30 PM       0           2                    12                   18            32         0                      0        0           1        1          0            0            1           0          1
+   5:45 PM       0           2                    9                    16            27         0                      0        0           0        0          0            0            0           0          0
+ Count Total     0        22                      97               135           254            0                      0        0           13       13         13           0            7           0       20
+   Peak Hr       0           7                    57                   80        144            0                      0        0           7        7          6            0            4           0       10
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                                       mark.skaggs@idaxdata.com
+                                           15TH AVE
+                                         ELLIOTT AVE W
+                                                     W/
+                                            W ROY  ST
+                                         W MERCER PLACE
+                                                                                                                                                           Date: Thu, Sep 10, 2015
+                  N                                      Peak Hour                                                                                 Count Period: 7:00 AM to 9:00 AM
+
+                         ELLIOTT AVE W
+                                                                                                                                                     Peak Hour: 7:45 AM to 8:45 AM
+
+
+
+
+                                                          2,378
+
+
+                                                                                1,176
+                                 15TH AVE W
+
+
+
+
+                                                             2,003
+
+                                                                          348
+                                                   27
+
+
+
+
+                                                                                                                                                                                   15
+                                                                                        0
+                                                                                                                W MERCER PL
+
+                         0                                                                                      187
+                                                                                                                                                                                            0
+       74                                                                                                                              187                                                                            1
+                         0                               TEV: 3,624                                             0
+
+
+
+
+                                                                                                                                                                                  20
+
+
+
+
+                                                                                                                                                                                                      3
+                                                         PHF: 0.97                                              0
+       1                 0
+                                                                                                                                       368                     0
+                         1                                                                                      0                                                                           17
+
+                W ROY ST
+                                                                                                   15TH AVE W
+                                                     2
+
+                                                                  47
+
+                                                                            989
+
+                                                                                         20
+
+
+                                                                                                     ELLIOTT AVE W
+
+
+
+
+                                                                                                                                                                                                 5
+                                                                                                                                             HV %:     PHF
+                                                                                                                                   EB        0.0%      0.25
+                                                         2,006
+
+
+                                                                                1,058
+
+
+
+
+                                                                                                                                   WB        11.8%     0.88
+                                                                                                                                   NB        6.8%      0.94
+                                                                                                                                   SB        3.9%      0.94
+                                                                                                                              TOTAL 5.2%               0.97
+
+
+Two-Hour Count Summaries
+                        W ROY ST                                                W MERCER PL                                        ELLIOTT AVE W                           ELLIOTT AVE W
+   Interval                                                                                                                                                                                               15-min           Rolling
+     Start               Eastbound                                                  Westbound                                           Northbound                          Southbound                     Total          One Hour
+                 UT      LT                   TH         RT            UT               LT    TH                 RT           UT        LT      TH      RT     UT            LT         TH       RT
+    7:00 AM       0       0                   0          2             0                0     0                      36       0         16     217      8          0         65        452       6         802               0
+    7:15 AM       0       0                   0          1             0                0     0                      36       1          7     212      6          0         79        537       7         886               0
+    7:30 AM       0       0                   0          0             0                0     0                      36       1          8     210      9          0         73        512       5         854               0
+    7:45 AM       0      0                    0          1             0                0     0                      45       1         15     238      3          0         97        534       4         938             3,480
+    8:00 AM       0       0                   0          0             0                0     0                      40       0         10     269      2          0         91        486       6         904             3,582
+    8:15 AM       0       0                   0          0             0                0     0                      49       1         11     238      4          0         73        491       8         875             3,571
+    8:30 AM       0       0                   0          0             0                0     0                      53       0         11     244      11         0         87        492       9         907             3,624
+    8:45 AM       0      1                    0          0             0                0     0                      55       0         15     260      7          0         74        469       5         886             3,572
+ Count Total      0      1                    0          4             0                0     0                 350           4         93     1,888    50         0         639       3,973     50       7,052              0
+  Peak Hour       0      0                    0          1             0                0     0                 187           2         47     989      20         0         348       2,003     27       3,624              0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+   Interval                Heavy Vehicle Totals                                                                               Bicycles                                            Pedestrians (Crossing Leg)
+     Start       EB        WB                      NB                SB            Total      EB                     WB            NB         SB       Total       East            West          North       South           Total
+    7:00 AM       0            5                   19                13                 37    0                           0        2           1        3              0               6              0           0              6
+    7:15 AM       0            2                   18                17                 37    0                           0        0           4        4              0               4              0           4              8
+    7:30 AM       0            3                   15                20                 38    0                           0        0           2        2              0               3              0           4              7
+    7:45 AM       0            7                   21                21                 49    0                           0        1           1        2              0               5              0           7           12
+    8:00 AM       0            7                   17                21                 45    0                           1        0           2        3              1               4              0           5           10
+    8:15 AM       0            5                   14                29                 48    0                           0        1           6        7              0               6              0           3              9
+    8:30 AM       0            3                   20                22                 45    0                           0        3           6        9              2               5              0           2              9
+    8:45 AM       0            4                   23                13                 40    0                           1        0           3        4              1               9              0           4           14
+  Count Total     0          36                    147            156               339       0                           2        7          25        34             4               42             0          29           75
+  Peak Hour       0          22                    72                93             187       0                           1        5          15        21             3               20             0          17           40
+                                 15TH AVE
+                               ELLIOTT AVEW
+                                          W/
+                                  W ROY PLACE
+                               W MERCER  ST
+                                                                                                                                                    Date: Thu, Sep 10, 2015
+                  N                               Peak Hour                                                                                 Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                              Peak Hour: 4:45 PM to 5:45 PM
+                                  W W
+
+
+
+
+                                                  1,621
+
+
+                                                                          2,556
+                          15TH AVEAVE
+                          ELLIOTT
+
+
+
+
+                                                       1,347
+
+                                                                    264
+                                             10
+
+
+
+
+                                                                                  0
+
+
+
+
+                                                                                                                                                                            4
+                                                                                                          W MERCER PL
+
+                         0                                                                                534
+                                                                                                                                                                                     0
+       15                                                                                                                       534                                                                         3
+                        38                        TEV: 4,238                                              0
+
+
+
+
+                                                                                                                                                                           35
+
+
+
+
+                                                                                                                                                                                              2
+                                                  PHF: 0.99                                               0
+       71                4
+                                                                                                                             291                        0
+                        29                                                                                0                                                                           7
+
+                W ROY ST
+                                                                                             15TH AVE W
+                                              0
+
+                                                          5
+
+                                                                      1,984
+
+                                                                                   23
+
+
+                                                                                                ELLIOTT AVE W
+
+
+
+
+                                                                                                                                                                                          8
+                                                                                                                                      HV %:     PHF
+                                                                                                                            EB        0.0%      0.85
+                                                  1,376
+
+
+                                                                          2,012
+
+
+
+
+                                                                                                                           WB         3.0%      0.93
+                                                                                                                            NB        1.9%      0.93
+                                                                                                                            SB        5.4%      0.94
+                                                                                                                       TOTAL 3.4%               0.99
+
+
+Two-Hour Count Summaries
+                        W ROY ST                                          W MERCER PL                                       ELLIOTT AVE W                           ELLIOTT AVE W
+   Interval                                                                                                                                                                                        15-min        Rolling
+     Start               Eastbound                                            Westbound                                          Northbound                          Southbound                     Total       One Hour
+                 UT      LT             TH        RT            UT                LT    TH                    RT       UT        LT      TH      RT         UT        LT         TH       RT
+    4:00 PM       0       3             2         12            0                 0     0                     99       0          1     419      8          0         77        336       2         959            0
+    4:15 PM       0       2             3         4             0                 0     0                     87       0          1     491      4          0         65        333       1         991            0
+    4:30 PM       0      11             4         8             0                 0     0                 110          0          1     482      8          0         65        366       1        1,056           0
+    4:45 PM       0      8              1         8             0                 0     0                 112          0          1     534      4          0         71        333       2        1,074         4,080
+    5:00 PM       0      14             2         5             0                 0     0                 135          0          1     478      6          0         60        370       2        1,073         4,194
+    5:15 PM       0      10             1         8             0                 0     0                 144          0          1     464      9          0         70        313       4        1,024         4,227
+    5:30 PM       0       6             0         8             0                 0     0                 143          0          2     508      4          0         63        331       2        1,067         4,238
+    5:45 PM       0      6              3         1             0                 0     0                 127          0          0     504      11         0         60        311       0        1,023         4,187
+ Count Total      0      60             16        54            0                 0     0                 957          0          8    3,880     54         0         531       2,693     14       8,267           0
+  Peak Hour       0      38             4         29            0                 0     0                 534          0          5     1,984    23         0         264       1,347     10       4,238           0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+   Interval                Heavy Vehicle Totals                                                                        Bicycles                                            Pedestrians (Crossing Leg)
+     Start       EB        WB                NB                SB             Total     EB                      WB          NB         SB       Total       East            West          North       South        Total
+    4:00 PM       1           5              10                21                 37    0                          1        1           0        2              0               6              0           0           6
+    4:15 PM       0           3              5                 17                 25    0                          2        0           1        3              2               8              0           2        12
+    4:30 PM       0           6              9                 15                 30    0                          1        2           1        4              1               5              0           0           6
+    4:45 PM       0           3              15                23                 41    0                          0        1           0        1              2               12             0           0        14
+    5:00 PM       0           4              9                 23                 36    0                          2        4           0        6              0               7              0           2           9
+    5:15 PM       0           6              11                22                 39    0                          1        1           3        5              0               12             0           3        15
+    5:30 PM       0           3              4                 20                 27    0                          0        2           1        3              0               4              0           2           6
+    5:45 PM       0           1              14                18                 33    0                          2        1           0        3              0               8              0           2        10
+  Count Total     1          31              77            159                268       0                          9        12          6        27             5               62             0          11        78
+  Peak Hour       0          16              39                88             143       0                          3        8           4        15             2               35             0           7        44
+

@@ -1,0 +1,111 @@
+ www.idaxdata.com
+
+
+                                              3RD AVE
+                                              VISTA DR
+                                                                                                                                   Date: Wed, Mar 25, 2015
+                N                              Peak Hour                                                                   Count Period: 4:00 PM to 6:00 PM
+                                                                                                                             Peak Hour: 4:45 PM to 5:45 PM
+
+
+
+
+                                                  143
+
+
+
+                                                                  103
+                          3RD AVE
+
+
+
+
+                                                                                                                                                               0
+                                         24
+
+                                                    82
+
+                                                              37
+                                                                                              VISTA DR                                                             2
+
+
+      315                                                                                       37           249                                                                           0
+                     11                           TEV: 791                                     201
+
+
+
+
+                                                                                                                                                   14
+
+
+
+
+                                                                                                                                                                                     4
+                    141                           PHF: 0.94                                     11
+      237            85                                                                                      195                           0
+
+
+               VISTA DR                                                                                                                                            0
+                                                                                    3RD AVE
+                                                    90
+
+                                                              55
+
+                                                                           17
+
+
+
+
+                                                                                                                 HV %:           PHF
+
+
+
+
+                                                                                                                                                                           0
+                                                                                                       EB        1.7%            0.83
+                                                                                                       WB        0.4%            0.82
+                                                                                                       NB        0.6%            0.92
+                                                  178
+
+
+
+                                                                  162
+
+
+
+
+                                                                                                       SB        0.0%            0.92
+                                                                                                     TOTAL       0.8%            0.94
+Two-Hour Count Summaries
+                          VISTA DR                                      VISTA DR                                3RD AVE                            3RD AVE
+    Interval                                                                                                                                                               15-min         Rolling
+      Start               Eastbound                                     Westbound                            Northbound                            Southbound               Total        One Hour
+                    LT              TH             RT         LT            TH                 RT      LT          TH            RT        LT           TH         RT
+    4:00 PM          1                  38          19        1             47                  9      17              12           4         6          26        4           184
+    4:15 PM          3                  28          21        3             40                  9      23              7            4         9          23        7           177
+    4:30 PM          0                  29          19        4             47                  6      23              9            1         5          29        10          182
+    4:45 PM          1                  39          15        4             39                  6      26              13           5         11         21        5           185         728
+    5:00 PM          5                  31          18        0             46                 14      23              14           4         5          16        10          186         730
+    5:15 PM          3                  39          29        3             56                  5      21              11           3         11         22        6           209         762
+    5:30 PM          2                  32          23        4             60                 12      20              17           5         10         23        3           211         791
+    5:45 PM          5                  30          19        2             43                  9      27              10           3         4          13        5           170         776
+  Count Total       20              266            163        21            378                70      180             93           29        61        173        50      1,504
+    Peak Hr         11              141             85        11            201                37      90              55           17        37         82        24          791
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                       Bicycles                                       Pedestrians (Crossing Leg)
+      Start         EB       WB               NB         SB        Total        EB             WB      NB        SB         Total        East           West       North         South         Total
+    4:00 PM          2              0         0          0          2           0               0       0          0         0            0              2             0             1          3
+    4:15 PM          0              0         0          0          0           0               0       0          0         0            0              0             0             0          0
+    4:30 PM          0              0         0          0          0           0               0       0          0         0            0              0             0             0          0
+    4:45 PM          0              0         1          0          1           0               0       0          0         0            0              7             0             0          7
+    5:00 PM          1              0         0          0          1           0               0       0          0         0            0              2             0             0          2
+    5:15 PM          2              1         0          0          3           0               0       0          0         0            4              2             2             0          8
+    5:30 PM          1              0         0          0          1           0               0       0          0         0            0              3             0             0          3
+    5:45 PM          1              1         1          0          3           0               0       0          0         0            4              3             0             0          7
+  Count Total        7              2         2          0          11          0               0       0          0         0            8              19            2             1         30
+    Peak Hr          4              1         1          0          6           0               0       0          0         0            4              14            2             0         20
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                 mark.skaggs@idaxdata.com
+

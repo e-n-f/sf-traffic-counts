@@ -1,0 +1,32 @@
+#!/usr/bin/perl
+
+$max = 50;
+
+for $file (<misc/*.txt>) {
+	$out = "$file.tmp";
+	print STDERR "$file $out\n";
+
+	open(IN, "$file");
+	open(OUT, ">$out");
+	$page = "";
+	$n = 0;
+	while (<IN>) {
+		if (/\014/) {
+			if ($n < $max || $page =~ /Two-Hour Count Summaries/ || $page =~ /idax/) {
+				print OUT $page;
+			}
+
+			$page = "";
+			$n++;
+		}
+
+		$page .= $_;
+	}
+	if ($n < $max || $page =~ /Two-Hour Count Summaries/ || $page =~ /idax/) {
+		print OUT $page;
+	}
+	close(IN);
+	close(OUT);
+
+	rename($out, $file);
+}

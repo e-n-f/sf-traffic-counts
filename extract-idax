@@ -32,6 +32,7 @@ sub out {
 	}
 }
 
+ROUND:
 while (<>) {
 	chomp;
 	s/\015//g;
@@ -92,7 +93,10 @@ while (<>) {
 
 			if ($section eq "vehicle") {
 				# 12 for first hour, then 13 after totals begin
-				die if $#fields != 12 && $#fields != 13;
+				if ($#fields != 12 && $#fields != 13) {
+					%val = ();
+					next ROUND;
+				}
 
 				my $f = 0;
 				for my $dir ("Eastbound", "Westbound", "Northbound", "Southbound") {
@@ -103,7 +107,10 @@ while (<>) {
 			}
 
 			if ($section eq "bikeped") {
-				die if $#fields != 14;
+				if ($#fields != 14) {
+					%val = ();
+					next ROUND;
+				}
 
 				my $f = 5;
 				for my $dir ("South", "North", "East", "West", "Total") {

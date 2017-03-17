@@ -1,0 +1,685 @@
+                                                                                                                              ATTACHMENT 8
+                                                                                                                                ZAB 06-09-16
+                                                                                                                                 Page 1 of 14
+                                                                                                                            Memo
+
+To:              Tim Beinke                                                   From:               Stantec Consulting Ltd.
+                 Berkeley Honda
+                 2627 Shattuck Avenue
+                 Berkeley, CA 94704
+File:            Berkeley Honda Supplemental                                  Date:               June 2, 2016
+                 Traffic Impact Analysis
+
+
+
+Reference:             Berkeley Honda Supplemental Traffic Analysis
+
+
+In response to Berkeley Honda’s request, Stantec prepared the traffic impact study (dated
+September 22, 2015) for the proposed Berkeley Honda, a full-service auto dealership with service
+and parts departments, at 2777 Shattuck Avenue and 2747 Adeline Street in the City of Berkeley.
+Based on some public comments, a few additional issues/concerns were raised. This memo
+summarizes the issues and responses based on additional analysis for the proposed project.
+
+Accident at or near the intersection and proposed driveway location
+
+Accident History
+Stantec gathered the accident history for the most recent 5-year (2011-2015) period from the
+Statewide Integrated Traffic Records System (SWITRS) for the following two intersections near the
+proposed project site:
+    • The intersection of Shattuck Avenue and Ward Street
+    • The intersection of Shattuck Avenue and Stuart Street
+
+Table 1 shows the number of accidents occurred at each intersection by the type of accidents.
+As shown, there were two (2) reported accidents at/near the intersection of Shattuck Avenue
+and Ward Street and there are 14 accidents reported at/near the intersection of Shattuck
+Avenue and Stuart Street.
+
+Table 1 Number of Accidents (Year 2011 – 2015) Near Proposed Berkeley Honda Site
+   Intersection Name                    Sideswipe               Broadside               Rear-End            Head-On          Total
+
+Shattuck Ave / Ward St                        2                       -                       -                  -            2
+
+Shattuck Ave / Stuart St                      3                       7                       2                  2            14
+
+Source: SWITRS
+
+Details on the accident types and other accident related information are included in Appendix
+A. As shown in Appendix A, at the intersection of Shattuck Avenue and Ward Street:
+    • The two (2) sideswipe accidents were due to improper lane changing on the
+         southbound Shattuck Avenue and improper backing up on Ward Street.
+
+At the intersection of Shattuck Avenue and Stuart Street:
+
+
+
+
+jl v:\1839\active\183910130\report\further study\berkeley honda_supplementaltrafficstudy_060216.docx
+                                                                                         ATTACHMENT 8
+                                                                                           ZAB 06-09-16
+                                                                                            Page 2 of 14
+June 2, 2016
+Tim Beinke
+Page 2 of 8
+
+
+Reference: Berkeley Honda Supplemental Traffic Analysis
+
+
+    •   The three (3) sideswipe accidents were due to pedestrian violation crossing Shattuck.
+        Avenue, improper parking maneuver on Stuart Street and conflicts between
+        southbound vehicle on Shattuck Avenue and vehicle from westbound Stuart Street.
+    •   The seven (7) broadside accidents were due to conflicts between
+        northbound/southbound vehicles on Shattuck Avenue and eastbound/westbound
+        vehicles/bicyclists from Stuart Street and conflict between eastbound vehicle and
+        pedestrian crossing Stuart Street.
+    •   The two (2) rear-end accidents were due to improper speed on northbound Shattuck
+        Avenue.
+    •   The two (2) head-on accidents were both caused due to the influence of alcohol.
+
+The proposed Berkeley Honda driveway would be located approximately 60 feet south of Ward
+Street on the east side of Shattuck Avenue, which would provide both inbound and outbound
+(right-turn only) access. Due to relatively low speed on Shattuck Avenue (25 mph) near the
+proposed driveway and the fact that the southbound left-turn inbound vehicles only need to
+cross one northbound through lane on Shattuck Avenue, it is expected that the potential to
+have such accident at the proposed driveway to Berkeley Honda would be low. Moreover, the
+number of vehicles accessing the driveway from the southbound Shattuck Avenue direction is
+expected to be low – six (6) vehicles during the a.m. peak hour and four (4) vehicles during the
+p.m. peak hour.
+
+Queuing and Operation
+We selected the left-turn into the driveway of the new Safeway on College Avenue, just south of
+Alcatraz Street for its similar geometry and lane configuration to the proposed driveway for
+Berkeley Honda. We collected traffic data and observed traffic operations and queuing on the
+left turn lane. Overall, as expected the full-service grocery store, Safeway, generates
+substantially more trips than expected from Berkeley Honda.
+
+On a typical Thursday, May 26, 2016, Stantec observed queuing and traffic operations at the
+Safeway driveway location near the intersection of College Avenue and Alcatraz Avenue
+during the morning (7:00 a.m. – 9:00 a.m.) and afternoon (4:00 p.m. – 6:00 p.m.) peak periods.
+The proposed lane configuration of the entrance driveway for Berkeley Honda project would be
+similar to the entrance driveway for the Safeway, which is expected to generate more traffic
+than is expected from the Honda dealership.
+
+Based on the observation, the longest southbound left-turn queue for vehicles entering the
+Safeway driveway was only two (2) vehicles. This queue did not extend or block the southbound
+through lane on College Avenue, during either the morning or the afternoon peak periods.
+
+Table 2 compares the intersection turning movement volumes from/to the Safeway driveway
+with those expected from/to the proposed Berkeley Honda driveway. As shown, there are
+significantly less inbound and outbound trips expected at the proposed Berkeley Honda
+driveway, compared with those at the existing Safeway driveway during both the morning and
+the afternoon peak hours.
+                                                                                           ATTACHMENT 8
+                                                                                             ZAB 06-09-16
+                                                                                              Page 3 of 14
+June 2, 2016
+Tim Beinke
+Page 3 of 8
+
+
+Reference: Berkeley Honda Supplemental Traffic Analysis
+
+
+Appendix A includes more details of the turning movement volumes at the Safeway driveway.
+As shown, the northbound/southbound through traffic volumes on College Avenue near the
+Safeway driveway are similar to the through volumes on Shattuck Avenue near the proposed
+Berkeley Honda driveway.
+
+
+Table 2 Peak Hour Turning Movement Volumes at the Driveway
+                             A.M. Peak Hour                      P.M. Peak Hour
+    Location           Inbound           Outbound          Inbound           Outbound
+                  SBL NBR Total WBL WBR Total SBL NBR Total WBL WBR Total
+    Safeway
+  Driveway on      38     31    69    3     15    18    45    38    83     7    36    43
+  College Ave
+   Proposed
+  Driveway on      6      6     12     -     4     4    4     4      8     -    13    13
+ Shattuck Ave
+
+Therefore, it would be expected that the conflicts between the northbound through traffic on
+Shattuck Avenue and the southbound left-turn vehicles entering the proposed Berkeley Honda
+project driveway would not develop a queue of more than two (2) vehicles on the proposed
+southbound left turn lane. Therefore, the queueing at the driveway, if any, would not extend
+long enough to block the southbound through traffic on Shattuck Avenue.
+
+Number of cars coming In and out of the service area per day
+Stantec confirmed with the Project Sponsor that typically there would be approximately 30 to 35
+cars that are serviced per day. This number matches with the trip generation analysis prepared
+for the project (dated September 22, 2015).
+
+How will tow trucks get in and out of the service department
+Stantec confirmed with the Project Sponsor that typically there are either one (1) or two (2) tow
+trucks per day that is expected at the proposed project site. The tow trucks will unload inside the
+building in the service department, which would cause no conflict with traffic on Shattuck
+Avenue.
+
+How would the parts be delivered
+Stantec confirmed with the Project Sponsor that parts are delivered once a day during the off
+peak periods, i.e. outside the windows of morning/evening peaks. The delivery truck would stop
+on Adeline Street and the parts trolley would be rolled across the street into the project site.
+Delivery truck would not be able to pull into the Honda driveway, but will stop only at the
+designated location on Adeline Street north of the existing curb cut as shown in Figure 1.
+                                                         ATTACHMENT 8
+                                                           ZAB 06-09-16
+                                                            Page 4 of 14
+
+
+
+FIGURE 1
+BUS TURNING TEMPLATE
+
+
+
+
+                                        SHAT TUCK AV
+                                           ENUE
+                    T
+                 E STREE
+                ADELIN
+
+
+
+
+                                                                 N
+                           Source: Stantec Consulting Services
+                                                                                                ATTACHMENT 8
+                                                                                                  ZAB 06-09-16
+                                                                                                   Page 5 of 14
+June 2, 2016
+Tim Beinke
+Page 5 of 8
+
+
+Reference: Berkeley Honda Supplemental Traffic Analysis
+
+
+Figure 1 illustrates the AutoTurn analysis for the proposed truck delivery location to identify if parts
+delivery would adversely impact the bus operations near the bus stop location on Adeline
+Street. As shown, when a truck is parked on the proposed delivery location on Adeline Street
+immediately north of the existing curb-cut, buses could turn in and out of the bus stop south of
+the curb-cut with minimal disruptions to traffic circulation along northbound Adeline Street. There
+is sufficient space for the bus to maneuver in and out of the bus stop even when the truck is
+parked at the designated location.
+
+How does the proposed driveway curb-cut on Shattuck Avenue fit into the pedestrian oriented
+neighborhood
+Stantec conduct pedestrian counts at the sidewalk location where the curb cut is proposed for
+Berkeley Honda on a typical Thursday, May 26, 2016, during morning (7:00 a.m. – 9:00 a.m.),
+noon (11:00 a.m. – 1:00 p.m.), afternoon (4:00 p.m. – 6:00 p.m.) and evening (7:30 p.m. – 9:00
+p.m.) peak periods. Table 3 shows the pedestrian counts during each peak hour.
+
+Table 3 Peak Hour Pedestrian Counts at the Sidewalk near the Proposed Curb Cut
+   A.M. Peak Hour          Noon Peak Hour           P.M. Peak Hour       Evening Peak Hour
+          29                     95                        79                    61
+
+As shown, there are currently approximately 29, 95, 79 and 61 pedestrians using the sidewalk at
+the proposed curb cut for Berkeley Honda during the morning, noon, afternoon and evening
+peak hour, respectively.
+
+The pedestrians’ use of the sidewalk at the proposed curb cut is minimal during the morning
+peak period compared with the other peak periods of the day. It is expected that the proposed
+Berkeley Honda driveway would generate more service related trips entering the driveway
+during the morning peak period as compared with the other peak periods of the day. As shown
+in Table 2, during the morning peak hour, there would be a total of 6 inbound and 6 outbound
+trips using the proposed project driveway, which might bring in potential conflicts with the
+existing 29 pedestrians using the sidewalk where the proposed driveway would be located. This
+traffic volume equals to approximately one pedestrian using the sidewalk near the proposed
+curb cut every two minutes and one inbound or outbound trip every five minutes using the
+Berkeley Honda driveway. It is expected that the probability of potential conflicts between
+pedestrians and vehicles at the proposed driveway location would be low during the a.m. peak.
+During the afternoon peak period and noon peak period, there would be a potential conflict
+between the vehicles exiting the proposed driveway with the pedestrians on the sidewalk.
+
+The Project Sponsor will install “Driveway Alarm System” at the driveway that would notify
+pedestrians of on-coming vehicles out of the driveway. This would be based on automated
+vehicle detection that would trigger the alarm to warn the pedestrians on the sidewalk. The curb
+cut would be designed narrower than the regular curb-cut and the Project Sponsor would work
+with City staff to design a pedestrian-friendly curb-cut.
+
+Additional Safety Measure
+                                                                                          ATTACHMENT 8
+                                                                                            ZAB 06-09-16
+                                                                                             Page 6 of 14
+June 2, 2016
+Tim Beinke
+Page 6 of 8
+
+
+Reference: Berkeley Honda Supplemental Traffic Analysis
+
+
+In order to reduce pedestrian-vehicle conflict at the driveway, Stantec recommends installing
+additional safety measures, which include, but not limited to, bells/horns at the driveway, or a
+“multi-media device that includes audio and visual – both of which could be sensitive to
+ambient noise or light and, therefore, minimize possible annoyance with residents or merchants.
+
+Pedestrian Friendly Driveway Design
+Project Sponsor will work with City staff to recommend a pedestrian friendly driveway design and
+work with the project architect to modify the driveway design. One design feature that the City
+of Berkeley requires of downtown is the provision of a minimum 5’ by 5’ sight distance triangle so
+exiting motorists can have an improved opportunity to see pedestrians on the sidewalk and vice
+versa.
+
+
+
+
+Stantec Consulting Ltd.
+
+
+
+
+Attachment:    Appendix A – Accident History (2011 – 2015)
+               Appendix B – Intersection Turning Movement Counts
+                                                          ATTACHMENT 8
+                                                            ZAB 06-09-16
+                                                             Page 7 of 14
+June 2, 2016
+Tim Beinke
+Page 7 of 8
+
+
+Reference: Berkeley Honda Supplemental Traffic Analysis
+
+
+Appendix A – Accident History (2011 – 2015)
+                                                                                                                                                                              ATTACHMENT 8
+                                                                                                                                                                                ZAB 06-09-16
+                                                                                                                                                                                 Page 8 of 14
+CASE_ID   ACCIDENT_YEAR      COLLISION_DATE     COLLISION_TIME     DAY_OF_WEEK     PRIMARY_RD      SECONDARY_RD   DISTANCE    DIRECTION   INTERSECTION   COLLISION_SEVERITY
+  7140968               2015           20151012               1457               1 SHATTUCK AV     WARD ST               106 S            N                                   0
+  6104767               2013           20130520               1234               1 WARD ST         SHATTUCK AV             48 E           N                                   0
+
+  5147008              2011           20110315               855                 2   SHATTUCK AV   STUART ST               0              Y                                   4
+  5463481              2011           20111104              1648                 5   SHATTUCK AV   STUART ST               0              Y                                   4
+  5850470              2012           20120831               817                 5   SHATTUCK AV   STUART ST               0              Y                                   4
+  5808555              2012           20120718               841                 3   SHATTUCK AV   STUART ST               0              Y                                   0
+  6541910              2014           20140606               957                 5   SHATTUCK AV   STUART ST               0              Y                                   0
+  6640667              2014           20140819               848                 2   SHATTUCK AV   STUART ST              90   N          N                                   4
+  6683100              2014           20140919               820                 5   SHATTUCK AV   STUART ST               0              Y                                   0
+  6972327              2015           20150428              1842                 2   SHATTUCK AV   STUART ST              44   N          N                                   4
+  6973970              2015           20150406              1241                 1   SHATTUCK AV   STUART ST               0              Y                                   4
+  7117420              2015           20150905              2210                 6   SHATTUCK AV   STUART ST               0              Y                                   3
+  5667765              2012           20120315              1303                 4   STUART ST     SHATTUCK AV             0              Y                                   3
+  6008178              2013           20130203                41                 7   STUART ST     SHATTUCK AV            59   E          N                                   0
+  6104771              2013           20130518              1034                 6   STUART ST     SHATTUCK AV            51   E          N                                   0
+  6900300              2015           20150312              1951                 4   STUART ST     SHATTUCK AV             0              Y                                   3
+                                                                                                                                                                                  ATTACHMENT 8
+                                                                                                                                                                                    ZAB 06-09-16
+                                                                                                                                                                                     Page 9 of 14
+CASE_ID   NUMBER_KILLED       NUMBER_INJURED     PCF_VIOL_CATEGORY                                               TYPE_OF_COLLISION   MVIW                  LIGHTING
+  7140968                 0                    0 Improper Turning                                                Sideswipe           Other Motor Vehicle   Daylight
+  6104767                 0                    0 Unsafe Starting or Backing                                      Sideswipe           Other Motor Vehicle   Daylight
+
+  5147008                 0                    1   Automobile Right of Way                                       Broadside           Other Motor Vehicle   Daylight
+  5463481                 0                    1   Automobile Right of Way                                       Broadside           Other Motor Vehicle   Daylight
+  5850470                 0                    3   Automobile Right of Way                                       Broadside           Other Motor Vehicle   Daylight
+  5808555                 0                    0   Automobile Right of Way                                       Sideswipe           Other Motor Vehicle   Daylight
+  6541910                 0                    0   Automobile Right of Way                                       Broadside           Other Motor Vehicle   Dusk - Dawn
+  6640667                 0                    1   Unsafe Speed                                                  Rear End            Other Motor Vehicle   Daylight
+  6683100                 0                    0   Automobile Right of Way                                       Broadside           Other Motor Vehicle   Daylight
+  6972327                 0                    1   Unsafe Speed                                                  Rear End            Other Motor Vehicle   Daylight
+  6973970                 0                    1   Automobile Right of Way                                       Broadside           Bicycle               Daylight
+  7117420                 0                    1   Driving or Bicycling Under the Influence of Alcohol or Drug   Head-On             Other Motor Vehicle   Dark - Street Lights
+  5667765                 0                    1   Pedestrian Right of Way                                       Broadside           Pedestrian            Daylight
+  6008178                 0                    0   Driving or Bicycling Under the Influence of Alcohol or Drug   Head-On             Fixed Object          Dark - Street Lights
+  6104771                 0                    0                                   #N/A                          Sideswipe           Other Motor Vehicle   Daylight
+  6900300                 0                    1   Pedestrian Violation                                          Sideswipe           Pedestrian            Dark - Street Lights
+                                                          ATTACHMENT 8
+                                                            ZAB 06-09-16
+                                                            Page 10 of 14
+June 2, 2016
+Tim Beinke
+Page 8 of 8
+
+
+Reference: Berkeley Honda Supplemental Traffic Analysis
+
+
+Appendix B – Intersection Turning Movement Counts
+                                                                                                                                                                                                 ATTACHMENT 8
+                                                                                                                                                                                                   ZAB 06-09-16
+                                                                                                                                                                                                   Page 11 of 14
+
+
+
+
+                                       College Ave
+                                    Safeway Driveway
+                                                                                                                                                    Date: 05/26/2016
+                      N                                    Peak Hour                                                                         Count Period: 7:00 AM to 9:00 AM
+                                                                                                                                               Peak Hour: 8:00 AM to 9:00 AM
+
+
+                                                             361
+
+
+                                                                               454
+                                  College Ave
+
+
+                                                     323
+
+                                                               38
+
+
+
+
+                                                                                                                                                                   31
+                                                                           0
+
+
+
+
+                                                                                                                                                                        0
+                                                                                                             Safeway
+                                                                                                             Driveway
+
+                                                                                                             15
+                                                                                                                                                                        0
+                                                                                                             3                  18                                                        0
+                                                           TEV:            849
+                                                                                                                                                                                          0
+
+
+
+
+                                                                                                                                                                                 1
+                                                                                                                                                             0
+                                                           PHF:            0.92                              0
+                                                                                                                                69
+                                                                                                                                                                        0
+                                                                                               College Ave
+
+
+
+
+                                                                                                                                     HV %:     PHF
+                                                                            439
+
+                                                                                     31
+                                                                   0
+
+
+
+
+                                                                                                                                                                             0
+                                                                                                                                                                        26
+                                                                                                                           EB          -        -
+                                                                                                                           WB        0.0%      0.90
+                                                                                                                           NB        2.8%      0.93
+                                                             326
+
+
+
+                                                                             470
+
+
+
+
+                                                                                                                           SB        4.2%      0.87
+                                                                                                                        TOTAL        3.3%      0.92
+Two-Hour Count Summaries
+                              0                                       Safeway Driveway                                      College Ave                      College Ave
+   Interval                                                                                                                                                                          15-min       Rolling
+                          Eastbound                                      Westbound                                          Northbound                       Southbound
+     Start                                                                                                                                                                            Total      One Hour
+                 UT       LT    TH                       RT         UT    LT    TH    RT                              UT     LT     TH         RT     UT      LT     TH      RT
+   7:00 AM        0       0                     0        0             0           0      0                   2        0        0       59      5      1       2     49      0        118           0
+   7:15 AM        0       0                     0        0             0           0      0                   4        1        0       62      5      0       4     58      0        134           0
+   7:30 AM        0       0                     0        0             0           0      0                   2        1        0       70      7      0       4     72      0        156           0
+   7:45 AM        0       0                     0        0             0           1      0                   2        0        0       94      9      0       8     71      0        185          593
+   8:00 AM        0       0                     0        0             0           2      0                   3        0        0      118      9      0       7     67      0        206          681
+   8:15 AM        0       0                     0        0             0           0      0                   4        0        0       89      8      0      10     84      0        195          742
+   8:30 AM        0       0                     0        0             0           1      0                   3        0        0      118      7      0      13     76      0        218          804
+   8:45 AM        0       0                     0        0             0           0      0                   5        0        0      114      7      0       8     96      0        230          849
+ Count Total      0       0                     0        0             0           4      0                  25        2        0      724     57      1      56    573      0       1,442          0
+         All      0       0                     0        0             0           3      0                  15        0        0      439     31      0      38    323      0        849           0
+ Peak
+         HV       0       0                     0        0             0           0      0                   0        0        0       13      0      0       0     15      0         28           0
+ Hour
+        HV%       -       -                     -        -             -          0%      -                  0%        -        -      3%      0%      -      0%    5%       -        3%            0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval                Heavy Vehicle Totals                                                                       Bicycles                                   Pedestrians (Crossing Leg)
+     Start       EB        WB      NB      SB                                  Total      EB                     WB      NB           SB      Total   East        West      North    South          Total
+   7:00 AM        0           0                     4              3            7         0                       0        4          4        8       0            0            0           0       0
+   7:15 AM        0           0                     4              1            5         0                       0        4          5        9       0            0            0           0       0
+   7:30 AM        0           0                     2              5            7         0                       0        6          5        11      0            0            0           0       0
+   7:45 AM        0           0                     4              4            8         0                       0        4          12       16      0            0            0           0       0
+  8:00 AM         0           0                     3              3            6         0                       0        5          5        10      0            0            0           0       0
+  8:15 AM         0           0                     3              5            8         0                       0        10         15       25      0            0            0           0       0
+  8:30 AM         0           0                     5              3            8         0                       0        3          6        9       1            0            0           0       1
+  8:45 AM         0           0                     2              4            6         0                       0        8          5        13      0            0            0           0       0
+ Count Total      0           0                     27             28           55        0                       0        44         57      101      1            0            0           0       1
+  Peak Hr         0           0                     13             15           28        0                       0        26         31       57      1            0            0           0       1
+
+
+
+
+  Denis Wu 925-895-0380
+  W & S Solutions, LLC
+  05/30/16 19:22:48
+                                                                                                                                                    ATTACHMENT 8
+                                                                                                                                                      ZAB 06-09-16
+                                                                                                                                                      Page 12 of 14
+
+
+
+
+Two-Hour Count Summaries - Heavy Vehicles
+                              0                     Safeway Driveway                 College Ave                    College Ave
+   Interval                                                                                                                                15-min    Rolling
+                          Eastbound                     Westbound                    Northbound                     Southbound
+     Start                                                                                                                                  Total   One Hour
+                 UT       LT    TH      RT     UT       LT    TH     RT      UT       LT    TH      RT      UT       LT    TH      RT
+    7:00 AM       0       0       0        0    0        0       0       0   0        0        4        0   0        0        3        0     7         0
+    7:15 AM       0       0       0        0    0        0       0       0   0        0        4        0   0        0        1        0     5         0
+    7:30 AM       0       0       0        0    0        0       0       0   0        0        2        0   0        0        5        0     7         0
+    7:45 AM       0       0       0        0    0        0       0       0   0        0        4        0   0        0        4        0     8         27
+    8:00 AM       0       0       0        0    0        0       0       0   0        0        3        0   0        0        3        0     6         26
+    8:15 AM       0       0       0        0    0        0       0       0   0        0        3        0   0        0        5        0     8         29
+    8:30 AM       0       0       0        0    0        0       0       0   0        0        5        0   0        0        3        0     8         30
+    8:45 AM       0       0       0        0    0        0       0       0   0        0        2        0   0        0        4        0     6         28
+ Count Total      0       0       0        0    0        0       0       0   0        0        27       0   0        0        28       0     55        0
+  Peak Hour       0       0       0        0    0        0       0       0   0        0        13       0   0        0        15       0     28        0
+
+
+Two-Hour Count Summaries - Bikes
+                              0                     Safeway Driveway                 College Ave                    College Ave
+   Interval                                                                                                                                15-min    Rolling
+                          Eastbound                 Westbound                    Northbound                     Southbound
+     Start                                                                                                                                  Total   One Hour
+                    LT       TH     RT           LT    TH     RT              LT     TH     RT               LT     TH     RT
+    7:00 AM           0       0        0            0        0       0           0        4         0           0        4         0         8         0
+    7:15 AM           0       0        0            0        0       0           0        4         0           0        5         0         9         0
+    7:30 AM           0       0        0            0        0       0           0        6         0           0        5         0         11        0
+    7:45 AM           0       0        0            0        0       0           0        4         0           0        12        0         16        44
+    8:00 AM           0       0        0            0        0       0           0        5         0           0        5         0         10        46
+    8:15 AM           0       0        0            0        0       0           0        10        0           0        15        0         25        62
+    8:30 AM           0       0        0            0        0       0           0        3         0           0        6         0         9         60
+    8:45 AM           0       0        0            0        0       0           0        8         0           0        5         0         13        57
+ Count Total          0       0        0            0        0       0           0        44        0           0        57        0        101        0
+  Peak Hour           0       0        0            0        0       0           0        26        0           0        31        0         57        0
+Note: U-Turn volumes for bikes are included in Left-Turn, if any.
+
+
+
+
+  Denis Wu 925-895-0380
+  W & S Solutions, LLC
+  05/30/16 19:22:48
+                                                                                                                                                                                                  ATTACHMENT 8
+                                                                                                                                                                                                    ZAB 06-09-16
+                                                                                                                                                                                                    Page 13 of 14
+
+
+
+
+                                       College Ave
+                                    Safeway Driveway
+                                                                                                                                                    Date: 05/26/2016
+                      N                                    Peak Hour                                                                         Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                               Peak Hour: 5:00 PM to 6:00 PM
+
+
+                                                             427
+
+
+                                                                               426
+                                  College Ave
+
+
+                                                     381
+
+                                                               45
+
+
+
+
+                                                                                                                                                                    40
+                                                                           1
+
+
+
+
+                                                                                                                                                                         0
+                                                                                                             Safeway
+                                                                                                             Driveway
+
+                                                                                                             36
+                                                                                                                                                                         0
+                                                                                                             7                  43                                                         0
+                                                           TEV:            897
+                                                                                                                                                                                           0
+
+
+
+
+                                                                                                                                                                                  3
+                                                                                                                                                              0
+                                                           PHF:            0.98                              0
+                                                                                                                                83
+                                                                                                                                                                         0
+                                                                                               College Ave
+
+
+
+
+                                                                                                                                     HV %:     PHF
+                                                                            389
+
+                                                                                     38
+                                                                   0
+
+
+
+
+                                                                                                                                                                              0
+                                                                                                                                                                         33
+                                                                                                                           EB          -         -
+                                                                                                                           WB        0.0%      0.83
+                                                                                                                           NB        2.8%      0.95
+                                                             388
+
+
+
+                                                                             427
+
+
+
+
+                                                                                                                           SB        2.1%      0.93
+                                                                                                                        TOTAL        2.3%      0.98
+Two-Hour Count Summaries
+                              0                                       Safeway Driveway                                      College Ave                       College Ave
+   Interval                                                                                                                                                                           15-min       Rolling
+                          Eastbound                                      Westbound                                          Northbound                        Southbound
+     Start                                                                                                                                                                             Total      One Hour
+                 UT       LT    TH                       RT         UT    LT    TH    RT                              UT     LT     TH         RT      UT      LT     TH      RT
+   4:00 PM        0       0                     0        0             0           0      0                  12        0        0       89      9       0      15    102      0        227           0
+   4:15 PM        0       0                     0        0             0           0      0                  11        0        0       84     13       0      20     86      0        214           0
+   4:30 PM        0       0                     0        0             0           0      0                   9        0        0       99     12       0      13     88      0        221           0
+   4:45 PM        0       0                     0        0             0           2      0                  13        0        0       95     14       0      11     84      0        219          881
+   5:00 PM        0       0                     0        0             0           0      0                  13        0        0       94      7       0      13     94      0        221          875
+   5:15 PM        0       0                     0        0             0           2      0                   8        0        0       90     13       0      12    103      0        228          889
+   5:30 PM        0       0                     0        0             0           1      0                   6        0        0      104      8       1      10     90      0        220          888
+   5:45 PM        0       0                     0        0             0           4      0                   9        0        0      101     10       0      10     94      0        228          897
+ Count Total      0       0                     0        0             0           9      0                  81        0        0      756     86       1     104    741      0       1,778          0
+         All      0       0                     0        0             0           7      0                  36        0        0      389     38       1      45    381      0        897           0
+ Peak
+         HV       0       0                     0        0             0           0      0                   0        0        0       12      0       0      0      9       0         21           0
+ Hour
+        HV%       -       -                     -        -             -          0%      -                  0%        -        -      3%      0%      0%     0%     2%       -        2%            0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval                Heavy Vehicle Totals                                                                       Bicycles                                    Pedestrians (Crossing Leg)
+     Start       EB        WB      NB      SB                                  Total      EB                     WB      NB           SB       Total   East        West      North    South          Total
+   4:00 PM        0           0                     3              5            8         0                       1        5          12        18      2            0            2           0       4
+   4:15 PM        0           0                     2              4            6         0                       0        8          9         17      0            0            0           0       0
+   4:30 PM        0           0                     3              4            7         0                       0        4          8         12      0            0            0           0       0
+   4:45 PM        0           0                     3              3            6         0                       0        7          5         12      0            0            0           0       0
+   5:00 PM        0           0                     3              2            5         0                       0        4          7         11      1            0            0           0       1
+   5:15 PM        0           0                     1              2            3         0                       0        11         15        26      0            0            0           0       0
+   5:30 PM        0           0                     4              2            6         0                       0        7          8         15      2            0            0           0       2
+   5:45 PM        0           0                     4              3            7         0                       0        11         10        21      0            0            0           0       0
+ Count Total      0           0                     23             25           48        0                       1        57         74       132      5            0            2           0       7
+  Peak Hr         0           0                     12             9            21        0                       0        33         40        73      3            0            0           0       3
+
+
+
+
+  Denis Wu 925-895-0380
+  W & S Solutions, LLC
+  05/30/16 19:24:29
+                                                                                                                                                    ATTACHMENT 8
+                                                                                                                                                      ZAB 06-09-16
+                                                                                                                                                      Page 14 of 14
+
+
+
+
+Two-Hour Count Summaries - Heavy Vehicles
+                              0                     Safeway Driveway                 College Ave                    College Ave
+   Interval                                                                                                                                15-min    Rolling
+                          Eastbound                     Westbound                    Northbound                     Southbound
+     Start                                                                                                                                  Total   One Hour
+                 UT       LT    TH      RT     UT       LT    TH     RT      UT       LT    TH      RT      UT       LT    TH      RT
+    4:00 PM       0       0       0        0    0        0       0       0   0        0        3        0   0        0        5        0     8         0
+    4:15 PM       0       0       0        0    0        0       0       0   0        0        2        0   0        0        4        0     6         0
+    4:30 PM       0       0       0        0    0        0       0       0   0        0        3        0   0        0        4        0     7         0
+    4:45 PM       0       0       0        0    0        0       0       0   0        0        3        0   0        0        3        0     6         27
+    5:00 PM       0       0       0        0    0        0       0       0   0        0        3        0   0        0        2        0     5         24
+    5:15 PM       0       0       0        0    0        0       0       0   0        0        1        0   0        0        2        0     3         21
+    5:30 PM       0       0       0        0    0        0       0       0   0        0        4        0   0        0        2        0     6         20
+    5:45 PM       0       0       0        0    0        0       0       0   0        0        4        0   0        0        3        0     7         21
+ Count Total      0       0       0        0    0        0       0       0   0        0        23       0   0        0        25       0     48        0
+  Peak Hour       0       0       0        0    0        0       0       0   0        0        12       0   0        0        9        0     21        0
+
+
+Two-Hour Count Summaries - Bikes
+                              0                     Safeway Driveway                 College Ave                    College Ave
+   Interval                                                                                                                                15-min    Rolling
+                          Eastbound                 Westbound                    Northbound                     Southbound
+     Start                                                                                                                                  Total   One Hour
+                    LT       TH     RT           LT    TH     RT              LT     TH     RT               LT     TH     RT
+    4:00 PM           0       0        0            0        0       1           0        4         1           0        12        0         18        0
+    4:15 PM           0       0        0            0        0       0           0        8         0           0        9         0         17        0
+    4:30 PM           0       0        0            0        0       0           0        4         0           0        8         0         12        0
+    4:45 PM           0       0        0            0        0       0           0        7         0           0        5         0         12        59
+    5:00 PM           0       0        0            0        0       0           0        4         0           0        7         0         11        52
+    5:15 PM           0       0        0            0        0       0           0        11        0           0        15        0         26        61
+    5:30 PM           0       0        0            0        0       0           0        7         0           0        8         0         15        64
+    5:45 PM           0       0        0            0        0       0           0        11        0           0        10        0         21        73
+ Count Total          0       0        0            0        0       1           0        56        1           0        74        0        132        0
+  Peak Hour           0       0        0            0        0       0           0        33        0           0        40        0         73        0
+Note: U-Turn volumes for bikes are included in Left-Turn, if any.
+
+
+
+
+  Denis Wu 925-895-0380
+  W & S Solutions, LLC
+  05/30/16 19:24:29
+

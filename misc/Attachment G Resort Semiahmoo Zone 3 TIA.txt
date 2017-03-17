@@ -1,0 +1,1655 @@
+      Transportation Impact Analysis
+
+
+RESORT SEMIAHMOO ZONE 3
+
+
+                                    Prepared for:
+                                     M-KOV, Inc.
+
+                                       June 2016
+
+
+
+
+                                     Prepared by:
+
+
+
+
+                 11730 118th Avenue NE, Suite 600
+                         Kirkland, WA 98034-7120
+                             Phone: 425-821-3665
+                                Fax: 425-825-8434
+                           www.transpogroup.com
+
+
+
+                                        16167.00
+
+
+
+
+                           © 2016 Transpo Group
+Transportation Impact Analysis
+Resort Semiahmoo Zone 3                                                                                                        June 2016
+
+
+
+                                                   Table of Contents
+Introduction ..............................................................................................................................1 
+  Project Description ................................................................................................................. 1 
+  Study Area ............................................................................................................................. 1 
+Existing and Future Without-Project Conditions ..................................................................4 
+ Roadway Network .................................................................................................................. 4 
+ Non-Motorized Facilities ........................................................................................................ 4 
+ Transit and Ferry Service ...................................................................................................... 5 
+ Planned Improvements .......................................................................................................... 5 
+ Traffic Volumes ...................................................................................................................... 5 
+ Traffic Operations .................................................................................................................. 8 
+ Traffic Safety .......................................................................................................................... 8 
+Project Impacts ........................................................................................................................9 
+  Trip Generation ...................................................................................................................... 9 
+  Trip Distribution and Assignment ......................................................................................... 10 
+  Future With-Project Traffic Volumes .................................................................................... 10 
+  Future With-Project Traffic Operations ................................................................................ 13 
+  Site Access Analysis ............................................................................................................ 13 
+  Non-Motorized Facilities ...................................................................................................... 14 
+Findings and Recommendations .........................................................................................15 
+
+                                                            Appendix
+Appendix A:  Traffic Counts 
+Appendix B:  LOS Definitions 
+Appendix C:  LOS Worksheets 
+Appendix D:  WSDOT Left and Right-Turn Lane Exhibits 
+
+                                                              Figures
+Figure 1.           Site Vicinity and Study Intersections ................................................................... 2 
+Figure 2.           Preliminary Site Plan ........................................................................................... 3 
+Figure 3.           Existing (2016) Weekday PM Peak Hour Traffic Volumes .................................. 6 
+Figure 4.           Future (2020) Without-Project Weekday PM Peak Hour Traffic Volumes .......... 7 
+Figure 5.           Project Trip Distribution and Assignment .......................................................... 11 
+Figure 6.           Future (2020) With-Project Weekday Peak Hour Traffic Volumes .................... 12 
+
+                                                              Tables
+Table 1.            Existing and Without-Project Weekday Peak Hour Levels of Service ................ 8 
+Table 2.            Estimated Weekday PM Peak Hour Project Trip Generation ............................. 9 
+Table 3.            Future With-Project Weekday Peak Hour Levels of Service ............................. 13 
+
+
+
+
+                                                                                                                                           i
+Transportation Impact Analysis
+Resort Semiahmoo Zone 3                                                                  June 2016
+
+
+
+                                    Introduction
+The purpose of this transportation impact analysis (TIA) is to identify potential transportation-
+related impacts associated with the proposed Resort Semiahmoo Zone 3 mixed use
+development.
+
+
+Project Description
+The project is a mixed use development that is primarily residential but also includes 5,000
+square-feet of retail and 24,000 square-feet of storage providing 60 storage units. The
+residential component of the development is still being evaluated but includes mixes of single
+family, multifamily, and duplex units. The residential uses included for the analysis assume
+the higher unit options being considered which are 44 single family dwelling units, 41
+multifamily units, and 22 duplex units (equivalent of 44 single family dwelling units).
+
+In addition, part of the project site is a 1.75-acre area that is being considered to be
+developed as a City park; however, if it is not developed as a City park it would be developed
+as residential units. If developed as residential units this would include 7 single family
+dwelling units and 4 duplex units, resulting in an overall residential development of 51 single
+family dwelling units, 41 multifamily units, and 26 duplex units (equivalent of 52 single family
+dwelling units). The proposed residential unit estimate is conservative. It is possible that a
+lower unit count would be constructed.
+
+The project will provide 37 parking spaces as well as 2 parking spaces per residential unit. In
+addition, if the 1.75-acre area is developed as a City park, 12 parking spaces would be
+provided for that use.
+
+It is anticipated that the project would be completed, fully occupied, and generating traffic by
+2020. Figure 1 illustrates the project site and surrounding vicinity.
+
+A preliminary site plan is shown in Figure 2. As shown in the site plan, site access is
+proposed via two access points. The first access is proposed as the fourth leg (the west leg)
+of the Semiahmoo Parkway/Gleneagle intersection and the second access is proposed along
+Semiahmoo Drive/Drayton Harbor Road, west of the Semiahmoo Parkway / Semiahmoo
+Drive intersection.
+
+
+Study Area
+The analysis focuses on the weekday PM peak period (busiest one hour between 4:00 to
+6:00 p.m.) operations at two intersections as well as a proposed site access. This period
+represents the highest cumulative total traffic for the adjacent street system providing a
+conservative timeframe for level of service (LOS) analysis. The study intersections include
+(see also Figure 1):
+    1. Semiahmoo Parkway / Semiahmoo Drive
+    2. Semiahmoo Parkway / Gleneagle Drive
+
+
+
+
+                                                                                                   1
+                                                                                                                   y
+                                                                                                                  kw
+                                                                                                              oP
+                                                                                                             mo
+                                                                                                           ah
+                                                                                                        mi
+                                                                                                      Se
+
+
+
+
+    SITE                                                                        1
+                                                                    Dr
+                                                              moo                   2
+                                                        m iah
+                                                     Se
+                                                                                                                        Dra
+                                                                                                                         yto
+                                                                                                                             nHa
+                                                                                                                                 rbo
+                                                                                                                                  rR
+                                                                                                                                   d
+
+
+
+
+                                                                                                                                                         Legend
+                                                                                                                                                          X   Study Intersection
+
+
+
+
+Site Vicinity and Study Intersections                                                                                                                                              FIGURE
+Resort Semiahmoo Zone 3
+                                                                                                                                       WHAT TRANSPORTATION CAN BE.
+                                                                                                                                                                                     1
+Jun 23, 2016 - 10:35am kassil M:\16\16192.00 - Burnside Village\Graphics\Burnside_16192 Graphics.dwg Layout: Vicinity
+                                                                                                                                                                                  oa     d
+                                                                                                                                                                            bor R
+                                                                                                                                                                  n Har
+                                                                                                                                                            Drayto
+
+
+
+
+                                                                                                                                                                              Dr         ive
+                                                                                                                                                                        eagle
+                                                                                                                                                                   Glen
+
+
+
+
+                                                                                                                                           ive
+                                                                                                                                     o   Dr
+                                                                                                                                  mo
+                                                                                                                             ah
+                                                                                                                           mi
+                                                                                                                         Se
+
+
+
+
+                                                                                                                                                                     Semiahmoo Parkway
+Preliminary Site Plan                                                                                                                                                                          FIGURE
+Resort Semiahmoo Zone 3
+                                                                                                                                                 WHAT TRANSPORTATION CAN BE.
+                                                                                                                                                                                                 2
+Jun 23, 2016 - 10:36am kassil M:\16\16192.00 - Burnside Village\Graphics\Burnside_16192 Graphics.dwg Layout: Site Plan
+Transportation Impact Analysis
+Resort Semiahmoo Zone 3                                                                                 June 2016
+
+
+
+    Existing and Future Without-Project Conditions
+This section describes existing and future without-project conditions within the identified study
+area. Characteristics are provided for the roadway network, non-motorized facilities, transit
+service, existing and future without-project traffic volumes, traffic operations, and traffic
+safety.
+
+
+Roadway Network
+The project site is bounded by Semiahmoo Drive to the northwest and Semiahmoo Parkway
+to the east. The major roadways within the study area include:
+
+Semiahmoo Parkway is a two-lane major collector south of Semiahmoo Drive and a minor
+collector north of Semiahmoo Drive. In the project vicinity, paved shoulders exist along both
+sides of the road, with no curbs, gutter or sidewalks. The posted speed limit is 35 mph. A trail
+runs along one side within City limits.
+
+Semiahmoo Drive is a two-lane major collector that runs west of Semiahmoo Parkway.
+Unpaved shoulders exist along both sides of the roadway, with no curbs or sidewalks along
+either side. A trail is provided along the south side of the roadway, in the project vicinity. The
+posted speed limit is 35 to 45 mph.
+
+Drayton Harbor Road is a two-lane minor collector that runs east of Semiahmoo Parkway.
+Unpaved shoulders exist along both sides of the roadway, with no curbs or sidewalks along
+either side. The posted speed limit is 35 mph. A trail runs along one side within City limits.
+
+Gleneagle Drive is a two-lane roadway classified as a local road providing access to an
+existing residential development east of Semiahmoo Parkway.
+
+The study intersections are either side-street stop controlled or all-way stop controlled
+intersections. The Semiahmoo Parkway/Gleneagle intersection and proposed site access
+along Semiahmoo Drive are side-street stop controlled intersections and the Semiahmoo
+Parkway / Semiahmoo Drive intersection is an all-way stop-controlled intersection.
+
+
+Non-Motorized Facilities
+The study area has both regional recreation and community trails. Regional recreational trails
+have a county-wide significance drawing users from throughout the region and community
+trails link neighborhoods, major parks, schools, commercial centers, and other destinations
+throughout the City. The nearest trail, is a paved trail along the south side of Semiahmoo
+Drive along the project frontage. In addition, there are two regional recreational trails
+including the Semiahmoo Split Loop Trail and Coast Millennium Trail. The Semiahmoo Spit
+trail is an eight-foot bicycle/pedestrian path that parallels Semiahmoo Parkway and is
+separated by a planting strip which loops around the entire Spit and extends along
+Semiahmoo Parkway adjacent to the north side of the proposed project site. The Coast
+Millennium Trail travels from Birch Bay through Semiahmoo across Drayton Harbor on the
+foot-ferry1 then along Marine Drive and to the United States/Canadian border. As discussed
+previously, no sidewalk facilities are provided along most of the roadways within the study
+area.
+
+
+
+
+1
+  The foot-ferry is seasonal and provides a pedestrian link between Semiahmoo Spit and the Wharf District or West
+Blaine to Central Blaine.
+
+
+
+                                                                                                                    4
+Transportation Impact Analysis
+Resort Semiahmoo Zone 3                                                                    June 2016
+
+
+
+Transit and Ferry Service
+Whatcom Transit Authority (WTA) serves the City of Blaine with two routes serving downtown
+Blaine provide service to Cordata and Bellingham; however, no routes are provided in the
+vicinity of the project. Although, no routes are available within the vicinity of the project, WTA
+provides Zone Service to the site area. WTA Zone Service provides limited transit service to
+rural areas with advance reservations, which is limited to Monday thru Thursday within the
+project area zone.
+
+Excursion passenger ferry service is provided seasonally north of the project site between the
+Spit across Drayton Harbor to Blaine on Fridays, Saturdays and Sundays between Memorial
+Day and Labor Day. The ferry is owned by the City of Blaine and leased to the Drayton
+Harbor Maritime Society.
+
+
+Planned Improvements
+Based on a review of the City of Blaine’s Six-Year (2016-2021) Transportation Improvement
+Program (TIP), no funded improvements were identified that would change existing
+conditions at the study intersections. An unfunded improvement was identified which would
+resurface Semiahmoo Parkway from Drayton Harbor Road to the City Limits, approximately
+1.5 miles that is anticipated to occur in 2018; however, this project would not change the
+existing capacity at the study intersections.
+
+
+Traffic Volumes
+Figure 3 illustrates existing weekday PM peak hour traffic volumes at the study intersections.
+Traffic counts were collected at each study intersection in May 2016. Detailed intersection
+traffic counts are provided in Appendix A. Traffic volumes were rounded to the nearest five
+vehicles since weekday volumes fluctuate day-to-day.
+
+Future without-project weekday PM peak hour traffic volumes were estimated by increasing
+existing traffic volumes by 2 percent per year to 2020 and adding traffic generated by 2
+pipeline developments within the vicinity of the project identified through coordination with
+City staff, and consistent with previous studies in the vicinity of the project. This growth rate is
+consistent with previous studies in the vicinity of the site. The pipeline projects included are
+Semiahmoo Spit Master Plan and Semiahmoo Shores.
+
+Figure 4 illustrates the future 2020 without-project weekday PM peak hour traffic volumes at
+the study intersections.
+
+
+
+
+                                                                                                   5
+     Legend
+                                                                                                                                                                                       oa     d
+        X     Study Intersection                                                                                                                                                 bor R
+                                                                                                                                                                       n Har
+                                                                                                                                                                 Drayto
+              Weekday PM Peak Hour
+        X                                                                                                                                               1
+              Traffic Volumes
+
+
+
+
+         Semiahmoo Parkway                           Semiahmoo Parkway
+    1    Semiahmoo Dr                        2       Gleneagle Dr
+                                                                 
+                     45                                        55
+                10         40                                        5
+                                                                                                                                                                                   Dr         ive
+                                                                                                                                                                             eagle
+                                                                                                                                                                 2      Glen
+         5                          40                                   5
+        15                          10                                    
+         5                          10                                   5
+                                                                              
+                                                                                                                                                ive
+                 5         10                                        5
+                                                                                                                                          o   Dr
+                     25                                        30                                                                      mo
+                                                                                                                                  ah
+                                                                                                                                mi
+                                                                                                                          Se
+
+
+
+
+                                                                                                                                                                          Semiahmoo Parkway
+Existing Weekday PM Peak Hour Traffic Volumes                                                                                                                                                       FIGURE
+    Resort Semiahmoo Zone 3
+                                                                                                                                                      WHAT TRANSPORTATION CAN BE.
+                                                                                                                                                                                                      3
+    Jun 23, 2016 - 10:36am kassil M:\16\16192.00 - Burnside Village\Graphics\Burnside_16192 Graphics.dwg Layout: Existing Vol
+     Legend
+                                                                                                                                                                                    oa     d
+        X     Study Intersection                                                                                                                                              bor R
+                                                                                                                                                                    n Har
+                                                                                                                                                              Drayto
+              Weekday PM Peak Hour
+        X                                                                                                                                            1
+              Traffic Volumes
+
+
+
+
+         Semiahmoo Parkway                           Semiahmoo Parkway
+    1    Semiahmoo Dr                        2       Gleneagle Dr
+                                                             
+                     190                                   205
+                10         45                                5
+                                                                                                                                                                                Dr         ive
+                                                                                                                                                                          eagle
+                                                                                                                                                              2      Glen
+         5                          50                                 5
+        15                          10                                  
+         5                          10                                 5
+                                                                            
+                                                                                                                                             ive
+                 5      10                                   5
+                                                                                                                                       o   Dr
+                     235
+                                                           240
+                                                                                                                                    mo
+                                                                                                                               ah
+                                                                                                                             mi
+                                                                                                                          Se
+
+
+
+
+                                                                                                                                                                       Semiahmoo Parkway
+Future (2020) Without-Project Weekday PM Peak Hour Traffic Volumes                                                                                                                               FIGURE
+    Resort Semiahmoo Zone 3
+                                                                                                                                                   WHAT TRANSPORTATION CAN BE.
+                                                                                                                                                                                                   4
+    Jun 23, 2016 - 10:36am kassil M:\16\16192.00 - Burnside Village\Graphics\Burnside_16192 Graphics.dwg Layout: Without-Proj Vol
+Transportation Impact Analysis
+Resort Semiahmoo Zone 3                                                                                     June 2016
+
+
+
+Traffic Operations
+The operational characteristics of an intersection are determined by calculating the
+intersection level of service (LOS). For all-way stop controlled locations, LOS is measured in
+average delay per vehicle and is reported for the intersections as a whole. At side-street stop-
+controlled intersections, LOS is measured in average delay per vehicle and is reported for the
+worst operating approach or movement of the intersection. Traffic operations for an
+intersection can be described alphabetically with a range of levels of service (LOS A through
+F), with LOS A indicating free-flowing traffic and LOS F indicating extreme congestion and
+long vehicle delays. Appendix B contains a detailed explanation of LOS criteria and
+definitions.
+
+Weekday PM peak hour traffic operations for existing and future without-project conditions
+were evaluated at the study intersections based on the procedures identified in the Highway
+Capacity Manual (HCM) (2010), and were evaluated using the Synchro 9 software program.
+Based on the City of Blaine’s Comprehensive Plan (2006), the City has adopted an LOS D or
+better standard. Table 1 summarizes the existing and future without-project weekday PM
+peak hour LOS at study intersections. The detailed LOS worksheets are included in Appendix
+C.
+
+Table 1.        Existing and Without-Project Weekday Peak Hour Levels of Service
+                                                                      2016 Existing          2020 Without-Project
+Intersections                                                  LOS1      Delay2        WM3   LOS    Delay      WM
+1. Semiahmoo Parkway / Drayton Harbor Rd                          A         8                 A      10
+2. Semiahmoo Parkway / Gleneagle Dr                               A         9          WB     B      11        WB
+1.   Level of Service (A – F) as defined by the Highway Capacity Manual (TRB, 2010)
+2.   Average delay per vehicle in seconds.
+3.   Worst movement reported for unsignalized intersections; WB = westbound approach
+
+
+As shown in Table 1, all study intersections currently operate at LOS B or better under both
+existing and future without-project conditions during the PM peak hour, meeting the City’s
+LOS D or better standard.
+
+
+Traffic Safety
+Collision records were reviewed at the study intersections to document any potential traffic
+safety issues. The most recent summary of collision data from WSDOT is for the three-year
+period between January 1, 2013 and December 31, 2015. A historical review of collisions
+was conducted at the study intersections and no collisions were found to be reported during
+the three-year period.
+
+
+
+
+                                                                                                                    8
+Transportation Impact Analysis
+Resort Semiahmoo Zone 3                                                                                                 June 2016
+
+
+
+                                            Project Impacts
+This section of the analysis documents potential project-generated impacts on the
+surrounding street network and study intersections. First, estimated traffic volumes generated
+by the proposed project are distributed and assigned to the adjacent street system. Next,
+project trips are added to future without-project traffic volumes and any potential impacts to
+traffic operations, non-motorized, and safety are identified. Site access operations are also
+discussed.
+
+
+Trip Generation
+Trip generation for the proposed mixed-use development is summarized in Table 2.
+Estimates for the project-generated vehicle trips were calculated using average peak hour trip
+rates for single-family detached housing, apartments, self-storage, City park, and retail
+published by the Institute of Transportation Engineers (ITE) in Trip Generation (9th Edition,
+2012). As described previously, the proposed project would construct 44 single family
+dwelling units, 22 duplex units (equivalent to 44 single family dwelling units), 41 multi-family
+units, 5,000 square-feet of retail, and 24,000 square-feet of storage providing 60 storage
+units. In addition, a 1.75-acre area of the site would either be constructed as City park or as
+residential including 7 single family dwelling units and 4 duplex units. Both of these options
+are shown in the Table below.
+
+Table 2.         Estimated Weekday PM Peak Hour Project Trip Generation
+                                          Single                             Pass-by                     PM Peak Hour Trips
+                                         Family         PM                                      %
+            1
+ Land Use                   Size        Equivalent      Rate     Total      %        Total   Inbound      In      Out      Total
+ Apartments
+                           41 DU              -          0.62      25            -            65%        16        9        25
+ (#220)
+ Single Family
+ Detached                  44 DU              -          1.00      44            -            63%        28       16        44
+ Housing (#210)
+ Duplex2                     22              44          1.00      44            -            63%        28       16        44
+ Mini-Warehouse
+                          24,000 sf           -          0.26      6             -            50%         3        3         6
+ (#151)
+ Retail (#820)            5,000 sf            -          3.71     19      34%         -6      48%        6        7        13
+ Subtotal                                                         138                                    81       51       132
+ 1.75 Acre Area
+ Option 1
+                            1.75
+   City Park (#411)                           -          3.50      6             -            57%         3        3         6
+                           Acres
+ Option 2
+      Single Family
+          Detached            7               -          1.00      7             -            63%         4        3         7
+   Housing (#210)
+            Duplex            4               8          1.00      8             -            63%         5        3        8
+ Option 2 Subtotal                                                 15                                     9        6        15
+
+ Total New Trips With Option 1                                                                           84       54       138
+
+ Total New Trips With Option 2                                                                           90       57       147
+
+Note: DU = Dwelling Units, sf = square-feet
+1. Trip generation estimates based on the number of units and the average daily and peak hour trip rates from ITE Trip Generation,
+    9th Edition (2012).
+2. Duplex evaluated as single family detached housing (#210) assuming 1 duplex is equivalent to 2 single family dwelling units.
+
+
+The proposed project would generate approximately 138 to 147 new weekday PM peak hour
+trips depending on if the 1.75-acre area of the site is developed as a park or as residential,
+respectively. A range of 84 to 90 inbound and 54 to 57 outbound weekday PM peak hour trips
+
+
+
+                                                                                                                                   9
+Transportation Impact Analysis
+Resort Semiahmoo Zone 3                                                                 June 2016
+
+
+are estimated for the two options. As noted above, this estimate is conservative as it is
+possible that a lower residential unit count would be constructed.
+
+
+Trip Distribution and Assignment
+Project trip distribution was estimated based on existing travel patterns in the study area and
+previous projects submitted in the vicinity of the project. Figure 5 illustrates the anticipated
+trip distribution during the weekday PM peak hours. As shown in Figure 5, the trips are
+distributed with approximately 20 percent to/from the east along Drayton Harbor Road and 70
+percent to/from the south along Semiahmoo Parkway and 5 percent to/from the north via
+Semiahmoo Parkway to the Spit and to/from the west via Semiahmoo Drive.
+
+Weekday PM peak hour project trips were assigned to the study intersections based on the
+travel patterns described above. In order to provide a conservative analysis, the higher trip
+generation estimates (Option 2 – the 1.75-acre area being developed as residential) were
+assumed. The resulting trip assignment is shown in Figure 5.
+
+
+Future With-Project Traffic Volumes
+Site-generated weekday PM peak hour traffic volumes were added to the future without-
+project traffic volumes at the study intersections. The resulting future (2020) with-project peak
+hour traffic volumes are illustrated in Figure 6.
+
+
+
+
+                                                                                                10
+                                          Semiahmoo Parkway                                        Semiahmoo Parkway                         Site Access                                  5%
+                                      1   Semiahmoo Dr                                  2          Gleneagle Dr                        3     Semiahmoo Dr                                                                                             20%
+                                                                                                                                                                                                                  18      oad
+                                                                                                                                                                                                                    bor R
+                                                      4                                                           6                                                                                            n Har r Road
+                                                  1                                                      (2) 14                                                                                         Draytoton Harbo
+                                                                                                                                                                                                        Dray
+                                                                                                                                                                           1                                 12
+                                                                                                                                                                      (-2)                      1
+                                           0                                                    (1) 9                                                                    19
+                                      (-1) 6                           (-2) 9                                               
+                                           7                           (2) 9                      34                                       (-1) 1
+                                                                                                                                                                                20 (-2)
+                                                                                                                                              (1) 3                    12 
+                                                                                                                                                                                               20 (2)
+                                                10         (1) 6                                            54                                                (2) 2
+                                                      2                                                           9                                                            14 (-1)                  18 (1)
+                                                                                                                                                           
+
+                                                                                                                                                                                                                              Dr                ive
+                                                                                                                                                                                                                        eagle
+                                                                                                                                                                                                         2         Glen
+
+                                                                                                                                                                          3
+                                                                                                                                                           e
+                                                                                                                                                       riv
+                                                                                                                                                  o o De
+                                                                                                                                                 m v
+                                                                                                                                               ah ri
+        Legend                                                                                                                               mi o D
+                                                                                                                                         Se hmo
+                                                                                                                                            a
+         X       Primary Project Trips                                                                                                    mi
+                                                                                                                                       Se
+        (X)      Pass-by Trips
+
+         X       Study Intersection
+
+
+      XX%        Project Trip Distribution
+
+                                                                                    3
+
+
+
+
+                                                                                                                                                                                                                       Semiahmoo Parkway
+                                                                                5
+
+
+
+                                      5%
+                                                                                                                                                                                                                  42
+                                                                                                                                                                                                                                           65
+
+
+
+
+                                                                                                                                                                                                                                            70%
+
+
+Project Trip Distribution and Assignment                                                                                                                                                                                                                FIGURE
+Resort Semiahmoo Zone 3
+                                                                                                                                                                                           WHAT TRANSPORTATION CAN BE.
+                                                                                                                                                                                                                                                            5
+Jun 23, 2016 - 10:36am kassil M:\16\16192.00 - Burnside Village\Graphics\Burnside_16192 Graphics.dwg Layout: Dist
+                                           Semiahmoo Parkway                         Semiahmoo Parkway                        Site Access
+                                       1   Semiahmoo Dr                      2       Gleneagle Dr                       3     Semiahmoo Dr
+                                                                                                                                                    
+                                                                                                                                                                                                       oa     d
+                                                  194                                       211                                                                                                  bor R
+                                                11 45                                     16 5                                                                                         n Har
+                                                                                                                                                                                 Drayto
+                                                                                                                     
+                                                                                                                                                               24       1
+                                            5                    50                  10                  5                                                       19
+                                           20                    17                   0                  0
+                                           12                    21                  34                  5                    25
+                                                                                                                                     4                          12 
+                                                15      17                                54         5                                                     4
+                                                     237
+                                                                                               249
+                                                                                                                                                    
+                                                                                                                                                    
+
+                                                                                                                                                                                                   Dr         ive
+                                                                                                                                                                                             eagle
+                                                                                                                                                                                 2      Glen
+
+                                                                                                                                                                  3
+
+      Legend                                                                                                                                ive
+                                                                                                                                      o   Dr
+                                                                                                                                   mo
+                                                                                                                              ah
+        X                                                                                                                   mi
+               Study Intersection                                                                                       Se
+
+               Weekday PM Peak Hour
+        X
+               Traffic Volumes
+
+
+
+
+                                                                                                                                                                                          Semiahmoo Parkway
+Future (2020) Without-Project Weekday PM Peak Hour Traffic Volumes                                                                                                                                                  FIGURE
+Resort Semiahmoo Zone 3
+                                                                                                                                                                      WHAT TRANSPORTATION CAN BE.
+                                                                                                                                                                                                                      6
+Jun 23, 2016 - 10:36am kassil M:\16\16192.00 - Burnside Village\Graphics\Burnside_16192 Graphics.dwg Layout: With-Project
+Transportation Impact Analysis
+Resort Semiahmoo Zone 3                                                                                            June 2016
+
+
+
+Future With-Project Traffic Operations
+Future 2020 with-project study intersection operations were evaluated for the weekday
+PM peak hours. Intersection LOS was calculated using the methodology described
+previously. The without-project conditions are compared to the with-project conditions to
+understand the potential traffic impacts of the proposed project. Table 3 summarizes the
+2020 without and with-project intersection operations for the weekday PM peak hours. LOS
+worksheets are included in Appendix C.
+
+Table 3.        Future With-Project Weekday Peak Hour Levels of Service
+                                                                2020 Without-Project                2020 With-Project
+Intersections                                                  LOS1     Delay2      WM3           LOS      Delay      WM
+1. Semiahmoo Parkway / Drayton Harbor Rd                         A         10                      A         10
+2. Semiahmoo Parkway / Gleneagle Dr / Site Access                B         11       WB             B         14       WB
+3. Site Access / Semiahmoo Dr                                     -         -         -            A         9        NB
+1.   Level of Service (A – F) as defined by the Highway Capacity Manual (TRB, 2010)
+2.   Average delay per vehicle in seconds.
+3.   Worst movement reported for unsignalized intersections; NB = northbound approach, WB = westbound approach.
+
+
+As shown in Table 3, all study intersections are anticipated to operate at LOS B or better
+under future with-project conditions during the PM peak hour adding approximately 3
+seconds of delay or less compared with without-project conditions, meeting the City’s LOS D
+or better standard.
+
+
+Site Access Analysis
+The proposed project has two proposed accesses; the first via a new west leg of the
+Semiahmoo Parkway/Gleneagle intersection and the second access along Semiahmoo
+Drive/Drayton Harbor Road, west of the Semiahmoo Parkway / Semiahmoo Drive
+intersection (see Figure 2).
+
+As shown in Table 3 above, the proposed site accesses operate at LOS B or better under
+with-project conditions during the weekday PM peak hour.
+
+The potential need for left- and right-turn lanes were identified using Washington State
+Department of Transportation (WSDOT) guidelines Exhibits1310-7a and 1310-11,
+respectively, which are shown in Appendix D. A left-turn lane is not needed for capacity at
+either site access per Exhibit 1310-7a as the total entering volumes are below 300 vehicles at
+both site access intersections (see Figure 6) and left-turn volumes into the site accesses are
+less than 30 vehicles, or less than 15 percent of the total volumes. Additionally, no right-turn
+lane is recommended per Exhibit 1310-11 for the site accesses as the peak approach
+(through plus right-turn) volumes at either site access are less than 100 vehicles with at most
+25 right-turn vehicles.
+
+
+
+
+                                                                                                                         13
+Transportation Impact Analysis
+Resort Semiahmoo Zone 3                                                             June 2016
+
+
+
+Non-Motorized Facilities
+The internal roadway through the project site would provide pedestrian and bicycle access to
+and from Semiahmoo Drive and Semiahmoo Parkway and connection to the regional and
+community trail system. Additionally, pedestrian and bicycle facilities would be provided
+including connections to and from the Semiahmoo Spit.
+
+
+
+
+                                                                                          14
+Transportation Impact Analysis
+Resort Semiahmoo Zone 3                                                                  June 2016
+
+
+
+                  Findings and Recommendations
+General findings and recommendations of the transportation impact analysis are summarized
+below.
+
+          The proposed project would construct 44 single family dwelling units, 22 duplex
+           units (equivalent to 44 single family dwelling units), 41 multi-family units, 5,000
+           square-feet of retail, and 24,000 square-feet of storage providing 60 storage units.
+           In addition, a 1.75-acre area of the site would either be constructed as City park or
+           as residential including 7 single family dwelling units and 4 duplex units.
+
+          The proposed residential project would generate approximately 138 to147 new
+           weekday PM peak hour vehicular trips with approximately 84 to 90 inbound and 54
+           to 57 outbound trips, depending on if the 1.75-acre area of the site is developed as
+           a park or as residential, respectively.
+
+          All study intersections are forecast to operate at LOS B or better with the addition of
+           project traffic and meet the City’s LOS standard.
+
+          Access to the project site would be provided via two site accesses, one via a new
+           west leg of the Semiahmoo Parkway/Gleneagle intersection and the other access
+           along Semiahmoo Drive/Drayton Harbor Road, west of the Semiahmoo Parkway /
+           Semiahmoo Drive intersection. Both site access intersections would operate at LOS
+           B or better during the weekday PM peak hours and neither location meets left- or
+           right-turn lane warrants.
+
+          No mitigation measures are required as all off-site study intersections continue to
+           meet the LOS standards.
+
+
+
+
+                                                                                                 15
+Appendix A: Traffic Counts
+www.idaxdata.com                                                                                                                                                                                       01
+
+
+
+
+                            SEMIAHMOO PKWY
+                             SEMIAHMOO DR
+                                                                                                                                       Date: Wed, May 11, 2016
+                  N                              Peak Hour                                                                     Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                 Peak Hour: 4:00 PM to 5:00 PM
+
+
+
+                                                 100
+
+
+
+                                                                 68
+                        SEMIAHMOO
+                        PKWY
+
+
+
+
+                                                  47
+                                         11
+
+
+
+                                                            42
+
+                                                                      0
+
+
+
+
+                                                                                                                                                           0
+                                                                                       SEMIAHMOO DR
+
+                        0                                                              39
+                                                                                                                                                                       0
+       25                                                                                                       58                                                                             0
+                        5                     TEV:             215                     11
+
+
+
+
+                                                                                                                                                                                2
+                                                                                                                                                           1
+                       13                     PHF:             0.9                     8
+       22                                                                                                       63
+                                                                                      0                                                  0                             1
+                        4
+
+                 DRAYTON
+                                                                                       PKWY
+                                                                                  SEMIAHMOO
+
+
+
+              HARBOR BLVD
+                                                                       8
+                                                       3
+
+                                                                24
+                                             0
+
+
+
+
+                                                                                                                                                                            0
+                                                                                                                     HV %:       PHF
+                                                                                                           EB        0.0%        0.55
+                                                                                                           WB        0.0%        0.81
+                                                 59
+
+
+
+                                                                 35
+
+
+
+
+                                                                                                           NB        0.0%        0.67
+                                                                                                           SB        0.0%        0.83
+                                                                                                       TOTAL         0.0%        0.90
+
+
+Two-Hour Count Summaries
+                DRAYTON HARBOR BLVD                             SEMIAHMOO DR                           SEMIAHMOO PKWY                        SEMIAHMOO PKWY
+   Interval                                                                                                                                                                         15-min          Rolling
+                       Eastbound                                     Westbound                                 Northbound                            Southbound
+     Start                                                                                                                                                                           Total         One Hour
+                 UT    LT    TH               RT           UT        LT    TH             RT          UT        LT    TH          RT     UT           LT    TH             RT
+   4:00 PM        0     3           6         1            0          2      4                9       0         0      10         3          0        6        16          0          60              0
+   4:15 PM        0     0           1         0            0          5      3                9       0         1          3      0          0        16           8       5          51              0
+   4:30 PM        0     0           1         1            0          0      2                6       0         1          5      5          0        13       13          4          51              0
+   4:45 PM        0     2           5         2            0          1      2             15         0         1          6      0          0        7        10          2          53             215
+   5:00 PM        0     0           1         1            0          2      2                6       0         3          7      0          0        9            8       2          41             196
+   5:15 PM        0     0           2         1            0          1      5                7       0         4          4      0          0        4            2       0          30             175
+   5:30 PM        0     0           0         0            0          2      5                8       0         2          6      2          0        13           6       1          45             169
+   5:45 PM        0     1           0         1            0          0      3                5       0         0          2      4          0        6        10          0          32             148
+ Count Total      0     6           16        7            0          13     26            65         0         12     43         14         0        74       73          14        363              0
+ Peak Hour        0     5           13        4            0          8      11            39         0         3      24         8          0        42       47          11        215              0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval             Heavy Vehicle Totals                                                          Bicycles                                            Pedestrians (Crossing Leg)
+     Start       EB     WB      NB      SB                           Total   EB               WB         NB           SB         Total       East          West      North    South                   Total
+   4:00 PM        0         0            0             0              0      0                    0        0           0          0              0             1               0           1              2
+   4:15 PM        0         0            0             0              0      0                    0        0           0          0              2             0               0           0              2
+   4:30 PM        0         0            0             0              0      0                    0        0           0          0              0             0               0           0              0
+   4:45 PM        0         0            0             0              0      0                    0        0           0          0              0             0               0           0              0
+   5:00 PM        0         0            1             0              1      0                    0        0           0          0              0             0               0           0              0
+   5:15 PM        0         0            0             0              0      0                    0        0           0          0              0             0               0           0              0
+   5:30 PM        0         0            1             0              1      0                    0        0           0          0              0             0               0           0              0
+   5:45 PM        0         0            1             0              1      0                    0        0           0          0              0             0               0           0              0
+ Count Total      0         0            3             0              3      0                    0        0           0          0              2             1               0           1              4
+ Peak Hour        0         0            0             0              0      0                    0        0           0          0              2             1               0           1              4
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                            mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                                                  02
+
+
+
+
+                               SEMIAHMOO PKWY
+                                GLENEAGLE DR
+                                                                                                                                           Date: Wed, May 11, 2016
+                     N                            Peak Hour                                                                        Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                     Peak Hour: 4:00 PM to 5:00 PM
+
+
+
+
+                                                      59
+
+
+                                                                       35
+                             SEMIAHMOO
+                             PKWY
+
+
+                                                 54
+
+
+
+                                                                   0
+                                                        5
+
+
+
+
+                                                                                                                                                            0
+                                                                                           GLENEAGLE DR
+
+                                                                                           4
+                                                                                                                                                                     0
+                                                                                                                     8                                                                    0
+                                                      TEV:         101                     4
+
+
+
+
+                                                                                                                                                                             0
+                                                                                                                                                      0
+                                                      PHF:         0.81                    0
+                                                                                                                     8
+                                                                                            PKWY                                                                     0
+                                                                                       SEMIAHMOO
+                                                                              3
+                                                                    31
+                                                           0
+
+
+
+
+                                                                                                                                                                         0
+                                                                                                                     HV %:           PHF
+                                                                                                            EB            -            -
+                                                                                                            WB           0.0%        0.50
+                                                                                                            NB           0.0%        0.77
+                                                      58
+
+
+                                                                     34
+
+
+
+
+                                                                                                            SB           0.0%        0.82
+                                                                                                        TOTAL            0.0%        0.81
+
+
+Two-Hour Count Summaries
+                                 0                                 GLENEAGLE DR                         SEMIAHMOO PKWY                        SEMIAHMOO PKWY
+   Interval                                                                                                                                                                      15-min        Rolling
+                         Eastbound                                     Westbound                                Northbound                           Southbound
+     Start                                                                                                                                                                        Total       One Hour
+                UT       LT    TH                RT        UT          LT    TH             RT         UT        LT    TH             RT     UT       LT    TH           RT
+   4:00 PM       0       0               0        0            0          1       0           1        0         0            11      0      0        1         17       0         31            0
+   4:15 PM       0       0               0        0            0          1       0           0        0         0            4       1      0        4         10       0         20            0
+   4:30 PM       0       0               0        0            0          1       0           3        0         0            8       2      0        0         14       0         28            0
+   4:45 PM       0       0               0        0            0          1       0           0        0         0            8       0      0        0         13       0         22           101
+   5:00 PM       0       0               0        0            0          1       0           0        0         0            11      0      0        1         11       0         24            94
+   5:15 PM       0       0               0        0            0          0       0           0        0         0            7       0      0        0          4       0         11            85
+   5:30 PM       0       0               0        0            0          0       0           1        0         0            8       0      1        2          5       0         17            74
+   5:45 PM       0       0               0        0            0          1       0           1        0         0            6       0      0        0         11       0         19            71
+ Count Total     0       0               0        0            0          6       0           6        0         0            63      3      1        8         85       0        172            0
+ Peak Hour       0       0               0        0            0          4       0           4        0         0            31      3      0        5         54       0        101            0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval               Heavy Vehicle Totals                                                         Bicycles                                           Pedestrians (Crossing Leg)
+     Start      EB        WB      NB      SB                           Total      EB           WB         NB             SB          Total   East          West      North    South              Total
+   4:00 PM       0           0               0             0             0        0                0        0             0           0          0           0               0          0            0
+   4:15 PM       0           0               0             0             0        0                0        0             0           0          0           0               0          0            0
+   4:30 PM       0           0               0             0             0        0                0        0             0           0          0           0               0          0            0
+   4:45 PM       0           0               0             0             0        0                0        0             0           0          0           0               0          0            0
+   5:00 PM       0           0               1             0             1        0                0        0             0           0          0           0               0          0            0
+   5:15 PM       0           0               0             0             0        0                0        0             0           0          0           0               0          0            0
+   5:30 PM       0           0               1             0             1        0                0        0             0           0          0           0               0          0            0
+   5:45 PM       0           1               1             0             2        0                0        0             0           0          0           0               0          0            0
+ Count Total     0           1               3             0             4        0                0        0             0           0          0           0               0          0            0
+   Peak Hr       0           0               0             0             0        0                0        0             0           0          0           0               0          0            0
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                          mark.skaggs@idaxdata.com
+Appendix B: LOS Definitions
+                                                    Highway Capacity Manual 2010
+
+Signalized intersection level of service (LOS) is defined in terms of a weighted average control delay for
+the entire intersection. Control delay quantifies the increase in travel time that a vehicle experiences due
+to the traffic signal control as well as provides a surrogate measure for driver discomfort and fuel
+consumption. Signalized intersection LOS is stated in terms of average control delay per vehicle (in
+seconds) during a specified time period (e.g., weekday PM peak hour). Control delay is a complex
+measure based on many variables, including signal phasing and coordination (i.e., progression of
+movements through the intersection and along the corridor), signal cycle length, and traffic volumes with
+respect to intersection capacity and resulting queues. Table 1 summarizes the LOS criteria for signalized
+intersections, as described in the Highway Capacity Manual 2010 (Transportation Research Board,
+2010).
+
+Table 1. Level of Service Criteria for Signalized Intersections
+                           Average Control Delay
+ Level of Service            (seconds/vehicle)                  General Description
+          A                           ≤10                       Free Flow
+          B                         >10 – 20                    Stable Flow (slight delays)
+          C                         >20 – 35                    Stable flow (acceptable delays)
+                                                                Approaching unstable flow (tolerable delay, occasionally wait through more
+          D                         >35 – 55
+                                                                than one signal cycle before proceeding)
+          E                         >55 – 80                    Unstable flow (intolerable delay)
+             1
+         F                            >80                       Forced flow (congested and queues fail to clear)
+Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+1. If the volume-to-capacity (v/c) ratio for a lane group exceeds 1.0 LOS F is assigned to the individual lane group. LOS for overall approach or
+      intersection is determined solely by the control delay.
+
+
+
+
+Unsignalized intersection LOS criteria can be further reduced into two intersection types: all-way stop
+and two-way stop control. All-way stop control intersection LOS is expressed in terms of the weighted
+average control delay of the overall intersection or by approach. Two-way stop-controlled intersection
+LOS is defined in terms of the average control delay for each minor-street movement (or shared
+movement) as well as major-street left-turns. This approach is because major-street through vehicles are
+assumed to experience zero delay, a weighted average of all movements results in very low overall
+average delay, and this calculated low delay could mask deficiencies of minor movements. Table 2 shows
+LOS criteria for unsignalized intersections.
+
+                 Table 2. Level of Service Criteria for Unsignalized Intersections
+                                   Level of Service                            Average Control Delay (seconds/vehicle)
+                                            A                                                        0 – 10
+                                            B                                                      >10 – 15
+                                            C                                                      >15 – 25
+                                            D                                                      >25 – 35
+                                            E                                                      >35 – 50
+                                            F1                                                        >50
+                 Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+                 1. If the volume-to-capacity (v/c) ratio exceeds 1.0, LOS F is assigned an individual lane group for all unsignalized
+                    intersections, or minor street approach at two-way stop-controlled intersections. Overall intersection LOS is
+                    determined solely by control delay.
+Appendix C: LOS Worksheets
+HCM 2010 AWSC                                                            Existing Weekday PM Peak Hour
+1: Semiahmoo Pkwy & Semiahmoo Dr/Drayton Harbor Rd                                           Crossroads at Semiahmoo
+
+
+
+Intersection
+Intersection Delay, s/veh     7.5
+Intersection LOS                A
+
+Movement                     EBU     EBL    EBT    EBR    WBU    WBL    WBT    WBR    NBU       NBL       NBT     NBR
+Lane Configurations
+Traffic Vol, veh/h              0       5     15      5      0     10     10     40      0         5        25      10
+Future Vol, veh/h               0       5     15      5      0     10     10     40      0         5        25      10
+Peak Hour Factor             0.90    0.90   0.90   0.90   0.90   0.90   0.90   0.90   0.90      0.90      0.90    0.90
+Heavy Vehicles, %               0       0      0      0      0      0      0      0      0         0         0       0
+Mvmt Flow                       0       6     17      6      0     11     11     44      0         6        28      11
+Number of Lanes                 0       0      1      0      0      0      1      0      0         0         1       0
+Approach                              EB                         WB                             NB
+Opposing Approach                     WB                         EB                             SB
+Opposing Lanes                          1                          1                              1
+Conflicting Approach Left             SB                         NB                             EB
+Conflicting Lanes Left                  1                          1                              1
+Conflicting Approach Right            NB                         SB                             WB
+Conflicting Lanes Right                 1                          1                              1
+HCM Control Delay                     7.4                        7.2                            7.3
+HCM LOS                                 A                          A                              A
+
+Lane                                NBLn1 EBLn1 WBLn1 SBLn1
+Vol Left, %                           12%   20%   17%   42%
+Vol Thru, %                           62%   60%   17%   47%
+Vol Right, %                          25%   20%   67%   11%
+Sign Control                          Stop  Stop  Stop  Stop
+Traffic Vol by Lane                     40    25    60    95
+LT Vol                                   5     5    10    40
+Through Vol                             25    15    10    45
+RT Vol                                  10     5    40    10
+Lane Flow Rate                          44    28    67   106
+Geometry Grp                             1     1     1     1
+Degree of Util (X)                    0.05 0.032 0.071 0.121
+Departure Headway (Hd)                4.02 4.133 3.815  4.12
+Convergence, Y/N                       Yes   Yes   Yes   Yes
+Cap                                    883   854   926   866
+Service Time                         2.081 2.215 1.892 2.165
+HCM Lane V/C Ratio                    0.05 0.033 0.072 0.122
+HCM Control Delay                      7.3   7.4   7.2   7.7
+HCM Lane LOS                             A     A     A     A
+HCM 95th-tile Q                        0.2   0.1   0.2   0.4
+
+
+
+
+6/15/2016                                                                                              Synchro 9 Report
+Transpo Group                                                                                                   Page 1
+HCM 2010 AWSC                                            Existing Weekday PM Peak Hour
+1: Semiahmoo Pkwy & Semiahmoo Dr/Drayton Harbor Rd                    Crossroads at Semiahmoo
+
+
+
+Intersection
+Intersection Delay, s/veh
+Intersection LOS
+
+Movement                     SBU    SBL    SBT    SBR
+Lane Configurations
+Traffic Vol, veh/h              0     40     45     10
+Future Vol, veh/h               0     40     45     10
+Peak Hour Factor             0.90   0.90   0.90   0.90
+Heavy Vehicles, %               0      0      0      0
+Mvmt Flow                       0     44     50     11
+Number of Lanes                 0      0      1      0
+Approach                            SB
+Opposing Approach                   NB
+Opposing Lanes                        1
+Conflicting Approach Left           WB
+Conflicting Lanes Left                1
+Conflicting Approach Right          EB
+Conflicting Lanes Right               1
+HCM Control Delay                   7.7
+HCM LOS                               A
+
+
+
+
+6/15/2016                                                                    Synchro 9 Report
+Transpo Group                                                                         Page 2
+HCM 2010 TWSC                                                                 Existing Weekday PM Peak Hour
+2: Semiahmoo Pkwy & Gleneagle Dr                                                            Crossroads at Semiahmoo
+
+
+
+Intersection
+Int Delay, s/veh           1.2
+Movement                           WBL       WBR                  NBT NBR      SBL    SBT
+Lane Configurations
+Traffic Vol, veh/h                    5         5                  30    5       5   55
+Future Vol, veh/h                     5         5                  30    5       5   55
+Conflicting Peds, #/hr                0         0                   0    0       0    0
+Sign Control                       Stop      Stop                Free Free    Free Free
+RT Channelized                        -      None                   - None       - None
+Storage Length                        0         -                   -    -       -    -
+Veh in Median Storage, #              0         -                   0    -       -    0
+Grade, %                              0         -                   0    -       -    0
+Peak Hour Factor                     81        81                  81   81      81   81
+Heavy Vehicles, %                     0         0                   0    0       0    0
+Mvmt Flow                             6         6                  37    6       6   68
+
+Major/Minor                      Minor1                         Major1       Major2
+Conflicting Flow All                120        40                    0   0       43     0
+       Stage 1                       40         -                    -   -        -     -
+       Stage 2                       80         -                    -   -        -     -
+Critical Hdwy                        6.4      6.2                    -   -      4.1     -
+Critical Hdwy Stg 1                  5.4        -                    -   -        -     -
+Critical Hdwy Stg 2                  5.4        -                    -   -        -     -
+Follow-up Hdwy                       3.5      3.3                    -   -      2.2     -
+Pot Cap-1 Maneuver                  880      1037                    -   -    1579      -
+       Stage 1                      988         -                    -   -        -     -
+       Stage 2                      948         -                    -   -        -     -
+Platoon blocked, %                                                   -   -              -
+Mov Cap-1 Maneuver                  876      1037                    -   -    1579      -
+Mov Cap-2 Maneuver                  876         -                    -   -       -      -
+       Stage 1                      988         -                    -   -       -      -
+       Stage 2                      944         -                    -   -       -      -
+
+Approach                            WB                             NB           SB
+HCM Control Delay, s                8.8                             0           0.6
+HCM LOS                               A
+
+Minor Lane/Major Mvmt              NBT NBRWBLn1 SBL       SBT
+Capacity (veh/h)                     -    - 950 1579        -
+HCM Lane V/C Ratio                   -    - 0.013 0.004     -
+HCM Control Delay (s)                -    -   8.8   7.3     0
+HCM Lane LOS                         -    -     A     A     A
+HCM 95th %tile Q(veh)                -    -     0     0     -
+
+
+
+
+6/15/2016                                                                                          Synchro 9 Report
+Transpo Group                                                                                               Page 3
+HCM 2010 AWSC                      Future 2020 WIthout-Project Weekday PM Peak Hour
+1: Semiahmoo Pkwy & Semiahmoo Dr/Drayton Harbor Rd                  Crossroads at Semiahmoo
+
+
+
+Intersection
+Intersection Delay, s/veh     9.6
+Intersection LOS                A
+
+Movement                     EBU     EBL    EBT    EBR    WBU    WBL    WBT    WBR    NBU    NBL       NBT     NBR
+Lane Configurations
+Traffic Vol, veh/h              0       5     15      5      0     10     10     50      0      5       235      10
+Future Vol, veh/h               0       5     15      5      0     10     10     50      0      5       235      10
+Peak Hour Factor             0.90    0.90   0.90   0.90   0.90   0.90   0.90   0.90   0.90   0.90      0.90    0.90
+Heavy Vehicles, %               0       0      0      0      0      0      0      0      0      0         0       0
+Mvmt Flow                       0       6     17      6      0     11     11     56      0      6       261      11
+Number of Lanes                 0       0      1      0      0      0      1      0      0      0         1       0
+Approach                              EB                         WB                          NB
+Opposing Approach                     WB                         EB                          SB
+Opposing Lanes                          1                          1                           1
+Conflicting Approach Left             SB                         NB                          EB
+Conflicting Lanes Left                  1                          1                           1
+Conflicting Approach Right            NB                         SB                          WB
+Conflicting Lanes Right                 1                          1                           1
+HCM Control Delay                     8.4                        8.3                         9.8
+HCM LOS                                 A                          A                           A
+
+Lane                                NBLn1 EBLn1 WBLn1 SBLn1
+Vol Left, %                            2%   20%   14%   18%
+Vol Thru, %                           94%   60%   14%   78%
+Vol Right, %                           4%   20%   71%    4%
+Sign Control                          Stop  Stop  Stop  Stop
+Traffic Vol by Lane                    250    25    70   245
+LT Vol                                    5    5    10    45
+Through Vol                            235    15    10   190
+RT Vol                                   10    5    50     10
+Lane Flow Rate                         278    28    78   272
+Geometry Grp                              1    1     1      1
+Degree of Util (X)                   0.342  0.04 0.103 0.338
+Departure Headway (Hd)                4.43 5.148 4.752 4.466
+Convergence, Y/N                       Yes   Yes   Yes   Yes
+Cap                                    811   693   751   806
+Service Time                         2.461   3.2 2.798 2.497
+HCM Lane V/C Ratio                   0.343  0.04 0.104 0.337
+HCM Control Delay                       9.8  8.4   8.3    9.8
+HCM Lane LOS                              A    A     A      A
+HCM 95th-tile Q                         1.5  0.1   0.3    1.5
+
+
+
+
+6/15/2016                                                                                           Synchro 9 Report
+Transpo Group                                                                                                Page 1
+HCM 2010 AWSC                      Future 2020 WIthout-Project Weekday PM Peak Hour
+1: Semiahmoo Pkwy & Semiahmoo Dr/Drayton Harbor Rd                  Crossroads at Semiahmoo
+
+
+
+Intersection
+Intersection Delay, s/veh
+Intersection LOS
+
+Movement                     SBU    SBL    SBT    SBR
+Lane Configurations
+Traffic Vol, veh/h              0     45   190      10
+Future Vol, veh/h               0     45   190      10
+Peak Hour Factor             0.90   0.90   0.90   0.90
+Heavy Vehicles, %               0      0      0      0
+Mvmt Flow                       0     50   211      11
+Number of Lanes                 0      0      1      0
+Approach                            SB
+Opposing Approach                   NB
+Opposing Lanes                        1
+Conflicting Approach Left           WB
+Conflicting Lanes Left                1
+Conflicting Approach Right          EB
+Conflicting Lanes Right               1
+HCM Control Delay                   9.8
+HCM LOS                               A
+
+
+
+
+6/15/2016                                                                      Synchro 9 Report
+Transpo Group                                                                           Page 2
+HCM 2010 TWSC                                             Future 2020 WIthout-Project Weekday PM Peak Hour
+2: Semiahmoo Pkwy & Gleneagle Dr                                                            Crossroads at Semiahmoo
+
+
+
+Intersection
+Int Delay, s/veh           0.3
+Movement                           WBL       WBR                  NBT NBR      SBL    SBT
+Lane Configurations
+Traffic Vol, veh/h                    5         5                 240    5       5 205
+Future Vol, veh/h                     5         5                 240    5       5 205
+Conflicting Peds, #/hr                0         0                   0    0       0    0
+Sign Control                       Stop      Stop                Free Free    Free Free
+RT Channelized                        -      None                   - None       - None
+Storage Length                        0         -                   -    -       -    -
+Veh in Median Storage, #              0         -                   0    -       -    0
+Grade, %                              0         -                   0    -       -    0
+Peak Hour Factor                     81        81                  81   81      81   81
+Heavy Vehicles, %                     0         0                   0    0       0    0
+Mvmt Flow                             6         6                 296    6       6 253
+
+Major/Minor                      Minor1                         Major1       Major2
+Conflicting Flow All                564       299                    0   0     302      0
+       Stage 1                      299          -                   -   -        -     -
+       Stage 2                      265          -                   -   -        -     -
+Critical Hdwy                        6.4       6.2                   -   -      4.1     -
+Critical Hdwy Stg 1                  5.4         -                   -   -        -     -
+Critical Hdwy Stg 2                  5.4         -                   -   -        -     -
+Follow-up Hdwy                       3.5       3.3                   -   -      2.2     -
+Pot Cap-1 Maneuver                  490       745                    -   -    1270      -
+       Stage 1                      757          -                   -   -        -     -
+       Stage 2                      784          -                   -   -        -     -
+Platoon blocked, %                                                   -   -              -
+Mov Cap-1 Maneuver                  488       745                    -   -    1270      -
+Mov Cap-2 Maneuver                  488         -                    -   -       -      -
+       Stage 1                      757         -                    -   -       -      -
+       Stage 2                      780         -                    -   -       -      -
+
+Approach                            WB                             NB           SB
+HCM Control Delay, s               11.2                             0           0.2
+HCM LOS                               B
+
+Minor Lane/Major Mvmt              NBT NBRWBLn1 SBL       SBT
+Capacity (veh/h)                     -    - 590 1270        -
+HCM Lane V/C Ratio                   -    - 0.021 0.005     -
+HCM Control Delay (s)                -    - 11.2    7.8     0
+HCM Lane LOS                         -    -     B     A     A
+HCM 95th %tile Q(veh)                -    -   0.1     0     -
+
+
+
+
+6/15/2016                                                                                          Synchro 9 Report
+Transpo Group                                                                                               Page 3
+HCM 2010 AWSC                         Future 2020 With-Project Weekday PM Peak Hour
+1: Semiahmoo Pkwy & Semiahmoo Dr/Drayton Harbor Rd                  Crossroads at Semiahmoo
+
+
+
+Intersection
+Intersection Delay, s/veh     9.9
+Intersection LOS                A
+
+Movement                     EBU     EBL    EBT    EBR    WBU    WBL    WBT    WBR    NBU    NBL       NBT     NBR
+Lane Configurations
+Traffic Vol, veh/h              0       5     20     12      0     21     17     50      0     15       237      17
+Future Vol, veh/h               0       5     20     12      0     21     17     50      0     15       237      17
+Peak Hour Factor             0.90    0.90   0.90   0.90   0.90   0.90   0.90   0.90   0.90   0.90      0.90    0.90
+Heavy Vehicles, %               0       0      0      0      0      0      0      0      0      0         0       0
+Mvmt Flow                       0       6     22     13      0     23     19     56      0     17       263      19
+Number of Lanes                 0       0      1      0      0      0      1      0      0      0         1       0
+Approach                              EB                         WB                           NB
+Opposing Approach                     WB                         EB                           SB
+Opposing Lanes                          1                          1                            1
+Conflicting Approach Left             SB                         NB                           EB
+Conflicting Lanes Left                  1                          1                            1
+Conflicting Approach Right            NB                         SB                           WB
+Conflicting Lanes Right                 1                          1                            1
+HCM Control Delay                     8.6                        8.8                         10.3
+HCM LOS                                 A                          A                            B
+
+Lane                                NBLn1 EBLn1 WBLn1 SBLn1
+Vol Left, %                            6%   14%   24%   18%
+Vol Thru, %                           88%   54%   19%   78%
+Vol Right, %                           6%   32%   57%    4%
+Sign Control                          Stop  Stop  Stop  Stop
+Traffic Vol by Lane                    269    37    88   250
+LT Vol                                  15     5    21    45
+Through Vol                            237    20    17   194
+RT Vol                                   17   12    50     11
+Lane Flow Rate                         299    41    98   278
+Geometry Grp                              1    1     1      1
+Degree of Util (X)                   0.376 0.059 0.135 0.354
+Departure Headway (Hd)               4.532 5.173 4.958 4.588
+Convergence, Y/N                       Yes   Yes   Yes   Yes
+Cap                                    792   687   719   781
+Service Time                         2.575 3.242 3.017 2.632
+HCM Lane V/C Ratio                   0.378  0.06 0.136 0.356
+HCM Control Delay                     10.3   8.6   8.8  10.1
+HCM Lane LOS                              B    A     A      B
+HCM 95th-tile Q                         1.8  0.2   0.5    1.6
+
+
+
+
+6/16/2016                                                                                           Synchro 9 Report
+Transpo Group                                                                                                Page 1
+HCM 2010 AWSC                         Future 2020 With-Project Weekday PM Peak Hour
+1: Semiahmoo Pkwy & Semiahmoo Dr/Drayton Harbor Rd                  Crossroads at Semiahmoo
+
+
+
+Intersection
+Intersection Delay, s/veh
+Intersection LOS
+
+Movement                     SBU    SBL    SBT    SBR
+Lane Configurations
+Traffic Vol, veh/h              0     45   194      11
+Future Vol, veh/h               0     45   194      11
+Peak Hour Factor             0.90   0.90   0.90   0.90
+Heavy Vehicles, %               0      0      0      0
+Mvmt Flow                       0     50   216      12
+Number of Lanes                 0      0      1      0
+Approach                             SB
+Opposing Approach                    NB
+Opposing Lanes                         1
+Conflicting Approach Left            WB
+Conflicting Lanes Left                 1
+Conflicting Approach Right           EB
+Conflicting Lanes Right                1
+HCM Control Delay                   10.1
+HCM LOS                                B
+
+
+
+
+6/16/2016                                                                      Synchro 9 Report
+Transpo Group                                                                           Page 2
+HCM 2010 TWSC                          Future 2020 With-Project Weekday PM Peak Hour
+2: Semiahmoo Pkwy & Site Access/Gleneagle Dr                         Crossroads at Semiahmoo
+
+
+
+Intersection
+Int Delay, s/veh           1.9
+Movement                           EBL    EBT EBR         WBL WBT WBR                 NBL    NBT NBR     SBL    SBT SBR
+Lane Configurations
+Traffic Vol, veh/h                  10    0   34              5    0    5              54 249     5        5 211    16
+Future Vol, veh/h                   10    0   34              5    0    5              54 249     5        5 211    16
+Conflicting Peds, #/hr               0    0    0              0    0    0               0    0    0        0    0    0
+Sign Control                      Stop Stop Stop           Stop Stop Stop            Free Free Free     Free Free Free
+RT Channelized                       -    - None              -    - None               -    - None        -    - None
+Storage Length                       -    -    -              -    -    -               -    -    -        -    -    -
+Veh in Median Storage, #             -    0    -              -    0    -               -    0    -        -    0    -
+Grade, %                             -    0    -              -    0    -               -    0    -        -    0    -
+Peak Hour Factor                    81   81   81             81   81   81              81   81   81       81   81   81
+Heavy Vehicles, %                    2    2    2              0    2    0               2    0    0        0    0    2
+Mvmt Flow                           12    0   42              6    0    6              67 307     6        6 260    20
+
+Major/Minor                      Minor2                  Minor1                     Major1             Major2
+Conflicting Flow All                730 730 270             748 737      310           280    0    0     314      0     0
+       Stage 1                      283 283       -         444 444         -            -    -    -        -     -     -
+       Stage 2                      447 447       -         304 293         -            -    -    -        -     -     -
+Critical Hdwy                      7.12 6.52 6.22            7.1 6.52     6.2         4.12    -    -      4.1     -     -
+Critical Hdwy Stg 1                6.12 5.52      -          6.1 5.52       -            -    -    -        -     -     -
+Critical Hdwy Stg 2                6.12 5.52      -          6.1 5.52       -            -    -    -        -     -     -
+Follow-up Hdwy                    3.518 4.018 3.318          3.5 4.018    3.3        2.218    -    -      2.2     -     -
+Pot Cap-1 Maneuver                  338 349 769             331 346      735         1283     -    -    1258      -     -
+       Stage 1                      724 677       -         597 575         -            -    -    -        -     -     -
+       Stage 2                      591 573       -         710 670         -            -    -    -        -     -     -
+Platoon blocked, %                                                                            -    -              -     -
+Mov Cap-1 Maneuver                 318    325   769        297    322    735         1283     -    -    1258      -     -
+Mov Cap-2 Maneuver                 318    325     -        297    322      -            -     -    -       -      -     -
+       Stage 1                     678    673     -        559    539      -            -     -    -       -      -     -
+       Stage 2                     549    537     -        667    666      -            -     -    -       -      -     -
+
+Approach                            EB                      WB                         NB                 SB
+HCM Control Delay, s               11.8                    13.8                        1.4                0.2
+HCM LOS                               B                       B
+
+Minor Lane/Major Mvmt              NBL    NBT NBR EBLn1WBLn1 SBL         SBT SBR
+Capacity (veh/h)                  1283      -    - 582 423 1258            -    -
+HCM Lane V/C Ratio                0.052     -    - 0.093 0.029 0.005       -    -
+HCM Control Delay (s)                 8     0    - 11.8 13.8     7.9       0    -
+HCM Lane LOS                          A     A    -     B     B     A       A    -
+HCM 95th %tile Q(veh)               0.2     -    -   0.3   0.1     0       -    -
+
+
+
+
+6/16/2016                                                                                                 Synchro 9 Report
+Transpo Group                                                                                                      Page 3
+HCM 2010 TWSC                                               Future 2020 With-Project Weekday PM Peak Hour
+3: Site Access & Semiahmoo Dr                                                              Crossroads at Semiahmoo
+
+
+
+Intersection
+Int Delay, s/veh           3.1
+Movement                                    EBT EBR      WBL WBT            NBL     NBR
+Lane Configurations
+Traffic Vol, veh/h                           25    4       19   24            4      12
+Future Vol, veh/h                            25    4       19   24            4      12
+Conflicting Peds, #/hr                        0    0        0    0            0       0
+Sign Control                               Free Free     Free Free         Stop    Stop
+RT Channelized                                - None        - None            -    None
+Storage Length                                -    -        -    -            0       -
+Veh in Median Storage, #                      0    -        -    0            0       -
+Grade, %                                      0    -        -    0            0       -
+Peak Hour Factor                             92   92       92   92           92      92
+Heavy Vehicles, %                             2    2        2    2            2       2
+Mvmt Flow                                    27    4       21   26            4      13
+
+Major/Minor                               Major1       Major2             Minor1
+Conflicting Flow All                           0   0       32    0            96      29
+       Stage 1                                 -   -        -    -            29       -
+       Stage 2                                 -   -        -    -            67       -
+Critical Hdwy                                  -   -     4.12    -          6.42    6.22
+Critical Hdwy Stg 1                            -   -        -    -          5.42       -
+Critical Hdwy Stg 2                            -   -        -    -          5.42       -
+Follow-up Hdwy                                 -   -    2.218    -         3.518   3.318
+Pot Cap-1 Maneuver                             -   -    1580     -           903   1046
+       Stage 1                                 -   -        -    -           994       -
+       Stage 2                                 -   -        -    -           956       -
+Platoon blocked, %                             -   -             -
+Mov Cap-1 Maneuver                             -   -    1580     -          891     1046
+Mov Cap-2 Maneuver                             -   -       -     -          891        -
+       Stage 1                                 -   -       -     -          994        -
+       Stage 2                                 -   -       -     -          944        -
+
+Approach                                     EB          WB                  NB
+HCM Control Delay, s                          0          3.2                 8.7
+HCM LOS                                                                        A
+
+Minor Lane/Major Mvmt            NBLn1      EBT EBR WBL WBT
+Capacity (veh/h)                  1002        -    - 1580  -
+HCM Lane V/C Ratio                0.017       -    - 0.013 -
+HCM Control Delay (s)               8.7       -    -   7.3 0
+HCM Lane LOS                          A       -    -     A A
+HCM 95th %tile Q(veh)               0.1       -    -     0 -
+
+
+
+
+6/16/2016                                                                                         Synchro 9 Report
+Transpo Group                                                                                              Page 4
+Appendix D: WSDOT Left and Right-Turn Lane Exhibits
+Intersections                                                                                             Chapter 1310
+
+
+
+
+Exhibit 1310-7a Left-Turn Storage Guidelines: Two-Lane, Unsignalized
+
+
+
+
+                                      KEY:        1       Below curve, storage not needed for capacity.
+
+                        1,100                     2       Above curve, further analysis recommended.
+
+
+
+                                                          * DHV is total volume from both directions
+                        1,000                             **Speeds are posted speeds
+
+
+
+
+                        900
+
+
+
+
+                        800
+           Total DHV*
+
+
+
+
+                        700
+                                                      2
+                                              1
+
+
+                        600
+
+                                                          2
+                                                      1
+                                                                                40 m
+                        500                                                           ph*
+                                                                                             *
+                                                          2
+                                                      1                        50 m
+                                                                                   ph**
+
+                        400
+                                                                               60 mp
+                                                                                       h**
+
+
+                        300
+                                0         5                   10          15                     20       25
+
+                                    % Total DHV Turning Left (single turning movement)
+
+
+
+
+Page 1310-14                                                                       WSDOT Design Manual M 22-01.12
+                                                                                                  November 2015
+Chapter 1310                                                                                                           Intersections
+
+
+
+
+Exhibit 1310-11 Right-Turn Lane Guidelines
+
+                                   100
+
+
+                                                                                                Consider right-turn lane [5]
+                                    80
+ Peak Hour Right-Turn Volume [2]
+
+
+
+
+                                                            Consider right-turn
+                                                            pocket or taper [4]
+
+                                    60
+
+
+
+
+                                    40
+
+
+                                                       Radius only [3]
+
+                                    20
+
+
+
+
+                                     0
+                                           0          100          200            300     400          500          600          700
+                                                                Peak Hour Approach Volume (DDHV) [1]
+
+
+                              Notes:
+
+                              [1] For two-lane highways, use the peak hour DDHV (through + right-turn).
+                                  For multilane, high-speed highways (posted speed 45 mph or above), use the right-lane peak
+                                  hour approach volume (through + right-turn).
+
+                              [2] When all three of the following conditions are met, reduce the right-turn DDHV by 20:
+                                         • The posted speed is 45 mph or below
+                                         • The right-turn volume is greater than 40 VPH
+                                         • The peak hour approach volume (DDHV) is less than 300 VPH
+
+                              [3] For right-turn corner design, see Exhibit 1310-6.
+
+                              [4] For right-turn pocket or taper design, see Exhibit 1310-12.
+
+                              [5] For right-turn lane design, see Exhibit 1310-13.
+
+
+
+
+WSDOT Design Manual M 22-01.12                                                                                        Page 1310-27
+November 2015
+

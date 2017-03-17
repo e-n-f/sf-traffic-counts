@@ -1,0 +1,1848 @@
+                                                                                      ATTACHMENT 13
+
+
+
+
+TECHNICAL MEMORANDUM
+Date:           June 6, 2016                                                            TG:   15461.00
+To:             Min Luo, P.E., PTOE – City of Redmond
+From:           Ryan Peterson, P.E., PTOE – Transpo Group
+cc:             Brenda Fodge – BMC Rose Hill, LLC
+Subject:        Rose Hill Preliminary Plat, Phase 2 Traffic Impact Analysis
+
+This memorandum describes UCP Rose Hill’s proposed Rose Hill Preliminary Plat project. The
+scope of this analysis has been previously approved by City of Redmond staff and includes a
+review of traffic safety, trip generation estimates, pipeline and with-project traffic volumes, traffic
+operations at both NE 100th Street/132nd Avenue NE and site accesses, signal warrant analysis,
+and mitigation measures.
+
+
+Project Description
+The proposed project includes the construction of 29 single-family residential units located east of
+138th Avenue NE and south of NE 100th Street. Two access points are proposed via 138th
+Avenue NE. The project site is currently undeveloped. Figure 1 shows the project site and
+surrounding vicinity and Figure 2 shows the preliminary site plan. It is anticipated the development
+would be completed and occupied by 2019.
+
+
+
+
+                                      Figure 1. Site Vicinity
+
+
+
+
+      11730 118th Avenue N.E., Suite 600, Kirkland, WA 98034   |   425.821.3665   |
+                                                                           ATTACHMENT 13
+
+
+
+
+                                Figure 2. Preliminary Site Plan
+
+Traffic Safety
+Recent collision records were reviewed within the study area to identify existing traffic safety
+issues at the study intersection. The most recent five-year summary of accident data available
+from the WSDOT is for the period between January 1, 2011 and December 31, 2015. In addition
+to the intersection, collision data along roadways surrounding the study intersection was also
+reviewed. This information is summarized in Table 1.
+
+
+
+
+                                                                                                   2
+                                                                                                                 ATTACHMENT 13
+
+
+
+
+Table 1. Five-Year Collision Summary – 2011 to 2015
+                                                                                Number of Collisions
+                                                      Traffic                                                                Annual
+Location                                              Control       2011        2012    2013       2014        2015    Total Average MEV1
+Intersection
+1. 132nd Avenue NE/ NE 100th Street                Unsignalized        2         2        2         2           1        9     1.80      0.33
+Roadway Segments
+132nd Avenue NE Corridor
+     NE 95th Street to NE 104th Street                    -            1         2        1         1           1        6     1.20         -
+NE 100th Street Corridor
+     128th Avenue NE to 138th Avenue NE                   -            1         1        0         0           0        2     0.40         -
+1.     Million Entering Vehicles
+
+
+A review of collisions was conducted for the study intersection and specified roadway segments.
+The study intersection and corresponding roadway segments each demonstrated annual averages
+below 2 collisions per year.
+
+The collision rate is representative of the number of collisions per one million entering vehicles
+(MEV) at the study intersection. Intersections with a rate greater than 1.0 collision per MEV are
+typically identified for further investigation to determine whether an adverse condition exists. As
+shown in the table, the study intersection of 132nd Avenue NE/ NE 100th Street has
+approximately 0.33 collisions per MEV and does not indicate any specific adverse safety condition.
+
+
+Trip Generation
+The following table illustrates the anticipated number of new daily, AM peak hour, and PM peak
+hour vehicle trips the proposed development would likely generate. These estimates were derived
+by multiplying the proposed number of units (29) by the average daily and peak hour trip
+generation rates for Land Use Code No. 210 (“Single-Family Detached Housing”) published by the
+Institute of Transportation Engineers (ITE) in the Trip Generation Manual (9th Edition, 2012).
+
+Table 2. Trip Generation Summary
+                                                                                                                    Project Trips
+                                                                                                1
+Land Use (ITE Code)                                                 Size               Trip Rate          In            Out           Total
+Single-Family Detached Housing (LU 210)                           29 units
+     Weekday Daily                                                                       9.52             138           138           276
+     Weekday AM Peak Hour                                                                0.75             6              16            22
+     Weekday PM Peak Hour                                                                1.00             18             11            29
+2.     Average trips rates from ITE Trip Generation Manual, 9th Edition, 2012
+
+
+As illustrated above, the proposed development is anticipated to generate approximately 276 new
+daily vehicle trips with 22 new trips generated during the AM peak hour and 29 new trips
+generated during the PM peak hour.
+
+
+Traffic Volumes
+AM and PM peak period traffic counts were collected at NE 100th Street/132nd Avenue NE in
+March 2016. In addition, 12-hour vehicle volumes were collected in April 2016 on each approach
+of the NE 100th Street/132nd Avenue NE intersection. Detailed intersection traffic counts are
+provided in Attachment A.
+
+                                                                                                                                                3
+                                                                               ATTACHMENT 13
+
+
+
+
+Future horizon year (2019) without-project AM and PM peak hour traffic volumes were estimated
+at NE 100th Street/132nd Avenue NE by increasing existing through traffic by an annual growth
+rate of 2 percent and adding project trips from other developments in the project vicinity (“pipeline
+projects”). Anticipated traffic volumes from the following 7 developments were identified via City of
+Redmond’s Project Viewer and were used to develop the future without-project traffic volumes:
+
+          North Rose Hill Short Plat                             Benjamin Estates
+          Willow Hill – Lot 9                                    Gabarino Property
+          Fu Short Plat                                          Heather’s Ridge
+          Short Tom-Duplex
+
+
+A total of 7 developments (either permitted or under construction) were identified in the site vicinity
+with sizes ranging from 1 single-family home to 41 single family homes (Heather’s Ridge).
+
+It should be noted that for the developments east of 132nd Avenue NE and north of NE 100th
+Street, it was assumed that half of the estimated trips travelling to/from the north would use NE
+100th Street to access 132nd Avenue NE and half would use NE 104th Street to the north. As a
+conservative assumption, it was assumed approximately 9 single family homes located south of
+NE 100th Street could use 138th Avenue NE to access NE 100th Street and would act as through
+movements at the proposed project’s site access locations.
+
+Pipeline traffic and project-generated traffic were assigned to the roadway network based on
+separate AM and PM distributions. These distributions, shown in Figures 3 and 4, were based on
+existing counts at NE 100th Street/132nd Avenue NE.
+
+
+
+
+                  Figure 3. AM Peak Hour Distribution and Assignment
+
+
+
+
+                                                                                                      4
+                                                                            ATTACHMENT 13
+
+
+
+
+                 Figure 4. PM Peak Hour Distribution and Assignment
+Most project traffic is anticipated to access the site via 132nd Avenue NE (60 percent from the
+south and 35 percent from the north, respectively) during the AM peak hour. During the PM peak
+hour, 90 percent of the project trips are expected to access the site from the south while the
+remaining 10 percent would access from the north. It is anticipated that 5 percent of the project
+trips would access the site via NE 100th Street during the AM peak hour only. Existing (2016),
+future (2019) without-project, and future (2019) with-project traffic volumes are summarized in
+Figure 5.
+
+
+
+
+                                                                                                    2
+                                                                             ATTACHMENT 13
+
+
+
+
+        Figure 5. Existing (2016), Future (2019) Without-Project, and
+                    Future (2019) With-Project Peak Hour Traffic Volumes
+
+
+Traffic Operations
+Intersection level of service (LOS) for existing, future without-, and with-project conditions were
+evaluated at the 132nd Avenue NE/ NE 100th Street intersection along with the site accesses
+using the Synchro 9 software program based on procedures identified in the Highway Capacity
+Manual (HCM, 2010). All intersection parameters such as channelization and intersection control
+were consistent through all analysis scenarios. At side-street stop-controlled intersections, LOS is
+measured in average delay per vehicle during the peak hour of traffic and is reported for the worst
+operating movement of the intersection. Attachment B provides a detailed explanation of LOS
+criteria and definitions. Detailed LOS worksheets are provided in Attachment C.
+
+
+
+
+                                                                                                       3
+                                                                                                     ATTACHMENT 13
+
+
+
+Table 3. Estimated Weekday AM and PM Peak Hour Traffic Operations
+                                                Existing (2016)           2019 Without-Project             2019 With-Project
+                                                1          2          3
+Intersection                             LOS        Delay      WM         LOS      Delay      WM         LOS       Delay   WM
+AM Peak Hour
+132nd Avenue NE/ NE 100th Street           D        27.7       WB          E        37.1      WB           E       41.9    WB
+138th Avenue NE/ Site Access 1              -         -           -        -          -         -          A        8.4    WB
+138th Avenue NE/ Site Access 2              -         -           -        -          -         -          A        8.4    WB
+PM Peak Hour
+132nd Avenue NE/ NE 100th Street           F        74.5       WB          F       >180       WB           F       >180    WB
+138th Avenue NE/ Site Access 1              -         -           -        -          -         -          A        8.5    WB
+138th Avenue NE/ Site Access 2              -         -           -        -          -         -          A        8.3    WB
+Note: WB = westbound approach
+1. Level of Service (A – F) as defined by the 2010 Highway Capacity Manual (HCM), Transportation Research Board.
+2. Average delay per vehicle in seconds.
+3. Worst movement reported for unsignalized intersections.
+
+
+The City of Redmond operations standard is LOS D or better. As shown in Table 2, during the AM
+peak hour, 132nd Avenue NE/ NE 100th Street operates at LOS D under existing conditions and
+would operate at LOS E during both future (2019) without-project and future with-project
+conditions. It should be noted that the proposed project would only increase the delay at the
+intersection by about 5 seconds between without-project and with-project conditions during the AM
+peak hour. Additionally, westbound vehicle queues are not anticipated to exceed 3 vehicles under
+with-project conditions.
+
+During the PM peak hour, NE 100th Street/132nd Avenue NE is anticipated to operate at LOS F
+under all three analysis conditions. It should be noted that the westbound approach would only
+see an increase in 11 trips with the development of the proposed project. Westbound queues are
+not anticipated to exceed 5 vehicles at the study intersection under with-project conditions; this
+would be an increase of about 2 vehicles compared to without-project conditions.
+
+Under both AM and PM peak hour periods, the site access intersections are anticipated to operate
+at LOS A with less than 10 seconds of delay. Maximum queues at the site accesses are
+anticipated to be no more than 1 vehicle.
+
+
+Signal Warrant Analysis
+A signal warrant2 analysis was conducted for the 132nd Avenue NE/ NE 100th Street intersection
+under with-project conditions. The following presents the data (geometry and traffic volumes) used
+to perform the signal warrant analysis of Warrants 1 through 3, as well as the findings.
+
+Intersection Geometry and Traffic Volumes
+The existing 132nd Avenue NE/ NE 100th Street intersection is a 4-way intersection and is stop-
+controlled for the eastbound and westbound approaches. The future (2019) with-project weekday
+AM and PM peak hour traffic volumes at the intersection, as previously mentioned, are shown in
+Figure 3. It should be noted that slightly different volumes were used for Signal Warrants 1 and 2
+as opposed to Warrant 3. Both, however, constitute a future (2019) with-project signal warrant
+analysis.
+
+
+2   Manual on Uniform Traffic Control Devices (MUTCD), Federal Highways Administration (2009).
+
+
+                                                                                                                                4
+                                                                                ATTACHMENT 13
+
+
+
+For Warrants 1 and 2, 12-hour vehicle counts were collected in April 2016 to provide a localized
+hourly distribution of traffic volumes by approach over the course of the 7 AM-7 PM warrant time
+frame. Daily pipeline and project trips were then scaled using this localized hourly distribution and
+added to the 12-hour traffic counts (the northbound and southbound through movements of the
+12-hour counts were grown at 2 percent for 3 years, mirroring the growth process previously
+described). This layering of daily pipeline and project trips added to post-growth rate 12-hour
+counts provides a conservative representation of future traffic volumes at the intersection because
+daily trip generation was assumed to occur within a 12-hour period.
+
+Analysis for Warrant 3 did not include the use of the 12-hour traffic counts; rather the volumes
+used for warrant 3 were the same future (2019) with-project volumes used in the Synchro traffic
+operations analysis. Both AM and PM peak hours were analyzed. Average peak hour vehicle
+delays from the traffic operations analysis were input as well.
+
+The following sections provide a summary of the methodology for the signal warrants evaluated for
+the 132nd Avenue NE/ NE 100th Street intersection (Warrants 1,2, and 3).
+
+Warrant 1 – Eight Hour Vehicular Volume
+Warrant 1 consists of two conditions that independently assess whether a traffic signal is
+warranted based on traffic volumes. The first condition (Condition A) determines if traffic volumes
+at an intersection are consistently high enough throughout an average weekday to warrant the
+installation of a signal. The second condition (Condition B) is considered when Condition A is not
+met, and assesses whether traffic on the minor street experiences excessive delay due to high
+traffic volumes on the major street throughout an average weekday. These two conditions are
+combined such that fulfilling either of the two conditions would meet the warrant for installation of a
+signal.
+
+Detailed volume threshold criteria are identified for these conditions in the warrant methodology,
+and if traffic volumes exceed these thresholds for 8 or more hours on an average weekday, the
+signal warrant is satisfied. Alternatively, if neither of Conditions A or B are met, the volume criteria
+for both conditions can be reduced to 80 percent of their values such that if both conditions are
+then met, then installation of a traffic signal could be warranted.
+
+Based on the future with-project traffic volumes shown in Attachment D, Warrant 1 would not be
+satisfied as documented in the traffic volume signal warrant worksheet also provided in
+Attachment D.
+
+Warrant 2 – Four Hour Vehicular Volume
+Signal Warrant 2 is applied where the volume of intersecting traffic is the primary reason for
+considering installation of a traffic signal. The warrant is satisfied by comparing the traffic volumes
+on the major street and minor street with a chart included in the MUTCD. If the major and minor
+street traffic volumes intersect above the MUTCD chart threshold for four or more one-hour
+periods, then the signal warrant would be satisfied.
+
+Based on the future with-project traffic volumes shown in Attachment D, Warrant 2 would not be
+satisfied as documented in the traffic volume signal warrant worksheet provided in Attachment D.
+
+Warrant 3 – Peak Hour
+Signal Warrant 3 is applied when, for a minimum of one-hour of an average day, the minor-street
+traffic suffers undue delay when entering or crossing the major street. The warrant is satisfied by
+one of two categories are met:
+      If all three of the following conditions exist for four consecutive 15 minute periods:
+
+
+                                                                                                           5
+                                                                               ATTACHMENT 13
+
+
+
+              o   The total stopped time delay by traffic on one of the minor street approaches
+                  controlled by a stop sign exceeds 4 vehicle hours for a one lane road; and
+              o The volume on the same minor street approach (one direction only) exceeds 100
+                  vehicles per hour for one moving lane; and
+              o The total entering volume serviced for during the hour equals or exceeds 800
+                  vehicles per hour for four or more approaches.
+         Comparing the traffic volumes on the major street and minor street with a chart included in
+          the MUTCD. If the major street traffic volume and the highest minor street approach
+          volume intersect above the MUTCD chart threshold for four or more one-hour periods,
+          then the signal warrant would be satisfied.
+
+It should be considered that MUTCD notes that this particular signal warrant “shall only be applied
+in unusual cases such as office complexes, manufacturing plants, industrial complexes, or high-
+occupancy vehicle facilities that attract or discharge large numbers of vehicles over a short time”
+(MUTCD, 2009)). It is unclear as to whether the intersection of 132nd Avenue NE/ NE 100th Street
+meets this criterion. Regardless, based on the future with-project traffic volumes shown in
+Attachment E, Warrant 3 would not be satisfied as documented in the traffic volume signal warrant
+worksheet provided in Attachment E.
+
+
+Mitigation
+Mitigation measures have been identified to reduce potential transportation-related project
+impacts. All site accesses operate at LOS C or better and NE 100th Street/132nd Avenue NE
+operates at the same LOS during both AM and PM peak hours with or without the addition of
+project-generated traffic. Therefore mitigation beyond the City’s transportation impact fees is not
+necessary.
+
+Transportation Impact Fees
+The project would be required to pay the City’s Transportation Impact Fee. Per the City of
+Redmond Impact Fee5, the single family dwelling unit fee is $4,430.66 per unit, resulting in an
+impact fee of $128,490 for the 29-unit project. This fee is a preliminary calculation and the final
+impact fee would be calculated by the City of Redmond at the time of building permit issuance.
+
+
+
+
+5   City of Redmond Impact Fees Schedule
+
+                                                                                                      6
+                 ATTACHMENT 13
+
+
+
+
+Attachment A:   Traffic Counts
+
+
+
+
+                             9
+ www.idaxdata.com                                                                                                                                                   ATTACHMENT 13                                01
+
+
+
+                                            132ND AVE NE
+                                             NE 100TH ST
+                                                                                                                                                    Date: Wed, Mar 09, 2016
+                  N                                     Peak Hour                                                                            Count Period: 7:00 AM to 9:00 AM
+                                                                                                                                               Peak Hour: 8:00 AM to 9:00 AM
+
+
+
+
+                                                        704
+
+
+
+                                                                          223
+                             132ND AVE NE
+
+
+
+
+                                                          621
+                                                70
+
+
+
+                                                                     13
+
+                                                                                0
+
+
+
+
+                                                                                                                                                                          2
+                                                                                                          NE 100TH ST
+
+                         0                                                                                8
+                                                                                                                                                                                   7
+       119                                                                                                                      40                                                                        0
+                       10                            TEV: 1,106                                           13
+
+
+
+
+                                                                                                                                                                                             0
+                                                                                                                                                                          8
+                                                     PHF: 0.96                                            19
+       108               4
+                                                                                                                                30                     2
+                       94                                                                                 0                                                                         0
+
+               NE 100TH ST
+                                                                                           132ND AVE NE
+                                                              36
+
+                                                                        205
+
+                                                                                 13
+                                                    0
+
+
+
+
+                                                                                                                                                                                        1
+                                                                                                                                     HV %:     PHF
+                                                                                                                           EB        0.0%      0.87
+                                                                                                                           WB        7.5%      0.83
+                                                        734
+
+
+
+                                                                          254
+
+
+
+
+                                                                                                                           NB        2.8%      0.72
+                                                                                                                           SB        1.6%      0.84
+                                                                                                                       TOTAL         1.9%      0.96
+
+
+Two-Hour Count Summaries
+                      NE 100TH ST                                         NE 100TH ST                                      132ND AVE NE                            132ND AVE NE
+   Interval                                                                                                                                                                                      15-min        Rolling
+                        Eastbound                                             Westbound                                        Northbound                           Southbound
+     Start                                                                                                                                                                                        Total       One Hour
+                 UT     LT    TH                     RT            UT         LT    TH                        RT      UT        LT    TH        RT     UT            LT    TH           RT
+   7:00 AM        0      0                  0        29             0           6     1                       0       0         5      40       8          0         3        124       2         218            0
+   7:15 AM        0      1                  0        28             0           8     1                       2       0         5      38       3          0         6        142       13        247            0
+   7:30 AM        0      1                  4        22             0           8     7                       1       0         12     64       6          0         2        152       8         287            0
+   7:45 AM        0      0                  0        28             0           6     3                       0       0         11     56       4          0         1        156       5         270          1,022
+   8:00 AM        0      1                  0        18             0           6     2                       1       0         8      52       6          0         6        148       11        259          1,063
+   8:15 AM        0      5                  0        24             0           7     2                       0       0         3      30       5          0         3        185       22        286          1,102
+   8:30 AM        0      4                  0        27             0           3     5                       4       0         11     50       1          0         3        161       20        289          1,104
+   8:45 AM        0      0                  4        25             0           3     4                       3       0         14     73       1          0         1        127       17        272          1,106
+ Count Total      0     12                  8        201            0           47    25                      11      0         69     403      34         0         25       1,195     98       2,128           0
+ Peak Hour        0     10                  4        94             0           19    13                      8       0         36     205      13         0         13       621       70       1,106           0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval              Heavy Vehicle Totals                                                                         Bicycles                                           Pedestrians (Crossing Leg)
+     Start       EB      WB      NB      SB                                   Total   EB                       WB        NB           SB       Total       East           West      North    South               Total
+   7:00 AM        0          1                  0               3               4     0                           0        0           0        0              0              1             1            0           2
+   7:15 AM        1          1                  0               7               9     0                           0        0           0        0              0              1             0            0           1
+   7:30 AM        1          1                  5               2               9     0                           0        0           1        1              0              0             1            0           1
+   7:45 AM        0          4                  5               2               11    1                           0        0           0        1              0              1             3            0           4
+   8:00 AM        0          0                  2               4               6     1                           0        1           1        3              0              6             1            0           7
+   8:15 AM        0          0                  1               2               3     1                           0        0           0        1              0              1             1            0           2
+   8:30 AM        0          2                  1               3               6     0                           0        0           0        0              0              1             4            0           5
+   8:45 AM        0          1                  3               2               6     0                           0        0           1        1              0              0             1            0           1
+ Count Total      2       10                    17              25              54    3                           0        1           3        7              0              11         12              0        23
+ Peak Hour        0          3                  7               11              21    2                           0        1           2        5              0              8             7            0        15
+
+
+
+ Mark Skaggs: (425) 250-0777                                                                                                                                                       mark.skaggs@idaxdata.com
+ www.idaxdata.com                                                                                                                                                      ATTACHMENT 13                               01
+
+
+
+                                            132ND AVE NE
+                                             NE 100TH ST
+                                                                                                                                                       Date: Wed, Mar 09, 2016
+                  N                                     Peak Hour                                                                               Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                                  Peak Hour: 4:15 PM to 5:15 PM
+
+
+
+
+                                                        271
+
+
+
+                                                                          874
+                             132ND AVE NE
+
+
+
+
+                                                          250
+                                                17
+
+
+
+
+                                                                                  0
+                                                                     4
+
+
+
+
+                                                                                                                                                                             0
+                                                                                                            NE 100TH ST
+
+                         0                                                                                  8
+                                                                                                                                                                                      0
+       255                                                                                                                        20                                                                        0
+                         8                           TEV: 1,483                                             3
+
+
+
+
+                                                                                                                                                                                               0
+                                                                                                                                                                            0
+                                                     PHF: 0.95                                              9
+       59                0
+                                                                                                                                  44                      0
+                       51                                                                                   0                                                                         0
+
+               NE 100TH ST
+                                                                                             132ND AVE NE
+                                                              235
+
+                                                                         858
+
+                                                                                   40
+                                                    0
+
+
+
+
+                                                                                                                                                                                          1
+                                                                                                                                        HV %:     PHF
+                                                                                                                             EB         1.7%      0.70
+                                                                          1,133
+
+
+
+
+                                                                                                                             WB         5.0%      0.56
+                                                        310
+
+
+
+
+                                                                                                                             NB         0.5%      0.95
+                                                                                                                             SB         2.2%      0.85
+                                                                                                                         TOTAL          0.9%      0.95
+
+
+Two-Hour Count Summaries
+                      NE 100TH ST                                          NE 100TH ST                                       132ND AVE NE                             132ND AVE NE
+   Interval                                                                                                                                                                                        15-min        Rolling
+                        Eastbound                                              Westbound                                         Northbound                            Southbound
+     Start                                                                                                                                                                                          Total       One Hour
+                 UT     LT    TH                     RT             UT         LT    TH                         RT      UT        LT    TH         RT     UT            LT    TH          RT
+   4:00 PM        0      3                  0        17             0             2     2                       5       0         46      168      10         0         0        59       6         318            0
+   4:15 PM        0      2                  0        9              0             1     0                       2       0         73      211      4          0         1        52       3         358            0
+   4:30 PM        0      1                  0        13             0             0     0                       1       0         56      207      11         0         0        73       7         369            0
+   4:45 PM        0      3                  0        10             0             2     1                       4       0         56      228      14         0         3        64       6         391          1,436
+   5:00 PM        0      2                  0        19             0             6     2                       1       0         50      212      11         0         0        61       1         365          1,483
+   5:15 PM        0      2                  0        15             0             3     2                       2       0         54      178      6          0         0        61       3         326          1,451
+   5:30 PM        0      4                  1        12             0             1     1                       2       0         40      212      7          0         0        53       7         340          1,422
+   5:45 PM        0      6                  1        15             0             0     1                       3       0         55      211      7          0         1        76       6         382          1,413
+ Count Total      0     23                  2        110            0             15    9                       20      0         430    1,627     70         0         5       499       39       2,849           0
+ Peak Hour        0      8                  0        51             0             9     3                       8       0         235     858      40         0         4       250       17       1,483           0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval              Heavy Vehicle Totals                                                                           Bicycles                                            Pedestrians (Crossing Leg)
+     Start       EB      WB      NB      SB                                    Total    EB                      WB         NB            SB       Total       East           West      North    South              Total
+   4:00 PM        0          1                  2               2                 5     0                           0        0            0        0              0             0             0            0           0
+   4:15 PM        1          0                  2               2                 5     0                           0        0            0        0              0             0             0            0           0
+   4:30 PM        0          0                  1               1                 2     0                           0        0            0        0              0             0             0            0           0
+   4:45 PM        0          1                  0               2                 3     0                           0        0            0        0              0             0             0            0           0
+   5:00 PM        0          0                  3               1                 4     0                           0        1            0        1              0             0             0            0           0
+   5:15 PM        0          0                  0               1                 1     1                           0        0            0        1              0             0             1            0           1
+   5:30 PM        0          0                  2               0                 2     0                           0        1            0        1              0             0             1            0           1
+   5:45 PM        0          0                  1               1                 2     0                           0        1            0        1              0             1             1            0           2
+ Count Total      1          2                  11              10                24    1                           0        3            0        4              0             1             3            0           4
+ Peak Hour        1          1                  6               6                 14    0                           0        1            0        1              0             0             0            0           0
+
+
+
+ Mark Skaggs: (425) 250-0777                                                                                                                                                        mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                     ATTACHMENT 13
+                                                                                                                                                                                 01 AM
+
+
+
+
+                                            132ND AVE NE
+                                             NE 100TH ST
+                                                                                                                                                    Date: Tue, Apr 12, 2016
+                 N                                      Peak Hour                                                                            Count Period: 7:00 AM to 1:00 PM
+                                                                                                                                               Peak Hour: 7:30 AM to 8:30 AM
+                                                        663
+
+
+
+                                                                         197
+                             132ND AVE NE
+
+
+
+
+                                                          610
+                                                45
+
+
+
+
+                                                                               0
+                                                                     8
+
+
+
+
+                                                                                                                                                                           3
+                                                                                                          NE 100TH ST
+
+                        0                                                                                 0
+                                                                                                                                                                                 2
+       85                                                                                                                       35                                                                       0
+                       13                            TEV: 1,071                                           10
+
+
+
+
+                                                                                                                                                                                            1
+                                                                                                                                                                         7
+                                                     PHF: 0.92                                            25
+       139              3
+                                                                                                                                31                     2
+                      123                                                                                 0                                                                        0
+
+              NE 100TH ST
+                                                                                           132ND AVE NE
+                                                              30
+
+                                                                        184
+
+                                                                                20
+                                                    0
+
+
+
+
+                                                                                                                                                                                       1
+                                                                                                                                     HV %:     PHF
+                                                                                                                           EB        0.0%      0.77
+                                                                                                                           WB        17.1%     0.80
+                                                        758
+
+
+
+                                                                         234
+
+
+
+
+                                                                                                                           NB        4.3%      0.85
+                                                                                                                           SB        1.5%      0.88
+                                                                                                                       TOTAL         2.4%      0.92
+
+Six-Hour Count Summaries
+                     NE 100TH ST                                          NE 100TH ST                                      132ND AVE NE                            132ND AVE NE
+   Interval                                                                                                                                                                                     15-min        Rolling
+                       Eastbound                                              Westbound                                        Northbound                           Southbound
+     Start                                                                                                                                                                                       Total       One Hour
+                UT     LT    TH                      RT            UT         LT    TH                        RT      UT        LT    TH       RT      UT            LT    TH          RT
+    7:30 AM      0      0                   0        34             0          8      3                       0       0         12     51       6          0         2       151       6         273            0
+    7:45 AM      0      0                   1        35             0          8      2                       0       0         7      46       8          0         2       153       6         268            0
+    8:00 AM      0      1                   1        22             0          7      1                       0       0         8      38       6          0         4       140       11        239            0
+    8:15 AM      0      12                  1        32             0          2      4                       0       0         3      49       0          0         0       166       22        291          1,071
+  Peak Hour      0      13                  3        123            0          25     10                      0       0         30     184      20         0         8       610       45       1,071           0
+Note: For all three-hour count summary, see next page.
+
+   Interval             Heavy Vehicle Totals                                                                          Bicycles                                           Pedestrians (Crossing Leg)
+     Start      EB      WB      NB      SB                                    Total   EB                      WB         NB           SB       Total       East           West      North    South              Total
+    7:30 AM      0          2                   1               5              8      0                           0        0           0        0              1             0             1            0           2
+    7:45 AM      0          0                   6               2              8      0                           0        0           1        1              0             0             0            0           0
+    8:00 AM      0          3                   1               2              6      1                           0        1           1        3              0             5             1            0           6
+    8:15 AM      0          1                   2               1              4      1                           0        0           1        2              0             2             0            0           2
+  Peak Hour      0          6                   10              10             26     2                           0        1           3        6              1             7             2            0        10
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                                        mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                       ATTACHMENT 13
+                                                                                                                                   01 AM
+
+Six-Hour Count Summaries
+                      NE 100TH ST                       NE 100TH ST                132ND AVE NE                      132ND AVE NE
+   Interval                                                                                                                                    15-min       Rolling
+                       Eastbound                        Westbound                      Northbound                     Southbound
+     Start                                                                                                                                      Total      One Hour
+                UT     LT    TH           RT     UT     LT    TH      RT      UT        LT    TH     RT      UT        LT    TH       RT
+    7:00 AM      0      1       0         24        0    12     1     0       0         3     35      4      0         2      126      3        211           0
+    7:15 AM      0      0       0         30        0     3     1     1       0        14     42      5      0         6      111      7        220           0
+    7:30 AM      0      0       0         34        0     8     3     0       0        12     51      6      0         2      151      6        273           0
+    7:45 AM      0      0       1         35        0     8     2     0       0         7     46      8      0         2      153      6        268          972
+    8:00 AM      0      1       1         22        0     7     1     0       0         8     38      6      0         4      140     11        239         1,000
+    8:15 AM      0      12      1         32        0     2     4     0       0         3     49      0      0         0      166     22        291         1,071
+    8:30 AM      0      0       1         26        0     3     3     1       0         6     62      2      0         1      134      5        244         1,042
+    8:45 AM      0      3       1         29        0     3     10    0       0        10     68      0      0         0      150      5        279         1,053
+    9:00 AM      0      1       1         33        0     4     1     4       0         7     56      3      0         2      109      8        229         1,043
+    9:15 AM      0      3       2         30        0     4     0     1       0        10     36      6      0         1      119      8        220          972
+    9:30 AM      0      0       1         25        0     6     4     1       0         6     31      5      0         1      101      6        187          915
+    9:45 AM      0      0       0         21        0     2     5     2       0         5     28      2      0         2       76      1        144          780
+   10:00 AM      0      0       1         17        0     4     3     1       0         5     35      5      0         2       38      2        113          664
+   10:15 AM      0      0       0          8        0     8     3     1       0         5     53      4      0         2       53      2        139          583
+   10:30 AM      0      3       0         10        0     5     2     2       0         5     39      7      0         1       61      2        137          533
+   10:45 AM      0      0       0          9        0     7     1     3       0         6     34      4      0         1       56      0        121          510
+   11:00 AM      0      1       1          6        0     2     2     1       0         9     36      4      0         0       46      6        114          511
+   11:15 AM      0      0       1         11        0     3     1     1       0        14     48      1      0         1       47      3        131          503
+   11:30 AM      0      1       2         13        0     7     1     3       0         8     37      4      0         1       75      2        154          520
+   11:45 AM      0      3       0         12        0     5     2     1       0        15     56      2      0         4       91      6        197          596
+   12:00 PM      0      3       0         13        0     4     2     2       0        10     49      6      0         1       58      5        153          635
+   12:15 PM      0      0       1         10        0     3     1     4       0        15     56      4      0         0       40      1        135          639
+   12:30 PM      0      3       0          3        0     3     2     1       0        11     54      4      0         1       47      1        130          615
+   12:45 PM      0      4       1          9        0     1     0     1       0        15     54      7      0         4       41      1        138          556
+  Count Total    0      39      16        462       0    114    55    31      0        209   1,093    99     0         41     2,189   119      4,467          0
+  Peak Hour      0      13      3         123       0    25     10    0       0        30    184      20     0         8      610     45       1,071          0
+Note: Six-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval             Heavy Vehicle Totals                                  Bicycles                                     Pedestrians (Crossing Leg)
+     Start      EB      WB      NB      SB              Total   EB    WB         NB          SB      Total   East           West      North    South          Total
+    7:00 AM      0          2        1          1         4     0         0        0         2        2          2            3            2           0          7
+    7:15 AM      0          0        2          7         9     0         1        1         2        4          0            3            2           0          5
+    7:30 AM      0          2        1          5         8     0         0        0         0        0          1            0            1           0          2
+    7:45 AM      0          0        6          2         8     0         0        0         1        1          0            0            0           0          0
+    8:00 AM      0          3        1          2         6     1         0        1         1        3          0            5            1           0          6
+    8:15 AM      0          1        2          1         4     1         0        0         1        2          0            2            0           0          2
+    8:30 AM      0          0        1          4         5     1         0        0         1        2          0            1            1           0          2
+    8:45 AM      1          0        1          1         3     0         0        1         0        1          0            0            0           0          0
+    9:00 AM      1          1        2          1         5     0         0        0         0        0          0            1            1           0          2
+    9:15 AM      1          0        2          1         4     0         0        0         0        0          0            2            2           0          4
+    9:30 AM      1          1        0          4         6     0         0        1         0        1          0            0            0           0          0
+    9:45 AM      0          0        2          0         2     0         0        0         0        0          0            1            0           0          1
+   10:00 AM      0          0        2          0         2     0         0        0         0        0          1            0            1           0          2
+   10:15 AM      0          1        2          1         4     0         0        1         1        2          2            1            2           0          5
+   10:30 AM      1          2        2          2         7     0         0        1         0        1          0            0            2           0          2
+   10:45 AM      0          3        3          0         6     1         0        0         1        2          0            0            0           0          0
+   11:00 AM      0          2        2          0         4     0         0        0         0        0          0            2            0           0          2
+   11:15 AM      0          0        2          0         2     0         0        0         0        0          0            0            0           0          0
+   11:30 AM      0          0        3          1         4     0         0        1         0        1          0            0            0           0          0
+   11:45 AM      0          0        3          1         4     0         0        0         0        0          0            1            0           0          1
+   12:00 PM      0          1        3          3         7     0         0        0         1        1          0            3            1           0          4
+   12:15 PM      2          1        2          0         5     0         0        0         1        1          1            0            0           0          1
+   12:30 PM      0          0        3          1         4     0         0        0         0        0          0            2            1           0          3
+   12:45 PM      0          0        2          2         4     0         0        0         0        0          0            0            0           0          0
+  Count Total    7       20          50         40       117    4         1        7         12       24         7           27         17             0       51
+  Peak Hour      0          6        10         10       26     2         0        1         3        6          1            7            2           0       10
+
+Mark Skaggs: (425) 250-0777                                                                                                         mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                        ATTACHMENT 13
+                                                                                                                                                                                    01 PM
+
+
+
+
+                                            132ND AVE NE
+                                             NE 100TH ST
+                                                                                                                                                       Date: Tue, Apr 12, 2016
+                 N                                      Peak Hour                                                                               Count Period: 1:00 PM to 7:00 PM
+                                                                                                                                                  Peak Hour: 4:45 PM to 5:45 PM
+                                                        255
+
+
+
+                                                                          952
+                             132ND AVE NE
+
+
+
+
+                                                         243
+
+
+
+                                                                                  0
+                                                9
+
+
+
+                                                                     3
+
+
+
+
+                                                                                                                                                                              0
+                                                                                                            NE 100TH ST
+
+                        0                                                                                   8
+                                                                                                                                                                                       2
+       240                                                                                                                        17                                                                        0
+                       10                           TEV: 1,522                                              2
+
+
+
+
+                                                                                                                                                                                               1
+                                                                                                                                                                            1
+                                                    PHF: 0.97                                               7
+       59               4
+                                                                                                                                  35                      0
+                       45                                                                                   0                                                                          0
+
+              NE 100TH ST
+                                                                                             132ND AVE NE
+                                                              229
+
+                                                                         934
+
+                                                                                   28
+                                                    0
+
+
+
+
+                                                                                                                                                                                           0
+                                                                                                                                        HV %:     PHF
+                                                                                                                             EB         1.7%      0.82
+                                                                          1,191
+
+
+
+
+                                                                                                                             WB         0.0%      0.71
+                                                        295
+
+
+
+
+                                                                                                                             NB         0.4%      0.98
+                                                                                                                             SB         2.0%      0.87
+                                                                                                                         TOTAL          0.7%      0.97
+
+Six-Hour Count Summaries
+                     NE 100TH ST                                           NE 100TH ST                                       132ND AVE NE                             132ND AVE NE
+   Interval                                                                                                                                                                                        15-min        Rolling
+                       Eastbound                                               Westbound                                         Northbound                            Southbound
+     Start                                                                                                                                                                                          Total       One Hour
+                UT     LT    TH                     RT              UT         LT    TH                         RT      UT        LT    TH        RT      UT            LT    TH           RT
+    4:45 PM      0      3                   2       8               0             1     0                       0       0         56      243      5          0         2         68       3        391            0
+    5:00 PM      0      1                   1       12              0             1     1                       4       0         60      229      14         0         0         64       1        388            0
+    5:15 PM      0      2                   1       11              0             3     1                       0       0         55      227      3          0         1         56       2        362            0
+    5:30 PM      0      4                   0       14              0             2     0                       4       0         58      235      6          0         0         55       3        381          1,522
+  Peak Hour      0      10                  4       45              0             7     2                       8       0         229     934      28         0         3       243        9       1,522           0
+Note: For all three-hour count summary, see next page.
+
+   Interval             Heavy Vehicle Totals                                                                            Bicycles                                            Pedestrians (Crossing Leg)
+     Start      EB      WB      NB      SB                                     Total    EB                      WB         NB            SB       Total       East           West      North    South              Total
+    4:45 PM      0          0                   2               2                 4     0                           0        0            0        0              1             0              1           0           2
+    5:00 PM      1          0                   1               1                 3     0                           0        0            0        0              0             0              0           0           0
+    5:15 PM      0          0                   2               1                 3     0                           0        0            0        0              0             1              1           0           2
+    5:30 PM      0          0                   0               1                 1     0                           0        0            0        0              0             0              0           0           0
+  Peak Hour      1          0                   5               5                 11    0                           0        0            0        0              1             1              2           0           4
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                                            mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                       ATTACHMENT 13
+                                                                                                                                   01 PM
+
+Six-Hour Count Summaries
+                      NE 100TH ST                       NE 100TH ST                132ND AVE NE                      132ND AVE NE
+   Interval                                                                                                                                    15-min       Rolling
+                       Eastbound                        Westbound                      Northbound                     Southbound
+     Start                                                                                                                                      Total      One Hour
+                UT     LT    TH           RT     UT     LT    TH      RT      UT        LT    TH     RT      UT        LT    TH       RT
+    1:00 PM      0      0       3         10        0     1     1     1       0         9     65      4      0         2       36      4        136           0
+    1:15 PM      0      2       0          7        0     2     5     2       0        15     47      2      0         1       34      4        121           0
+    1:30 PM      0      3       3          8        0     4     1     2       0         3     44      4      0         3       47      4        126           0
+    1:45 PM      0      1       0          5        0     2     3     0       0        13     42      8      0         1       49      4        128          511
+    2:00 PM      0      1       2          7        0     2     1     2       0        22     43      2      0         2       56      3        143          518
+    2:15 PM      0      3       1          9        0     4     2     1       0        14     68      8      0         0       39      2        151          548
+    2:30 PM      0      2       1          5        0     5     4     0       0        14     87      8      0         0       76      3        205          627
+    2:45 PM      0      2       1         11        0     7     2     0       0        22     82      7      0         0       56      6        196          695
+    3:00 PM      0      13      2         10        0     2     2     3       0        29    120      5      0         0       49      7        242          794
+    3:15 PM      0      5       3         14        0     2     1     1       0        34    124      4      0         0       49      4        241          884
+    3:30 PM      0      5       3         10        0     2     3     1       0        31    111      6      0         0       65      4        241          920
+    3:45 PM      0      3       2          8        0     3     1     3       0        42    171      4      0         0       65      3        305         1,029
+    4:00 PM      0      2       1          5        0     2     0     1       0        43    186      5      0         2       58      3        308         1,095
+    4:15 PM      0      4       0          3        0     2     1     0       0        66    194      3      0         0       68      7        348         1,202
+    4:30 PM      0      1       2          9        0     4     0     4       0        53    221      12     0         0       60      4        370         1,331
+    4:45 PM      0      3       2          8        0     1     0     0       0        56    243      5      0         2       68      3        391         1,417
+    5:00 PM      0      1       1         12        0     1     1     4       0        60    229      14     0         0       64      1        388         1,497
+    5:15 PM      0      2       1         11        0     3     1     0       0        55    227      3      0         1       56      2        362         1,511
+    5:30 PM      0      4       0         14        0     2     0     4       0        58    235      6      0         0       55      3        381         1,522
+    5:45 PM      0      4       0          9        0     1     2     1       0        59    223      9      0         0       40      3        351         1,482
+    6:00 PM      0      2       1         10        0     1     0     0       0        52    219      3      0         0       60      3        351         1,445
+    6:15 PM      0      1       1          7        0     1     2     2       0        56    224      8      0         1       48      4        355         1,438
+    6:30 PM      0      2       0         13        0     0     2     1       0        57    182      5      0         0       47      4        313         1,370
+    6:45 PM      0      1       0          7        0     6     3     1       0        43    142      5      0         0       29      1        238         1,257
+  Count Total    0      67      30        212       0    60     38    34      0        906   3,529   140     0         15     1,274   86       6,391          0
+  Peak Hour      0      10      4         45        0     7     2     8       0        229   934      28     0         3      243      9       1,522          0
+Note: Six-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval             Heavy Vehicle Totals                                  Bicycles                                     Pedestrians (Crossing Leg)
+     Start      EB      WB      NB      SB              Total   EB    WB         NB          SB      Total   East           West      North    South          Total
+    1:00 PM      0          0        1          1         2     0         0        0         1        1          0            0            0           0          0
+    1:15 PM      0          0        1          0         1     0         0        0         1        1          0            0            0           0          0
+    1:30 PM      1          0        0          1         2     0         0        1         0        1          0            0            0           0          0
+    1:45 PM      0          0        2          4         6     0         0        0         0        0          0            0            0           0          0
+    2:00 PM      0          0        2          1         3     0         0        0         0        0          0            0            1           0          1
+    2:15 PM      1          2        2          1         6     0         0        1         0        1          0            0            0           0          0
+    2:30 PM      0          0        3          2         5     0         0        1         0        1          0            0            1           0          1
+    2:45 PM      0          0        1          1         2     0         0        0         0        0          0            0            3           0          3
+    3:00 PM      2          0        9          3        14     0         0        1         0        1          0            0            2           0          2
+    3:15 PM      2          1        2          0         5     0         1        0         0        1          0            1            1           0          2
+    3:30 PM      2          0        1          1         4     0         0        1         0        1          0            0            0           0          0
+    3:45 PM      1          1        3          3         8     0         0        0         0        0          0            1            0           0          1
+    4:00 PM      1          0        3          1         5     0         0        0         1        1          1            0            1           0          2
+    4:15 PM      0          0        1          0         1     0         0        0         0        0          0            0            1           0          1
+    4:30 PM      0          0        3          1         4     0         0        2         0        2          0            0            2           0          2
+    4:45 PM      0          0        2          2         4     0         0        0         0        0          1            0            1           0          2
+    5:00 PM      1          0        1          1         3     0         0        0         0        0          0            0            0           0          0
+    5:15 PM      0          0        2          1         3     0         0        0         0        0          0            1            1           0          2
+    5:30 PM      0          0        0          1         1     0         0        0         0        0          0            0            0           0          0
+    5:45 PM      0          0        1          1         2     0         0        1         1        2          1            0            0           0          1
+    6:00 PM      1          0        0          0         1     0         1        1         0        2          0            0            0           0          0
+    6:15 PM      0          1        4          1         6     0         0        0         0        0          0            0            0           0          0
+    6:30 PM      0          0        4          1         5     0         0        0         0        0          1            0            0           0          1
+    6:45 PM      0          0        0          1         1     0         0        0         0        0          0            1            1           0          2
+  Count Total    12         5        48         29       94     0         2        9         4        15         4            4         15             0       23
+  Peak Hour      1          0        5          5        11     0         0        0         0        0          1            1            2           0          4
+
+Mark Skaggs: (425) 250-0777                                                                                                         mark.skaggs@idaxdata.com
+                  ATTACHMENT 13
+
+
+
+
+Attachment B:   LOS Definitions
+
+
+
+
+                             10
+                                                                                                                    ATTACHMENT 13
+
+
+                                                    Highway Capacity Manual 2010
+
+Signalized intersection level of service (LOS) is defined in terms of a weighted average control delay for
+the entire intersection. Control delay quantifies the increase in travel time that a vehicle experiences due
+to the traffic signal control as well as provides a surrogate measure for driver discomfort and fuel
+consumption. Signalized intersection LOS is stated in terms of average control delay per vehicle (in
+seconds) during a specified time period (e.g., weekday PM peak hour). Control delay is a complex
+measure based on many variables, including signal phasing and coordination (i.e., progression of
+movements through the intersection and along the corridor), signal cycle length, and traffic volumes with
+respect to intersection capacity and resulting queues. Table 1 summarizes the LOS criteria for signalized
+intersections, as described in the Highway Capacity Manual 2010 (Transportation Research Board,
+2010).
+
+Table 1. Level of Service Criteria for Signalized Intersections
+                           Average Control Delay
+ Level of Service            (seconds/vehicle)                  General Description
+          A                           ≤10                       Free Flow
+          B                         >10 – 20                    Stable Flow (slight delays)
+          C                         >20 – 35                    Stable flow (acceptable delays)
+                                                                Approaching unstable flow (tolerable delay, occasionally wait through more
+          D                         >35 – 55
+                                                                than one signal cycle before proceeding)
+          E                         >55 – 80                    Unstable flow (intolerable delay)
+             1
+         F                            >80                       Forced flow (congested and queues fail to clear)
+Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+1. If the volume-to-capacity (v/c) ratio for a lane group exceeds 1.0 LOS F is assigned to the individual lane group. LOS for overall approach or
+      intersection is determined solely by the control delay.
+
+
+
+
+Unsignalized intersection LOS criteria can be further reduced into two intersection types: all-way stop
+and two-way stop control. All-way stop control intersection LOS is expressed in terms of the weighted
+average control delay of the overall intersection or by approach. Two-way stop-controlled intersection
+LOS is defined in terms of the average control delay for each minor-street movement (or shared
+movement) as well as major-street left-turns. This approach is because major-street through vehicles are
+assumed to experience zero delay, a weighted average of all movements results in very low overall
+average delay, and this calculated low delay could mask deficiencies of minor movements. Table 2 shows
+LOS criteria for unsignalized intersections.
+
+                 Table 2. Level of Service Criteria for Unsignalized Intersections
+                                   Level of Service                            Average Control Delay (seconds/vehicle)
+                                            A                                                        0 – 10
+                                            B                                                      >10 – 15
+                                            C                                                      >15 – 25
+                                            D                                                      >25 – 35
+                                            E                                                      >35 – 50
+                                            F1                                                        >50
+                 Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+                 1. If the volume-to-capacity (v/c) ratio exceeds 1.0, LOS F is assigned an individual lane group for all unsignalized
+                    intersections, or minor street approach at two-way stop-controlled intersections. Overall intersection LOS is
+                    determined solely by control delay.
+                   ATTACHMENT 13
+
+
+
+
+Attachment C:   LOS Worksheets
+
+
+
+
+                             11
+                                                                                            ATTACHMENT 13
+HCM 2010 TWSC                                                                               Rose Hill Preliminary Plat
+1: 132nd Avenue NE & NE 100th Street                                                            Existing Weekday AM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           3.1
+
+Movement                           EBL EBT EBR            WBL WBT WBR               NBL NBT NBR             SBL SBT SBR
+Traffic Vol, veh/h                   10    4   94           19   13    8              36 205    13            13 621    70
+Future Vol, veh/h                    10    4   94           19   13    8              36 205    13            13 621    70
+Conflicting Peds, #/hr               15    0    8            0    0    7               8    0    0             7    0   15
+Sign Control                       Stop Stop Stop         Stop Stop Stop            Free Free Free          Free Free Free
+RT Channelized                        -    - None            -    - None               -    - None             -    - None
+Storage Length                        -    -    -            -    -    -               -    -    -             -    - 200
+Veh in Median Storage, #              -    0    -            -    0    -               -    0    -             -    0    -
+Grade, %                              -    0    -            -    0    -               -    0    -             -    0    -
+Peak Hour Factor                     96   96   96           96   96   96              96   96   96            96   96   96
+Heavy Vehicles, %                     0    0    0            8    8    8               3    3    3             2    2    2
+Mvmt Flow                            10    4   98           20   14    8              38 214    14            14 647    73
+
+Major/Minor                      Minor2                  Minor1                    Major1                 Major2
+Conflicting Flow All              1002     998    670     1042 991 242                662   0     0          234     0     0
+       Stage 1                      689    689       -      302 302       -             -   -     -            -     -     -
+       Stage 2                      313    309       -      740 689       -             -   -     -            -     -     -
+Critical Hdwy                        7.1    6.5    6.2     7.18 6.58 6.28            4.13   -     -         4.12     -     -
+Critical Hdwy Stg 1                  6.1    5.5      -     6.18 5.58      -             -   -     -            -     -     -
+Critical Hdwy Stg 2                  6.1    5.5      -     6.18 5.58      -             -   -     -            -     -     -
+Follow-up Hdwy                       3.5      4    3.3    3.572 4.072 3.372         2.227   -     -        2.218     -     -
+Pot Cap-1 Maneuver                  223    246    460       202 240 782               922   -     -        1333      -     -
+       Stage 1                      439    450       -      695 654       -             -   -     -            -     -     -
+       Stage 2                      702    663       -      399 438       -             -   -     -            -     -     -
+Platoon blocked, %                                                                          -     -                  -     -
+Mov Cap-1 Maneuver                  194    225    450      146    220   766          915    -     -        1314      -     -
+Mov Cap-2 Maneuver                  194    225      -      146    220     -            -    -     -           -      -     -
+       Stage 1                      412    436      -      657    618     -            -    -     -           -      -     -
+       Stage 2                      637    627      -      301    424     -            -    -     -           -      -     -
+
+Approach                            EB                      WB                        NB                     SB
+HCM Control Delay, s                18                     27.7                       1.3                    0.1
+HCM LOS                              C                       D
+
+Minor Lane/Major Mvmt              NBL     NBT NBR EBLn1WBLn1 SBL       SBT SBR
+Capacity (veh/h)                    915      -    - 388 200 1314          -    -
+HCM Lane V/C Ratio                0.041      -    - 0.29 0.208 0.01       -    -
+HCM Control Delay (s)               9.1      0    -   18 27.7   7.8       0    -
+HCM Lane LOS                          A      A    -    C     D    A       A    -
+HCM 95th %tile Q(veh)               0.1      -    -  1.2   0.8    0       -    -
+
+
+
+
+Transpo Group                                                                                                Synchro 9 Report
+                                                                                             ATTACHMENT 13
+HCM 2010 TWSC                                                                                Rose Hill Preliminary Plat
+1: 132nd Avenue NE & NE 100th Street                                         Future (2019) Without-Project Weekday AM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           4.2
+
+Movement                          EBL EBT EBR            WBL WBT WBR               NBL NBT NBR               SBL SBT SBR
+Traffic Vol, veh/h                  10    4   94           36   14   17              36 218    20              16 659    70
+Future Vol, veh/h                   10    4   94           36   14   17              36 218    20              16 659    70
+Conflicting Peds, #/hr              15    0    8            0    0    7               8    0    0               7    0   15
+Sign Control                      Stop Stop Stop         Stop Stop Stop            Free Free Free            Free Free Free
+RT Channelized                       -    - None            -    - None               -    - None               -    - None
+Storage Length                       -    -    -            -    -    -               -    -    -               -    - 200
+Veh in Median Storage, #             -    0    -            -    0    -               -    0    -               -    0    -
+Grade, %                             -    0    -            -    0    -               -    0    -               -    0    -
+Peak Hour Factor                    96   96   96           96   96   96              96   96   96              96   96   96
+Heavy Vehicles, %                    0    0    0            8    8    8               3    3    3               2    2    2
+Mvmt Flow                           10    4   98           38   15   18              38 227    21              17 686    73
+
+Major/Minor                      Minor2                 Minor1                    Major1                   Major2
+Conflicting Flow All              1071 1065    709       1106 1055 260               701    0      0          255      0     0
+       Stage 1                      735 735       -        320 320       -             -    -      -            -      -     -
+       Stage 2                      336 330       -        786 735       -             -    -      -            -      -     -
+Critical Hdwy                        7.1 6.5    6.2       7.18 6.58 6.28            4.13    -      -         4.12      -     -
+Critical Hdwy Stg 1                  6.1 5.5      -       6.18 5.58      -             -    -      -            -      -     -
+Critical Hdwy Stg 2                  6.1 5.5      -       6.18 5.58      -             -    -      -            -      -     -
+Follow-up Hdwy                       3.5   4    3.3      3.572 4.072 3.372         2.227    -      -        2.218      -     -
+Pot Cap-1 Maneuver                  200 224    438         183 220 764               891    -      -        1310       -     -
+       Stage 1                      414 428       -        679 642       -             -    -      -            -      -     -
+       Stage 2                      682 649       -        377 417       -             -    -      -            -      -     -
+Platoon blocked, %                                                                          -      -                   -     -
+Mov Cap-1 Maneuver                 169   204   428        129    200   748          884     -      -         1291      -     -
+Mov Cap-2 Maneuver                 169   204     -        129    200     -            -     -      -            -      -     -
+       Stage 1                     388   412     -        641    606     -            -     -      -            -      -     -
+       Stage 2                     609   612     -        279    402     -            -     -      -            -      -     -
+
+Approach                           EB                      WB                        NB                       SB
+HCM Control Delay, s              19.4                    37.1                       1.2                      0.2
+HCM LOS                             C                        E
+
+Minor Lane/Major Mvmt             NBL    NBT NBR EBLn1WBLn1 SBL        SBT SBR
+Capacity (veh/h)                   884     -    - 362 180 1291           -    -
+HCM Lane V/C Ratio               0.042     -    - 0.311 0.388 0.013      -    -
+HCM Control Delay (s)              9.3     0    - 19.4 37.1     7.8      0    -
+HCM Lane LOS                         A     A    -     C     E     A      A    -
+HCM 95th %tile Q(veh)              0.1     -    -   1.3   1.7     0      -    -
+
+
+
+
+Transpo Group                                                                                                 Synchro 9 Report
+                                                                                         ATTACHMENT 13
+HCM 2010 TWSC                                                                            Rose Hill Preliminary Plat
+1: 132nd Avenue NE & NE 100th Street                                        Future (2019) With-Project Weekday AM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           5
+
+Movement                        EBL EBT EBR            WBL WBT WBR               NBL NBT NBR             SBL SBT SBR
+Traffic Vol, veh/h                10    4   94           45   15   23              36 218    24            18 659    70
+Future Vol, veh/h                 10    4   94           45   15   23              36 218    24            18 659    70
+Conflicting Peds, #/hr            15    0    8            0    0    7               8    0    0             7    0   15
+Sign Control                    Stop Stop Stop         Stop Stop Stop            Free Free Free          Free Free Free
+RT Channelized                     -    - None            -    - None               -    - None             -    - None
+Storage Length                     -    -    -            -    -    -               -    -    -             -    - 200
+Veh in Median Storage, #           -    0    -            -    0    -               -    0    -             -    0    -
+Grade, %                           -    0    -            -    0    -               -    0    -             -    0    -
+Peak Hour Factor                  96   96   96           96   96   96              96   96   96            96   96   96
+Heavy Vehicles, %                  0    0    0            8    8    8               3    3    3             2    2    2
+Mvmt Flow                         10    4   98           47   16   24              38 227    25            19 686    73
+
+Major/Minor                    Minor2                 Minor1                    Major1                 Major2
+Conflicting Flow All            1080 1073    709       1112 1061 262               701   0     0          259      0     0
+       Stage 1                    739 739       -        322 322       -             -   -     -            -      -     -
+       Stage 2                    341 334       -        790 739       -             -   -     -            -      -     -
+Critical Hdwy                      7.1 6.5    6.2       7.18 6.58 6.28            4.13   -     -         4.12      -     -
+Critical Hdwy Stg 1                6.1 5.5      -       6.18 5.58      -             -   -     -            -      -     -
+Critical Hdwy Stg 2                6.1 5.5      -       6.18 5.58      -             -   -     -            -      -     -
+Follow-up Hdwy                     3.5   4    3.3      3.572 4.072 3.372         2.227   -     -        2.218      -     -
+Pot Cap-1 Maneuver                197 222    438         181 218 762               891   -     -        1306       -     -
+       Stage 1                    412 427       -        677 640       -             -   -     -            -      -     -
+       Stage 2                    678 647       -        375 415       -             -   -     -            -      -     -
+Platoon blocked, %                                                                       -     -                   -     -
+Mov Cap-1 Maneuver               164   201   428        128    198   746          884    -     -         1287      -     -
+Mov Cap-2 Maneuver               164   201     -        128    198     -            -    -     -            -      -     -
+       Stage 1                   386   410     -        639    604     -            -    -     -            -      -     -
+       Stage 2                   599   611     -        277    398     -            -    -     -            -      -     -
+
+Approach                         EB                      WB                        NB                     SB
+HCM Control Delay, s            19.5                    41.9                       1.2                    0.2
+HCM LOS                           C                        E
+
+Minor Lane/Major Mvmt           NBL    NBT NBR EBLn1WBLn1 SBL        SBT SBR
+Capacity (veh/h)                 884     -    - 359 181 1287           -    -
+HCM Lane V/C Ratio             0.042     -    - 0.313 0.478 0.015      -    -
+HCM Control Delay (s)            9.3     0    - 19.5 41.9     7.8      0    -
+HCM Lane LOS                       A     A    -     C     E     A      A    -
+HCM 95th %tile Q(veh)            0.1     -    -   1.3   2.3     0      -    -
+
+
+
+
+Transpo Group                                                                                              Synchro 9 Report
+                                                                                          ATTACHMENT 13
+HCM 2010 TWSC                                                                             Rose Hill Preliminary Plat
+2: 138th Avenue NE & Site Access 1                                           Future (2019) With-Project Weekday AM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           3.1
+
+Movement                          WBL        WBR                 NBT NBR        SBL SBT
+Traffic Vol, veh/h                   0          8                  13    0         3    5
+Future Vol, veh/h                    0          8                  13    0         3    5
+Conflicting Peds, #/hr               0          0                   0    0         0    0
+Sign Control                      Stop       Stop                Free Free      Free Free
+RT Channelized                       -       None                   - None         - None
+Storage Length                       0          -                   -    -         -    -
+Veh in Median Storage, #             0          -                   0    -         -    0
+Grade, %                             0          -                   0    -         -    0
+Peak Hour Factor                    96         96                  96   96        96   96
+Heavy Vehicles, %                    2          2                   2    2         2    2
+Mvmt Flow                            0          8                  14    0         3    5
+
+Major/Minor                      Minor1                         Major1        Major2
+Conflicting Flow All                 25         14                   0   0        14     0
+       Stage 1                       14          -                   -   -         -     -
+       Stage 2                       11          -                   -   -         -     -
+Critical Hdwy                      6.42       6.22                   -   -      4.12     -
+Critical Hdwy Stg 1                5.42          -                   -   -         -     -
+Critical Hdwy Stg 2                5.42          -                   -   -         -     -
+Follow-up Hdwy                    3.518      3.318                   -   -     2.218     -
+Pot Cap-1 Maneuver                  991      1066                    -   -      1604     -
+       Stage 1                     1009          -                   -   -         -     -
+       Stage 2                     1012          -                   -   -         -     -
+Platoon blocked, %                                                   -   -               -
+Mov Cap-1 Maneuver                 989       1066                    -   -     1604      -
+Mov Cap-2 Maneuver                 989          -                    -   -        -      -
+       Stage 1                    1009          -                    -   -        -      -
+       Stage 2                    1010          -                    -   -        -      -
+
+Approach                           WB                              NB            SB
+HCM Control Delay, s               8.4                              0            2.7
+HCM LOS                              A
+
+Minor Lane/Major Mvmt              NBT NBRWBLn1 SBL       SBT
+Capacity (veh/h)                     -    - 1066 1604       -
+HCM Lane V/C Ratio                   -    - 0.008 0.002     -
+HCM Control Delay (s)                -    -   8.4   7.2     0
+HCM Lane LOS                         -    -     A     A     A
+HCM 95th %tile Q(veh)                -    -     0     0     -
+
+
+
+
+Transpo Group                                                                                               Synchro 9 Report
+                                                                                          ATTACHMENT 13
+HCM 2010 TWSC                                                                             Rose Hill Preliminary Plat
+3: 138th Avenue NE & Site Access 2                                           Future (2019) With-Project Weekday AM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           4.9
+
+Movement                          WBL        WBR                 NBT NBR        SBL SBT
+Traffic Vol, veh/h                   0          8                   5    0         3    2
+Future Vol, veh/h                    0          8                   5    0         3    2
+Conflicting Peds, #/hr               0          0                   0    0         0    0
+Sign Control                      Stop       Stop                Free Free      Free Free
+RT Channelized                       -       None                   - None         - None
+Storage Length                       0          -                   -    -         -    -
+Veh in Median Storage, #             0          -                   0    -         -    0
+Grade, %                             0          -                   0    -         -    0
+Peak Hour Factor                    96         96                  96   96        96   96
+Heavy Vehicles, %                    2          2                   2    2         2    2
+Mvmt Flow                            0          8                   5    0         3    2
+
+Major/Minor                      Minor1                         Major1        Major2
+Conflicting Flow All                 13          5                   0   0         5     0
+       Stage 1                        5          -                   -   -         -     -
+       Stage 2                        8          -                   -   -         -     -
+Critical Hdwy                      6.42       6.22                   -   -      4.12     -
+Critical Hdwy Stg 1                5.42          -                   -   -         -     -
+Critical Hdwy Stg 2                5.42          -                   -   -         -     -
+Follow-up Hdwy                    3.518      3.318                   -   -     2.218     -
+Pot Cap-1 Maneuver                1006       1078                    -   -      1616     -
+       Stage 1                     1018          -                   -   -         -     -
+       Stage 2                     1015          -                   -   -         -     -
+Platoon blocked, %                                                   -   -               -
+Mov Cap-1 Maneuver                1004       1078                    -   -     1616      -
+Mov Cap-2 Maneuver                1004          -                    -   -        -      -
+       Stage 1                    1018          -                    -   -        -      -
+       Stage 2                    1013          -                    -   -        -      -
+
+Approach                           WB                              NB            SB
+HCM Control Delay, s               8.4                              0            4.3
+HCM LOS                              A
+
+Minor Lane/Major Mvmt              NBT NBRWBLn1 SBL       SBT
+Capacity (veh/h)                     -    - 1078 1616       -
+HCM Lane V/C Ratio                   -    - 0.008 0.002     -
+HCM Control Delay (s)                -    -   8.4   7.2     0
+HCM Lane LOS                         -    -     A     A     A
+HCM 95th %tile Q(veh)                -    -     0     0     -
+
+
+
+
+Transpo Group                                                                                               Synchro 9 Report
+                                                                                            ATTACHMENT 13
+HCM 2010 TWSC                                                                               Rose Hill Preliminary Plat
+1: 132nd Avenue NE & NE 100th Street                                                            Existing Weekday PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           3.3
+
+Movement                          EBL EBT EBR             WBL WBT WBR               NBL NBT NBR             SBL SBT SBR
+Traffic Vol, veh/h                   8    0   51             9    3    8             235 858    40             4 250    17
+Future Vol, veh/h                    8    0   51             9    3    8             235 858    40             4 250    17
+Conflicting Peds, #/hr               0    0    0             0    0    0               0    0    0             0    0    0
+Sign Control                      Stop Stop Stop          Stop Stop Stop            Free Free Free          Free Free Free
+RT Channelized                       -    - None             -    - None               -    - None             -    - None
+Storage Length                       -    -    -             -    -    -               -    -    -             -    - 200
+Veh in Median Storage, #             -    0    -             -    0    -               -    0    -             -    0    -
+Grade, %                             -    0    -             -    0    -               -    0    -             -    0    -
+Peak Hour Factor                    95   95   95            95   95   95              95   95   95            95   95   95
+Heavy Vehicles, %                    2    2    2             5    5    5               1    1    1             2    2    2
+Mvmt Flow                            8    0   54             9    3    8             247 903    42             4 263    18
+
+Major/Minor                      Minor2                  Minor1                    Major1                 Major2
+Conflicting Flow All              1697 1712 263           1717 1691 924               263   0     0          945     0     0
+       Stage 1                      272 272       -       1419 1419       -             -   -     -            -     -     -
+       Stage 2                    1425 1440       -         298 272       -             -   -     -            -     -     -
+Critical Hdwy                      7.12 6.52 6.22          7.15 6.55 6.25            4.11   -     -         4.12     -     -
+Critical Hdwy Stg 1                6.12 5.52      -        6.15 5.55      -             -   -     -            -     -     -
+Critical Hdwy Stg 2                6.12 5.52      -        6.15 5.55      -             -   -     -            -     -     -
+Follow-up Hdwy                    3.518 4.018 3.318       3.545 4.045 3.345         2.209   -     -        2.218     -     -
+Pot Cap-1 Maneuver                   73    90 776            70    92 322           1307    -     -          726     -     -
+       Stage 1                      734 685       -         167 200       -             -   -     -            -     -     -
+       Stage 2                      168 198       -         704 679       -             -   -     -            -     -     -
+Platoon blocked, %                                                                          -     -                  -     -
+Mov Cap-1 Maneuver                  47     53   776         45     55   322         1307    -     -         726      -     -
+Mov Cap-2 Maneuver                  47     53     -         45     55     -            -    -     -           -      -     -
+       Stage 1                     439    680     -        100    120     -            -    -     -           -      -     -
+       Stage 2                      95    118     -        651    674     -            -    -     -           -      -     -
+
+Approach                            EB                      WB                        NB                     SB
+HCM Control Delay, s               24.1                    74.5                       1.7                    0.1
+HCM LOS                              C                        F
+
+Minor Lane/Major Mvmt              NBL    NBT NBR EBLn1WBLn1 SBL        SBT SBR
+Capacity (veh/h)                  1307      -    - 250      72 726        -    -
+HCM Lane V/C Ratio                0.189     -    - 0.248 0.292 0.006      -    -
+HCM Control Delay (s)               8.4     0    - 24.1 74.5      10      0    -
+HCM Lane LOS                          A     A    -     C     F     A      A    -
+HCM 95th %tile Q(veh)               0.7     -    -     1   1.1     0      -    -
+
+
+
+
+Transpo Group                                                                                                Synchro 9 Report
+                                                                                              ATTACHMENT 13
+HCM 2010 TWSC                                                                                 Rose Hill Preliminary Plat
+1: 132nd Avenue NE & NE 100th Street                                          Future (2019) Without-Project Weekday PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           7.5
+
+Movement                          EBL EBT EBR             WBL WBT WBR               NBL NBT NBR               SBL SBT SBR
+Traffic Vol, veh/h                   8    0   51            25    3   10             235 911    66               7 265    17
+Future Vol, veh/h                    8    0   51            25    3   10             235 911    66               7 265    17
+Conflicting Peds, #/hr               0    0    0             0    0    0               0    0    0               0    0    0
+Sign Control                      Stop Stop Stop          Stop Stop Stop            Free Free Free            Free Free Free
+RT Channelized                       -    - None             -    - None               -    - None               -    - None
+Storage Length                       -    -    -             -    -    -               -    -    -               -    - 200
+Veh in Median Storage, #             -    0    -             -    0    -               -    0    -               -    0    -
+Grade, %                             -    0    -             -    0    -               -    0    -               -    0    -
+Peak Hour Factor                    95   95   95            95   95   95              95   95   95              95   95   95
+Heavy Vehicles, %                    2    2    2             5    5    5               1    1    1               2    2    2
+Mvmt Flow                            8    0   54            26    3   11             247 959    69               7 279    18
+
+Major/Minor                      Minor2                  Minor1                    Major1                   Major2
+Conflicting Flow All              1789 1817 279           1809 1782 994               279    0      0        1028       0     0
+       Stage 1                      294 294       -       1488 1488       -             -    -      -            -      -     -
+       Stage 2                    1495 1523       -         321 294       -             -    -      -            -      -     -
+Critical Hdwy                      7.12 6.52 6.22          7.15 6.55 6.25            4.11    -      -         4.12      -     -
+Critical Hdwy Stg 1                6.12 5.52      -        6.15 5.55      -             -    -      -            -      -     -
+Critical Hdwy Stg 2                6.12 5.52      -        6.15 5.55      -             -    -      -            -      -     -
+Follow-up Hdwy                    3.518 4.018 3.318       3.545 4.045 3.345         2.209    -      -        2.218      -     -
+Pot Cap-1 Maneuver                   63    78 760            60    81 294           1289     -      -          676      -     -
+       Stage 1                      714 670       -         152 185       -             -    -      -            -      -     -
+       Stage 2                      153 180       -         684 664       -             -    -      -            -      -     -
+Platoon blocked, %                                                                           -      -                   -     -
+Mov Cap-1 Maneuver                  37     42   760         36     44   294         1289     -      -          676      -     -
+Mov Cap-2 Maneuver                  37     42     -         36     44     -            -     -      -            -      -     -
+       Stage 1                     389    662     -         83    101     -            -     -      -            -      -     -
+       Stage 2                      78     98     -        628    656     -            -     -      -            -      -     -
+
+Approach                            EB                      WB                        NB                       SB
+HCM Control Delay, s               29.5                   214.3                       1.6                      0.3
+HCM LOS                              D                        F
+
+Minor Lane/Major Mvmt              NBL    NBT NBR EBLn1WBLn1 SBL        SBT SBR
+Capacity (veh/h)                  1289      -    - 208      48 676        -    -
+HCM Lane V/C Ratio                0.192     -    - 0.299 0.833 0.011      -    -
+HCM Control Delay (s)               8.5     0    - 29.5 214.3 10.4        0    -
+HCM Lane LOS                          A     A    -     D     F     B      A    -
+HCM 95th %tile Q(veh)               0.7     -    -   1.2   3.4     0      -    -
+
+
+
+
+Transpo Group                                                                                                  Synchro 9 Report
+                                                                                                    ATTACHMENT 13
+HCM 2010 TWSC                                                                                      Rose Hill Preliminary Plat
+1: 132nd Avenue NE & NE 100th Street                                               Future (2019) With-Project Weekday PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh        12.9
+
+Movement                        EBL EBT EBR                WBL WBT WBR                  NBL NBT NBR                   SBL SBT SBR
+Traffic Vol, veh/h                 8    0   51               35    3   11                235 911    82                   9 265    17
+Future Vol, veh/h                  8    0   51               35    3   11                235 911    82                   9 265    17
+Conflicting Peds, #/hr             0    0    0                0    0    0                  0    0    0                   0    0    0
+Sign Control                    Stop Stop Stop             Stop Stop Stop               Free Free Free                Free Free Free
+RT Channelized                     -    - None                -    - None                  -    - None                   -    - None
+Storage Length                     -    -    -                -    -    -                  -    -    -                   -    - 200
+Veh in Median Storage, #           -    0    -                -    0    -                  -    0    -                   -    0    -
+Grade, %                           -    0    -                -    0    -                  -    0    -                   -    0    -
+Peak Hour Factor                  95   95   95               95   95   95                 95   95   95                  95   95   95
+Heavy Vehicles, %                  2    2    2                5    5    5                  1    1    1                   2    2    2
+Mvmt Flow                          8    0   54               37    3   12                247 959    86                   9 279    18
+
+Major/Minor                    Minor2                    Minor1                        Major1                      Major2
+Conflicting Flow All            1802 1838 279             1822 1795 1002                  279      0      0         1045          0     0
+       Stage 1                    298 298       -         1497 1497       -                 -      -      -             -         -     -
+       Stage 2                  1504 1540       -           325 298       -                 -      -      -             -         -     -
+Critical Hdwy                    7.12 6.52 6.22            7.15 6.55 6.25                4.11      -      -          4.12         -     -
+Critical Hdwy Stg 1              6.12 5.52      -          6.15 5.55      -                 -      -      -             -         -     -
+Critical Hdwy Stg 2              6.12 5.52      -          6.15 5.55      -                 -      -      -             -         -     -
+Follow-up Hdwy                  3.518 4.018 3.318         3.545 4.045 3.345             2.209      -      -         2.218         -     -
+Pot Cap-1 Maneuver                 62    76 760              59    79 290               1289       -      -           666         -     -
+       Stage 1                    711 667       -           150 183       -                 -      -      -             -         -     -
+       Stage 2                    151 177       -           681 662       -                 -      -      -             -         -     -
+Platoon blocked, %                                                                                 -      -                       -     -
+Mov Cap-1 Maneuver                35     40   760          ~ 34     41    290           1289       -      -               666     -     -
+Mov Cap-2 Maneuver                35     40     -          ~ 34     41      -              -       -      -                 -     -     -
+       Stage 1                   378    656     -            80     97      -              -       -      -                 -     -     -
+       Stage 2                    75     94     -           623    651      -              -       -      -                 -     -     -
+
+Approach                          EB                         WB                           NB                              SB
+HCM Control Delay, s             30.9                    $ 350.9                          1.6                             0.3
+HCM LOS                            D                           F
+
+Minor Lane/Major Mvmt            NBL    NBT NBR EBLn1WBLn1 SBL           SBT SBR
+Capacity (veh/h)                1289      -    - 200     43 666            -    -
+HCM Lane V/C Ratio              0.192     -    - 0.311   1.2 0.014         -    -
+HCM Control Delay (s)             8.5     0    - 30.9$ 350.9 10.5          0    -
+HCM Lane LOS                        A     A    -     D     F     B         A    -
+HCM 95th %tile Q(veh)             0.7     -    -   1.3     5     0         -    -
+Notes
+~: Volume exceeds capacity       $: Delay exceeds 300s    +: Computation Not Defined     *: All major volume in platoon
+
+
+
+Transpo Group                                                                                                             Synchro 9 Report
+                                                                                          ATTACHMENT 13
+HCM 2010 TWSC                                                                             Rose Hill Preliminary Plat
+2: 138th Avenue NE & Site Access 1                                           Future (2019) With-Project Weekday PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           2.8
+
+Movement                           WBL       WBR                 NBT NBR        SBL SBT
+Traffic Vol, veh/h                    0         5                   9    0         9   15
+Future Vol, veh/h                     0         5                   9    0         9   15
+Conflicting Peds, #/hr                0         0                   0    0         0    0
+Sign Control                       Stop      Stop                Free Free      Free Free
+RT Channelized                        -      None                   - None         - None
+Storage Length                        0         -                   -    -         -    -
+Veh in Median Storage, #              0         -                   0    -         -    0
+Grade, %                              0         -                   0    -         -    0
+Peak Hour Factor                     25        25                  25   25        25   25
+Heavy Vehicles, %                     0         0                   0    0         0    0
+Mvmt Flow                             0        20                  36    0        36   60
+
+Major/Minor                      Minor1                         Major1        Major2
+Conflicting Flow All                168        36                    0   0        36     0
+       Stage 1                       36         -                    -   -         -     -
+       Stage 2                      132         -                    -   -         -     -
+Critical Hdwy                        6.4      6.2                    -   -       4.1     -
+Critical Hdwy Stg 1                  5.4        -                    -   -         -     -
+Critical Hdwy Stg 2                  5.4        -                    -   -         -     -
+Follow-up Hdwy                       3.5      3.3                    -   -       2.2     -
+Pot Cap-1 Maneuver                  827      1042                    -   -     1588      -
+       Stage 1                      992         -                    -   -         -     -
+       Stage 2                      899         -                    -   -         -     -
+Platoon blocked, %                                                   -   -               -
+Mov Cap-1 Maneuver                  808      1042                    -   -     1588      -
+Mov Cap-2 Maneuver                  808         -                    -   -        -      -
+       Stage 1                      992         -                    -   -        -      -
+       Stage 2                      878         -                    -   -        -      -
+
+Approach                            WB                             NB            SB
+HCM Control Delay, s                8.5                             0            2.7
+HCM LOS                               A
+
+Minor Lane/Major Mvmt              NBT NBRWBLn1 SBL       SBT
+Capacity (veh/h)                     -    - 1042 1588       -
+HCM Lane V/C Ratio                   -    - 0.019 0.023     -
+HCM Control Delay (s)                -    -   8.5   7.3     0
+HCM Lane LOS                         -    -     A     A     A
+HCM 95th %tile Q(veh)                -    -   0.1   0.1     -
+
+
+
+
+Transpo Group                                                                                               Synchro 9 Report
+                                                                                          ATTACHMENT 13
+HCM 2010 TWSC                                                                             Rose Hill Preliminary Plat
+3: 138th Avenue NE & Site Access 2                                           Future (2019) With-Project Weekday PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           4.8
+
+Movement                           WBL       WBR                 NBT NBR        SBL SBT
+Traffic Vol, veh/h                    0         6                   3    0         9    6
+Future Vol, veh/h                     0         6                   3    0         9    6
+Conflicting Peds, #/hr                0         0                   0    0         0    0
+Sign Control                       Stop      Stop                Free Free      Free Free
+RT Channelized                        -      None                   - None         - None
+Storage Length                        0         -                   -    -         -    -
+Veh in Median Storage, #              0         -                   0    -         -    0
+Grade, %                              0         -                   0    -         -    0
+Peak Hour Factor                     95        95                  95   95        95   95
+Heavy Vehicles, %                     0         0                   0    0         0    0
+Mvmt Flow                             0         6                   3    0         9    6
+
+Major/Minor                      Minor1                         Major1        Major2
+Conflicting Flow All                 28         3                    0   0         3     0
+       Stage 1                         3        -                    -   -         -     -
+       Stage 2                       25         -                    -   -         -     -
+Critical Hdwy                        6.4      6.2                    -   -       4.1     -
+Critical Hdwy Stg 1                  5.4        -                    -   -         -     -
+Critical Hdwy Stg 2                  5.4        -                    -   -         -     -
+Follow-up Hdwy                       3.5      3.3                    -   -       2.2     -
+Pot Cap-1 Maneuver                  992      1087                    -   -     1632      -
+       Stage 1                    1025          -                    -   -         -     -
+       Stage 2                    1003          -                    -   -         -     -
+Platoon blocked, %                                                   -   -               -
+Mov Cap-1 Maneuver                 986       1087                    -   -     1632      -
+Mov Cap-2 Maneuver                 986          -                    -   -        -      -
+       Stage 1                    1025          -                    -   -        -      -
+       Stage 2                     997          -                    -   -        -      -
+
+Approach                            WB                             NB            SB
+HCM Control Delay, s                8.3                             0            4.3
+HCM LOS                               A
+
+Minor Lane/Major Mvmt              NBT NBRWBLn1 SBL       SBT
+Capacity (veh/h)                     -    - 1087 1632       -
+HCM Lane V/C Ratio                   -    - 0.006 0.006     -
+HCM Control Delay (s)                -    -   8.3   7.2     0
+HCM Lane LOS                         -    -     A     A     A
+HCM 95th %tile Q(veh)                -    -     0     0     -
+
+
+
+
+Transpo Group                                                                                               Synchro 9 Report
+                            ATTACHMENT 13
+
+
+
+
+Attachment D:   Signal Warrants (1 and 2)
+
+
+
+
+                                       10
+Warrants Summary                                                                                       Page 1 of 2
+                                                                                        ATTACHMENT 13
+
+                                              Warrants Summary
+Information
+                                                                                         132nd Ave NE/ NE 100th
+Analyst                       Matthew Thomas                Intersection
+                                                                                         St
+Agency/Co                     Transpo Group
+                                                            Jurisdiction                 Redmond
+Date Performed                3/14/2016
+                                                            Units                        U.S. Customary
+Project ID                    Rose Hill Preliminary Plat
+                                                            Time Period Analyzed         12-Hour Counts
+East/West Street              NE 100th Street
+                                                            North/South Street           132nd Avenue NE
+File Name                     Warrants 1 and 2
+                                                            Major Street                 North-South
+Project Description Rose Hill Preliminary Plat
+General                                                                     Roadway Network
+ Major Street Speed                      Population < 10,000                Two Major Routes
+                             35
+(mph)
+                                         Coordinated Signal System          Weekend Count
+ Nearest Signal (ft)        3600
+ Crashes (per year)          0           Adequate Trials of Alternatives    5-yr Growth Factor                 0
+                                        EB                    WB                   NB                  SB
+Geometry and Traffic
+                                   LT   TH       RT    LT     TH      RT    LT     TH      RT    LT    TH      RT
+Number of lanes, N                 0    1        0     0      1       0     0       1       0    0      1       1
+ Lane usage                             LTR                   LTR                  LTR                  LT      R
+ Vehicle Volume Averages
+                                   8     3       56    37      7      13    92     414     43    12    306     17
+(vph)
+ Peds (ped/h) / Gaps
+                                   --   0/0      --    --    0/0       --   --     0/0      --   --    0/0      --
+(gaps/h)
+ Delay (s/veh) / (veh-hr)          --   0/0      --    --    0/0       --   --     0/0      --   --    0/0      --
+Warrant 1: Eight-Hour Vehicular Volume
+1 A. Minimum Vehicular Volumes (Both major approaches --and-- higher minor approach) --or--
+1 B. Interruption of Continuous Traffic (Both major approaches --and-- higher minor approach) --or--
+1 (80%) Vehicular --and-- Interruption Volumes (Both major approaches --and-- higher minor approach)
+Warrant 2: Four-Hour Vehicular Volume
+2 A. Four-Hour Vehicular Volumes (Both major approaches --and-- higher minor approach)
+Warrant 3: Peak Hour
+3 A. Peak-Hour Conditions (Minor delay --and-- minor volume --and-- total volume ) --or--
+3 B. Peak- Hour Vehicular Volumes (Both major approaches --and-- higher minor approach)
+Warrant 4: Pedestrian Volume
+4 A. Four Hour Volumes --or--
+4 B. One-Hour Volumes
+Warrant 5: School Crossing
+5. Student Volumes --and--
+5. Gaps Same Period
+Warrant 6: Coordinated Signal System
+6. Degree of Platooning (Predominant direction or both directions)
+Warrant 7: Crash Experience
+7 A. Adequate trials of alternatives, observance and enforcement failed --and--
+7 B. Reported crashes susceptible to correction by signal (12-month period) --and--
+
+
+
+
+file:///C:/Users/mattt/AppData/Local/Temp/w2k2C15.tmp                                                       6/2/2016
+Warrants Summary                                                                                        Page 2 of 2
+                                                                                        ATTACHMENT 13
+
+ 7 C. (80%) Volumes for Warrants 1A, 1B --or-- 4 are satisfied
+ Warrant 8: Roadway Network
+ 8 A. Weekday Volume (Peak hour total --and-- projected warrants 1, 2 or 3) --or--
+ 8 B. Weekend Volume (Five hours total)
+ Warrant 9: Grade Crossing
+ 9 A. Grade Crossing within 140 ft --and--
+ 9 B. Peak-Hour Vehicular Volumes
+Copyright © 2014 University of Florida, All Rights Reserved   HCS 2010TM Version 6.60     Generated: 6/2/2016   1:06 PM
+
+
+
+
+file:///C:/Users/mattt/AppData/Local/Temp/w2k2C15.tmp                                                      6/2/2016
+Warrants Volume                                                                                                                         Page 1 of 1
+                                                                                                                  ATTACHMENT 13
+
+                                                                   Warrants Volume
+Information
+Analyst                                   Matthew Thomas                        Intersection                       132nd Ave NE/ NE 100th St
+Agency/Co                                 Transpo Group                         Jurisdiction                       Redmond
+Date Performed                            3/14/2016                             Units                              U.S. Customary
+Project ID                                Rose Hill Preliminary Plat            Time Period Analyzed               12-Hour Counts
+East/West Street                          NE 100th Street                       North/South Street                 132nd Avenue NE
+File Name                                 Warrant Update (6-2-2016)             Major Street                       North-South
+
+Project Description Rose Hill Preliminary Plat
+
+                                                                           Warrant 1
+
+
+
+
+                                  Warrant 2                                                                    Warrant 3
+
+
+
+
+                                                                       Volume Summary
+         Major Street Lanes 2+                      Minor Street Lanes 1            Speed               35           Population          10000+
+
+                    Major         Minor           Total         1A            1A           1B            1B          2           3A              3B
+   Hours
+                   Volume        Volume          Volume       (100%)        (80%)       (100%)         (80%)      (100%)       (100%)          (100%)
+   07-08             877          125             1084          No           Yes          No            Yes         No           No              No
+   08-09             966          129             1167          No           Yes          Yes           Yes         No           No              No
+   09-10             683          117              871          No            No          No             No         No           No              No
+   10-11             459           84              591          No            No          No             No         No           No              No
+   11-12             561           61              673          No            No          No             No         No           No              No
+   12-13             527           51              625          No            No          No             No         No           No              No
+   13-14             484           51              577          No            No          No             No         No           No              No
+   14-15             674           63              782          No            No          No             No         No           No              No
+   15-16            1010           78             1139          No            No          Yes           Yes         No           No              No
+   16-17            1567           40             1638          No            No          No             No         No           No              No
+   17-18            1530           59             1630          No            No          No             No         No           No              No
+   18-19            1301           45             1386          No            No          No             No         No           No              No
+   Totals          10639          903            12163           0             2           2              3          0            0               0
+Copyright © 2014 University of Florida, All Rights Reserved                         HCS 2010TM Version 6.60                Generated: 6/2/2016   11:53 AM
+
+
+
+
+file:///C:/Users/mattt/AppData/Local/Temp/w2k2BF5.tmp                                                                                       6/2/2016
+                      ATTACHMENT 13
+
+
+
+
+Attachment E:   Signal Warrants (3)
+
+
+
+
+                                 11
+Warrants Summary                                                                                         Page 1 of 2
+                                                                                        ATTACHMENT 13
+
+                                               Warrants Summary
+Information
+                                                                                          132nd Ave NE/ NE 100th
+Analyst                      Matthew Thomas                Intersection
+                                                                                          St
+Agency/Co                    Transpo Group
+                                                           Jurisdiction                   Redmond
+Date Performed               6/1/2016
+                                                           Units                          U.S. Customary
+Project ID                   Rose Hill Preliminary Plat
+                                                           Time Period Analyzed           Warrant 3 Analysis
+East/West Street             NE 100th Street
+                                                           North/South Street             132nd Avenue NE
+File Name                    Peak Hour Warrant
+                                                           Major Street                   North-South
+Project Description Rose Hill Preliminary Plat
+General                                                                    Roadway Network
+ Major Street Speed                      Population < 10,000               Two Major Routes
+                            35
+(mph)
+                                         Coordinated Signal System         Weekend Count
+ Nearest Signal (ft)       3600
+ Crashes (per year)         0            Adequate Trials of Alternatives   5-yr Growth Factor                    0
+                                       EB                    WB                   NB                    SB
+Geometry and Traffic
+                                  LT   TH        RT   LT     TH      RT    LT     TH        RT    LT    TH       RT
+ Number of lanes, N               0    1         0    0      1       0      0      1         0     0     1        1
+ Lane usage                            LTR                   LTR                  LTR                    LT       R
+ Vehicle Volume Averages
+                                  1     0        12   6        1      2    22      94        8    2      77       7
+(vph)
+ Peds (ped/h) / Gaps
+                                  --   0/0       --   --    0/0       --   --     0/0       --    --    0/0       --
+(gaps/h)
+                                       4.2 /                32.7 /                0.2 /
+Delay (s/veh) / (veh-hr)          --             --   --              --   --               --    --   0.0 / 0    --
+                                       0.1                   0.5                  0.0
+Warrant 1: Eight-Hour Vehicular Volume
+1 A. Minimum Vehicular Volumes (Both major approaches --and-- higher minor approach) --or--
+1 B. Interruption of Continuous Traffic (Both major approaches --and-- higher minor approach) --or--
+1 (80%) Vehicular --and-- Interruption Volumes (Both major approaches --and-- higher minor approach)
+Warrant 2: Four-Hour Vehicular Volume
+2 A. Four-Hour Vehicular Volumes (Both major approaches --and-- higher minor approach)
+Warrant 3: Peak Hour
+3 A. Peak-Hour Conditions (Minor delay --and-- minor volume --and-- total volume ) --or--
+3 B. Peak- Hour Vehicular Volumes (Both major approaches --and-- higher minor approach)
+Warrant 4: Pedestrian Volume
+4 A. Four Hour Volumes --or--
+4 B. One-Hour Volumes
+Warrant 5: School Crossing
+5. Student Volumes --and--
+5. Gaps Same Period
+Warrant 6: Coordinated Signal System
+6. Degree of Platooning (Predominant direction or both directions)
+Warrant 7: Crash Experience
+7 A. Adequate trials of alternatives, observance and enforcement failed --and--
+7 B. Reported crashes susceptible to correction by signal (12-month period) --and--
+
+
+
+
+file:///C:/Users/mattt/AppData/Local/Temp/w2kA7F1.tmp                                                         6/3/2016
+Warrants Summary                                                                                        Page 2 of 2
+                                                                                        ATTACHMENT 13
+
+ 7 C. (80%) Volumes for Warrants 1A, 1B --or-- 4 are satisfied
+ Warrant 8: Roadway Network
+ 8 A. Weekday Volume (Peak hour total --and-- projected warrants 1, 2 or 3) --or--
+ 8 B. Weekend Volume (Five hours total)
+ Warrant 9: Grade Crossing
+ 9 A. Grade Crossing within 140 ft --and--
+ 9 B. Peak-Hour Vehicular Volumes
+Copyright © 2014 University of Florida, All Rights Reserved   HCS 2010TM Version 6.60     Generated: 6/3/2016   9:28 AM
+
+
+
+
+file:///C:/Users/mattt/AppData/Local/Temp/w2kA7F1.tmp                                                      6/3/2016
+Warrants Volume                                                                                                                         Page 1 of 1
+                                                                                                                  ATTACHMENT 13
+
+                                                                       Warrants Volume
+Information
+Analyst                                   Matthew Thomas                        Intersection                       132nd Ave NE/ NE 100th St
+Agency/Co                                 Transpo Group                         Jurisdiction                       Redmond
+Date Performed                            6/1/2016                              Units                              U.S. Customary
+Project ID                                Rose Hill Preliminary Plat            Time Period Analyzed               Warrant 3 Analysis
+East/West Street                          NE 100th Street                       North/South Street                 132nd Avenue NE
+File Name                                 Peak Hour Warrant                     Major Street                       North-South
+
+Project Description Rose Hill Preliminary Plat
+
+                                                                           Warrant 1
+
+
+
+
+                                  Warrant 2                                                                    Warrant 3
+
+
+
+
+                                                                       Volume Summary
+         Major Street Lanes 2+                      Minor Street Lanes 1            Speed               35           Population          10000+
+
+                    Major         Minor           Total          1A           1A           1B            1B          2           3A              3B
+   Hours
+                   Volume        Volume          Volume        (100%)       (80%)       (100%)         (80%)      (100%)       (100%)          (100%)
+   07-08              0             0               0            No           No          No             No         No           No              No
+   08-09            1025          108             1216           No           No          Yes           Yes         No           No              No
+   09-10              0             0               0            No           No          No             No         No           No              No
+   10-11              0             3               3            No           No          No             No         No           No              No
+   11-12              0             0               0            No           No          No             No         No           No              No
+   12-13              0             0               0            No           No          No             No         No           No              No
+   13-14              0             0               0            No           No          No             No         No           No              No
+   14-15              0             0               0            No           No          No             No         No           No              No
+   15-16              0             0               0            No           No          No             No         No           No              No
+   16-17            1519           59             1627           No           No          No             No         No           No              No
+   17-18              0             0               0            No           No          No             No         No           No              No
+   18-19              0             0               0            No           No          No             No         No           No              No
+   Totals           2544          170             2846            0            0           1              1          0            0               0
+Copyright © 2014 University of Florida, All Rights Reserved                          HCS 2010TM Version 6.60               Generated: 6/3/2016    9:29 AM
+
+
+
+
+file:///C:/Users/mattt/AppData/Local/Temp/w2kA7B1.tmp                                                                                      6/3/2016
+
