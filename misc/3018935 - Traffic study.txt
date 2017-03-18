@@ -1,0 +1,2685 @@
+Draft Transportation Impact Analysis
+
+
+            970 DENNY WAY
+               RESIDENTIAL
+                                 DPD # 3018935
+
+
+
+
+                                    Prepared for:
+                                Holland Partners
+
+                                      April 2015
+
+
+
+
+                                    Prepared by:
+
+
+
+
+                         th
+                11730 118 Avenue NE, Suite 600
+                        Kirkland, WA 98034-7120
+                            Phone: 425-821-3665
+                               Fax: 425-825-8434
+                          www.transpogroup.com
+
+
+
+                                       14365.00
+
+
+
+
+                          © 2015 Transpo Group
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                                                        May 2015
+
+
+
+Introduction .............................................................................................................................. 1
+  Project Description .................................................................................................................. 1
+  Study Scope............................................................................................................................ 1
+Existing & Future Without-Project Conditions ..................................................................... 4
+ Street System ......................................................................................................................... 4
+ Traffic Volumes ....................................................................................................................... 5
+ Traffic Operations ................................................................................................................... 5
+ Traffic Safety ........................................................................................................................... 9
+ Non-Motorized Facilities ....................................................................................................... 10
+ Transit Service ...................................................................................................................... 10
+Project Impacts ...................................................................................................................... 11
+  Trip Generation ..................................................................................................................... 11
+  Trip Distribution & Assignment ............................................................................................. 13
+  Traffic Volume Impact ........................................................................................................... 13
+  Traffic Operations Impact ..................................................................................................... 14
+  Site Access Evaluation ......................................................................................................... 14
+  Transportation Concurrency ................................................................................................. 17
+  Parking Analysis ................................................................................................................... 17
+Mitigation and Recommendations ....................................................................................... 21
+ Transportation Mitigation Payment ....................................................................................... 21
+Findings and Conclusions .................................................................................................... 22
+
+                                                            Appendix
+Appendix A:         Traffic Counts
+Appendix B:         LOS Definitions
+Appendix C:         LOS Worksheets
+Appendix D:         Trip Generation Worksheets
+Appendix E:         Parking Demand Worksheets
+Appendix F:         Preliminary Traffic Impact Fee Calculation
+
+                                                              Figures
+Figure 1.           Site Vicinity & Study Intersections ....................................................................... 2
+Figure 2.           Preliminary Site Plan ........................................................................................... 3
+Figure 3.           Existing (2015) Weekday PM Peak Hour Traffic Volumes .................................. 7
+Figure 4.           Future (2018) Without-Project Weekday PM Peak Hour Traffic Volumes .......... 8
+Figure 5.           Project Trip Distribution & Assignment .............................................................. 15
+Figure 6.           Future (2018) With-Project Weekday PM Peak Hour Traffic Volumes ............. 16
+
+
+
+
+                                                                                                                                            i
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                                     May 2015
+
+
+
+                                                     Tables
+Table 1.        Study Area Existing Street System Summary ..................................................... 4
+Table 2.        Existing & Future Weekday PM Peak Hour Intersection LOS Summary ............ 6
+Table 3.        Three-Year Collision Summary – 2012 to 2014 .................................................. 9
+Table 4.        Existing Weekday Transit Service ..................................................................... 10
+Table 5.        Estimated Weekday Vehicle Trip Generation ................................................... 12
+Table 6.        Traffic Volume Impacts at Study Intersections .................................................. 13
+Table 7.        Future Weekday PM Peak Hour Intersection LOS Summary ........................... 14
+Table 8.        Transportation Concurrency Analysis ............................................................... 17
+Table 9.        Estimated Peak Parking Demand – US Census Data ...................................... 18
+Table 10.       Estimated Peak Parking Demand Based on ITE .............................................. 19
+
+
+
+
+                                                                                                                        ii
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                May 2015
+
+
+
+                                       Introduction
+This transportation impact analysis (TIA) identifies potential transportation-related impacts
+associated with the development of a residential apartment building located at 970 Denny
+Way in the South Lake Union neighborhood of Seattle. As necessary, mitigation measures
+are identified that would offset or reduce significant transportation related impacts that the
+project may have on the surrounding transportation system. This report also contains an
+independent transportation impact fee calculation, consistent with methodologies for
+developments in the South Lake Union area as outlined in the Department of Planning and
+Development (DPD) Client Assistance Memo 243.
+
+
+Project Description
+The proposed project is located on the north side of Denny Way, between Westlake Avenue
+N and Terry Avenue N, in Seattle’s South Lake Union neighborhood as shown on Figure 1.
+The proposed project would develop up to 468 residential apartment units and 15,250 square
+feet of retail.
+
+The proposed project would provide a total of approximately 366 parking spaces within two
+underground parking garages. Access to the parking garages would be provided via the
+existing alley between Westlake Avenue N and Terry Avenue N. Figure 2 illustrates the
+preliminary site plan. It is anticipated that the development would be constructed and
+occupied by 2018.
+
+The existing buildings and associated parking on the site would be removed as part of the
+projects. The existing use consists of approximately 28,500 square-feet of general office and
+26,500 square-feet of furniture store with 31 associated parking stalls.
+
+
+Study Scope
+The scope of this analysis was coordinated with City of Seattle Department of Planning and
+Development (DPD) staff and is consistent with previous traffic studies conducted in the
+South Lake Union area. Based on the anticipated vehicular impacts of the proposed projects,
+the following intersections were selected for analysis:
+     1. Westlake Avenue N/John Street
+     2. Terry Avenue N/John Street
+     3. Westlake Avenue N/Denny Way
+     4. Terry Avenue N/Denny Way
+
+Additionally, the alley access locations on Denny Way and John Street were analyzed under
+future (2018) with-project conditions. The study focuses on the weekday PM peak hour when
+transportation impacts are anticipated to be highest. The report first describes existing and
+future (2018) without-project conditions in the vicinity of the project site. This includes the
+street system, existing and future without-project weekday PM peak hour traffic volumes,
+traffic operations, traffic safety, non-motorized facilities, and transit service. Future (2018)
+with-project conditions are then described. The project’s impacts on the surrounding
+transportation system were identified by comparing the future with-project conditions to the
+future without-project conditions.
+
+
+
+
+                                                                                                 1
+                                                                                                                           NOT TO SCALE
+                          RETAIL
+                          PARKING
+
+
+
+
+                            PARKING
+
+
+
+
+Preliminary Site Plan                                                                                                              FIGURE
+970 Denny Way
+                                                                                                                                          2
+Q:\Projects\14\14365.00 - 970 Denny Residential\Graphics\Graphics_14365 (2) <Figure 2 Site Plan> jessical 05/01/15 13:21
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                                    May 2015
+
+
+
+        Existing & Future Without-Project Conditions
+This section describes existing (2015) and future (2018) without-project conditions within the
+study area. Study area characteristics are provided for the street system, planned
+improvements, existing and future forecasted without-project traffic volumes, traffic
+operations, traffic safety, non-motorized facilities, and transit service.
+
+Street System
+The following describes the existing street network within the vicinity of the proposed project
+and anticipated changes resulting from planned improvements.
+Existing
+Characteristics of the existing street system in the proposed project vicinity are shown in
+Table 1. As shown on Figure 1 and in Table 1, the site is in the immediate vicinity of two four-
+lane principal arterials (Denny Way and Westlake Avenue N).
+
+Table 1.          Study Area Existing Street System Summary
+                                     Arterial               Posted     Number of                            Bicycle
+Roadway                           Classification          Speed Limit Travel Lanes   Parking   Sidewalks   Facilities
+Westlake Avenue N                Principal Arterial         30 mph         4          Yes1       Yes          No
+Terry Avenue N                    Access Street             25 mph         2          Yes        Yes          No
+Denny Way                        Principal Arterial         30 mph         4           No        Yes          No
+John Street                       Access Street             25 mph         2          Yes        Yes          No
+1.   Parking is allowed on the west side of the street.
+
+Future
+This section identifies specific transportation improvements that will affect the future South
+Lake Union transportation system.
+
+Based on a review of the City of Seattle 2014 – 2019 Adopted Capital Improvement Program
+(CIP) and WSDOT improvements, two street system transportation projects were identified
+and are anticipated to be completed by 2018. These transportation projects may affect
+vehicle travel patterns in South Lake Union. Details related to these two roadway projects in
+the study area are described below.
+Mercer Corridor Project – Mercer West construction began in April 2013 and is anticipated
+to be completed by 2015. The project will extend the Mercer East improvements by
+constructing three continuous westbound through lanes from Dexter Avenue N to Elliot
+Avenue W to make Mercer Street a two-way street from I-5 to Elliot Avenue W. Roy Street
+will also be converted into a two-way street. This project will provide east-west connectivity
+through the South Lake Union, Westlake, and Lower Queen Anne neighborhoods. It will also
+provide vehicular access to the north portal of the SR 99 Tunnel. Peak hour traffic patterns in
+the South Lake Union neighborhood between I-5 and Downtown will change significantly with
+completion of the Mercer Corridor Project.
+Alaskan Way Viaduct Replacement Program is currently under construction and due to
+delays WSDOT is reevaluating the schedule. This evaluation assumes the Viaduct would be
+completed by 2018, the analysis horizon year. The project will provide a two-mile long tunnel
+and connect S Royal Brougham Way in South Downtown to Mercer Street near the proposed
+development project. The tunnel will replace the existing Alaskan Way Viaduct and Broad
+Street tunnel and will connect to the existing SR 99 roadway on the north and south ends.
+South of the site, the North Portal of SR 99 will be constructed, providing access to and from
+SR 99 via Republican Street and Mercer Street/6th Avenue N.
+
+
+
+                                                                                                                        4
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                 May 2015
+
+
+
+Traffic Volumes
+The following summarize the traffic volumes for existing and future without-project conditions.
+Existing
+Traffic counts were collected at each study intersection in April 2015. Figure 3 illustrates the
+existing weekday PM peak hour traffic volumes at the study intersections, rounded to the
+nearest 5 vehicles. Detail traffic counts are provided in Appendix A.
+Future
+Future (2018) without-project traffic volumes were forecasted by applying an average annual
+growth rate to existing traffic volumes as well as traffic from previously approved “pipeline”
+development projects that would increase background traffic at study intersections. An annual
+growth rate of 1 percent per year was applied to the existing PM peak hour traffic volumes at
+each study intersection. This growth rate was is consistent with previously approved traffic
+studies. Traffic from the following pipeline projects in the project vicinity were also included in
+the future without-project volume forecasts:
+
+      •   234 9th Avenue N: Mixed-use development including approximately 1 apartment
+          unit, up to 149,380 square feet office space and up to 15,560 square feet of ground
+          floor retail.
+      •   2101 9th Avenue: Mixed-use development including approximately 430 residential
+          units and approximately 8,300 of retail space.
+      •   2200 7th Avenue: Development of up to 835,200 square feet of office space and
+          30,000 square-feet of retail/restaurant space.
+      •
+                                 1
+          110 9th Avenue N : Development of 470 residential units and up to 7,000 square
+          feet of retail space.
+      •   111 Westlake Ave N: Development of approximately 400,000 square feet of office
+          space and up to 28,000 square feet retail space.
+      •   2202 8th Avenue: Office building including approximately 400,000 square feet of
+          office space and up to 28,000 square feet of retail.
+      •   1120 Denny Way: Development of 1,067 residential units and approximately 28,000
+          square feet of retail space.
+      •   756 John Street: 74 low income residential units and approximately 8,000 square
+          feet of retail space.
+
+Future (2018) without-project weekday PM peak hour traffic volumes reflecting the
+background growth and traffic from the pipeline projects are shown on Figure 4.
+
+
+Traffic Operations
+The operational characteristics of an intersection are determined by calculating the
+intersection level of service (LOS). For signalized locations, LOS is measured in average
+delay per vehicle and is reported for the intersections as a whole. At side-street stop-
+controlled intersections LOS is measured in average delay per vehicle during the peak hour
+of traffic and is reported for the worst operating approach of the intersection. Traffic
+operations for an intersection can be described alphabetically with a range of levels of service
+(LOS A through F), with LOS A indicating free-flowing traffic and LOS F indicating extreme
+
+1
+    110 9th Avenue N and 111 Westlake Avenue N were evaluated as one project ‘Block 48’
+
+
+                                                                                                   5
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                                          May 2015
+
+
+congestion and long vehicle delays. Appendix B contains a detailed explanation of LOS
+criteria and definitions.
+
+Weekday PM peak hour traffic operations for existing and future without-project conditions
+were evaluated at the study intersections based on the procedures identified in the Highway
+Capacity Manual (HCM) (2010), and were evaluated using the Synchro 9 software program.
+Pedestrian and bicycle volumes were taken into account when evaluating the operations of
+the intersections. Under future 2018 conditions, signal timing maximum splits were optimized.
+
+The City of Seattle’s Comprehensive Plan does not define a LOS standard for individual
+intersections; however, the City generally recognizes LOS E and F as poor operations for
+signalized locations and LOS F for unsignalized locations. Intersection operations for existing
+and future (2018) without-project weekday PM peak hour conditions are summarized in Table
+2. Trip generation is documented in the subsequent Project Impact section of this study.
+Detailed LOS worksheets for each intersection analyzed are included in Appendix C.
+
+Table 2.        Existing & Future Weekday PM Peak Hour Intersection LOS Summary
+                                                                    2015 Existing                  2018 Without-Project
+Intersection                                 Traffic Control     LOS1   Delay2    WM3            LOS       Delay       WM
+                                                                               5                              5
+1. Westlake Avenue N/John Street             Two-Way Stop          F          -      EB/WB         F         -       EB/WB
+2. Terry Avenue N/John Street                 Uncontrolled4        A          8        NB          A         8         NB
+3. Westlake Avenue N/Denny Way                  Signalized         C          21         -         C         31          -
+4. Terry Avenue N/Denny Way                  Two-Way Stop          F         173       NB          F       >180        NB
+1.   Level of Service (A – F) as defined by the 2010 Highway Capacity Manual (HCM), Transportation Research Board.
+2.   Average delay per vehicle in seconds.
+3.   Worst movement reported for unsignalized intersections.
+4.   Intersection operates with no traffic control, for analysis purposes the intersection was treated as an all-way stop.
+5.   The eastbound and westbound movements are the worst movements and experience large delays, which were not calculable
+     using the HCM method due to the volume of pedestrians. The delay calculations take into consideration the number of
+     pedestrians as a conflicting movement for vehicle movements.
+
+
+As shown in Table 2, the Terry Avenue N/John Street and Westlake Avenue/Denny Way
+study intersections currently operate at LOS C or better during the weekday PM peak hour.
+Field observations indicate the Denny Way and Westlake Avenue N corridors are congested
+and traffic counts likely do not reflect actual demands at the Denny Way/Westlake Avenue N
+intersection. Operations experienced by drivers may be worse than reported; however, the
+analysis does provide an understanding of the relative impacts of growth in the area.
+
+The unsignalized intersection of Terry Avenue N/Denny Way and Westlake Avenue N/John
+Street operate at LOS F. LOS F operations at the Westlake Avenue N/ John Street
+intersection are due to the concentration of pedestrians conflicting with vehicular traffic. The
+Terry Avenue N/Denny Way LOS F intersection operations are related to the high volume
+along Denny Way resulting in minimal gaps in traffic for Terry Avenue N traffic to entering the
+traffic stream. Traffic volumes along Terry Avenue N are relatively low with approximately 45
+vehicles per hour northbound and 20 vehicles per hour southbound during the weekday PM
+peak hour, perhaps reflecting some current level of diversion away from this location.
+
+In 2018, with the anticipated growth in traffic, the intersections are anticipated to experience
+increases in delay over current levels but would continue to operate at the same LOS as
+under existing conditions. Level of service F conditions are not unusual when a stop-
+controlled approach intersects with a busy main street. In urban area, this is compounded by
+pedestrian traffic.
+
+
+
+
+                                                                                                                             6
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                            May 2015
+
+
+
+Traffic Safety
+Recent collision records were reviewed within the study area to identify existing traffic safety
+issues at the study intersections. The most recent three year summary of accident data from
+the Seattle Department of Transportation (SDOT) is for the period between January 1, 2012
+and December 31, 2014. In addition to the study intersections, collision data along
+Republican Street, Minor Avenue N, and Harrison Street in the study area were analyzed to
+evaluate the vehicle, pedestrian and bicycle safety. This information is summarized in Table
+3.
+
+Table 3. Three-Year Collision Summary – 2012 to 2014
+                                                                      Number of Collisions
+                                                                                                     Annual
+Location                                            Traffic Control   2012   2013   2014     Total   Average
+Intersection
+1. Westlake Avenue N/John Street                     Unsignalized       0      1      1       2        0.67
+2. Terry Avenue N/John Street                        Unsignalized       0      0      0       0        0.00
+3. Westlake Avenue N/Denny Way                        Signalized        4      2      3       9        3.00
+4. Terry Avenue N/Denny Way                          Unsignalized       4      2      2       8        2.67
+Roadway Segments
+John Street (Westlake Avenue N to Terry Avenue N)                       0      0      0       0        0.00
+Terry Avenue N (John Street to Denny Way)                               0      0      1      0.33      0.00
+Denny Way (Westlake Avenue N to Terry Avenue N)                         7      4      8       19       6.33
+Westlake Avenue N (John Street to Denny Way)                            1      1      2       4        1.33
+Source: City of Seattle and Transpo Group, 2015
+
+
+The City of Seattle has adopted criteria for assigning high accident location status to
+signalized intersections with ten or more reported collisions per year and unsignalized
+intersections with five or more reported collisions per year. As shown in Table 3, within the
+analysis period, all unsignalized locations had less than 5 collisions per year and all
+signalized locations had less than 10 collisions per year. No safety issues are identified at the
+study intersections.
+
+In addition, SDOT annually reviews the previous year’s collisions within the City and creates
+of list of “high collision locations” (HCL) that are monitored or reviewed in the next year. The
+review screens the previous year (in this case 2013) collision for signalized intersections with
+10 or more collisions in a year, unsignalized intersections with 5 or more collisions, and
+locations with 5 or more pedestrian or bike collisions. Within the study area, SDOT has not
+identified any HCLs, which is consistent with the collision history review presented.
+
+A review of the roadway segments indicates less than 2 collisions per year along the adjacent
+corridors with the exception of Denny Way between Westlake and Terry Avenue, which
+experienced an average of approximately 6 collisions per year. Approximately 63 percent of
+these collisions included rear-end type collisions and approximately 73 percent resulted in
+property damage only. Rear-end collisions are common along facilities where there are
+frequent stop-and-go conditions such as found along Denny Way. Further review of the
+collision data indicates no reported fatalities in the study area, 1 bicycle-related collision, and
+no pedestrian-related collision. The bicycle-related collision occurred during the day with wet
+road conditions.
+
+
+
+
+                                                                                                              9
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                            May 2015
+
+
+
+Non-Motorized Facilities
+The following describes the existing and future non-motorized facilities within the study area.
+Existing
+Sidewalks are provided on all streets in the study area except Terry Avenue. A marked
+crosswalk exists at the Westlake Ave N/Denny Way intersection. No crosswalks are provided
+at other crossings in the study area.
+Future
+In the immediate vicinity of the site, according to the Adopted Seattle Bicycle Master Plan,
+April 2014, a protected cycle track is recommended along 9th Avenue N as part of the City
+wide network.
+
+Outside the immediate vicinity of the project site in the greater South Lake Union area, the
+Mercer Corridor projects would provide pedestrian and bicycle paths on both sides of Mercer
+and Valley Streets. The Cheshiahud Lake Union Trail Project will construct a cycle track
+along Westlake Avenue N.
+
+
+Transit Service
+The following sections describe existing and future transit service within the study area.
+Existing
+Bus transit service in the study area is provided by King County Metro Transit and the City of
+Seattle Streetcar. The nearest bus stops are located along Denny Way near Westlake
+Avenue and along Westlake Avenue south of Denny Way, approximately 250-feet south (or a
+1- to 2-minute walk) from the project site. Additional bus stops are also located approximately
+700-800 feet to the northwest and east at John St/9th and Fairview Ave N/Denny Way,
+respectively. The existing project area is served by 7 transit routes that provide service
+throughout the Seattle metro area. The service areas, operating hours, and weekday PM
+peak hour trips and headways are summarized in Table 4.
+
+Table 4. Existing Weekday Transit Service
+                                                                            PM Peak Vehicle Trips     PM Peak
+                                                          Approximate    Northbound or Southbound or Headways
+ Routes                   Area Served                    Operating Hours  Eastbound     Westbound      (min)
+    8      Seattle Center/Rainier Beach                 4:45 am – 1:30 am     8             8          15
+    40     Downtown Seattle/Northgate                   5:30 am – 1:15 am     11            7         10-15
+    70     Downtown Seattle/University District         6:00 am – 8:00 pm     11           10          15
+    71     Downtown Seattle/Wedgewood1                  5:00 am – 1:35 am     4             4          30
+    72     Downtown Seattle/ Lake City1                 5:00 am – 2:00 am     4             3         30-35
+    73     Downtown Seattle/Jackson Park1               4:45 am – 1:45 am     4             4          30
+           SLU Streetcar – SLU/
+    98                                                 6:00 am – 11:00 pm     12           12          10
+           Downtown Seattle
+Source: King County Metro Transit, Transpo Group (April 2015)
+1. Express service
+
+
+As shown in the table, service during the weekday PM peak hour is relatively frequent with
+the streetcar and several bus routes operating with headways of 15-minutes or less. In
+addition, the site is well connected to downtown by both bus service and streetcar.
+Future
+There are no transit service changes in the site vicinity based on available plans.
+
+
+                                                                                                              10
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                  May 2015
+
+
+
+                                       Project Impacts
+This section of the analysis documents the proposed project’s impacts on the surrounding
+street system and at study intersections. First, estimated traffic generated by the proposed
+project are distributed and assigned to adjacent roadways and intersections within the study
+area for the weekday PM peak hour. Next, project trips are added to future without-project
+traffic volumes and the potential impacts to traffic operations, safety, transit, and non-
+motorized facilities are identified.
+
+
+Trip Generation
+The number of new trips generated by the proposed project was estimated by calculating the
+trip generation of each of the proposed uses on-site. The net new trips generated takes into
+account the current trips on the network, which are being generated by the existing uses on-
+site.
+
+Project trip generation was estimated based on calculating person trips and then estimating
+the proportion of the person trips that would be vehicle trips. Most Institute of Transportation
+Engineers (ITE) trip generation rates are for suburban locations and over-predict the number
+of vehicle trips in an urban environment, which typically has a larger portion of trips served by
+alternative modes such as walking, biking, and transit given the mix of development and level
+of transit service.
+
+The trip generation estimate used in this study considers the use of alternative modes of
+travel. The number of overall vehicle trips generated was determined by calculating person
+trips for weekday daily and AM and PM peak hour conditions and then separating the person
+trips by mode of travel (i.e., auto, transit, and walk/bike/other). The flow chart below illustrates
+the trip generation process.
+
+
+
+
+                                                                                                  11
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                                              May 2015
+
+
+Total person trips were developed for the existing and proposed uses based on trip rates
+from the Trip Generation Manual, 9th Edition. Average vehicle occupancy (AVO) was
+estimated from the Trip Generation Manual for the existing general office (#710), furniture
+store (#890), and the National Cooperative Highway Research Program (NCHRP) Report
+365 Travel Estimating Techniques for Urban Planning for the proposed residential
+apartments.
+
+Residential person trips using each transportation mode were determined by multiplying the
+total person trips by the estimated mode splits from the US Census 2009-2013 American
+Community Survey 5-year Estimates Commuting Characteristics. 2 The survey shows a 35
+percent auto mode split for census tract 73 where the project is located. After applying the
+auto mode split, residential person trips were then converted back to vehicle trips by
+                            3
+assuming an AVO of 1.16.
+
+The Commute Seattle’s 2014 Center City Commuter Mode Split report summarizes Commute
+Trip Reduction (CTR) data by Seattle neighborhood. The data shows, for the South Lake
+Union neighborhood, 58 percent of employee trips were made by auto (45 percent single
+occupancy vehicles and 13 percent carpool/vanpool), 27 percent by transit, and 15 percent
+walking, biking, or other modes. After applying the auto mode split, office person trips were
+                                                                                      4
+then converted back to vehicle trips by using average vehicle occupancies of 1.12.
+
+Portions of the residential apartments in South Lake Union are being leased to nearby
+employers to accommodate short and long-term employee travel, which typically results in
+employee trips by walking or other non-SOV means. In the case that some or all of the
+proposed residential units are leased to nearby employers to accommodate their employee
+recruiting and housing needs, the proposed project trip generation estimates could be
+significantly higher than what actually occurs. Appendix D provides the detailed trip
+generation calculation. Table 5 summarizes the estimated weekday daily and AM and PM
+peak hour trip generation for the proposed and existing land uses.
+
+Table 5. Estimated Weekday Vehicle Trip Generation
+                                                                       AM Peak-Hour Trips                 PM Peak-Hour Trips
+                                                          Daily
+Land Use                                       Size       Trips1       In        Out       Total          In     Out     Total
+Proposed
+Residential                                   468 du       990         15         62         77           59     32       91
+Retail                                       15,250 sf     300          5         2          7            12     14       26
+Total                                                     1,290        20         64         84           71     46      117
+Existing
+Office                                       28,503 sf     185         23         3          26            4     20       24
+Furniture Store                              26,497 sf      65          3         1          4             5      7       12
+Total Net New                                             1,040        -6         60         54           62     19       81
+Notes: du = dwelling units, sf = square-feet
+1. Vehicle trips were estimated based on person trip calculations and localized mode split information.
+
+
+As shown in Table 5, the proposed project is anticipated to generate approximately 1,040 net
+new daily vehicle trips with 54 net new vehicle trips during the AM peak hour and 81 net new
+vehicle trips during the PM peak hour.
+
+
+2
+    Based on data for Census Tract 73 where the proposed project is located.
+3
+ Average vehicle occupancy rate (AVO) based on 2009-2013 American Community Survey 5-year estimates for
+Census Tract 73.
+4
+    Based on 2014 CTR Data for the South Lake Union Neighborhood.
+
+
+
+                                                                                                                               12
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                     May 2015
+
+
+
+Trip Distribution & Assignment
+Travel patterns for vehicular traffic to and from the proposed site were based on guidance
+from the Director’s Rule 5-2009, OnTheMap, as well as a review of existing travel patterns,
+planned improvements, and previous studies conducted in the area.
+
+OnTheMap is a web-based mapping and reporting application, which shows where workers
+are employed and where they live based on census data. The OnTheMap census data were
+translated to the number of people that live within a quarter-mile radius of the proposed
+project and where they work. The zip codes where people work were evaluated to determine
+if a person would be more likely to travel to the zip code via vehicle or by other means. Trips
+to zip codes closer to the proposed project site or in more transit oriented locations are more
+likely to use transit, walk, bike, or other non-SOV modes. Zip codes outside the Seattle City
+limits and/or further from the site are more likely to drive.
+
+Figure 5 illustrates the expected project vehicle trip distribution for the proposed project, to
+the surrounding local and regional street system. The weekday PM peak hour trips were
+assigned to the study area based on the travel patterns shown on Figure 5 and the location of
+the site access. The project would provide access via the alley way between Westlake
+Avenue N and Terry Avenue N. The distribution and assignment considers the primary travel
+routes within the gridded street system where project impacts would be greatest. It is
+recognized that drivers may take alternative routes; however, it is anticipated that impacts
+along these facilities would be less than disclosed in this analysis.
+
+The project traffic was added to future without-project weekday PM peak hour traffic volumes
+to form the basis of the with-project analysis. The resulting 2018 with-project traffic volumes
+are shown on Figure 6.
+
+Traffic Volume Impact
+Table 6 summarizes the project traffic volume impact at the study intersections during the
+weekday PM peak hour for the project site.
+
+Table 6.       Traffic Volume Impacts at Study Intersections
+                                          Weekday PM Peak Hour Total Entering Vehicles
+                                            2018             New              2018          Percent
+Intersection                           Without- Project1 Project Trips    With-Project   Project Share
+1. Westlake Avenue N/John Street            1,495             32             1,527           1.9%
+2. Terry Avenue N/John Street                295              7               302            3.3%
+3. Westlake Avenue N/Denny Way              3,050             13             3,063           0.4%
+4. Terry Avenue N/Denny Way                 2,360             51             2,411           2.1%
+A. John Street Site Access                   175              39              214           18.2%
+B. Denny Way Site Access                    2,255             53             2,308           2.3%
+
+
+As shown in the table, the percent traffic volume impacts are relatively low even in the site
+vicinity and range from approximately 1 to 3 percent at the study intersections. Overall the
+project volume impacts identified at the study intersections are within the range of daily
+fluctuations in traffic, which can be up to 5 percent. The project would have the greatest
+impact at the alley access on John Street representing approximately 18 percent of the PM
+peak hour traffic volumes. Project related impacts at the site access location on Denny is
+anticipated to be approximately 2 percent but could be less than assigned depending on
+Denny Way traffic and vehicle platooning on Denny Way. Weekday PM peak hour project
+impacts at the Denny Way alley access are anticipated to be less due to congestion along the
+street and the difficulty turning left into the alley, which is anticipated to result in drivers
+mainly accessing the site via John Street.
+
+
+
+                                                                                                    13
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                                         May 2015
+
+
+
+Traffic Operations Impact
+Future with-project LOS analysis was conducted for the weekday PM peak hour to analyze
+traffic impacts of the proposed project. The same methods were applied as described for
+existing and future without-project conditions and all intersection parameters such as
+channelization and traffic control were consistent with those used in the evaluation of future
+without-project conditions. A comparison of future without and with-project weekday PM peak
+hour traffic operations is summarized for the project site in Table 7. Detailed LOS worksheets
+are provided in Appendix C.
+
+Table 7.        Future Weekday PM Peak Hour Intersection LOS Summary
+                                                              2018 Without-Project                 2018 With-Project
+Intersection                            Traffic Control      LOS     Delay     WM                LOS    Delay     WM
+1. Westlake Avenue N/John Street        Two-Way Stop           F          -5      EB/WB            F         -5     EB/WB
+                                                        4
+2. Terry Avenue N/John Street            Uncontrolled          A          8         NB             A         8        NB
+3. Westlake Avenue N/Denny Way             Signalized          C         31          -             C         31         -
+4. Terry Avenue N/Denny Way             Two-Way Stop           F        >200        NB             F       >200       SB
+A. Site Access/John Street              Site-Street Stop        -         -          -             B         12       NB
+B. Site Access/Denny Way                Site-Street Stop        -         -          -             F         51       SB
+1.   Level of Service (A – F) as defined by the 2010 Highway Capacity Manual (HCM), Transportation Research Board.
+2.   Average delay per vehicle in seconds.
+3.   Worst movement reported for unsignalized intersections.
+4.   Intersection operates with no traffic control, for analysis purposes the intersection was treated as an all-way stop.
+5.   The eastbound and westbound movements are the worst movements and experience large delays, which were not calculable
+     using the HCM method due to the volume of pedestrians. The delay calculations take into consideration the number of
+     pedestrians as a conflicting movement for vehicle movements.
+
+
+As indicated in Table 7, overall impacts to the study intersections would generally be minimal
+with little to no change in calculated delays or LOS. Typically, the City does not consider an
+impact significant if it is a less than 5 second increase in delay.
+
+As discussed previously, poor operations at the Westlake Avenue N/John Street intersection
+are due to the concentration of pedestrians at this location and the conflicts between vehicles
+and pedestrians. The proposed project would likely increase pedestrians at this intersection
+and would increase traffic volumes at this intersection by less than 2 percent. Given the
+gridded street network, it is likely that drivers would find alternative routes if they experience
+long delays at this location.
+
+The project is anticipated add 51 weekday PM peak hour trips along Denny Way at Terry
+Avenue N, which represents approximately 2 percent of the overall 2018 future traffic
+volumes at this location. As discussed under existing conditions, traffic volumes are relatively
+low along Terry Avenue N and the proposed project is not anticipated to increase these
+volumes. Given the difficulty of entering the Denny Way traffic stream from Terry Avenue N
+during the weekday PM peak hour, drivers may find an alternative route, especially traffic
+exiting the alley to the east on Denny Way (via left-turn).
+
+
+Site Access Evaluation
+The proposed project includes two underground parking garages, one primarily designated
+for retail and one designated for residential use. Access to each garage would be provided
+via the alley between Westlake Avenue N and Terry Avenue N. The site access on John
+Street is anticipated to operate at LOS B and the site access on Denny Way is anticipated to
+operate at LOS F during the PM peak hour. As discussed previously, congestion along
+Denny Way makes it difficult for vehicles to enter the traffic stream and as a result most of the
+project traffic is anticipated to exit or enter the site via the alley access at John Street.
+
+
+
+                                                                                                                             14
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                                      May 2015
+
+
+
+Transportation Concurrency
+The City of Seattle has implemented a Transportation Concurrency system to comply with
+one of the requirements of the Washington State Growth Management Act (GMA). The
+system, described in the DPD Director’s Rule 5-2009 and the City’s Land Use and Zoning
+Code, is designed to provide a mechanism that determines whether adequate transportation
+facilities would be available “concurrent” with proposed development projects.
+
+Screenlines are imaginary lines drawn across primary roadways to monitor traffic going from
+one side to the other. The screenlines closest to the project site were chosen for review. The
+screenlines that were analyzed for concurrency review include Ship Canal to Aurora Avenue
+N (Screenline 5.13) South of Lake Union (Screenline 8) and South of S Jackson Street
+(Screenline 10.11), as shown in Table 8 for Building A and Building B. As a conservative
+estimate, it was assumed that all project-generated traffic traveling in the direction of the
+screenlines would extend across the screenlines included in this analysis.
+Table 8. Transportation Concurrency Analysis
+                                                                        2008           Project   V/C Ratio      LOS
+         1                                         2
+SL# Location                                    Dir       Capacity     Volume          Traffic   w/ Project   Standard
+                                                NB          5,100        4,472           3         0.88         1.20
+ 5.13 Ship Canal Aurora Avenue N
+                                                 SB         5,100        3,756           9         0.74         1.20
+                                                 EB         6,000        4,509           13        0.75         1.20
+     8       South of Lake Union
+                                                WB          3,600        3,020           44        0.85         1.20
+             South of S Jackson Street          NB         12,900        7,586           1         0.59         1.00
+10.11
+             Alaskan Way S to 4th Ave            SB        12,980        8,671           3         0.67         1.00
+1.       SL# = Screenline Number
+2.       Direction: NB = Northbound, SB = Southbound, EB = Eastbound, WB = Westbound
+
+The transportation concurrency analysis indicates that with traffic generated by the proposed
+project the screenlines would have v/c ratios that are less than the City v/c threshold; thus,
+the project would meet the City’s concurrency requirements.
+
+
+Parking Analysis
+The following sections describe the proposed parking supply, estimated peak parking
+demand of the project, and parking code requirements.
+Supply
+Parking for the proposed project would be provided by two underground parking garages with
+a total of 366 stalls. Access to each parking garage would be provided via driveways located
+mid-block in the alley between Westlake Avenue N and Terry Avenue N. There will be a
+separate access for the 37 retail parking stalls and another access for the remaining 329
+residential parking stalls.
+
+The parking supply rates are consistent with recently approved projects in the South Lake
+Union neighborhood and City policies, which are aimed at encouraging a multimodal
+transportation network and limiting drive alone trips. As opportunities for transit, car share,
+etc. increase and with employment in the immediate vicinity of the site, it is anticipated
+vehicle ownership and the need for parking will decrease.
+Demand
+The peak parking demand is expected to be below national averages due the project’s
+proximity to transit service and its relative location to South Lake Union, a high-density urban
+village with a strong mix of office, residential, and commercial spaces. The peak parking
+
+
+
+                                                                                                                       17
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                            May 2015
+
+
+demand for the proposed project was estimated based on data provided in ITE Parking
+Generation (4th Edition), Urban Land Institute’s Shared Parking (2nd Edition), local mode of
+                                                                                            5
+travel data consistent with the trip generation analysis, and local vehicle ownership data.
+This approach is consistent with approved traffic studies conducted in the vicinity of the site.
+Detailed calculations are provided in Appendix E. The peak parking demand occurs
+overnight.
+
+Parking demand for the residential component of the project was reviewed in two ways: (1)
+based on US Census data related to vehicle ownership and (2) based on ITE Parking
+Generation (4th Edition) and consideration of peak period parking demand per bedroom.
+
+US Census Data Method. The site is located in census tract 73; the majority of this area is
+located west of I-5. An analysis was completed to estimate the approximate on-site peak
+parking demand of the proposed development accounting for each land use’s different time of
+peak parking demand over the course of a typical day. Detailed calculations are provided in
+Appendix E.
+
+The peak parking demand for the apartment uses are expected to be below national
+averages due the project’s proximity to transit service and its location in a high-density urban
+center with a strong mix of office, residential, and commercial spaces. The parking rate used
+to estimate the peak parking demand for the apartments (0.75 vehicles per unit) is based on
+                            6
+average vehicle ownership from US Census data. Based on the proposed mix of apartment
+      7
+units, the associated parking rates are shown in Table 9. A visitor parking demand rate of
+0.15 vehicles per unit was assumed based on data provided in Shared Parking. The total
+parking demand rate based on US Census Data is higher than recently approved parking
+supply rates in the project vicinity. The South Lake Union neighborhood is rapidly changing
+and use of Census data from 2013 may overestimate vehicle ownership. It is anticipated
+vehicle ownership and the need for parking will decrease with improvements in transit, car
+share opportunities, employment nearby, etc.
+
+Table 9. Estimated Peak Parking Demand – US Census Data
+                                                      Localized Peak   Proposed Parking
+                                                                                          Surplus/Deficit
+Land Use                       Size        Rate      Parking Demand         Supply
+Residential                                0.75           351
+                              468 du                                         329               -92
+Residential Visitor                        0.15            70
+Retail                       15.2 ksf      1.28            20                37                +17
+Total                                                     441                366               -75
+Note: du = dwelling units, ksf = 1,000 square feet
+
+
+As shown in Table 9, the estimated peak parking demand associated with residential parking
+is approximately 421 vehicles, and the peak parking demand associated with retail is
+approximately 20 vehicles. Residential and retail parking areas are separate and are
+accessed by separate driveways. The residential vehicle demand could exceed supply by 92
+parking stalls, and retail parking has a surplus of 17 parking stalls. Both land uses have
+different weekday peak hours – residential is around 10 p.m. and retail around 1 p.m.
+Consideration could be given to allowing residents to use the retail parking area in the
+evening to increase the parking supply available to the residential land use. Allowance of
+shared parking between the residential and retail uses results in a peak parking demand of
+
+5
+ American FactFinder (US Census Bureau), American Community Survey 5-Year Estimates 2009-2013, Tenure by
+Vehicles Available (Report B25044), Census Tract 73.
+6
+ Estimated 0.63 autos owned per studio and open one-bedroom unit and 0.81 autos owned per one bedroom and
+two-bedroom (American Community Survey).
+7
+ The proposed apartment units include 159 studio or open one bedroom, 205 one bedroom, 92 two-bedroom, and
+12 three bedroom units.
+
+
+
+                                                                                                            18
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                       May 2015
+
+
+421 vehicles for the site resulting in a potential spillover of 55 vehicles (see Appendix E).
+Consideration of use of on-street parking to accommodate potential spillover is described
+below.
+
+ITE Parking Generation Method. Data presented in ITE Parking Generation (4th Edition) for
+High-Rise Apartments (Land Use 222) in urban locations, is based on sites with an average
+size of 2 bedrooms per unit and presents a parking rate of 1.37 vehicles per unit. Based on
+the average number of bedrooms per unit, the ITE parking rate is 0.69 vehicles per bedroom.
+The project is proposing studio, 1, 2, and 3-bedroom. Based on this the anticipated parking
+demand is shown in Table 10.
+
+Table 10.           Estimated Peak Parking Demand Based on ITE
+                                                    Localized Peak   Proposed Parking
+                                                                                         Surplus/Deficit
+         Building             Size       Rate      Parking Demand         Supply
+Residential              584 bedrooms    0.69           403                 329                -74
+Retail                      15.2 ksf    1.28/ksf         20                  37                +17
+Total                                                   423                 366                -57
+
+
+As shown in Table 10, using the parking rate per bedroom, the resulting peak parking
+demand would be 403 vehicles for the residential land use and 20 vehicles for the retail use.
+The retail supply and demand is unchanged. This results in a combine demand of
+approximately 423 vehicles.
+
+The ITE method estimates a residential demand of 403, which is smaller compared to the US
+Census method. However, there is still an anticipated spillover of 74 vehicles without shared
+parking. As discussed previously, availability is anticipated within the retail parking garage.
+Shared parking could be considered to accommodate potential demands. A review of shared
+parking shows a combined peak parking demand of 403 vehicles resulting in a potential
+spillover of 37 vehicles (see Appendix E).
+
+In reviewing the parking demand for the proposed project, given the availability of alternative
+modes of travel within the site vicinity including transit and bicycle facilities, it is likely that the
+site would tend towards lower auto ownership characteristic of higher density residential. As
+described previously, residential apartments in the area are being leased to nearby
+employers to accommodate out-of-town employees, which could also result in lower auto
+ownership in the case the proposed project would have similar characteristics. It is
+recommended that shared parking be considered between the residential and retail parking
+to help accommodate the anticipated parking demand on-site. Depending on the level of
+shared parking and if realized actual demand is below the conservative calculations herein,
+actual demand could be less, there could be a spillover ranging between 45 and 75 vehicles.
+
+On-Street Parking
+A review of the 2014 SDOT parking study was completed to see if the anticipated overspill of
+45 to 75 vehicles could be accommodated on-street. The review was completed for an
+approximately 800-foot walking radius from the project site. Consideration was given to
+nearby pipeline developments, described previously, these developments are not anticipated
+to generate off-site parking demand. Approximately 68 on-street parking spaces are
+available, which could accommodate the lower end of the anticipated parking overspill.
+
+
+
+
+                                                                                                      19
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                May 2015
+
+
+Parking Code Analysis
+This section outlines the parking code requirements for vehicular and bicycle parking.
+
+Off-Street Vehicle Parking
+The project includes 366 parking spaces for the residential and retail uses. Per Seattle
+Municipal Code (SMC) 23.54.015, there is no minimum parking requirement the development
+as the project is located within the South Lake Union urban center.
+
+Bicycle Parking
+Secure, visible and easy to use bicycle parking promotes the use of bicycle travel to and from
+a site. Beyond the environmental and health benefits of bicycle travel, provisions for cyclists
+reduce the automobile traffic and parking impacts of a development and support many City
+and neighborhood comprehensive plan goals. Adequate and well-designed bicycle parking is
+also important to keep sidewalks fully ADA compliant and passible, and reduces the chances
+of bicycles obstructing emergency escape routes.
+
+SMC Section 23.54.015, Table E outlines the bicycle parking siting and quantity
+requirements. The code requires a minimum number of bicycle parking spaces for short-term
+(less than 4 hours) and long-term (more than 4 hours). For the apartment use, no short-term
+bicycle parking is required and 1 space for every 4 apartment units is required long-term use.
+This results in 117 long-term bicycle spaces. For the retail use, 1 space per 4,000 square feet
+is required for short-term, and 1 space per 12,000 square feet is required for long-term. This
+results in 4 short-term bicycle spaces, and 2 long-term bicycle spaces. In total, the project
+would be required to provide 4 short-term and 119 long-term bicycle parking spaces. Since
+the vehicular parking for this project is provided in a covered, below-grade garage all long-
+term bicycle parking must also be covered.
+
+
+
+
+                                                                                              20
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                              May 2015
+
+
+
+                    Mitigation and Recommendations
+The proposed project would construct frontage improvements along Denny Way, Terry
+Avenue N, and John Street. These frontage improvements would fully integrate with the non-
+motorized facilities along the corridor. In addition, the project impacts to the surrounding
+transportation system would be mitigated through the South Lake Union transportation
+mitigation payment (detailed in DPD Client Assistance Memo 243). Additional detail on
+mitigation measures is provided below.
+
+
+Transportation Mitigation Payment
+To mitigate impacts of the proposal on the surrounding transportation system, the developer
+would be required to pay the South Lake Union transportation mitigation payment. The City
+has implemented a program in and around the South Lake Union neighborhood that requires
+new developments to contribute towards planned improvements identified in the South Lake
+Union Transportation Plan. Improvements in this transportation plan include a combination of
+vehicle, bicycle, pedestrian, and transit projects located in the neighborhood which would
+benefit all users.
+
+The development mitigation payment schedule is set forth by DPD’s Client Assistance Memo
+243 – Transportation Mitigation Payments. The developer is opting to pay based on a pro-
+rata share calculation, which is based on the number of weekday PM peak hour trips using
+the South Lake Union infrastructure. This mitigation fee is estimated to be $38,743 for the
+project. This fee is a preliminary calculation and would be finalized by the City upon issuance
+of the decision on the proposed project.
+
+
+
+
+                                                                                             21
+Draft Transportation Impact Analysis
+970 Denny Way Residential                                                                  May 2015
+
+
+
+                             Findings and Conclusions
+This TIA summarizes the transportation impacts associated with of the mixed-use
+development located at 970 Denny Way in the South Lake Union neighborhood of Seattle.
+General findings and recommendations include:
+
+      •     The proposed project would construct 468 residential apartment units and 15,250
+            square feet of retail.
+      •     After accounting for the existing uses on the project site, the development is
+            anticipated to generate 1,040 net new vehicular weekday daily trips with 54
+            net new trips occurring during the weekday AM peak hour and 81 net new trips
+            during the PM peak hour.
+      •     Access to the proposed parking garage would be provided via the alley between
+            Westlake Avenue N and Terry Avenue N.
+      •     All of the off-site study intersections are anticipated to operate at LOS C or better
+            with the project with the exception of the Westlake Avenue N/John Street and Terry
+            Avenue N/Denny Way intersections. The Westlake Avenue N/John Street and Terry
+            Avenue N/Denny Way intersections are anticipated to operate at LOS F under
+            without or with-project conditions. Given the gridded network, it is likely that drivers
+            would find alternative routes if they experience long delays at these locations.
+      •     The Denny Way alley access would also operate at LOS F. Given the difficulty
+            accessing the site access on Denny Way, the analysis is conservative and drivers
+            would likely use John Street especially when heading to the west.
+      •     The project would meet City’s transportation concurrency requirements.
+      •     The parking supply for the proposed project is 366 vehicle parking stalls (329 for
+            residential and 37 for retail). Given the availability of alternative modes of travel
+            within the site vicinity including transit and bicycle facilities as well as the large
+            amount of employment opportunities, it is likely that the site would tend towards
+            lower auto ownership characteristic of higher density residential. It is recommended
+            that shared parking be considered between the residential and retail parking to help
+            accommodate the anticipated parking demand on-site. Depending on the level of
+            shared parking and if realized actual demand is below the conservative calculations
+            herein, actual demand could be less, there could be a spillover ranging between 45
+            and 75 vehicles.
+      •     The surrounding on-street parking could accommodate the potential off-site parking
+            needs for the lower end of the parking demand.
+      •     The developer would be required to pay a transportation mitigation fee. The
+            mitigation fee is estimated to be $38,743 based on the project’s calculated pro-rata
+            share.
+      •     The project would be required to provide 4 short-term and 119 long-term bicycle
+            parking spaces.
+
+
+
+
+                                                                                                  22
+Appendix A:   Traffic Counts
+ www.idaxdata.com
+
+
+                                         WESTLAKE AVE
+                                           JOHN ST
+                                                                                                                                                  Date: Tue, Apr 21, 2015
+                N                                      Peak Hour                                                                          Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                            Peak Hour: 5:00 PM to 6:00 PM
+                          WESTLAKE AVE
+
+
+
+
+                                                          404
+
+
+
+                                                                           462
+
+
+
+
+                                                                                                                                                                                 22
+                                                            360
+                                                 26
+
+
+
+
+                                                                       18
+                                                                                                                 JOHN ST                                                              47
+
+
+      79                                                                                                          21            54                                                                                1
+                    19                                    TEV: 1,068                                              10
+
+
+
+
+                                                                                                                                                                    370
+
+
+
+
+                                                                                                                                                                                                          832
+                    30                                    PHF: 0.88                                               23
+      112           63                                                                                                          81                           1
+
+
+                JOHN ST                                                                                                                                                               46
+                                                            43
+
+                                                                       422
+
+                                                                                     33
+
+                                                                                                  WESTLAKE AVE
+
+
+
+
+                                                                                                                                  HV %:             PHF
+
+
+
+
+                                                                                                                                                                                               30
+                                                                                                                         EB       0.0%              0.82
+                                                                                                                         WB       0.0%              0.84
+                                                                                                                         NB       5.2%              0.95
+                                                          446
+
+
+
+                                                                           498
+
+
+
+
+                                                                                                                         SB       3.2%              0.81
+                                                                                                                       TOTAL      3.7%              0.88
+Two-Hour Count Summaries
+                          JOHN ST                                                 JOHN ST                                   WESTLAKE AVE                          WESTLAKE AVE
+    Interval                                                                                                                                                                                    15-min           Rolling
+      Start               Eastbound                                              Westbound                                      Northbound                         Southbound                    Total          One Hour
+                    LT                   TH                RT          LT             TH                          RT       LT        TH             RT        LT          TH          RT
+    4:00 PM         3                        3              7          1                  0                        3       5             82           2       4            65         5             180
+    4:15 PM         6                        5              7          4                  4                        8       7             80           11      3            58         3             196
+    4:30 PM         7                        7              6          3                  1                        6       7             81           8       3            79         9             217
+    4:45 PM         1                        4              11         1                  7                        8       4         104              9       3            58         8             218           811
+    5:00 PM         4                        3              15         5                  5                        6       14        106              8       8            77         10            261           892
+    5:15 PM         6                        9              19         6                  2                        8       8         114              9       4           116         4             305          1,001
+    5:30 PM         2                        4              19         5                  3                        0       10            95           8       2            88         4             240          1,024
+    5:45 PM         7                        14             10         7                  0                        7       11        107              8       4            79         8             262          1,068
+  Count Total       36                       49             94         32             22                          46       66        769              63      31          620         51        1,879
+    Peak Hr         19                       30             63         23             10                          21       43        422              33      18          360         26        1,068
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                                         Bicycles                                      Pedestrians (Crossing Leg)
+      Start         EB          WB                    NB          SB         Total        EB                      WB     NB       SB          Total        East           West        North           South           Total
+    4:00 PM         0                    0            10          1           11              0                    1       3         1         5           145             50             9               9           213
+    4:15 PM         0                    1            8           3           12              0                    0       0         2         2           133             57             16              11          217
+    4:30 PM         0                    0            5           2           7               0                    0       0         2         2           174             65             8               3           250
+    4:45 PM         0                    0            7           2           9               0                    0       0         2         2           187             59             11              8           265
+    5:00 PM         0                    0            5           5           10              0                    1       15        7         23          200             86             12              10          308
+    5:15 PM         0                    0            9           1           10              0                    0       5         4         9           247             98             11              13          369
+    5:30 PM         0                    0            6           3           9               1                    0       5         3         9           198            107             17              10          332
+    5:45 PM         0                    0            6           4           10              0                    0       5         8         13          187             79             7               13          286
+  Count Total       0                    1            56          21          78              1                    2       33     29           65          1,471          601             91              77       2,240
+    Peak Hr         0                    0            26          13          39              1                    1       30     22           54          832            370             47              46       1,295
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                                    mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                            TERRY AVE N
+                                              JOHN ST
+                                                                                                                                          Date: Tue, Apr 21, 2015
+                N                                     Peak Hour                                                                   Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                    Peak Hour: 4:45 PM to 5:45 PM
+
+
+
+
+                                                         32
+
+
+
+                                                                        190
+                          TERRY AVE N
+
+
+
+
+                                                                                                                                                                            3
+                                                11
+
+                                                          21
+                                                                                                                                                                                24
+
+
+      33
+                                                         TEV: 255
+
+
+
+
+                                                                                                                                                               138
+                    70                                   PHF: 0.92
+      81            11                                                                                                                                 3
+
+
+                JOHN ST                                                                                                                                                         3
+                                                                                               TERRY AVE N
+                                                                    22
+
+                                                                                 120
+
+
+
+
+                                                                                                                             HV %:          PHF
+
+
+
+
+                                                                                                                                                                                         4
+                                                                                                                    EB       2.5%             0.81
+                                                                                                                    NB       4.2%             0.85
+                                                                                                                    SB       0.0%             0.67
+                                                                        142
+                                                         32
+
+
+
+
+                                                                                                                  TOTAL      3.1%             0.92
+
+
+Two-Hour Count Summaries
+                          JOHN ST                                             JOHN ST                                    TERRY AVE N                          TERRY AVE N                               Rolling
+    Interval                                                                                                                                                                             15-min
+                          Eastbound                                           Westbound                                   Northbound                           Southbound                                One
+      Start                                                                                                                                                                               Total
+                    LT                  TH                RT        LT             TH                        RT     LT        TH              RT       LT            TH         RT                       Hour
+    4:00 PM         6                       0             2         0                  0                     0       5           17            0          0           2         0            32
+    4:15 PM         11                      0             3         0                  0                     0       9           18            0          0           7         5            53
+    4:30 PM         11                      0             2         0                  0                     0       6           25            0          0           3         3            50
+    4:45 PM         16                      0             3         0                  0                     0       6           32            0          0           6         6            69          204
+    5:00 PM         13                      0             4         0                  0                     0       7           35            0          0           5         4            68          240
+    5:15 PM         22                      0             3         0                  0                     0       8           27            0          0           5         0            65          252
+    5:30 PM         19                      0             1         0                  0                     0       1           26            0          0           5         1            53          255
+    5:45 PM         21                      0             5         0                  0                     0       2           23            0          0           2         6            59          245
+  Count Total       119                     0             23        0                  0                     0      44        203              0          0           35        25           449
+    Peak Hr         70                      0             11        0                  0                     0      22        120              0          0           21        11           255
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                                    Bicycles                                     Pedestrians (Crossing Leg)
+      Start         EB         WB                    NB        SB        Total         EB                    WB     NB       SB       Total          East            West       North          South       Total
+    4:00 PM         0                   0            2         0          2                0                 0       2       0          2             0               24            5              1        30
+    4:15 PM         2                   0            2         1          5                1                 0       0       0          1             0               24            3              5        32
+    4:30 PM         1                   0            1         0          2                1                 0       0       4          5             0               13            5              1        19
+    4:45 PM         0                   0            2         0          2                0                 0       2       1          3             0               36            4              2        42
+    5:00 PM         1                   0            2         0          3                1                 0       0       0          1             0               39            11             0        50
+    5:15 PM         1                   0            0         0          1                0                 0       2       1          3             0               39            5              0        44
+    5:30 PM         0                   0            2         0          2                2                 0       0       1          3             0               24            4              1        29
+    5:45 PM         0                   0            1         0          1                0                 0       1       3          4             0               19            7              0        26
+  Count Total       5                   0            12        1          18               5                 0       7       10        22             0              218            44             10      272
+    Peak Hr         2                   0            6         0          8                3                 0       4       3         10             0              138            24             3       165
+
+Mark Skaggs: 425 - 250 - 0777                                                                                                                                               mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                              WESTLAKE AVE N
+                                DENNY WAY
+                                                                                                                                               Date: Tue, Apr 21, 2015
+                N                                     Peak Hour                                                                        Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                         Peak Hour: 4:45 PM to 5:45 PM
+                           WESTLAKE AVE N
+
+
+
+
+                                                         413
+
+
+
+                                                                          506
+
+
+
+
+                                                                                                                                                                             16
+                                                           220
+
+                                                                      150
+                                                43
+
+
+
+                                                                                                              DENNY WAY                                                           424
+
+
+      874                                                                                                      90           874                                                                                 4
+
+
+
+
+                                                                                                                                                                                                      2,202
+                     16                                  TEV: 2,607                                           784
+
+
+
+
+                                                                                                                                                                334
+                    775                                  PHF: 0.96                                              0
+      807            16                                                                                                     991                           4
+
+
+          DENNY WAY                                                                                                                                                               522
+                                                           47
+
+                                                                      400
+
+                                                                                    66
+
+                                                                                             WESTLAKE AVE N
+
+
+
+
+                                                                                                                                HV %:            PHF
+
+
+
+
+                                                                                                                                                                                           10
+                                                                                                                       EB       0.9%             0.85
+                                                                                                                       WB       0.6%             0.94
+                                                                                                                       NB       5.5%             0.92
+                                                         236
+
+
+
+                                                                          513
+
+
+
+
+                                                                                                                       SB       2.7%             0.81
+                                                                                                                     TOTAL      2.0%             0.96
+Two-Hour Count Summaries
+                          DENNY WAY                                          DENNY WAY                                  WESTLAKE AVE N                     WESTLAKE AVE N
+    Interval                                                                                                                                                                                15-min             Rolling
+      Start               Eastbound                                             Westbound                                   Northbound                          Southbound                   Total            One Hour
+                    LT                      TH            RT          LT             TH                        RT      LT         TH             RT        LT         TH          RT
+    4:00 PM          1                      251            8          0              184                       25       8             67           21      29          36         6             636
+    4:15 PM          0                      262            3          0              172                       22      13             74           16      24          35         9             630
+    4:30 PM          0                      245            5          0              158                       19       9             77           19      27          54         8             621
+    4:45 PM          0                      237            1          0              192                       24      11         100              18      23          41         8             655            2,542
+    5:00 PM          5                      198            2          0              180                       24       7             96           15      28          53         11            619            2,525
+    5:15 PM          2                      167            9          0              209                       24      13         107              20      53          63         12            679            2,574
+    5:30 PM          9                      173            4          0              203                       18      16             97           13      46          63         12            654            2,607
+    5:45 PM          4                      190            8          0              205                       28       9             92           16      33          46         18            649            2,601
+  Count Total       21                  1,723              40         0             1,503                      184     86         710            138      263         391         84        5,143
+    Peak Hr         16                      775            16         0              784                       90      47         400              66     150         220         43        2,607
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                                       Bicycles                                    Pedestrians (Crossing Leg)
+      Start         EB            WB                 NB          SB         Total        EB                    WB      NB       SB         Total        East          West        North           South             Total
+    4:00 PM          7                      7        10          2           26          0                     0        3         2         5           379            79             43              99            600
+    4:15 PM          2                      4        7           3           16          0                     1        1         0         2           450            77             63              126           716
+    4:30 PM          4                      3        7           2           16          0                     1        0         2         3           452            60             64              110           686
+    4:45 PM          1                      0        8           2           11          1                     0        3         2         6           738            70             90              107        1,005
+    5:00 PM          2                      3        7           5           17          3                     1        3         7         14          505            73             98              104           780
+    5:15 PM          1                      1        7           1           10          0                     2        2         4         8           487           106          131                131           855
+    5:30 PM          3                      1        6           3           13          0                     1        2         3         6           472            85          105                180           842
+    5:45 PM          1                      5        7           3           16          0                     1        3       10          14          396            58             84              94            632
+  Count Total       21                24             59          21         125          4                     7       17       30          58          3,879         608          678                951        6,116
+    Peak Hr          7                      5        28          11          51          4                     4       10       16          34          2,202         334          424                522        3,482
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                                mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                             TERRY AVE N
+                                              DENNY WAY
+                                                                                                                                        Date: Tue, Apr 21, 2015
+                N                                  Peak Hour                                                                    Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                  Peak Hour: 4:00 PM to 5:00 PM
+
+
+
+
+                                                      24
+
+
+
+                                                                      109
+                           TERRY AVE N
+
+
+
+
+                                                                                                                                                                     1
+                                             14
+
+                                                        4
+
+                                                                  6
+                                                                                                     DENNY WAY                                                           98
+
+
+      761                                                                                             44          828                                                                               3
+                   61                                 TEV: 2,062                                     743
+
+
+
+
+                                                                                                                                                         11
+
+
+
+
+                                                                                                                                                                                            5
+                 1,029                                PHF: 0.97                                       41
+      1,165        75                                                                                          1,072                            0
+
+
+          DENNY WAY                                                                                                                                                      108
+                                                                                       TERRY AVE N
+                                                        4
+
+                                                                  4
+
+                                                                              37
+
+
+
+
+                                                                                                                      HV %:            PHF
+
+
+
+
+                                                                                                                                                                                  0
+                                                                                                             EB       1.2%             0.95
+                                                                                                             WB       2.4%             0.93
+                                                                                                             NB       8.9%             0.70
+                                                      120
+
+
+
+                                                                      45
+
+
+
+
+                                                                                                             SB       0.0%             0.60
+                                                                                                           TOTAL      1.8%             0.97
+Two-Hour Count Summaries
+                          DENNY WAY                                     DENNY WAY                                 TERRY AVE N                           TERRY AVE N
+    Interval                                                                                                                                                                      15-min           Rolling
+      Start               Eastbound                                         Westbound                              Northbound                            Southbound                Total          One Hour
+                    LT                   TH            RT         LT           TH                     RT     LT         TH             RT       LT            TH         RT
+    4:00 PM         10                   276            14        10           203                    9       0             0            7         0           0         3            532
+    4:15 PM         15                   270            20        12           181                    8       0             0            16        1           4         2            529
+    4:30 PM         19                   249            27        8            176                    13      1             1            6         2           0         2            504
+    4:45 PM         17                   234            14        11           183                    14      3             3            8         3           0         7            497          2,062
+    5:00 PM         18                   192            16        16           215                    18      6             3            9         2           1         1            497          2,027
+    5:15 PM         15                   191            36        9            224                    14      2             2            4         2           4         4            507          2,005
+    5:30 PM         12                   193            21        3            219                    13      5             3            6         3           0         2            480          1,981
+    5:45 PM         12                   182            24        6            229                    8       1             3            1         5           1         1            473          1,957
+  Count Total       118              1,787             172        75          1,630                   97     18             15           57        18          10        22       4,019
+    Peak Hr         61               1,029              75        41           743                    44      4             4            37        6           4         14       2,062
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                             Bicycles                                       Pedestrians (Crossing Leg)
+      Start         EB          WB                NB         SB       Total        EB                 WB     NB       SB         Total        East            West       North          South           Total
+    4:00 PM         7              10             1          0         18          0                  1       0         0         1            0               2             18             15          35
+    4:15 PM         1                    5        1          0          7          0                  1       0         0         1            4               4             21             29          58
+    4:30 PM         5                    4        0          0          9          0                  1       0         1         2            1               0             26             33          60
+    4:45 PM         1                    1        2          0          4          0                  0       0         0         0            0               5             33             31          69
+    5:00 PM         3                    4        0          0          7          0                  2       0         0         2            2               1             80             44          127
+    5:15 PM         1                    0        1          0          2          0                  2       0         1         3            1               3             83             63          150
+    5:30 PM         1                    2        1          0          4          0                  1       0         0         1            2               1             63             60          126
+    5:45 PM         2                    7        0          0          9          0                  3       0         0         3            8               5             60             28          101
+  Count Total       21             33             6          0         60          0                  11      0         2         13          18               21         384               303         726
+    Peak Hr         14             20             4          0         38          0                  3       0         1         4            5               11            98             108         222
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                       mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                                ALLEY
+                                               JOHN ST
+                                                                                                                                   Date: Tue, Apr 21, 2015
+                N                               Peak Hour                                                                  Count Period: 4:00 PM to 6:00 PM
+                                                                                                                             Peak Hour: 5:00 PM to 6:00 PM
+
+
+
+
+                                                   22
+
+
+
+                                                                  2
+                          ALLEY
+
+
+
+
+                                                                                                                                                               2
+                                          14
+
+                                                    1
+
+                                                              7
+                                                                                               JOHN ST                                                             46
+
+
+      56                                                                                         0            31                                                                              2
+                    2                              TEV: 160                                     25
+
+
+
+
+                                                                                                                                                   12
+
+
+
+
+                                                                                                                                                                                      4
+                    66                             PHF: 0.93                                     6
+      77            9                                                                                         86                           2
+
+
+                JOHN ST                                                                                                                                            91
+                                                                                       ALLEY
+                                                    17
+
+                                                              0
+
+                                                                          13
+
+
+
+
+                                                                                                                HV %:             PHF
+
+
+
+
+                                                                                                                                                                            1
+                                                                                                       EB       2.6%              0.88
+                                                                                                       WB       0.0%              0.60
+                                                                                                       NB       0.0%              0.83
+                                                   16
+
+
+
+                                                                  30
+
+
+
+
+                                                                                                       SB       0.0%              0.55
+                                                                                                     TOTAL      1.3%              0.93
+Two-Hour Count Summaries
+                          JOHN ST                                      JOHN ST                                  ALLEY                               ALLEY
+    Interval                                                                                                                                                                15-min           Rolling
+      Start               Eastbound                                    Westbound                              Northbound                           Southbound                Total          One Hour
+                    LT            TH                RT        LT           TH                   RT       LT        TH             RT       LT           TH         RT
+    4:00 PM         1                 8             1         3                4                 0       1             0            2         1          0         0            21
+    4:15 PM         1                 10            4         2            11                    1       3             0            1         0          0         0            33
+    4:30 PM         1                 14            4         2                6                 1       3             0            0         0          0         1            32
+    4:45 PM         1                 15            2         0            12                    0       4             0            3         2          0         2            41            127
+    5:00 PM         1                 12            5         4                9                 0       3             0            2         3          0         0            39            145
+    5:15 PM         0                 20            1         1                7                 0       6             0            2         1          0         3            41            153
+    5:30 PM         0                 15            1         0                3                 0       2             0            6         1          1         8            37            158
+    5:45 PM         1                 19            2         1                6                 0       6             0            3         2          0         3            43            160
+  Count Total       6             113               20        13           58                    2       28            0            19        10         1         17           287
+    Peak Hr         2                 66            9         6            25                    0       17            0            13        7          1         14           160
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                       Bicycles                                       Pedestrians (Crossing Leg)
+      Start         EB      WB                 NB        SB       Total        EB               WB     NB       SB          Total        East           West       North          South           Total
+    4:00 PM         1             0            0         0         1               0             1       0         1         2            0              2             6              24          32
+    4:15 PM         1             1            0         0         2               1             0       0         0         1            0              1             12             17          30
+    4:30 PM         1             0            0         0         1               0             0       0         1         1            1              1             14             4           20
+    4:45 PM         0             0            0         0         0               0             1       0         0         1            3              5             5              22          35
+    5:00 PM         1             0            0         0         1               0             1       0         1         2            3              4             8              37          52
+    5:15 PM         1             0            0         0         1               0             0       1         0         1            1              4             16             22          43
+    5:30 PM         0             0            0         0         0               2             0       0         1         3            0              1             7              20          28
+    5:45 PM         0             0            0         0         0               0             1       0         0         1            0              3             15             12          30
+  Count Total       5             1            0         0         6               3             4       1         4         12           8              21            83             158         270
+    Peak Hr         2             0            0         0         2               2             2       1         2         7            4              12            46             91          153
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                 mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                        ALLEY
+                                      DENNY WAY
+                                                                                                                Date: Tue, Apr 21, 2015
+                N                          Peak Hour                                                    Count Period: 4:00 PM to 6:00 PM
+                                                                                                          Peak Hour: 4:00 PM to 5:00 PM
+
+
+
+
+                                              3
+
+
+
+                                                             1
+                          ALLEY
+
+
+
+
+                                                                                                                                           0
+                                      2
+
+                                               1
+                                                                             DENNY WAY                                                         171
+
+
+      803                                                                     1           802                                                                         2
+                                              TEV: 1,961                     801
+
+
+
+
+                                                                                                                                0
+
+
+
+
+                                                                                                                                                               0
+                   0                          PHF: 0.97
+      1,156      1,156                                                                 1,157                             1
+
+
+          DENNY WAY
+                                                                                              HV %:           PHF
+                                                                                     EB       0.3%              0.96
+                                                                                     WB       1.1%              0.93
+                                                                                     SB       0.0%              0.38
+                                                                                   TOTAL      0.7%              0.97
+
+
+Two-Hour Count Summaries
+                         DENNY WAY                            DENNY WAY                       ALLEY                              ALLEY
+    Interval                                                                                                                                            15-min       Rolling
+      Start              Eastbound                               Westbound                Northbound                            Southbound               Total      One Hour
+                    LT            TH           RT        LT           TH      RT     LT         TH              RT       LT         TH         RT
+    4:00 PM         0             296          0         0           212      0       0             0            0          0        0         0         508
+    4:15 PM         0             301          0         0           192      1       0             0            0          0        0         1         495
+    4:30 PM         0             295          0         0           181      0       0             0            0          0        0         0         476
+    4:45 PM         0             264          0         0           216      0       0             0            0          1        0         1         482         1,961
+    5:00 PM         1             226          0         0           206      0       0             0            0          0        0         0         433         1,886
+    5:15 PM         0             235          0         0           233      3       0             0            0          0        0         0         471         1,862
+    5:30 PM         0             226          0         0           231      1       0             0            0          1        0         0         459         1,845
+    5:45 PM         1             221          0         0           233      0       0             0            0          0        0         0         455         1,818
+  Count Total       2         2,064            0         0           1,704    5       0             0            0          2        0         2        3,779
+    Peak Hr         0         1,156            0         0           801      1       0             0            0          1        0         2        1,961
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval             Heavy Vehicle Totals                                      Bicycles                                      Pedestrians (Crossing Leg)
+      Start         EB      WB            NB        SB       Total     EB     WB     NB       SB        Total          East         West       North       South          Total
+    4:00 PM         1             6       0         0         7         0     0       0         0         0             0            0             31           0         31
+    4:15 PM         1             2       0         0         3         1     1       0         0         2             0            0             25           0         25
+    4:30 PM         0             1       0         0         1         0     0       0         0         0             0            0             53           0         53
+    4:45 PM         2             0       0         0         2         0     1       0         0         1             0            0             62           0         62
+    5:00 PM         0             2       0         0         2         1     0       0         0         1             0            0             99           0         99
+    5:15 PM         1             2       0         0         3         0     0       0         0         0             0            0          112             0         112
+    5:30 PM         1             1       0         0         2         1     0       0         0         1             0            0             80           0         80
+    5:45 PM         0             2       0         0         2         0     1       0         0         1             0            0             74           0         74
+  Count Total       6         16          0         0         22        3     3       0         0         6             0            0          536             0         536
+    Peak Hr         4             9       0         0         13        1     2       0         0         3             0            0          171             0         171
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                             mark.skaggs@idaxdata.com
+Appendix B:   LOS Definitions
+                                                    Highway Capacity Manual 2010
+
+Signalized intersection level of service (LOS) is defined in terms of a weighted average control delay for
+the entire intersection. Control delay quantifies the increase in travel time that a vehicle experiences due
+to the traffic signal control as well as provides a surrogate measure for driver discomfort and fuel
+consumption. Signalized intersection LOS is stated in terms of average control delay per vehicle (in
+seconds) during a specified time period (e.g., weekday PM peak hour). Control delay is a complex
+measure based on many variables, including signal phasing and coordination (i.e., progression of
+movements through the intersection and along the corridor), signal cycle length, and traffic volumes with
+respect to intersection capacity and resulting queues. Table 1 summarizes the LOS criteria for signalized
+intersections, as described in the Highway Capacity Manual 2010 (Transportation Research Board,
+2010).
+
+Table 1. Level of Service Criteria for Signalized Intersections
+                           Average Control Delay
+ Level of Service            (seconds/vehicle)                  General Description
+          A                           ≤10                       Free Flow
+          B                         >10 – 20                    Stable Flow (slight delays)
+          C                         >20 – 35                    Stable flow (acceptable delays)
+                                                                Approaching unstable flow (tolerable delay, occasionally wait through more
+          D                         >35 – 55
+                                                                than one signal cycle before proceeding)
+          E                         >55 – 80                    Unstable flow (intolerable delay)
+             1
+         F                            >80                       Forced flow (congested and queues fail to clear)
+Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+1. If the volume-to-capacity (v/c) ratio for a lane group exceeds 1.0 LOS F is assigned to the individual lane group. LOS for overall approach or
+      intersection is determined solely by the control delay.
+
+
+
+
+Unsignalized intersection LOS criteria can be further reduced into two intersection types: all-way stop
+and two-way stop control. All-way stop control intersection LOS is expressed in terms of the weighted
+average control delay of the overall intersection or by approach. Two-way stop-controlled intersection
+LOS is defined in terms of the average control delay for each minor-street movement (or shared
+movement) as well as major-street left-turns. This approach is because major-street through vehicles are
+assumed to experience zero delay, a weighted average of all movements results in very low overall
+average delay, and this calculated low delay could mask deficiencies of minor movements. Table 2 shows
+LOS criteria for unsignalized intersections.
+
+                 Table 2. Level of Service Criteria for Unsignalized Intersections
+                                   Level of Service                            Average Control Delay (seconds/vehicle)
+                                            A                                                        0 – 10
+                                            B                                                      >10 – 15
+                                            C                                                      >15 – 25
+                                            D                                                      >25 – 35
+                                            E                                                      >35 – 50
+                                            F1                                                        >50
+                 Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+                 1. If the volume-to-capacity (v/c) ratio exceeds 1.0, LOS F is assigned an individual lane group for all unsignalized
+                    intersections, or minor street approach at two-way stop-controlled intersections. Overall intersection LOS is
+                    determined solely by control delay.
+Appendix C:   LOS Worksheets
+HCM 2010 TWSC                                                                                                   970 Denny Way
+1: Westlake Ave N & John St                                                                              Existing (2015) PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh        12.1
+
+Movement                        EBL EBT EBR               WBL WBT WBR                  NBL NBT NBR                   SBL SBT SBR
+Vol, veh/h                        20   30   65              25   10   20                 45 420    35                  20 360    25
+Conflicting Peds, #/hr           414    0 416              878    0 876                 416    0 878                  876    0 414
+Sign Control                    Stop Stop Stop            Stop Stop Stop               Free Free Free                Free Free Free
+RT Channelized                     -    - None               -    - None                  -    - None                   -    - None
+Storage Length                     -    -    -               -    -    -                  -    -    -                   -    -    -
+Veh in Median Storage, #           -    0    -               -    0    -                  -    0    -                   -    0    -
+Grade, %                           -    0    -               -    0    -                  -    0    -                   -    0    -
+Peak Hour Factor                  88   88   88              88   88   88                 88   88   88                  88   88   88
+Heavy Vehicles, %                  0    0    0               0    0    0                  5    5    5                   3    3    3
+Mvmt Flow                         23   34   74              28   11   23                 51 477    40                  23 409    28
+
+Major/Minor                    Minor2                    Minor1                       Major1                      Major2
+Conflicting Flow All            2110 2382 1513            2160 2376 2013                854       0      0         1395          0     0
+       Stage 1                    885 885    -            1477 1477    -                   -      -      -             -         -     -
+       Stage 2                  1225 1497    -              683 899    -                   -      -      -             -         -     -
+Critical Hdwy                     7.5 6.5  6.9              7.5  6.5 6.9                 4.2      -      -          4.16         -     -
+Critical Hdwy Stg 1               6.5 5.5    -              6.5  5.5   -                   -      -      -             -         -     -
+Critical Hdwy Stg 2               6.5 5.5    -              6.5  5.5   -                   -      -      -             -         -     -
+Follow-up Hdwy                    3.5   4  3.3               3.5   4 3.3               2.25       -      -          2.23         -     -
+Pot Cap-1 Maneuver                 30  35 111              ~ 27  35   50                762       -      -          481          -     -
+       Stage 1                    310 366    -              135 192    -                   -      -      -             -         -     -
+       Stage 2                    193 188    -              410 360    -                   -      -      -             -         -     -
+Platoon blocked, %                                                                                -      -                       -     -
+Mov Cap-1 Maneuver                 -    ~1    ~ 11           -    ~1     ~1             125       -      -               80      -     -
+Mov Cap-2 Maneuver                 -    ~1       -           -    ~1      -               -       -      -                -      -     -
+       Stage 1                    79    137      -          ~9     13     -               -       -      -                -      -     -
+       Stage 2                     -   ~ 13      -           -    135     -               -       -      -                -      -     -
+
+Approach                         EB                        WB                            NB                           SB
+HCM Control Delay, s                                                                    15.1                         13.5
+HCM LOS                            -                          -
+
+Minor Lane/Major Mvmt           NBL    NBT NBR EBLn1WBLn1 SBL           SBT SBR
+Capacity (veh/h)                 125      -   -    -    -    80            -   -
+HCM Lane V/C Ratio             0.409      -   -    -    - 0.284            -   -
+HCM Control Delay (s)           52.4   12.4   -    -    -    67         11.5   -
+HCM Lane LOS                       F      B   -    -    -     F            B   -
+HCM 95th %tile Q(veh)            1.7      -   -    -    -     1            -   -
+Notes
+~: Volume exceeds capacity       $: Delay exceeds 300s   +: Computation Not Defined     *: All major volume in platoon
+
+
+
+
+970 Denny Way 5:00 pm 4/23/2015 Existing (2015) PM Peak Hour                                                             Synchro 9 Report
+Transpo Group
+HCM 2010 AWSC                                                                              970 Denny Way
+2: Terry Ave N & John St                                                             Existing (2015) PM Peak Hour
+
+
+
+Intersection
+Intersection Delay, s/veh      8
+Intersection LOS               A
+Movement                     EBU     EBL              EBR      NBU    NBL    NBT    SBU             SBT     SBR
+Vol, veh/h                      0      70               10        0     20   120       0              20      10
+Peak Hour Factor             0.92    0.92             0.92     0.92   0.92   0.92   0.92            0.92    0.92
+Heavy Vehicles, %               3       3                3        0      4      4      0               0       0
+Mvmt Flow                       0      76               11        0     22    130      0              22      11
+Number of Lanes                 0       1                0        0      0      1      0               1       0
+
+Approach                              EB                               NB                            SB
+Opposing Approach                                                      SB                            NB
+Opposing Lanes                         0                                1                             1
+Conflicting Approach Left             SB                               EB
+Conflicting Lanes Left                 1                                1                              0
+Conflicting Approach Right            NB                                                             EB
+Conflicting Lanes Right                1                                 0                             1
+HCM Control Delay                      8                               8.1                           7.2
+HCM LOS                                A                                 A                             A
+
+Lane                                NBLn1 EBLn1 SBLn1
+Vol Left, %                           14%   88%    0%
+Vol Thru, %                           86%    0%   67%
+Vol Right, %                           0%   12%   33%
+Sign Control                          Stop  Stop  Stop
+Traffic Vol by Lane                    140    80    30
+LT Vol                                  20    70     0
+Through Vol                            120     0    20
+RT Vol                                    0   10    10
+Lane Flow Rate                         152    87    33
+Geometry Grp                              1    1     1
+Degree of Util (X)                   0.176 0.106 0.036
+Departure Headway (Hd)               4.174 4.369 3.968
+Convergence, Y/N                       Yes   Yes   Yes
+Cap                                    852   809   887
+Service Time                         2.237 2.461 2.063
+HCM Lane V/C Ratio                   0.178 0.108 0.037
+HCM Control Delay                       8.1    8   7.2
+HCM Lane LOS                              A    A     A
+HCM 95th-tile Q                         0.6  0.4   0.1
+
+
+
+
+970 Denny Way 5:00 pm 4/23/2015 Existing (2015) PM Peak Hour                                    Synchro 9 Report
+Transpo Group
+HCM 2010 Signalized Intersection Summary                                                     970 Denny Way
+3: Westlake Ave N & Denny Way                                                          Existing (2015) PM Peak Hour
+
+
+
+
+Movement                 EBL EBT EBR WBL WBT WBR NBL NBT NBR SBL SBT SBR
+Lane Configurations
+Volume (veh/h)             15 775      15    0 785     90   45 400     65 150 220     45
+Number                      7     4    14    3     8   18    5    2    12    1    6   16
+Initial Q (Qb), veh         0     0     0    0     0    0    0    0     0    0    0    0
+Ped-Bike Adj(A_pbT) 0.99             0.80 1.00       0.81 0.73       0.60 1.00      0.75
+Parking Bus, Adj         1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00
+Adj Sat Flow, veh/h/ln 1900 1881 1900        0 1881 1900 1900 1792 1900 1845 1845 1900
+Adj Flow Rate, veh/h       16 807      16    0 818     94   47 417     68 156 229     47
+Adj No. of Lanes            0     2     0    0     2    0    0    2     0    1    2    0
+Peak Hour Factor         0.96 0.96 0.96 0.96 0.96 0.96 0.96 0.96 0.96 0.96 0.96 0.96
+Percent Heavy Veh, %        1     1     1    0     1    1    6    6     6    3    3    3
+Cap, veh/h                 58 1578     31    0 1453 167     95 604     95 193 1173 228
+Arrive On Green          0.46 0.46 0.46 0.00 0.46 0.46 0.26 0.26 0.26 0.11 0.43 0.43
+Sat Flow, veh/h            25 3416     67    0 3239 361 165 2330 365 1757 2757 535
+Grp Volume(v), veh/h 438          0 401      0 465 447 293        0 239 156 141 135
+Grp Sat Flow(s),veh/h/ln1828      0 1680     0 1787 1719 1577     0 1283 1757 1752 1540
+Q Serve(g_s), s           0.0  0.0 13.5    0.0 15.1 15.1   6.6  0.0 13.6   6.9  4.0  4.4
+Cycle Q Clear(g_c), s 13.0     0.0 13.5    0.0 15.1 15.1 13.0   0.0 13.6   6.9  4.0  4.4
+Prop In Lane             0.04        0.04 0.00       0.21 0.16       0.28 1.00      0.35
+Lane Grp Cap(c), veh/h 891        0 776      0 826 794 461        0 333 193 746 655
+V/C Ratio(X)             0.49 0.00 0.52 0.00 0.56 0.56 0.64 0.00 0.72 0.81 0.19 0.21
+Avail Cap(c_a), veh/h 891         0 776      0 826 794 697        0 537 275 1106 972
+HCM Platoon Ratio        1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00
+Upstream Filter(I)       1.00 0.00 1.00 0.00 1.00 1.00 1.00 0.00 1.00 1.00 1.00 1.00
+Uniform Delay (d), s/veh 15.1  0.0 15.2    0.0 15.6 15.6 26.5   0.0 27.0 34.8 14.4 14.5
+Incr Delay (d2), s/veh    1.9  0.0    2.5  0.0  2.8   2.9  1.5  0.0   2.9 11.3  0.1  0.2
+Initial Q Delay(d3),s/veh 0.0  0.0    0.0  0.0  0.0   0.0  0.0  0.0   0.0  0.0  0.0  0.0
+%ile BackOfQ(50%),veh/ln7.2     0.0   6.8  0.0   8.0  7.7  6.0  0.0   5.0  4.0  1.9  1.9
+LnGrp Delay(d),s/veh 17.0      0.0 17.7    0.0 18.4 18.5 27.9   0.0 29.9 46.1 14.5 14.6
+LnGrp LOS                   B           B          B    B    C          C    D    B    B
+Approach Vol, veh/h            839              912             532             432
+Approach Delay, s/veh         17.3             18.5            28.8            25.9
+Approach LOS                      B                B              C               C
+Timer                      1     2     3       4   5      6    7      8
+Assigned Phs               1     2             4          6           8
+Phs Duration (G+Y+Rc), 13.3
+                        s     25.3          41.5       38.5        41.5
+Change Period (Y+Rc), s 4.5    4.5           4.5        4.5         4.5
+Max Green Setting (Gmax),
+                       12.5s 33.5           20.5       50.5        20.5
+Max Q Clear Time (g_c+I1),
+                         8.9s 15.6          15.5        6.4        17.1
+Green Ext Time (p_c), s 0.1    5.2           3.9        6.5         2.7
+Intersection Summary
+HCM 2010 Ctrl Delay                  21.3
+HCM 2010 LOS                           C
+
+
+
+
+970 Denny Way 5:00 pm 4/23/2015 Existing (2015) PM Peak Hour                                      Synchro 9 Report
+Transpo Group
+HCM 2010 TWSC                                                                                      970 Denny Way
+4: Terry Ave N & Denny Way                                                                   Existing (2015) PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           7.3
+
+Movement                          EBL EBT EBR           WBL WBT WBR           NBL NBT NBR              SBL SBT SBR
+Vol, veh/h                          60 1030   75          40 745    45           5    5   35              5    5   15
+Conflicting Peds, #/hr             109    0 119          113    0 103          119    0 113             103    0 109
+Sign Control                      Free Free Free        Free Free Free        Stop Stop Stop           Stop Stop Stop
+RT Channelized                       -    - None           -    - None           -    - None              -    - None
+Storage Length                       -    -    -           -    -    -           -    -    -              -    -    -
+Veh in Median Storage, #             -    0    -           -    0    -           -    0    -              -    0    -
+Grade, %                             -    0    -           -    0    -           -    0    -              -    0    -
+Peak Hour Factor                    97   97   97          97   97   97          97   97   97             97   97   97
+Heavy Vehicles, %                    1    1    1           2    2    2           9    9    9              0    0    0
+Mvmt Flow                           62 1062   77          41 768    46           5    5   36              5    5   15
+
+Major/Minor                      Major1                Major2                Minor1                  Minor2
+Conflicting Flow All               923     0     0      1258    0    0        1921 2349    802        1759 2365      635
+       Stage 1                        -    -     -          -   -    -        1343 1343       -         983 983         -
+       Stage 2                        -    -     -          -   -    -          578 1006      -         776 1382        -
+Critical Hdwy                     4.12     -     -       4.14   -    -         7.68 6.68   7.08         7.5  6.5      6.9
+Critical Hdwy Stg 1                   -    -     -          -   -    -         6.68 5.68      -         6.5  5.5        -
+Critical Hdwy Stg 2                   -    -     -          -   -    -         6.68 5.68      -         6.5  5.5        -
+Follow-up Hdwy                    2.21     -     -       2.22   -    -         3.59 4.09   3.39         3.5    4      3.3
+Pot Cap-1 Maneuver                 742     -     -       549    -    -           37   32   312           55   36     426
+       Stage 1                        -    -     -          -   -    -          151 206       -         271 329         -
+       Stage 2                        -    -     -          -   -    -          451 302       -         361 213         -
+Platoon blocked, %                         -     -              -    -
+Mov Cap-1 Maneuver                 658     -     -       490    -    -          16    16   247           20    18    339
+Mov Cap-2 Maneuver                   -     -     -         -    -    -          16    16     -           20    18      -
+       Stage 1                       -     -     -         -    -    -          99   135     -          179   249      -
+       Stage 2                       -     -     -         -    -    -         316   229     -          195   139      -
+
+Approach                            EB                   WB                    NB                       SB
+HCM Control Delay, s                1.7                  1.4                 172.5                    167.5
+HCM LOS                                                                          F                        F
+
+Minor Lane/Major Mvmt            NBLn1 EBL      EBT EBR WBL WBT WBR SBLn1
+Capacity (veh/h)                     59 658        -   - 490     - -    44
+HCM Lane V/C Ratio                0.786 0.094      -   - 0.084   - - 0.586
+HCM Control Delay (s)             172.5    11    1.3   -    13 0.9 - 167.5
+HCM Lane LOS                          F     B      A   -     B   A -     F
+HCM 95th %tile Q(veh)               3.5   0.3      -   -   0.3   - -   2.2
+
+
+
+
+970 Denny Way 5:00 pm 4/23/2015 Existing (2015) PM Peak Hour                                            Synchro 9 Report
+Transpo Group
+HCM 2010 TWSC                                                                                                   970 Denny Way
+1: Westlake Ave N & John St                                                               Future (2018) Without-Project PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh        45.5
+
+Movement                        EBL EBT EBR               WBL WBT WBR                  NBL NBT NBR                   SBL SBT SBR
+Vol, veh/h                        65   50 215               25   10   25                120 475    35                  30 385    60
+Conflicting Peds, #/hr           414    0 416              878    0 876                 416    0 878                  876    0 414
+Sign Control                    Stop Stop Stop            Stop Stop Stop               Free Free Free                Free Free Free
+RT Channelized                     -    - None               -    - None                  -    - None                   -    - None
+Storage Length                     -    -    -               -    -    -                  -    -    -                   -    -    -
+Veh in Median Storage, #           -    0    -               -    0    -                  -    0    -                   -    0    -
+Grade, %                           -    0    -               -    0    -                  -    0    -                   -    0    -
+Peak Hour Factor                  88   88   88              88   88   88                 88   88   88                  88   88   88
+Heavy Vehicles, %                  0    0    0               0    0    0                  5    5    5                   3    3    3
+Mvmt Flow                         74   57 244               28   11   28                136 540    40                  34 438    68
+
+Major/Minor                    Minor2                    Minor1                       Major1                      Major2
+Conflicting Flow All            2382 2686 1547            2441 2700 2044                922       0      0         1458          0     0
+       Stage 1                    956 956      -          1710 1710    -                   -      -      -             -         -     -
+       Stage 2                  1426 1730      -            731 990    -                   -      -      -             -         -     -
+Critical Hdwy                     7.5  6.5   6.9            7.5  6.5 6.9                 4.2      -      -          4.16         -     -
+Critical Hdwy Stg 1               6.5  5.5     -            6.5  5.5   -                   -      -      -             -         -     -
+Critical Hdwy Stg 2               6.5  5.5     -            6.5  5.5   -                   -      -      -             -         -     -
+Follow-up Hdwy                    3.5    4   3.3             3.5   4 3.3               2.25       -      -          2.23         -     -
+Pot Cap-1 Maneuver               ~ 18 ~ 22 ~ 105           ~ 17  22   48                718       -      -          455          -     -
+       Stage 1                    281 339      -             96 147    -                   -      -      -             -         -     -
+       Stage 2                    145 144      -            384 327    -                   -      -      -             -         -     -
+Platoon blocked, %                                                                                -      -                       -     -
+Mov Cap-1 Maneuver                 -    ~1    ~ 10           -    ~1     ~1            ~ 118      -      -               75      -     -
+Mov Cap-2 Maneuver                 -    ~1       -           -    ~1      -                -      -      -                -      -     -
+       Stage 1                   281     74      -          96    24      -                -      -      -                -      -     -
+       Stage 2                     -   ~ 24      -           -    72      -                -      -      -                -      -     -
+
+Approach                          EB                       WB                            NB                           SB
+HCM Control Delay, s                                                                    88.8                         25.3
+HCM LOS                            -                          -
+
+Minor Lane/Major Mvmt           NBL    NBT NBR EBLn1WBLn1 SBL           SBT SBR
+Capacity (veh/h)               ~ 118      -   -    -    -    75            -   -
+HCM Lane V/C Ratio             1.156      -   -    -    - 0.455            -   -
+HCM Control Delay (s)          201.3   66.9   -    -    -    88         24.3   -
+HCM Lane LOS                       F      F   -    -    -     F           C    -
+HCM 95th %tile Q(veh)            8.4      -   -    -    -   1.8            -   -
+Notes
+~: Volume exceeds capacity       $: Delay exceeds 300s   +: Computation Not Defined     *: All major volume in platoon
+
+
+
+
+970 Denny Way 5:00 pm 4/28/2015 Future (2018) Without-Project PM Peak Hour                                               Synchro 9 Report
+Transpo Group
+HCM 2010 AWSC                                                                                            970 Denny Way
+2: Terry Ave N & John St                                                             Future (2018) Without-Project PM Peak Hour
+
+
+
+Intersection
+Intersection Delay, s/veh     8.2
+Intersection LOS                A
+Movement                     EBU      EBL             EBR     NBU      NBL    NBT               SBU               SBT     SBR
+Vol, veh/h                      0       80              35       0       25   125                  0                20      10
+Peak Hour Factor             0.92     0.92            0.92    0.92     0.92   0.92              0.92              0.92    0.92
+Heavy Vehicles, %               3        3               3       0        4      4                 0                 0       0
+Mvmt Flow                       0       87              38       0       27    136                 0                22      11
+Number of Lanes                 0        1               0       0        0      1                 0                 1       0
+
+Approach                               EB                               NB                                         SB
+Opposing Approach                                                       SB                                         NB
+Opposing Lanes                           0                               1                                          1
+Conflicting Approach Left              SB                               EB
+Conflicting Lanes Left                   1                               1                                           0
+Conflicting Approach Right             NB                                                                          EB
+Conflicting Lanes Right                  1                                0                                          1
+HCM Control Delay                      8.1                              8.4                                        7.3
+HCM LOS                                  A                                A                                          A
+
+Lane                                NBLn1 EBLn1 SBLn1
+Vol Left, %                           17%   70%    0%
+Vol Thru, %                           83%    0%   67%
+Vol Right, %                           0%   30%   33%
+Sign Control                          Stop  Stop  Stop
+Traffic Vol by Lane                    150   115    30
+LT Vol                                  25    80     0
+Through Vol                            125      0   20
+RT Vol                                    0    35   10
+Lane Flow Rate                         163   125    33
+Geometry Grp                              1     1    1
+Degree of Util (X)                   0.192 0.151 0.038
+Departure Headway (Hd)               4.246  4.35 4.161
+Convergence, Y/N                       Yes   Yes   Yes
+Cap                                    833   829   864
+Service Time                         2.334 2.352 2.169
+HCM Lane V/C Ratio                   0.196 0.151 0.038
+HCM Control Delay                       8.4   8.1  7.3
+HCM Lane LOS                              A     A    A
+HCM 95th-tile Q                         0.7   0.5  0.1
+
+
+
+
+970 Denny Way 5:00 pm 4/28/2015 Future (2018) Without-Project PM Peak Hour                                    Synchro 9 Report
+Transpo Group
+HCM 2010 Signalized Intersection Summary                                                         970 Denny Way
+3: Westlake Ave N & Denny Way                                                Future (2018) Without-Project PM Peak Hour
+
+
+
+
+Movement                 EBL EBT EBR WBL WBT WBR NBL NBT NBR SBL SBT SBR
+Lane Configurations
+Volume (veh/h)             15 825      15    0 840 140      60 480     85 255 280     55
+Number                      7     4    14    3    8    18    5    2    12    1    6   16
+Initial Q (Qb), veh         0     0     0    0    0     0    0    0     0    0    0    0
+Ped-Bike Adj(A_pbT) 1.00             0.77 1.00       0.78 0.76       0.61 1.00      0.78
+Parking Bus, Adj         1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00
+Adj Sat Flow, veh/h/ln 1900 1881 1900        0 1881 1900 1900 1792 1900 1845 1845 1900
+Adj Flow Rate, veh/h       16 859      16    0 875 146      62 500     89 266 292     57
+Adj No. of Lanes            0     2     0    0    2     0    0    2     0    1    2    0
+Peak Hour Factor         0.96 0.96 0.96 0.96 0.96 0.96 0.96 0.96 0.96 0.96 0.96 0.96
+Percent Heavy Veh, %        1     1     1    0    1     1    6    6     6    3    3    3
+Cap, veh/h                 55 1322     25    0 1165 194 103 579 101 304 1375 258
+Arrive On Green          0.40 0.40 0.40 0.00 0.40 0.40 0.26 0.26 0.26 0.17 0.49 0.49
+Sat Flow, veh/h            21 3328     63    0 3027 489 192 2218 385 1757 2803 527
+Grp Volume(v), veh/h 464          0 427      0 533 488 358        0 293 266 178 171
+Grp Sat Flow(s),veh/h/ln1734      0 1678     0 1787 1635 1527     0 1268 1757 1752 1578
+Q Serve(g_s), s           0.6  0.0 16.4    0.0 20.5 20.5 13.0   0.0 17.8 11.8   4.6  4.9
+Cycle Q Clear(g_c), s 21.1     0.0 16.4    0.0 20.5 20.5 17.9   0.0 17.8 11.8   4.6  4.9
+Prop In Lane             0.03        0.04 0.00       0.30 0.17       0.30 1.00      0.33
+Lane Grp Cap(c), veh/h 735        0 667      0 710 650 452        0 331 304 859 774
+V/C Ratio(X)             0.63 0.00 0.64 0.00 0.75 0.75 0.79 0.00 0.89 0.88 0.21 0.22
+Avail Cap(c_a), veh/h 735         0 667      0 710 650 463        0 341 318 887 799
+HCM Platoon Ratio        1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00
+Upstream Filter(I)       1.00 0.00 1.00 0.00 1.00 1.00 1.00 0.00 1.00 1.00 1.00 1.00
+Uniform Delay (d), s/veh 19.3  0.0 19.5    0.0 20.7 20.7 28.1   0.0 28.4 32.2 11.6 11.7
+Incr Delay (d2), s/veh    4.1  0.0    4.7  0.0  7.2   7.8  8.9  0.0 22.7 22.2   0.1  0.1
+Initial Q Delay(d3),s/veh 0.0  0.0    0.0  0.0  0.0   0.0  0.0  0.0   0.0  0.0  0.0  0.0
+%ile BackOfQ(50%),veh/ln9.0     0.0   8.4  0.0 11.5 10.6   8.7  0.0   8.3  7.6  2.3  2.2
+LnGrp Delay(d),s/veh 23.4      0.0 24.2    0.0 27.9 28.5 37.0   0.0 51.1 54.4 11.7 11.8
+LnGrp LOS                   C           C         C     C    D          D    D    B    B
+Approach Vol, veh/h            891             1021            651              615
+Approach Delay, s/veh         23.8             28.2            43.4            30.2
+Approach LOS                     C                C              D                C
+Timer                     1     2     3       4     5      6     7      8
+Assigned Phs              1     2             4            6            8
+Phs Duration (G+Y+Rc), 18.3
+                        s    25.4          36.3         43.7         36.3
+Change Period (Y+Rc), s 4.5   4.5           4.5          4.5          4.5
+Max Green Setting (Gmax),
+                       14.5s 21.5          30.5         40.5         30.5
+Max Q Clear Time (g_c+I1),
+                       13.8s 19.9          23.1          6.9         22.5
+Green Ext Time (p_c), s 0.1   1.0           5.9          8.2          6.3
+Intersection Summary
+HCM 2010 Ctrl Delay                 30.5
+HCM 2010 LOS                          C
+
+
+
+
+970 Denny Way 5:00 pm 4/28/2015 Future (2018) Without-Project PM Peak Hour                            Synchro 9 Report
+Transpo Group
+HCM 2010 TWSC                                                                                                     970 Denny Way
+4: Terry Ave N & Denny Way                                                                  Future (2018) Without-Project PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           25
+
+Movement                         EBL EBT EBR               WBL WBT WBR                   NBL NBT NBR                   SBL SBT SBR
+Vol, veh/h                         65 1210   80              40 845    50                   5    5   35                   5    5   15
+Conflicting Peds, #/hr            109    0 119              113    0 103                  119    0 113                  103    0 109
+Sign Control                     Free Free Free            Free Free Free                Stop Stop Stop                Stop Stop Stop
+RT Channelized                      -    - None               -    - None                   -    - None                   -    - None
+Storage Length                      -    -    -               -    -    -                   -    -    -                   -    -    -
+Veh in Median Storage, #            -    0    -               -    0    -                   -    0    -                   -    0    -
+Grade, %                            -    0    -               -    0    -                   -    0    -                   -    0    -
+Peak Hour Factor                   97   97   97              97   97   97                  97   97   97                  97   97   97
+Heavy Vehicles, %                   1    1    1               2    2    2                   9    9    9                   0    0    0
+Mvmt Flow                          67 1247   82              41 871    52                   5    5   36                   5    5   15
+
+Major/Minor                     Major1                    Major2                       Minor1                       Minor2
+Conflicting Flow All             1032      0     0         1449      0      0           2172 2656       897          1967 2671         689
+       Stage 1                       -     -     -             -     -      -           1542 1542          -         1088 1088            -
+       Stage 2                       -     -     -             -     -      -             630 1114         -           879 1583           -
+Critical Hdwy                     4.12     -     -          4.14     -      -            7.68 6.68      7.08           7.5  6.5         6.9
+Critical Hdwy Stg 1                  -     -     -             -     -      -            6.68 5.68         -           6.5  5.5           -
+Critical Hdwy Stg 2                  -     -     -             -     -      -            6.68 5.68         -           6.5  5.5           -
+Follow-up Hdwy                    2.21     -     -          2.22     -      -            3.59 4.09      3.39           3.5    4         3.3
+Pot Cap-1 Maneuver                675      -     -          463      -      -              24   20      269             38   23        393
+       Stage 1                       -     -     -             -     -      -             112 164          -           234 294            -
+       Stage 2                       -     -     -             -     -      -             420 268          -           313 170            -
+Platoon blocked, %                         -     -                   -      -
+Mov Cap-1 Maneuver                599      -     -          413      -      -             ~5       7     213                 6     8   312
+Mov Cap-2 Maneuver                  -      -     -            -      -      -             ~5       7       -                 6     8     -
+       Stage 1                      -      -     -            -      -      -              55     81       -               117   209     -
+       Stage 2                      -      -     -            -      -      -             274    191       -               121    84     -
+
+Approach                           EB                       WB                             NB                           SB
+HCM Control Delay, s               2.7                      1.9                        $ 782.7                      $ 730.3
+HCM LOS                                                                                      F                            F
+
+Minor Lane/Major Mvmt        NBLn1 EBL         EBT EBR WBL WBT WBR SBLn1
+Capacity (veh/h)                  24 599          -   - 413    -  -    17
+HCM Lane V/C Ratio             1.933 0.112        -   -  0.1   -  - 1.516
+HCM Control Delay (s)        $ 782.7 11.8       2.4   - 14.7 1.4  -$ 730.3
+HCM Lane LOS                       F     B        A   -    B   A  -      F
+HCM 95th %tile Q(veh)            5.8   0.4        -   -  0.3   -  -    3.7
+Notes
+~: Volume exceeds capacity        $: Delay exceeds 300s   +: Computation Not Defined      *: All major volume in platoon
+
+
+
+
+970 Denny Way 5:00 pm 4/28/2015 Future (2018) Without-Project PM Peak Hour                                                 Synchro 9 Report
+Transpo Group
+HCM 2010 TWSC                                                                                                   970 Denny Way
+1: Westlake Ave N & John St                                                                    Future (2018) With-Project PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh        48.2
+
+Movement                        EBL EBT EBR               WBL WBT WBR                  NBL NBT NBR                   SBL SBT SBR
+Vol, veh/h                        65   56 215               36   10   29                120 475    35                  38 385    60
+Conflicting Peds, #/hr           414    0 416              878    0 876                 416    0 878                  876    0 414
+Sign Control                    Stop Stop Stop            Stop Stop Stop               Free Free Free                Free Free Free
+RT Channelized                     -    - None               -    - None                  -    - None                   -    - None
+Storage Length                     -    -    -               -    -    -                  -    -    -                   -    -    -
+Veh in Median Storage, #           -    0    -               -    0    -                  -    0    -                   -    0    -
+Grade, %                           -    0    -               -    0    -                  -    0    -                   -    0    -
+Peak Hour Factor                  88   88   88              88   88   88                 88   88   88                  88   88   88
+Heavy Vehicles, %                  0    0    0               0    0    0                  5    5    5                   3    3    3
+Mvmt Flow                         74   64 244               41   11   33                136 540    40                  43 438    68
+
+Major/Minor                    Minor2                    Minor1                       Major1                      Major2
+Conflicting Flow All            2400 2704 1547            2463 2718 2044                922       0      0         1458          0     0
+       Stage 1                    974 974      -          1710 1710    -                   -      -      -             -         -     -
+       Stage 2                  1426 1730      -            753 1008   -                   -      -      -             -         -     -
+Critical Hdwy                     7.5  6.5   6.9            7.5  6.5 6.9                 4.2      -      -          4.16         -     -
+Critical Hdwy Stg 1               6.5  5.5     -            6.5  5.5   -                   -      -      -             -         -     -
+Critical Hdwy Stg 2               6.5  5.5     -            6.5  5.5   -                   -      -      -             -         -     -
+Follow-up Hdwy                    3.5    4   3.3             3.5   4 3.3               2.25       -      -          2.23         -     -
+Pot Cap-1 Maneuver               ~ 18 ~ 22 ~ 105           ~ 16   21  48                718       -      -          455          -     -
+       Stage 1                    274 333      -             96 147    -                   -      -      -             -         -     -
+       Stage 2                    145 144      -            372 321    -                   -      -      -             -         -     -
+Platoon blocked, %                                                                                -      -                       -     -
+Mov Cap-1 Maneuver                 -      0   ~ 10           -      0    ~1            ~ 118      -      -               75      -     -
+Mov Cap-2 Maneuver                 -      0      -           -      0     -                -      -      -                -      -     -
+       Stage 1                   274   ~ 39      -          96     24     -                -      -      -                -      -     -
+       Stage 2                     -   ~ 24      -         175     38     -                -      -      -                -      -     -
+
+Approach                          EB                       WB                            NB                           SB
+HCM Control Delay, s                                                                    88.8                         36.2
+HCM LOS                            -                          -
+
+Minor Lane/Major Mvmt           NBL    NBT NBR EBLn1WBLn1 SBL           SBT SBR
+Capacity (veh/h)               ~ 118      -   -    -    -    75            -   -
+HCM Lane V/C Ratio             1.156      -   -    -    - 0.576            -   -
+HCM Control Delay (s)          201.3   66.9   -    -    - 104.3         35.1   -
+HCM Lane LOS                       F      F   -    -    -     F            E   -
+HCM 95th %tile Q(veh)            8.4      -   -    -    -   2.5            -   -
+Notes
+~: Volume exceeds capacity       $: Delay exceeds 300s   +: Computation Not Defined     *: All major volume in platoon
+
+
+
+
+970 Denny Way 5:00 pm 4/28/2015 Future (2018) With-Project PM Peak Hour                                                  Synchro 9 Report
+Transpo Group                                                                                                                     Page 1
+HCM 2010 AWSC                                                                                            970 Denny Way
+2: Terry Ave N & John St                                                                Future (2018) With-Project PM Peak Hour
+
+
+
+Intersection
+Intersection Delay, s/veh     8.2
+Intersection LOS                A
+Movement                     EBU     EBL              EBR     NBU         NBL    NBT            SBU               SBT     SBR
+Vol, veh/h                      0      82               35       0          25   125               0                20      18
+Peak Hour Factor             0.92    0.92             0.92    0.92        0.92   0.92           0.92              0.92    0.92
+Heavy Vehicles, %               3       3                3       0           4      4              0                 0       0
+Mvmt Flow                       0      89               38       0          27    136              0                22      20
+Number of Lanes                 0       1                0       0           0      1              0                 1       0
+
+Approach                               EB                                  NB                                      SB
+Opposing Approach                                                          SB                                      NB
+Opposing Lanes                           0                                  1                                       1
+Conflicting Approach Left              SB                                  EB
+Conflicting Lanes Left                   1                                  1                                        0
+Conflicting Approach Right             NB                                                                          EB
+Conflicting Lanes Right                  1                                   0                                       1
+HCM Control Delay                      8.2                                 8.4                                     7.3
+HCM LOS                                  A                                   A                                       A
+
+Lane                                NBLn1 EBLn1 SBLn1
+Vol Left, %                           17%   70%    0%
+Vol Thru, %                           83%    0%   53%
+Vol Right, %                           0%   30%   47%
+Sign Control                          Stop  Stop  Stop
+Traffic Vol by Lane                    150   117    38
+LT Vol                                  25    82     0
+Through Vol                            125      0   20
+RT Vol                                    0    35   18
+Lane Flow Rate                         163   127    41
+Geometry Grp                              1     1    1
+Degree of Util (X)                   0.193 0.154 0.047
+Departure Headway (Hd)               4.257 4.371 4.085
+Convergence, Y/N                       Yes   Yes   Yes
+Cap                                    830   825   881
+Service Time                         2.348 2.374 2.091
+HCM Lane V/C Ratio                   0.196 0.154 0.047
+HCM Control Delay                       8.4   8.2  7.3
+HCM Lane LOS                              A     A    A
+HCM 95th-tile Q                         0.7   0.5  0.1
+
+
+
+
+970 Denny Way 5:00 pm 4/28/2015 Future (2018) With-Project PM Peak Hour                                       Synchro 9 Report
+Transpo Group                                                                                                          Page 2
+HCM 2010 Signalized Intersection Summary                                                      970 Denny Way
+3: Westlake Ave N & Denny Way                                                Future (2018) With-Project PM Peak Hour
+
+
+
+
+Movement                 EBL EBT EBR WBL WBT WBR NBL NBT NBR SBL SBT SBR
+Lane Configurations
+Volume (veh/h)             15 825      15    0 842 140      60 480     85 266 280     55
+Number                      7     4    14    3    8    18    5    2    12    1    6   16
+Initial Q (Qb), veh         0     0     0    0    0     0    0    0     0    0    0    0
+Ped-Bike Adj(A_pbT) 1.00             0.77 1.00       0.78 0.76       0.61 1.00      0.78
+Parking Bus, Adj         1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00
+Adj Sat Flow, veh/h/ln 1900 1881 1900        0 1881 1900 1900 1792 1900 1845 1845 1900
+Adj Flow Rate, veh/h       16 859      16    0 877 146      62 500     89 277 292     57
+Adj No. of Lanes            0     2     0    0    2     0    0    2     0    1    2    0
+Peak Hour Factor         0.96 0.96 0.96 0.96 0.96 0.96 0.96 0.96 0.96 0.96 0.96 0.96
+Percent Heavy Veh, %        1     1     1    0    1     1    6    6     6    3    3    3
+Cap, veh/h                 54 1290     25    0 1148 191 103 579 101 314 1391 262
+Arrive On Green          0.39 0.39 0.39 0.00 0.39 0.39 0.26 0.26 0.26 0.18 0.50 0.50
+Sat Flow, veh/h            20 3295     63    0 3026 488 192 2218 385 1757 2805 527
+Grp Volume(v), veh/h 464          0 427      0 534 489 358        0 293 277 178 171
+Grp Sat Flow(s),veh/h/ln1700      0 1678     0 1787 1633 1527     0 1268 1757 1752 1580
+Q Serve(g_s), s           0.8  0.0 16.6    0.0 20.8 20.8 13.0   0.0 17.8 12.3   4.6  4.9
+Cycle Q Clear(g_c), s 21.6     0.0 16.6    0.0 20.8 20.8 17.9   0.0 17.8 12.3   4.6  4.9
+Prop In Lane             0.03        0.04 0.00       0.30 0.17       0.30 1.00      0.33
+Lane Grp Cap(c), veh/h 712        0 657      0 700 639 452        0 331 314 869 784
+V/C Ratio(X)             0.65 0.00 0.65 0.00 0.76 0.76 0.79 0.00 0.89 0.88 0.21 0.22
+Avail Cap(c_a), veh/h 712         0 657      0 700 639 463        0 341 318 887 800
+HCM Platoon Ratio        1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00
+Upstream Filter(I)       1.00 0.00 1.00 0.00 1.00 1.00 1.00 0.00 1.00 1.00 1.00 1.00
+Uniform Delay (d), s/veh 19.7  0.0 19.9    0.0 21.1 21.1 28.1   0.0 28.4 32.0 11.3 11.4
+Incr Delay (d2), s/veh    4.6  0.0    4.9  0.0  7.8   8.5  8.9  0.0 22.7 23.7   0.1  0.1
+Initial Q Delay(d3),s/veh 0.0  0.0    0.0  0.0  0.0   0.0  0.0  0.0   0.0  0.0  0.0  0.0
+%ile BackOfQ(50%),veh/ln9.2     0.0   8.5  0.0 11.8 10.9   8.7  0.0   8.3  8.0  2.2  2.2
+LnGrp Delay(d),s/veh 24.3      0.0 24.8    0.0 28.9 29.6 37.0   0.0 51.1 55.8 11.4 11.5
+LnGrp LOS                   C           C         C     C    D          D    E    B    B
+Approach Vol, veh/h            891             1023            651              626
+Approach Delay, s/veh         24.5             29.2            43.4            31.1
+Approach LOS                     C                C              D                C
+Timer                     1     2     3       4    5      6      7      8
+Assigned Phs              1     2             4           6             8
+Phs Duration (G+Y+Rc), 18.8
+                        s    25.4          35.8        44.2          35.8
+Change Period (Y+Rc), s 4.5   4.5           4.5         4.5           4.5
+Max Green Setting (Gmax),
+                       14.5s 21.5          30.5        40.5          30.5
+Max Q Clear Time (g_c+I1),
+                       14.3s 19.9          23.6         6.9          22.8
+Green Ext Time (p_c), s 0.0   1.0           5.6         8.2           6.1
+Intersection Summary
+HCM 2010 Ctrl Delay                 31.2
+HCM 2010 LOS                          C
+
+
+
+
+970 Denny Way 5:00 pm 4/28/2015 Future (2018) With-Project PM Peak Hour                            Synchro 9 Report
+Transpo Group                                                                                               Page 4
+HCM 2010 TWSC                                                                                                   970 Denny Way
+4: Terry Ave N & Denny Way                                                                    Future (2018) With-Project PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh        33.3
+
+Movement                        EBL EBT EBR               WBL WBT WBR                  NBL NBT NBR                   SBL SBT SBR
+Vol, veh/h                        65 1221   80              40 885    50                  5    5   35                   5    5   15
+Conflicting Peds, #/hr           109    0 119              113    0 103                 119    0 113                  103    0 109
+Sign Control                    Free Free Free            Free Free Free               Stop Stop Stop                Stop Stop Stop
+RT Channelized                     -    - None               -    - None                  -    - None                   -    - None
+Storage Length                     -    -    -               -    -    -                  -    -    -                   -    -    -
+Veh in Median Storage, #           -    0    -               -    0    -                  -    0    -                   -    0    -
+Grade, %                           -    0    -               -    0    -                  -    0    -                   -    0    -
+Peak Hour Factor                  97   97   97              97   97   97                 97   97   97                  97   97   97
+Heavy Vehicles, %                  1    1    1               2    2    2                  9    9    9                   0    0    0
+Mvmt Flow                         67 1259   82              41 912    52                  5    5   36                   5    5   15
+
+Major/Minor                    Major1                    Major2                       Minor1                      Minor2
+Conflicting Flow All            1073      0     0         1460      0      0           2203 2708      903          2015 2724         710
+       Stage 1                      -     -     -             -     -      -           1553 1553         -         1130 1130            -
+       Stage 2                      -     -     -             -     -      -             650 1155        -           885 1594           -
+Critical Hdwy                    4.12     -     -          4.14     -      -            7.68 6.68     7.08           7.5  6.5         6.9
+Critical Hdwy Stg 1                 -     -     -             -     -      -            6.68 5.68        -           6.5  5.5           -
+Critical Hdwy Stg 2                 -     -     -             -     -      -            6.68 5.68        -           6.5  5.5           -
+Follow-up Hdwy                   2.21     -     -          2.22     -      -            3.59 4.09     3.39           3.5    4         3.3
+Pot Cap-1 Maneuver               651      -     -          459      -      -              23   19     267             35   21        381
+       Stage 1                      -     -     -             -     -      -             111 162         -           220 281            -
+       Stage 2                      -     -     -             -     -      -             408 255         -           310 168            -
+Platoon blocked, %                        -     -                   -      -
+Mov Cap-1 Maneuver               577      -     -          410      -      -            ~4       6     211               ~4      7   303
+Mov Cap-2 Maneuver                 -      -     -            -      -      -            ~4       6       -               ~4      7     -
+       Stage 1                     -      -     -            -      -      -             52     76       -               104   197     -
+       Stage 2                     -      -     -            -      -      -            261    179       -               113    79     -
+
+Approach                          EB                       WB                         NB                             SB
+HCM Control Delay, s              2.9                       2                    $ 1007.3                       $ 1160.4
+HCM LOS                                                                                 F                              F
+
+Minor Lane/Major Mvmt        NBLn1 EBL        EBT EBR WBL WBT WBR SBLn1
+Capacity (veh/h)                 20 577          -   - 410     -  -    12
+HCM Lane V/C Ratio             2.32 0.116        -   - 0.101   -  - 2.148
+HCM Control Delay (s)      $ 1007.3 12.1       2.6   - 14.8  1.5 $- 1160.4
+HCM Lane LOS                      F     B        A   -     B   A  -      F
+HCM 95th %tile Q(veh)           6.1   0.4        -   -   0.3   -  -    4.1
+Notes
+~: Volume exceeds capacity       $: Delay exceeds 300s   +: Computation Not Defined     *: All major volume in platoon
+
+
+
+
+970 Denny Way 5:00 pm 4/28/2015 Future (2018) With-Project PM Peak Hour                                                  Synchro 9 Report
+Transpo Group                                                                                                                     Page 6
+HCM 2010 TWSC                                                                                        970 Denny Way
+5: Site Access & John St                                                            Future (2018) With-Project PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           3.5
+
+Movement                                   EBT EBR       WBL WBT            NBL           NBR
+Vol, veh/h                                   75   24       13   25            30            17
+Conflicting Peds, #/hr                        0 103        95    0           103            95
+Sign Control                               Free Free     Free Free          Stop          Stop
+RT Channelized                                - None        - None             -          None
+Storage Length                                -    -        -    -             0             -
+Veh in Median Storage, #                      0    -        -    0             0             -
+Grade, %                                      0    -        -    0             0             -
+Peak Hour Factor                             93   93       93   93            93            93
+Heavy Vehicles, %                             3    3        0    0             0             0
+Mvmt Flow                                    81   26       14   27            32            18
+
+Major/Minor                               Major1       Major2             Minor1
+Conflicting Flow All                           0   0     209     0           252            292
+       Stage 1                                 -   -        -    -           197               -
+       Stage 2                                 -   -        -    -            55               -
+Critical Hdwy                                  -   -      4.1    -            6.4            6.2
+Critical Hdwy Stg 1                            -   -        -    -            5.4              -
+Critical Hdwy Stg 2                            -   -        -    -            5.4              -
+Follow-up Hdwy                                 -   -      2.2    -            3.5            3.3
+Pot Cap-1 Maneuver                             -   -    1374     -           741            752
+       Stage 1                                 -   -        -    -           841               -
+       Stage 2                                 -   -        -    -           973               -
+Platoon blocked, %                             -   -             -
+Mov Cap-1 Maneuver                             -   -    1250     -           596            617
+Mov Cap-2 Maneuver                             -   -       -     -           596              -
+       Stage 1                                 -   -       -     -           759              -
+       Stage 2                                 -   -       -     -           868              -
+
+Approach                                     EB          WB                  NB
+HCM Control Delay, s                          0          2.7                11.5
+HCM LOS                                                                        B
+
+Minor Lane/Major Mvmt            NBLn1      EBT EBR WBL WBT
+Capacity (veh/h)                    603       -    - 1250  -
+HCM Lane V/C Ratio                0.084       -    - 0.011 -
+HCM Control Delay (s)              11.5       -    -   7.9 0
+HCM Lane LOS                          B       -    -     A A
+HCM 95th %tile Q(veh)               0.3       -    -     0 -
+
+
+
+
+970 Denny Way 5:00 pm 4/28/2015 Future (2018) With-Project PM Peak Hour                                   Synchro 9 Report
+Transpo Group                                                                                                      Page 7
+HCM 2010 TWSC                                                                                           970 Denny Way
+6: Denny Way & Site Access                                                             Future (2018) With-Project PM Peak Hour
+
+
+
+Intersection
+Int Delay, s/veh           0.3
+
+Movement                          EBL      EBT                  WBT WBR        SBL           SBR
+Vol, veh/h                           0    1351                   900   45         5             7
+Conflicting Peds, #/hr             171       0                     0 171        171           171
+Sign Control                      Free    Free                  Free Free      Stop          Stop
+RT Channelized                       -    None                     - None         -          None
+Storage Length                       -       -                     -    -         0             -
+Veh in Median Storage, #             -       0                     0    -         0             -
+Grade, %                             -       0                     0    -         0             -
+Peak Hour Factor                    97      97                    97   97        97            97
+Heavy Vehicles, %                    0       0                     1    1         0             0
+Mvmt Flow                            0    1393                   928   46         5             7
+
+Major/Minor                      Major1                        Major2         Minor2
+Conflicting Flow All              1145       0                      -     0    1818            829
+       Stage 1                        -      -                      -     -    1122               -
+       Stage 2                        -      -                      -     -      696              -
+Critical Hdwy                       4.1      -                      -     -      6.8            6.9
+Critical Hdwy Stg 1                   -      -                      -     -      5.8              -
+Critical Hdwy Stg 2                   -      -                      -     -      5.8              -
+Follow-up Hdwy                      2.2      -                      -     -      3.5            3.3
+Pot Cap-1 Maneuver                 618       -                      -     -       71           318
+       Stage 1                        -      -                      -     -      277              -
+       Stage 2                        -      -                      -     -      461              -
+Platoon blocked, %                           -                      -     -
+Mov Cap-1 Maneuver                 517       -                      -     -      50            223
+Mov Cap-2 Maneuver                   -       -                      -     -      50              -
+       Stage 1                       -       -                      -     -     232              -
+       Stage 2                       -       -                      -     -     386              -
+
+Approach                            EB                           WB              SB
+HCM Control Delay, s                 0                            0             50.7
+HCM LOS                                                                            F
+
+Minor Lane/Major Mvmt              EBL    EBT WBT WBR SBLn1
+Capacity (veh/h)                   517      -   -    -    91
+HCM Lane V/C Ratio                   -      -   -    - 0.136
+HCM Control Delay (s)                0      -   -    - 50.7
+HCM Lane LOS                         A      -   -    -     F
+HCM 95th %tile Q(veh)                0      -   -    -   0.5
+
+
+
+
+970 Denny Way 5:00 pm 4/28/2015 Future (2018) With-Project PM Peak Hour                                      Synchro 9 Report
+Transpo Group                                                                                                         Page 8
+Appendix D:   Trip Generation Worksheets
+                                                                               Trip Generation
+
+
+
+970 Denny Way
+
+
+
+Person Trips
+       Land Use                                     Size                                   Trip Rate1                 Inbound %           AVO Rate2           Person Trips
+       Proposed Use
+       Residential (LU 220)                                468 units                                                                         1.11
+         Daily                                                                        T = 6.06(X)+123.56                 50%                                      3,285
+         AM Peak Hour                                                                  T = 0.49(X)+3.73                  20%                                       259
+         PM Peak Hour                                                                 T = 0.55(X)+17.65                  65%                                       305
+
+
+           Shopping Center (LU 820)                        15,250 sf                                                                         1.11
+            Daily                                                                   42.70 trips/1,000 sq. ft.            50%                                       723
+            AM Peak Hour                                                             0.96 trips/1,000 sq. ft.            62%                                        16
+            PM Peak Hour                                                             3.71 trips/1,000 sq. ft.            48%                                        63
+
+
+           Existing Use
+           General Office Building (LU 710)                28,503 sf                                                                         1.10
+           Daily                                                                    11.03 trips/1,000 sq. ft.            50%                                       346
+           AM Peak Hour                                                              1.56 trips/1,000 sq. ft.            88%                                        49
+           PM Peak Hour                                                              1.49 trips/1,000 sq. ft.            17%                                        47
+
+
+
+           Existing Use
+           Furniture Store (LU 890)                        26,497 sf                                                                         1.12
+           Daily                                                                     5.06 trips/1,000 sq. ft.            50%                                       150
+           AM Peak Hour                                                              0.17 trips/1,000 sq. ft.            69%                                         5
+           PM Peak Hour                                                              0.45 trips/1,000 sq. ft.            48%                                        13
+
+
+
+
+Notes:
+1. Trip rates based on Institute of Transportation Engineers' (ITE) Trip Generation Manual 9th Edition average trip rate and equation as shown for the land uses noted.
+
+
+2. AVO = average vehicle occupancy is based on rates published in NCHRP 365 for Urban Areas for the residential and retail use and ITE Handbook 3rd Edition for Furniture
+Store (LU 890) use.
+
+
+
+
+\\srv-dfs-wa\MM_Projects\Projects\14\14365.00 - 970 Denny Residential\Traffic Analysis\Trip Generation\970 Denny_Trip Gen.xlsx                                            4/30/2015
+                                                                                          Trip Generation
+
+
+
+970 Denny Way
+
+    Person Trips by Mode of Travel
+                                                      Percent             Daily                         AM Peak Hour                                    PM Peak Hour
+    Trip Generation Summary                          By Mode1         Person Trips               In         Out      Total                      In          Out      Total
+    Proposed Use
+    Residential1
+      Walk, Bike, Other Trips                          50%                 1,640                26              104            130              99              54             153
+      Transit Trips                                    15%                  490                  8               31             39              30              16              46
+      Person Trips by Vehicle                          35%                 1,155                18               72             90              69              37             106
+      Total                                           100%                 3,285                52              207            259             198             107             305
+
+    Retail2
+     Walk, Bike, Other Trips                           25%                  180                  2               2               4               8               8              16
+     Transit Trips                                     25%                  180                  2               2               4               8               8              16
+     Person Trips by Vehicle                           50%                  363                  6               2               8              14              17              31
+     Total                                            100%                  723                 10               6              16              30              33              63
+
+    Existing Use
+    Office3
+     Walk, Bike, Other Trips                           15%                   50                  6               1               7               1               6               7
+     Transit Trips                                     27%                   90                 11               2              13               2              11              13
+     Person Trips by Vehicle                           58%                  206                 26               3              29               5              22              27
+     Total                                            100%                  346                 43               6              49               8              39              47
+
+
+    Existing Use
+    Furniture Store
+     Walk, Bike, Other Trips                           25%                   40                  1               0               1               1               2               3
+     Transit Trips                                     25%                   40                  1               0               1               1               2               3
+     Person Trips by Vehicle                           50%                   70                  1               2               3               4               3               7
+     Total                                            100%                  150                  3               2               5               6               7              13
+
+
+    Net New Project Person Trips
+     Walk, Bike, Other Trips                                               1,730                21             105             126             105              54             159
+     Transit Trips                                                          540                 -2              31              29              35              11              46
+     Person Trips by Vehicle                                               1,242                -3              69              66              74              29             103
+     Total                                                                 3,512                16             205             221             214              94             308
+
+    1. Person trip mode splits based on 2009 - 2013 American Community Survey 5-Year Estimates for census tract (#73) of the proposed project, consideration of the future land use in
+    South Lake Union, and previous studies completed in South Lake Union.
+    2. Mode split considers that the larger retail space is anticipated to serve a larger market area than just the immediate vicinity.
+    3. Mode splits for office use were based on a review of 2014 CTR data, which is based on office with 100 or more employees and adjusted considering the potential for higher vehicle
+    use with the smaller existing office buildings.
+
+
+
+
+                                                    Vehicle Trip Generation
+                                                                      Daily Vehicle            AM Peak Hour Vehicle Trips                      PM Peak Hour Vehicle Trips
+    Land Use                                          AVO1                 Trips                 In             Out           Total             In             Out            Total
+    Proposed Use
+    Residential1                                       1.16                 990                 15              62              77              59              32              91
+    Retail2                                            1.20                 300                  5               2               7              12              14              26
+    Subtotal                                                               1,290                20              64              84              71              46             117
+    Existing Use
+    Office3                                            1.12                 185                 23               3              26               4              20              24
+    Furniture Store                                    1.12                  65                  3               1               4               5               7              12
+    Subtotal                                                                250                 26              4               30              9               27              36
+    Net New Trips                                                          1,040                -6              60              54              62              19              81
+    1. Average Vehicle Occupancy (AVO) based on 2009 - 2013 American Community Survey 5-Year Estimates for census tract (#73), report B08137.
+    2. Consistent with other studies in the area.
+    3. Based on 2014 CTR Data for the South Lake Union neighborhood.
+
+
+
+
+\\srv-dfs-wa\MM_Projects\Projects\14\14365.00 - 970 Denny Residential\Traffic Analysis\Trip Generation\970 Denny_Trip Gen.xlsx                                                             4/30/2015
+Appendix E:   Parking Demand Worksheets
+                                          Appendix E - Parking Demand
+                                Seattle Apartment Parking Demand Rate Calculation
+             Project Information
+             Project:                   970 Denny
+             Project No:                14365.00
+             Unit Mix
+             Studio & Open one bedroom units:               159
+             One bedroom units:                             205
+             Two bedroom units:                              92
+             Three bedroom units                             12
+             Total apartment units:                         468    *Assumed breakdown based on
+                                                                   unit mix percentages
+             Census Data
+             Cesus Tract Number:               73
+
+             Renter occupied housing with:
+             No Vehicle                       943
+             1 Vehicle                       1638
+             2 vehicles                       264
+             3 vehicles                       59
+             *US Census Bureau, 2009 - 2013 American Community Survey, Report B25044
+
+             Vehicle Ownership Rate Calculation
+
+             Studio, open, and one bedroom unit auto ownership:1
+                        0.63           autos/unit
+
+             One, two, and three bedroom unit auto ownership:2
+                        0.81           autos/unit
+
+             1. Assumes no vehicle or one vehicle ownership
+             2. Assumes no vehicle, one vehicle, two, and three vehicle ownership
+
+             Weighted Average Vehicle Ownership Rate for Proposed Apartments:
+                       0.75           autos/unit
+
+             Residential Peak Parking Demand
+
+                         351               Vehicles
+
+             ULI Apartment Visitor Parking Demand Rate
+
+                         0.15              autos/unit
+
+             Visitor Parking Demand Rate Calculation
+
+             Wtd. Avg. Vehicle Ownership + ULI Visitor Rate=
+                         70            Vehicles
+
+             Total Localized Peak Parking Demand
+
+                         421               vehicles
+
+
+
+Apartment Demand                                                                                 5/1/2015
+                    Seattle Apartment Parking Demand Rate Calculation (ITE Method)
+     Project Information
+     Project:                        1210 Harrison Residential
+     Project No:                     14325.00
+     Unit Mix
+     Studio & Open one bedroom units:                     159
+     One bedroom units:                                   205
+     Two bedroom units:                                    92
+     Three bedroom units                                   12
+     Total apartment units:                               468
+     Total Bedrooms                                      584.0
+     ITE Parking Demand Calculation
+
+     LU #222 - High-Rise Parking Demand Rate (Urban):
+                   1.37              autos/unit (all demand on-site i.e., includes visitors)
+
+     LU #222 - High-Rise Average Size (Urban):
+                   2.00                bedrooms/unit
+
+     Calculated Parking Demand per Bedroom:
+                   0.69              autos/bedroom
+
+     Project Peak Parking Demand based on Bedroom Rate
+
+                    403                vehicles
+
+
+
+
+ITE Rate                                                                                       5/1/2015

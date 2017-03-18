@@ -1,0 +1,2610 @@
+William Popp Associates                    Transportation Engineers/Planners
+________________________________________________________________________
+                                                                                (425) 401-1030
+                                                                            FAX (425) 401-2125
+                                                                e-mail: info@wmpoppassoc.com
+
+
+
+
+             TRAFFIC IMPACT ANALYSIS
+                                           for
+
+                Lake Forest Condos
+     14727 35th Ave NE, Lake Forest Park, WA
+
+
+
+                                       Prepared for:
+
+                                     Mr. Andy Wang
+                                     Forza Homes Inc.
+                                    22902 74th Ave W
+                                   Edmonds, WA 98026
+
+
+
+                                       Prepared by:
+
+                                  William Popp Associates
+                                 14-400 Building, Suite 206
+                                     14400 Bel-Red Rd
+                                   Bellevue, WA 98007
+
+
+
+                                       May 21, 2015
+
+
+
+
+           14-400 Building  Suite 206  14400 Bel-Red Road  Bellevue, WA 98007
+Traffic Impact Analysis                                                                                                             Lake Forest Condos
+
+
+
+
+                                         TABLE OF CONTENTS
+
+
+INTRODUCTION .......................................................................................................................................1
+
+A. EXISTING CONDITIONS ...................................................................................................................1
+     1.     SITE SERVICES INVENTORY ................................................................................................................1
+     2.     TRAFFIC VOLUMES ............................................................................................................................4
+     3.     LEVEL-OF-SERVICE ............................................................................................................................6
+                 Table 1 Intersection Level-of-Service Criteria.......................................................................................... 7
+                 Table 2 Existing Intersection Level-of-Service (Year 2015) a, b................................................................ 8
+     4.     SIGHT DISTANCE ................................................................................................................................9
+B. FUTURE CONDITIONS ......................................................................................................................9
+     1.     BACKGROUND TRAFFIC VOLUMES .....................................................................................................9
+     2.     PROJECT TRIP GENERATION .............................................................................................................10
+                 Table 3 Project Trip Generation ............................................................................................................. 10
+     3.     TRIP DISTRIBUTION AND TRAFFIC ASSIGNMENT...............................................................................11
+     4.     BACKGROUND TRAFFIC PLUS PROJECT TRAFFIC VOLUMES .............................................................11
+     5.     LEVEL-OF-SERVICE (2017 WITH AND WITHOUT PROJECT)................................................................11
+                 Table 4 2017 Future Intersection Level-of-Service (AM and PM Peak Hour) a ..................................... 12
+     6.     QUEUES ...........................................................................................................................................13
+                 Table 5 Lake Forest Park -- Queue Estimates a ....................................................................................... 13
+C. CONCLUSIONS ..................................................................................................................................14
+     1.     PROJECT DETAILS ............................................................................................................................14
+     2.     TRAFFIC VOLUMES ..........................................................................................................................14
+     3.     TRANSIT AND NON-MOTORIZED TRIPS ............................................................................................15
+     4.     PROJECT TRIP GENERATION .............................................................................................................15
+     5.     PROJECT TRIP DISTRIBUTION AND ASSIGNMENT AND NEIGHBORHOOD IMPACTS .............................15
+     6.     ARTERIAL INTERSECTION PROJECT VEHICULAR IMPACT..................................................................16
+     7.     LEVEL OF SERVICE ...........................................................................................................................16
+     8.     SIGHT DISTANCE ..............................................................................................................................17
+     9.     QUEUES ...........................................................................................................................................17
+D. MITIGATION AND RECOMMENDATIONS ................................................................................17
+
+
+
+
+                                                                                                                                                         Page i
+Traffic Impact Analysis (5/21/15)                                            Lake Forest Condos
+
+
+
+
+INTRODUCTION
+
+The following report was prepared in order to address the traffic related impacts of the
+proposed new Lake Forest Park Condominium development in the city of Lake Forest
+Park. A vicinity map is shown in Figure 1.
+
+This study evaluates the project’s AM and PM peak hour impacts at three off-site
+intersections identified by the City. These include SR 522/NE 153rd St, SR 522/NE 147th
+St (PM only), and SR 522/NE 145th St. The study also includes a review of project traffic
+impact on neighborhood roadways in the vicinity of the site.
+
+Project Identification
+
+The Lake Forest Condos project would be constructed on a single parcel, 156810-0670,
+located at 14727 35th Ave NE. The total parcel area is 8,706 gsf and there is currently
+one vacant/abandoned single family home on the property.
+
+The proposed project will consist of 16 condominium units. There will be a 22-stall
+parking garage on the ground floor. The parking garage will take access to 35th Ave NE
+with a 20-foot wide driveway that is proposed at 33 feet from the south property line to
+center of driveway.
+
+The site plan is presented in Figure 2.
+
+
+A. EXISTING CONDITIONS
+
+1.      Site Services Inventory
+
+Roadways
+
+Key roadways serving the site are discussed below.
+
+SR 522 is a 5- to 6-lane principal arterial (major highway) in the vicinity of the project.
+Side street access for local street and driveways is typically restricted to right-in and right-
+out movements with some designated left turn pockets. SR 522 consists of two general
+purpose lanes each direction, plus a designated bus lane (outside lane) in the southbound
+direction. There are bus pullouts at bus stops for the northbound direction. The posted
+speed limit is 40 mph north of NE 145th St and 35 mph south of it.
+
+NE 145th St is a 4-lane arterial west of SR 522 (outside the City limits) and a 2-lane local
+access roadway east of SR 522 (south City limits boundary line). The roadway east of SR
+522 is straight but with a vertical curve between SR 522 and 37th Ave NE. In this section,
+the roadway is approximately 22 feet wide with sporadic gravel shoulders, along with fog
+
+
+William Popp Associates                                                                  Page 1
+                     North
+
+
+
+
+                                                                                        SITE
+
+
+
+
+WILLIAM POPP ASSOCIATES                                                        Lake Forest Condos
+Transportation Planners & Engineers                  VICINITY MAP              14727 35th Ave NE
+                                      Bellevue, WA                                  16 Units
+  www.wmpoppassoc.com                 425.401.1030                  Figure 1
+                     North
+
+
+
+
+WILLIAM POPP ASSOCIATES                                                     Lake Forest Condos
+Transportation Planners & Engineers                  SITE PLAN              14727 35th Ave NE
+                                      Bellevue, WA                               16 Units
+  www.wmpoppassoc.com                 425.401.1030               Figure 2
+Traffic Impact Analysis (5/21/15)                                         Lake Forest Condos
+
+
+
+
+lines and a yellow center skip strip. The posted speed is 25 mph this section. The
+Southern Gateway Village project will be improving the roadway along its’ frontage
+southside.
+
+NE 153rd St is a two-way east-west local access roadway with no access (dead-end) east
+of 37th Ave NE. The roadway has a relatively steep downgrade east of 37th Ave NE. The
+speed limit is 25 mph.
+
+35th Ave NE is a two-way north-south local access roadway that connects between NE
+147th St and NE 148th St. The roadway is paved approximately 18- to 20-feet in width, is
+level, and has no channelization markings. There are sporadic gravel shoulders in some
+areas that are being used for parallel parking just off the roadway pavement. The posted
+speed limit is 25 mph.
+
+NE 147th St is a two-way east-west local access roadway that connects between SR 522
+and east past NE 37th St. In the vicinity of 35th Ave NE, the roadway is 24 to 26 feet wide
+with some parallel parking (on gravel on north side and on the pavement south side) west
+of 35th Ave NE. East of 35th Ave NE the roadway narrows to 22 feet approximately and
+has some vertical curves nearing 37th Ave NE. The north section of this roadway east of
+35th Ave NE is presumed to be improved with the Southern Gateway Village
+development. The posted speed limit is 25 mph.
+
+NE 148th St is a two-way east-west local access roadway that connects between 35th Ave
+NE and east towards Lake Washington, with some steep slopes nearing 38th Pl NE. In the
+vicinity of the site, the roadway is approximately 24 wide with parallel parking (on
+gravel/paved areas outside both sides of the roadway. The posted speed limit is 25 mph.
+
+NE 150th St (north of NE 148th St) & 37th Ave NE (south of NE 153rd St) are two-way
+north-south local access roadways that provide connection between NE 148th St and NE
+153rd St. The roadway is residential in character, roadway pavement is approximately 28
+feet in width (for the majority). There are curb, gutter for most of the section as well.
+The roadway grade is curvilinear both horizontally and vertically. The posted speed is 25
+mph.
+
+37th Ave NE (south of NE 147th St) is a north-south two-way local access street. The
+roadway is straight but has a relatively steep incline from NE 147th St to NE 145th St.
+The roadway width is 22 to 24 feet wide with some gravel shoulder areas for parallel
+parking. The posted speed limit is 25 mph.
+
+
+
+
+William Popp Associates                                                               Page 2
+Traffic Impact Analysis (5/21/15)                                           Lake Forest Condos
+
+
+
+
+Intersection Geometrics and Signal Operations
+
+The SR 522/NE 153rd St intersection is signalized. The roadway channelization is:
+
+    •   Northbound approach – four lane with u-turn pocket, two thru lanes and small
+        right turn pocket that extends through the intersection to a bus stop zone.
+    •   Southbound approach – four lane approach including a left turn lane (u-turns
+        permitted), two thru lanes, and a bus only lane.
+    •   Westbound approach – a single lane approach for left and right turn movements.
+    •   The signal operates as an actuated signal. It includes protected left-turn and u-turn
+        phasing for the north and south approaches, the east approach is obviously split
+        phase. There are pedestrian crosswalks on the north and east legs only.
+
+The SR 522/NE 145th St intersection is signalized. The roadway channelization is:
+
+    •   Northbound approach – four lane with left turn pocket, two thru lanes and bus
+        only lane that transitions into a right turn pocket. The bus lane extends
+        approximately 290 feet north of the intersection where it then merges with the two
+        thru lanes.
+    •   Southbound approach – four lane approach including a left turn lane (u-turns
+        permitted), two thru lanes, and a bus lane that transitions into a right turn pockets.
+        The bus lane does not extend through the intersection.
+    •   Eastbound approach – a three lane approach with a left turn lane, a shared left/thru
+        lane, and a right turn pocket.
+    •   Westbound approach – a three lane approach with a left turn pocket, a thru lane,
+        and a right turn pocket.
+    •   The signal operates as an actuated signal. It includes protected left turn phasing
+        for the north and south legs, the east and west approaches are split phase. There
+        are pedestrian crosswalks all legs.
+
+The SR 522/NE 147th St intersection is non-signalized. The roadway channelization is:
+
+    •   Northbound approach – two thru lanes.
+    •   Southbound approach – four lane approach including a left turn pocket, two thru
+        lanes, and a bus only lane.
+    •   Westbound approach – a single lane approach with stop sign. The only permitted
+        movement is a right turn.
+    •   This intersection is side-street stop control. The southbound left turn is of course
+        a yield movement.
+
+Other two-way stop control intersections include:
+
+    •   35th Ave NE at NE 147th St.
+
+
+William Popp Associates                                                                 Page 3
+Traffic Impact Analysis (5/21/15)                                         Lake Forest Condos
+
+
+
+
+     •   37th Ave NE at NE 147th St.
+     •   37th Ave NE at NE 153rd St.
+
+The intersection of NE 145th St/37th Ave NE is an all-way stop control intersection. The
+intersections of NE 150th St/37th Ave NE and NE 148th St/NE 150th St have no designated
+sign controlled movements.
+
+Pedestrian Facilities
+
+The pedestrian facilities in the neighborhood areas east of SR 522 are limited with
+minimal shoulder and sidewalk locations. However, all of the roadways are local access
+type streets and are presumed to be low volume streets thus walking along the edge of the
+roadway is presumed to be adequate.
+
+SR 522 has sidewalks on both sides of the roadway. There are pedestrian crosswalks at
+the adjacent signalized intersections at NE 153rd St and NE 145th St.
+
+Transit Service
+
+Transit service in the region is provided by the King County Department of
+Transportation (Metro Transit) and Sound Transit. There are bus stops on both sides of
+SR 522 at the NE 153rd St intersection. The stops serve Metro Routes 308, 309, 312, and
+372 and Sound Transit Route 522.
+
+There are three bus stops in the vicinity of the SR 522/NE 145th St intersection. The bus
+stop on SR 522 just north of NE 145th St serves Metro Routes 308, 309, 312, and 372 and
+Sound Transit Route 522. The bus stop on SR 522 just south of NE 145th St serves Metro
+Routes 309, 312, 330, and 372 and Sound Transit Route 522. The bus stop on NE 145th
+St just west of SR 522 serves Metro Routes 308, and 330.
+
+2.       Traffic Volumes
+
+Existing AM and PM peak hour turning movement counts were collected Tuesday May
+19, 2015 at each of the analysis intersections, except at the SR 522/NE 145th St location
+for the AM peak period where an older count (Nov-2013) was provided by the City.
+
+The 2013 AM count at SR 522/NE 145th St was adjusted for selected heavier movements
+on SR 522 and west leg of NE 145th St in an effort to match the two-way volumes on SR
+522 south of NE 153rd St from the recent count this month.
+
+All of the peak hour turning movement counts are presented in Attachment 1 of the
+Technical Appendix.
+
+
+
+
+William Popp Associates                                                              Page 4
+Traffic Impact Analysis (5/21/15)                                                                          Lake Forest Condos
+
+
+
+
+A summary of the existing 2015 AM and PM peak hour volumes at the analysis
+intersections are presented in Attachment 2 of the Technical Appendix.
+
+Several daily counts were collected by WPA from WSDOT for the approaches at the
+signalized intersections analyzed in this TIA. The daily counts are a bit old, of the 2011
+and 2012 era, however the intent is to show the hourly fluctuations by approach at each
+location.
+
+The first figure shows the volumes at the SR 522/SR 523 (aka NE 145th St) intersection.
+
+
+                                                             SR 522 at SR 523
+                                                  Hourly Fluctuation by Approach (Apr-2012)
+
+
+                       3000
+
+
+                       2500
+   Vehicles per Hour
+
+
+
+
+                       2000
+
+                       1500
+
+                       1000
+
+                       500
+
+                         0
+                              0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 21: 22:
+                               0 0 0 0 0 0 0 0 0 0 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                                                       Tim e Begin
+
+                                                                NB       SB        EB       WB
+
+                                                                                                                       Figure 3
+
+As shown in Figure 3, there is a pronounced heavy volume southbound in the AM
+however, for the PM peak period the volume is almost the same. The eastbound
+approach volume also peak in the PM period, as well as the westbound approach.
+
+The second figure shows the volumes at the SR 522/NE 153rd St intersection.
+
+
+
+
+William Popp Associates                                                                                                 Page 5
+Traffic Impact Analysis (5/21/15)                                                                            Lake Forest Condos
+
+
+
+
+                                                            SR 522 at NE 153rd St
+                                                    Hourly Fluctuation by Approach (Dec-2010)
+
+
+                         3000
+
+                         2500
+     Vehicles per Hour
+
+
+
+
+                         2000
+
+                         1500
+
+                         1000
+
+                         500
+
+                           0
+                                0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 8:0 9:0 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 21: 22:
+                                 0 0 0 0 0 0 0 0 0 0 00 00 00 00 00 00 00 00 00 00 00 00 00
+                                                                         Tim e Begin
+
+
+                                                                       NB       SB       WB
+
+                                                                                                                         Figure 4
+
+Similar to Figure 4, there is a pronounced heavy volume southbound in the AM however,
+for the PM peak period the volume is almost the same.
+
+3.                        Level-of-Service
+
+Level-of-service (LOS) is a term defined by transportation and traffic engineers as a
+qualitative and quantitative measure of operational conditions within a traffic stream and
+the perception of these conditions by motorists and/or passengers. There are several
+quantitative indices utilized depending on the type of intersection control present. There
+are six levels-of-service that are given letter designations from "A" to "F", with "A" being
+the best, or minimum delay conditions, and "F" being the worst, with maximum delay or
+jammed conditions. LOS "C" or "D" is generally considered acceptable for planning and
+design purposes, while LOS "E" represents operating conditions at or near capacity with
+freedom to maneuver being extremely difficult.
+
+Level-of-service for the existing condition was calculated using Trafficware’s Synchro
+software. This software replicates the analytical procedures specified in the Highway
+Capacity Manual. The level of service criteria are shown in Table 1. Level-of-service for
+signalized and non-signalized intersections is quantified in terms of vehicular delay.
+Delay, measured in terms of time (seconds), also represents driver discomfort, frustration,
+excess fuel consumption and lost travel time.
+
+
+
+William Popp Associates                                                                                                   Page 6
+Traffic Impact Analysis (5/21/15)                                                     Lake Forest Condos
+
+
+
+
+                                                    Table 1
+                                     Intersection Level-of-Service Criteria
+
+     Level of                                                    Stopped Delay Per Vehicle1
+     Service                     Definition                  signalized              non-signalized
+
+         A                     Little or no delay         Less than 10.0 sec       Less than 10.0 sec
+         B                   Short traffic delays           10.1 to 20 sec           10.1 to 15 sec
+         C                  Average traffic delays          20.1 to 35 sec           15.1 to 25 sec
+         D                    Long traffic delays           35.1 to 55 sec           25.1 to 35 sec
+         E                  Very long traffic delays        55.1 to 80 sec           35.1 to 50 sec
+         F                      Extreme delay             Greater than 80 sec      Greater than 50 sec
+
+1   Delay; seconds per vehicle
+
+
+
+
+Note that for signalized intersections, the delay presented represents the overall operation
+of the intersection, whereas the delay presented for unsignalized intersections represents
+the delay for the critical approach or movement. The results are presented in this manner
+since the overall intersection delay at a non-signalized intersection is generally quite good
+because the major through street maneuvers are not impeded and for the most part carry
+the majority of the traffic. It is also important to note that the level of service results from
+the Synchro output do not fully take into consideration the queue spill back from
+upstream or downstream signalized intersections and the additional congestion that may
+occur.
+
+The existing level of service at the analysis intersections is presented in Table 2.
+
+
+
+
+William Popp Associates                                                                           Page 7
+Traffic Impact Analysis (5/21/15)                                                                       Lake Forest Condos
+
+
+
+
+                                                      Table 2
+                               Existing Intersection Level-of-Service (Year 2015) a, b
+
+                                                   Traffic
+       Intersection                                Control            LOS       Delaya         Comments
+
+AM PEAK HOUR c
+
+    SR 522/NE 153rd St                              Signal             A          8.2          all approaches (signal)
+
+    SR 522/NE 147th St                             SB Left            n/a         n/a          AM analysis not required
+                                                  WB Right            n/a         n/a           “   “ “ “         “
+
+    SR 522/NE 145th St                              Signal             D         41.9          all approaches (signal)
+
+PM PEAK HOUR c
+
+    SR 522/NE 153rd St                              Signal             B         12.3          all approaches (signal)
+
+    SR 522/NE 147th St                             SB Left             D         31.5          left turn yield
+                                                  WB Right             E         37.6          side street stop
+
+    SR 522/NE 145th St                              Signal              E        71.7          all approaches (signal)
+
+
+a    LOS and Delay; delay represented in seconds per vehicle. LOS and delay represent overall intersection approach delay.
+b    All counts were conducted May 19, 2015, except for the AM count at SR 522/NE 145th St which was adjusted to 2015 from a
+     Nov-2013 count.
+c    The AM and PM peak hours are in general the peak one hour between 7:00-9:00am, and 4:00-6:00 pm.
+
+
+
+
+The SR 522/NE 153rd St signalized intersection is estimated to operate at LOS A for the
+AM peak hour and LOS B for the PM peak hour. It is important to note that the delay
+presented in Table 2 and the corresponding LOS is representative for the whole
+intersection, all approaches. The LOS analysis assumes an actuated-uncoordinated signal
+with a cycle length of 180 seconds for both the AM and PM peak hours. The cycle length
+was observed for the PM peak and assumed for the AM peak.
+
+At the SR 522/NE 147th St intersection, only analyzed for the PM peak hour, the
+southbound left turn movement is estimated to operate at LOS D. The westbound right
+turn movement from NE 147th St is estimated to operate at LOS E. The City indicated
+that no LOS analysis was required for the AM peak hour. Excess delay can be incurred
+due to queue spill back from NE 153rd St, however, in certain situations when this
+occurred, southbound left turn movements and westbound right turn movements were
+observed to be waived across or waived in the queue.
+
+The SR 522/NE 145th St signalized intersection is estimated to operate at LOS D for the
+AM peak hour and LOS E for the PM peak hour. Again, the delay and LOS is
+representative for the whole intersection, all approaches. The LOS analysis assumes an
+actuated-uncoordinated signal with an observed cycle length of 220 seconds for the PM
+peak hour and an assumed 180 second cycle for the AM intersection cycle length.
+
+
+
+
+William Popp Associates                                                                                                  Page 8
+Traffic Impact Analysis (5/21/15)                                          Lake Forest Condos
+
+
+
+
+The existing level of service results are presented in Attachment 3 of the Technical
+Appendix.
+
+4.      Sight Distance
+
+There are two sight distance parameters generally applicable to new access scenarios.
+One is intersection (or entering) sight distance (ISD/ESD) from project driveways and the
+other is stopping sight distance (SSD). For a low volume driveway such as the one
+proposed accessing a low volume residential street, typically only the stopping sight
+distance condition is considered.
+
+The radius of the 35th Ave NE/NE 148th St curve is approximately 55 feet along the
+center of road. The calculated design speed for this conditions with 0% superelevation is
+approximately 15 mph (per AASHTO Exhibit 3-16). Based on a design speed of 15 mph,
+the minimum required stopping sight distance is 80 feet. Assuming a 20 mph speed, the
+SSD is 110 feet.
+
+Given the proposed location of the project driveway, 33 feet north of south property line,
+the estimated sight line looking northeast to NE 148th St is approximately 110 feet. The
+sight line looking south extends all the way to NE 147th St.
+
+A sight distance sketch is included in Attachment 5 of the Technical Appendix.
+
+
+B. FUTURE CONDITIONS
+
+1.      Background Traffic Volumes
+
+Background traffic volumes are typically estimated by factoring the existing traffic
+volumes by historical traffic growth rate(s) to the project's horizon year and adding in
+known pipeline development proposals. The project’s estimated horizon year was
+assumed to be 2 years out from this study date, thus 2017.
+
+The City’s Southern Gateway Sub-Area Plan Draft EIS for traffic forecasts indicates that
+growth on SR 522 would range between approximately 0.2% to 0.4% per year from 2012
+to 2030. Traffic growth for the area east of SR 522 was assumed to be negligible except
+for known development such as the Southern Gateway Village development.
+
+The recent PM turning movement counts conducted at the three SR 522 intersections of
+the study area when compared against the 2012 counts in the Draft EIS indicate a mix of
+positive and negative growth. The PM total entering volume at the SR 522/NE 153rd St
+intersection increased slightly at 0.16% from 2012 to 2015. The PM volume at the SR
+522/NE 147th St intersection was down 3.8%, and the PM volume at the SR 522/NE 145th
+St intersection was down 6.1%.
+
+
+William Popp Associates                                                                Page 9
+Traffic Impact Analysis (5/21/15)                                              Lake Forest Condos
+
+
+
+
+For this analysis, the 2015 counts were used as the basis for all future forecasts. The
+2013 AM count at the SR 522/NE 145th St intersection which was used for this study,
+was adjusted to 2015 to match the south leg volumes (to a closer degree) at the SR
+522/NE 153rd St intersection. The annual growth rate assumed was 0.5% per year for all
+SR 522 through traffic, 0.5% per year for all traffic on NE 145th St (SR 523) west of SR
+522, and 1.0% per year for all roadways east of SR 522.
+
+The Southern Gateway Village project trips were included in the 2017 background
+volume forecasts. An estimate of AM trips for this development assumed 70% of the PM
+traffic with all movements in the reverse direction.
+
+Year 2017 AM and PM background volumes are presented in Attachment 2 of the
+Technical Appendix.
+
+2.      Project Trip Generation
+
+The Lake Forest Condos plat consists of 16 new condominium units. There is one vacant
+and abandoned home on the site that will be demolished. However, for this traffic study,
+no trip credit adjustment was assumed for the home removed, as it may have been vacant
+for quite some time.
+
+The trip generation estimates are based on the ITE Trip Generation manual 8th Edition for
+Land Use Code 230; Condominium/Townhome (ITE LUC 230). The trip generation
+estimates for the project are presented in Table 3.
+
+                                              Table 3
+                                      Project Trip Generation
+
+ITE          Land Use                                     AM Peak                  PM Peak
+Code           Size                       AWT        Total In     Out         Total In     Out
+
+ITE LUC 230: Condominium/Townhome
+             16 units
+                               Rate       5.81        0.440   0.170   0.830   0.520   0.670   0.330
+                               Vol         93          7        1      6        8      5       3
+
+
+
+
+As shown in Table 3, the project site is estimated to generate 93 average weekday daily
+trips, 7 AM, and 8 PM peak hour trips.
+
+As noted above, for the future operations analysis summarized later herein, no trip credit
+was taken for the home removed and subsequent trip removed as it is assumed the home
+has been vacant for more than a few years, plus the credit is really an insignificant
+difference not worth discussion or analysis.
+
+
+William Popp Associates                                                                       Page 10
+Traffic Impact Analysis (5/21/15)                                           Lake Forest Condos
+
+
+
+
+3.      Trip Distribution and Traffic Assignment
+
+The project trip distribution percentages for AM and PM peak hour analysis were based
+on traffic volumes of the major roadways in the site vicinity, as well as professional
+judgment regarding known significant employment and socio/rec/shop opportunities.
+
+This analysis assumes 25% of the project trips to/from the north on SR 522, 35% of the
+project trips to/from the south on SR 522, and 40% of the project trips to/from the west
+on NE 145th St
+
+The AM and PM peak hour project trips are presented in Figure 5.
+
+4.      Background Traffic Plus Project Traffic Volumes
+
+Year 2017 PM peak hour with-project traffic volumes were developed by adding project
+trips to the year 2017 background traffic volumes.
+
+The traffic volume increases at each of the analysis intersections is relatively
+insignificant. The impact at each are discussed as follows:
+
+      SR 522/NE 153rd St. The total entering volume for the PM peak hour in 2017
+       with project is 4,242. The project volume at this intersection is 2 PM peak hour
+       trips (also 2 for the AM peak hour). The resultant project volume impact is
+       0.05%.
+
+      SR 522/NE 147th St. The total entering volume for the PM peak hour in 2017
+       with project, excluding the SB through volume, is 2,613. The project volume at
+       this intersection is 6 PM peak hour trips (3 for the AM peak hour). The resultant
+       project volume impact is 0.23%.
+
+      SR 522/NE 145th St. The total entering volume for the PM peak hour in 2017
+       with project is 4,582. The project volume at this intersection is 6 PM peak hour
+       trips (5 for the AM peak hour). The resultant project volume impact is 0.13%.
+
+The Year 2017 AM and PM peak hour with project volumes are shown in Attachment 2
+of the Technical Appendix.
+
+5.      Level-of-Service (2017 with and without Project)
+
+Level-of-service for the 2017 with- and without-project conditions were calculated for the
+subject analysis intersections. The results of the analysis are presented in Table 4. For
+comparison purposes, level-of-service values for 2015 are also presented. All of the
+
+
+
+William Popp Associates                                                               Page 11
+                     North                                                                                                                                         25%
+
+
+
+
+                                                                                                     0)
+                                                                                                   1(
+                                                                                                                                             1 (0)
+
+
+
+
+                                                                                                                                             2
+                                                                                                                                                     1 (2)
+
+
+
+
+                                                                                                                                        52
+                                                                                                     2)
+
+
+
+
+                                                                                                                                  SR
+                                                                                                   1(
+                                                                                                                                                                   NE 153rd St
+                                                             1 (0)
+
+
+
+
+                                                                         1 (2)
+
+
+
+
+                                                                                                                                     ve NE
+                                                                                                                               37th A
+                                                                                                                                                                        3 (6)
+
+
+
+
+                                                                                                                                                                                        5 (1)
+                                                                                           1 (0)
+                                                                                                           1 (2)
+
+
+
+
+                                                                                                                                                        St
+                                                                                                                                                     th
+                                          NE 149th St
+
+
+
+                                                                                                                                                    0
+                                                                                                                                                 15
+                                                                                                                                               NE
+
+                                                                                          SITE
+                                                                                                                      NE 148th St
+
+
+
+                                                                                     1 (2)                    NE 147th St
+
+                                                                                     5 (1)                         2 (4)                                                                           LEGEND
+                                               32nd Ave NE
+
+
+
+
+                                                                                                                                                                                          - Stop Sign
+                                                                                                                                               2 (4)
+                                                                                                                                                                                          - Traffic Signal
+                                                                                  4 (1)
+                                                                                                                                                     37th Ave NE
+
+
+
+
+                                                                                                                                                                                    x - Project PM Peak Hour Trip
+                                                                                                                                                                                  (x) - Project AM Peak Hour Trip
+                                                                                                                                                                                 xx% - Project Trip Distribution %
+
+
+                                                                 1 (2)                     2 (4)      NE 145th St
+                   40%
+                                                                2 (1)
+                                                                     1 (2)
+                                                                                  2 (0)
+                                                                         SR 522
+
+
+
+
+                                                                                                                              1 (2)
+                                                                                                                              1 (2)
+
+                                                                                                   2 (1)
+                                                                                                                      2 (0)
+
+
+
+
+                                                                         35%
+
+WILLIAM POPP ASSOCIATES                                                                                                                                                                         Lake Forest Condos
+Transportation Planners & Engineers                                      PROJECT TRIP DISTRIBUTION & ASSIGNMENT                                                                                 14727 35th Ave NE
+                                      Bellevue, WA                                                                                                                                                   16 Units
+  www.wmpoppassoc.com                 425.401.1030                                                                                                                    Figure 5
+Traffic Impact Analysis (5/21/15)                                                                      Lake Forest Condos
+
+
+
+
+future level of service calculations assume existing geometric and signal operations
+conditions.
+
+                                                   Table 4
+                     2017 Future Intersection Level-of-Service (AM and PM Peak Hour) a
+                                                 2015 b          2017 c             2017
+     Intersection                               Existing       Background         w/Project       Comments
+
+AM PEAK HOUR
+
+    SR 522/NE 153rd St                           A 8.2           A 8.5             A 8.5          all approaches (signal)
+
+    SR 522/NE 147th St                          n/a   n/a       n/a   n/a         n/a   n/a       southbound left
+                                                n/a   n/a       n/a   n/a         n/a   n/a       westbound right
+
+    SR 522/NE 145th St                           D 36.8          D 44.4            D 44.6         southbound approach
+
+PM PEAK HOUR
+
+    SR 522/NE 153rd St                           B 12.3          B 13.0            B 14.5         all approaches (signal)
+
+    SR 522/NE 147th St                           D 31.5          D 32.5            D 32.9         southbound left
+                                                 E 37.6          E 39.1            E 39.7         westbound right
+
+    SR 522/NE 145th St                           E 71.7          E 76.2             E 76.6        southbound approach
+
+a    LOS and Delay; delay represented in seconds per vehicle. LOS and delay represent overall intersection approach delay.
+b    All counts were conducted May 19, 2015, except for the AM count at SR 522/NE 145th St which was adjusted to 2015 from a
+     Nov-2013 count.
+c    The background traffic forecast assumes 0.5%/yr on SR 522 and SR 523, and 1.0%/yr on all roadways east of SR 522. Southern
+     Gateway Village is included in the background forecasts.
+
+
+
+
+The SR 522/NE 153rd St signalized intersection is estimated to operate at LOS A for the
+AM peak hour and LOS B for the PM peak hour for both existing and future project
+horizon year conditions. It is important to note that the delay presented in Table 2 and the
+corresponding LOS is representative for the whole intersection, all approaches.
+
+At the SR 522/NE 147th St intersection, only analyzed for the PM peak hour, the
+southbound left turn movement is estimated to operate at LOS D. The westbound right
+turn movement from NE 147th St is estimated to operate at LOS E. The City indicated
+that no LOS analysis was required for the AM peak hour.
+
+The SR 522/NE 145th St signalized intersection is estimated to operate at LOS D for the
+AM peak hour and LOS E for the PM peak hour. Again, the delay and LOS is
+representative for the whole intersection, all approaches.
+
+The site access is assumed to operate at LOS A, however no level of service analysis was
+conducted.
+
+All of the level of results are included in Attachment 3 of the Technical Appendix.
+
+
+
+William Popp Associates                                                                                               Page 12
+Traffic Impact Analysis (5/21/15)                                                                          Lake Forest Condos
+
+
+
+
+6.         Queues
+
+A queue summary analysis is included for all of the level of service analysis conditions.
+A summary of some of the key locations are presented in Table 5 below.
+
+                                                       Table 5
+                                         Lake Forest Park -- Queue Estimates a
+
+                                                                 2015                      2017                    2017
+                                         Available              Existing              without Project           with Project
+Approach                                  Storage          Avg Q 95th Qb            Avg Q 95th Qb           Avg Q 95th Qb
+
+SR 522/NE 153rd St
+ Northbound Thru (PM Peak)               1,650+ b          1,246      #1,726        1,272     #1,753         1,291     #1,754
+
+SR 522/NE 147th St
+ Southbound Left (PM Peak)                 230               n/a        19            n/a        19            n/a        20
+ Westbound Right (PM Peak)                270+ c             n/a        29            n/a        31            n/a        32
+
+SR 522/NE 145th St
+ Westbound Left (PM Peak)                  110               72        125           86         143           87        146
+ Westbound Thru (PM Peak)                 900+ d             126       196           149         225          151       225
+ Westbound Right (PM Peak)                 200               289       #472          310        #511          310       #511
+
+
+a    95th Q = 95th percentile queue. All numbers are in feet.
+b    Roadway distance from NE 147th St to NE 153rd St. These are two thru lanes, not pockets, thus length could in theory extend
+     back to NE 145th St (next signal) which is an additional 700 feet. Total distance between NE 145th St and NE 153rd St is
+     approximately 2,350 feet.
+c This is the distance of NE 147th St from SR 522 to 35th Ave NE. NE 147th St extends east 1,000’ +.
+d This is the distance of NE 145th St thru lane from SR 522 to the all-way stop at 37th Ave NE.
+# sign indicates queue exceeds storage capacity, actual queue may be longer.
+
+
+
+
+As shown in Table 5, there are a few instances where average queue and 95th percentile
+queues exceed link length or turn pocket storage length.
+
+The northbound thru queue on SR 522 and NE 153rd St is estimated to extend back
+(south) on average approximately 1,300 feet for future conditions with project. The 95th
+percentile queue is estimated to extend south past NE 147th St. The average queue or the
+95th percentile queue does not significantly change with project traffic.
+
+The estimated queues for conditions with project at the SR 522/NE 147th St intersection
+are estimated to be adequate in so much as they are predicted to be less than the storage
+available, in particular the southbound left turn pocket. The southbound left queue may
+be longer than shown in Table 5 as northbound queues begin to block the left-turn-across
+movement, however, as traffic slows to a stop, it is assumed that northbound motorists
+will permit (allow space) for vehicles to make a left turn across during peak congestion.
+It is also estimated that during peak congestion, motorists turning right from NE 147th St
+to SR 522 will be waived in during stopped queue conditions on SR 522. In any case, the
+
+
+
+William Popp Associates                                                                                                   Page 13
+Traffic Impact Analysis (5/21/15)                                          Lake Forest Condos
+
+
+
+
+increase queue length (average or 95th) is not estimated to significantly different with or
+without project traffic.
+
+At the SR 522/NE 145th St intersection, the queue analysis is shown for only the
+westbound approach. The queue results in the appendix identify results for all
+movements. For the westbound approach, the average queue for the left turn pocket is
+estimated to be less than the storage available, however, the 95th percentile queue is
+estimated to be longer, for all cases. The 95th percentile queue is estimated to only
+increase by 3 feet with project traffic. For the westbound through lane movement, not a
+storage pocket, the queue is not estimated to significantly increase with project traffic.
+The westbound right turn queue is estimated to exceed storage for both the average and
+95th percentile queue. However, with the project the queue does not change. This is due
+to the fact there are no project trips estimated to use the right turn pocket.
+
+The queue results are included in Attachment 4 of the Technical Appendix.
+
+
+C. CONCLUSIONS
+
+1.      Project Details
+
+The proposed project will consist of 16 condominium units. There will be a 22-stall
+parking garage on the ground floor. The parking garage will take access to 35th Ave NE
+with a 20-foot wide driveway that is proposed at 33 feet from the south property line to
+center of driveway.
+
+The project would be constructed on a single parcel, 156810-0670, located at 14727 35th
+Ave NE. The total parcel area is 8,706 gsf and there is currently one vacant/abandoned
+single family home on the property.
+
+2.      Traffic Volumes
+
+The PM peak hour volume on SR 522 in the vicinity of the project is estimated to be
+approximately 4,100 vehicles per hour (vph) in 2017 (2,540 vph northbound, and 1,560
+vph southbound +/-). The AM peak hour volume in 2017 is estimated to be 3,500 vph
+(1,250 northbound, and 2,250 southbound). The peak hour volume peak direction is near
+capacity for the roadway.
+
+The estimated volume on NE 147th St east of SR 522 is approximately 90 vehicles during
+the PM peak hour (40 westbound, 50 eastbound). This roadway is generally a residential
+character type street, daily volumes are not estimated to exceed 2,000 vehicles per day
+which is typically a rule-of-thumb measurement for a residential livable street. A PM
+peak hour volume of 90 vehicles would translate into approximately 900 vehicles per day.
+
+
+
+William Popp Associates                                                               Page 14
+Traffic Impact Analysis (5/21/15)                                          Lake Forest Condos
+
+
+
+
+3.      Transit and Non-Motorized Trips
+
+The area is well served by transit including five routes north and south on SR 522 with
+bus stops in the vicinity of the project. The southbound stop is accessible via signalized
+crossing at the SR 522/NE 153rd St intersection.
+
+There are sidewalks on both sides of SR 522 for safe pedestrian access. The
+neighborhood roadways east of SR 522 within vicinity of the site are neighborhood
+roadways that are safe for pedestrian walking, even though no designated sidewalks or
+walkways exist.
+
+4.      Project Trip Generation
+
+With 16 new condominium units, the project is estimated to 93 average weekday daily
+trips, 7 AM, and 8 PM peak hour trips.
+
+This project volume estimate is considered an insignificant traffic increase to the
+neighborhood roadways as well as arterial roads and intersections.
+
+For comparison discussion, it is important to note the City’s Southern Gateway Sub-Area
+Plan DEIS has identified existing 2012 and future 2030 traffic (Preferred Alternative) for
+the area that this project is located in. The area is identified as Zone 15, which is bound
+by SR 522 to the west, 35th Ave NE to the east, NE 148th St to the north, and NE 147th St
+to the south. All of the current land uses in this zone are estimated to generate 41 PM
+peak hour trips. The 2030 Preferred Alternative assumes redevelopment of this zone to
+include 52 low-rise dwelling units, 2,879 gsf retail, and 5,758 gsf office space. The total
+trip generation for this zone in 2030 is estimated to be 54 PM peak hour trips.
+
+It is assumed that this project, 16 condominium units (low rise in general), is consistent
+with the assumptions of the City’s DEIS.
+
+5.      Project Trip Distribution and Assignment and Neighborhood Impacts
+
+The project’s trip distribution pattern assumed a 25% - 75% distribution north and
+respectively for project trips.
+
+For the trips north, that would consist of 2 peak hour trips (AM or PM). It is assumed
+these trips would use NE 147th St to SR 522 in lieu of access through neighborhood
+roadways to NE 153rd St. Travel time estimates and predictions suggest that with SR 522
+conditions per the LOS calculations, the SR 522 route is approximately 50 seconds faster
+than local access streets, thus it is estimated that minimal trips from the project would use
+the local access connection. Of course with heavier than predicted congestion on SR 522,
+the alternate local access route may become more appealing. Nevertheless, the estimated
+
+
+
+William Popp Associates                                                               Page 15
+Traffic Impact Analysis (5/21/15)                                           Lake Forest Condos
+
+
+
+
+number of trips from the project is only 2 peak hour trips for either the AM or PM peak
+hour, thus even with the ‘diversion’ the impact is insignificant.
+
+For trips to/from the south, that would equate to 6 PM and 5 AM peak hour trips, which
+split to lesser numbers at the SR 522/NE 145th St intersection. The volume entering the
+site are all assumed to turn right from SR 522 to NE 147th St and then to the project. For
+project trips exiting the site, they will be required to traverse NE 147th St east, then 37th
+Ave NE south, then NE 145th St west. The estimated peak hour volume is 2 trips for the
+PM and 4 trips for the AM. Again, these low project volumes should be considered
+insignificant to overall roadway volume impacts.
+
+6.      Arterial Intersection Project Vehicular Impact
+
+The project’s vehicular impact at the three analysis intersections is summarized herein
+and is discussed as a percent of total vehicles entering the intersection.
+
+At the SR 522/NE 153rd St intersection, the total future 2017 entering volume is
+estimated at 3,558 vph for the AM peak hour and 4,242 for the PM peak hour. The
+project volume is 2 peak hour trips for either peak hour, resulting in a percent impact of
+only 0.06% and 0.05% respectively.
+
+At the SR 522/NE 147th St intersection, the total future 2017 entering volume is estimated
+at 4,186 vph for the PM peak hour. The project volume is 6 peak hour trips for the PM
+peak (2 for the AM peak), resulting in a percent impact of only 0.14%.
+
+At the SR 522/NE 145th St intersection, the total future 2017 entering volume is estimated
+at 3,938 vph for the AM peak hour and 4,582 for the PM peak hour. The project volume
+is 5 AM and 6 PM peak hour trips, resulting in a percent impact of only 0.13% and 0.13%
+respectively.
+
+7.      Level of Service
+
+An AM and PM peak hour level of service analysis was conducted at the following three
+intersections: 1) SR 522/NE 153rd St, 2) SR 522/NE 147th St (PM only), and 3) SR
+522/NE 145th St.
+
+At the SR 522/NE 153rd St intersection, the intersection is estimated to operate at LOS A
+for the AM peak hour and LOS B for the PM peak hour for existing and future year
+conditions. It should be noted the level of serve as presented represents the overall
+intersection, some movements are worse.
+
+At the SR 522/NE 147th St intersection, analyzed only for the PM peak hour, the
+southbound left turn movement is estimated to operate at LOS D for existing and future
+
+
+
+William Popp Associates                                                               Page 16
+Traffic Impact Analysis (5/21/15)                                            Lake Forest Condos
+
+
+
+
+conditions. The westbound right turn movement from NE 147th St to SR 522 is estimated
+to operate at LOS E for all conditions.
+
+At the SR 522/NE 145th St intersection, it is estimated to operate at LOS D for the AM
+peak hour and LOS E for the PM peak hour. Again, the delay and LOS is representative
+for the whole intersection, all approaches. Some movements will be worse.
+
+8.      Sight Distance
+
+A sight distance evaluation was conducted for stopping sight distance conditions (SSD)
+only since the roadways that the project takes access to are neighborhood local access
+type streets. Assuming the site access driveway is located per the details on the site plan
+included in this study, the SSD looking to the northeast through the 35th Ave NE/NE
+148th St curve is approximately 110 feet. The roadway curve follows a centerline radius
+of about 55 feet. That would equate to a design speed of 15 mph. The minimum required
+SSD per a 15 mph design speed is 80 feet, thus the SSD should be adequate. Assuming a
+20 mph speed, the minimum SSD is 110 feet, thus the available SSD is adequate up
+through a 20 mph design speed. Vegetation cutback and/or removal would be required to
+increase the sight line and SSD.
+
+9.      Queues
+
+An analysis of queuing for both average queue and 95th percentile queue was conducted at
+selected movements at each of the three analysis intersections. The full summary of
+queue results are included in the appendix. The results of the queue analysis indicate that
+the project will not significantly increase any of the queue lengths (average or 95th) for
+those reported movements.
+
+
+D. MITIGATION and RECOMMENDATIONS
+
+Based on the foregoing traffic impact analysis findings for the Lake Forest Condos
+project, it is concluded that the project traffic impacts, LOS and resulting queues are
+insignificant and are not likely to exacerbate or create any additional significant traffic
+congestion or safety problems.
+
+It is presumed that the project will construct frontage improvements in conjunction with
+City standards along 35th Ave NE and through the 35th Ave NE/NE 148th St curve
+including new asphalt, curb, gutter, and sidewalk the frontage length.
+
+
+
+
+William Popp Associates                                                                Page 17
+            TECHNICAL APPENDIX
+                     for
+          TRAFFIC IMPACT ANALYSIS
+                                  for
+
+                Lake Forest Condos
+     14727 35th Ave NE, Lake Forest Park, WA
+
+
+
+                              May 21, 2015
+
+
+                           ATTACHMENTS:
+
+1.     AM and PM Peak Hour Traffic Counts
+2.     AM and PM Peak Hour Turn Movements (Existing 2015, 2017 Background,
+       and 2017 with Project Conditions)
+3.     AM and PM Peak Hour Level of Service Results
+4.     Queue Results
+5.     Site Access Sight Distance Sketch
+       ATTACHMENT 1
+
+AM and PM Peak Hour Traffic Counts
+ www.idaxdata.com
+
+
+                                             SR 522
+                                           NE 153RD ST
+                                                                                                                                         Date: Tue, May 19, 2015
+                N                                   Peak Hour                                                                    Count Period: 7:00 AM to 9:00 AM
+                                                                                                                                   Peak Hour: 7:00 AM to 8:00 AM
+
+
+
+
+                                                       2,203
+
+
+
+                                                                         1,194
+                          SR 522
+
+                                           2,171
+
+
+
+
+                                                                                                                                                                     1
+                                                          32
+                                                                                                          NE 153RD ST                                                    21
+
+
+                                                                                                           17           38                                                                          0
+                                                       TEV: 3,439                                          21
+
+
+
+
+                                                                                                                                                                                             10
+                                                       PHF: 0.99
+                                                                                                                        53
+
+
+                                                                                                                                                                         0
+                                                                                                 SR 522
+                                                                     1177
+
+                                                                                    21
+
+
+
+
+                                                                                                                           HV %:         PHF
+
+
+
+
+                                                                                                                                                                                  10
+                                                                                                                  WB       2.6%            0.63
+                                                                                                                  NB       3.4%            0.89
+                                                       2,192
+
+
+
+                                                                         1,198
+
+
+
+
+                                                                                                                  SB       2.9%            0.88
+                                                                                                                TOTAL      3.1%            0.99
+
+
+Two-Hour Count Summaries
+                         NE 153RD ST                                         NE 153RD ST                                   SR 522                            SR 522
+    Interval                                                                                                                                                                       15-min          Rolling
+      Start               Eastbound                                              Westbound                              Northbound                          Southbound              Total         One Hour
+                    LT             TH                    RT          LT              TH                    RT     LT         TH            RT       LT         TH        RT
+    7:00 AM         0                  0                   0         2                   0                  0      0         242            1          3       620       0             868
+    7:15 AM         0                  0                   0         7                   0                  7      0         301            4          9       525       0             853
+    7:30 AM         0                  0                   0         9                   0                  6      0         309            6          10      526       0             866
+    7:45 AM         0                  0                   0         3                   0                  4      0         325           10          10      500       0             852         3,439
+    8:00 AM         0                  0                   0         0                   0                  9      0         312            9          10      482       0             822         3,393
+    8:15 AM         0                  0                   0         1                   0                  5      0         346            3          7       496       0             858         3,398
+    8:30 AM         0                  0                   0         3                   0                  4      0         312            3          8       504       0             834         3,366
+    8:45 AM         0                  0                   0         0                   0                  9      0         252            7          12      491       0             771         3,285
+  Count Total       0                  0                   0         25                  0                 44      0       2,399           43          69     4,144      0         6,724
+   Peak Hr          0                  0                   0         21                  0                 17      0       1,177           21          32     2,171      0         3,439
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                                  Bicycles                                     Pedestrians (Crossing Leg)
+      Start         EB       WB                    NB          SB           Total        EB                WB     NB       SB      Total          East        West       North           South      Total
+    7:00 AM         0              0               10          15            25              0              0      1         0       1             1            0            6               0              7
+    7:15 AM         0              1               8           19            28              0              0      2         0       2             2            0            5               0              7
+    7:30 AM         0              0               11          11            22              0              0      2         0       2             5            0            6               0          11
+    7:45 AM         0              0               12          19            31              0              0      5         1       6             2            0            4               0              6
+    8:00 AM         0              0               6           20            26              0              0      2         0       2             0            0            4               0              4
+    8:15 AM         0              1               10          7             18              0              0      0         0       0             2            0            4               0              6
+    8:30 AM         0              0               7           14            21              0              0      0         0       0             6            0            5               0          11
+    8:45 AM         0              0               13          9             22              0              0      0         0       0             0            0            5               0              5
+  Count Total       0              2               77          114          193              0              0     12         1      13            18            0            39              0          57
+   Peak Hr          0              1               41          64           106              0              0     10         1      11            10            0            21              0          31
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                        mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                              SR 522
+                                            NE 145TH ST
+                                                                                                                                       Date: Wed, Nov 06, 2013
+                N                                  Peak Hour                                                                   Count Period: 7:00 AM to 9:00 AM
+                                                                                                                                 Peak Hour: 7:30 AM to 8:30 AM
+
+
+
+
+                                                      1,562
+
+
+
+                                                                           1,371
+                           SR 522
+
+
+
+
+                                                         1,064
+
+
+
+
+                                                                                                                                                                    2
+                                            473
+
+
+
+
+                                                                       25
+                                                                                                       NE 145TH ST                                                      21
+
+
+      710                                                                                               24           117                                                                        1
+                    485                               TEV: 3,414                                        65
+
+
+
+
+                                                                                                                                                        23
+
+
+
+
+                                                                                                                                                                                         10
+                    54                                PHF: 0.96                                         28
+      690           151                                                                                               90                        0
+
+
+          NE 145TH ST                                                                                                                                                   24
+                                                                                              SR 522
+                                                         172
+
+                                                                       862
+
+                                                                                     11
+
+
+
+
+                                                                                                                        HV %:          PHF
+
+
+
+
+                                                                                                                                                                               2
+                                                                                                               EB       4.9%           0.95
+                                                                                                               WB       1.7%           0.89
+                                                      1,243
+
+
+
+                                                                           1,045
+
+
+
+
+                                                                                                               NB       3.7%           0.92
+                                                                                                               SB       4.2%           0.95
+                                                                                                             TOTAL      4.1%           0.96
+Two-Hour Count Summaries
+                          NE 145TH ST                                         NE 145TH ST                               SR 522                           SR 522
+    Interval                                                                                                                                                                    15-min         Rolling
+      Start                Eastbound                                               Westbound                         Northbound                         Southbound               Total        One Hour
+                    LT              TH                  RT             LT             TH                RT     LT          TH          RT       LT           TH         RT
+    7:00 AM         125                 5                32            5              15                 5     28          156           2         6         302        125        806
+    7:15 AM         125                 4                43            13             13                11     30          175           1         2         285        106        808
+    7:30 AM         113                 14               37            10             19                 4     38          216           0         3         272        118        844
+    7:45 AM         131                 9                42            7              15                 5     36          196           4         5         275        104        829         3,287
+    8:00 AM         112                 17               41            7              16                 9     50          216           4         7         246        123        848         3,329
+    8:15 AM         129                 14               31            4              15                 6     48          234           3         10        271        128        893         3,414
+    8:30 AM         133                 8                34            18             18                 3     36          199           3         8         237        117        814         3,384
+    8:45 AM         135                 8                45            8              12                11     38          197           1         12        229        126        822         3,377
+  Count Total    1,003                  79              305            72             123               54     304      1,589            18        53     2,117         947     6,664
+    Peak Hr         485                 54              151            28             65                24     172         862           11        25     1,064         473     3,414
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval               Heavy Vehicle Totals                                                              Bicycles                                    Pedestrians (Crossing Leg)
+      Start         EB        WB                  NB             SB          Total        EB            WB     NB       SB       Total        East           West       North        South          Total
+    7:00 AM          8              1             4              12           25          0              0      2          0      2            0              1           1              5           7
+    7:15 AM          9              0             4               8           21          1              0      0          0      1            6              9           2              10         27
+    7:30 AM         11              0             4              15           30          0              0      1          0      1            3              6           3              7          19
+    7:45 AM          9              2             7              10           28          0              1      0          0      1            2              10          10             4          26
+    8:00 AM          8              0             14             15           37          0              0      0          2      2            3              6           6              9          24
+    8:15 AM          6              0             14             26           46          0              0      1          0      1            2              1           2              4           9
+    8:30 AM          8              0             9              24           41          1              2      0          1      4            3              6           3              6          18
+    8:45 AM          8              1             10             25           44          0              0      0          0      0            2              5           6              6          19
+  Count Total       67              4             66             135         272          2              3      4          3      12          21              44          33             51         149
+    Peak Hr         34              2             39             66          141          0              1      2          2      5           10              23          21             24         78
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                      mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                             SR 522
+                                           NE 153RD ST
+                                                                                                                                         Date: Tue, May 19, 2015
+                N                                   Peak Hour                                                                    Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                   Peak Hour: 4:15 PM to 5:15 PM
+
+
+
+
+                                                       1,570
+
+
+
+                                                                        2,558
+                          SR 522
+
+                                           1,549
+
+
+
+
+                                                                                                                                                                     0
+                                                          21
+                                                                                                         NE 153RD ST                                                     18
+
+
+                                                                                                          72            95                                                                        1
+                                                       TEV: 4,165                                         23
+
+
+
+
+                                                                                                                                                                                            4
+                                                       PHF: 0.97
+                                                                                                                        35
+
+
+                                                                                                                                                                         0
+                                                                                                SR 522
+                                                                    2486
+
+                                                                                   14
+
+
+
+
+                                                                                                                           HV %:         PHF
+
+
+
+
+                                                                                                                                                                                  1
+                                                                                                                  WB       0.0%            0.82
+                                                                                                                  NB       1.0%            0.92
+                                                       1,572
+
+
+
+                                                                        2,500
+
+
+
+
+                                                                                                                  SB       0.6%            0.96
+                                                                                                                TOTAL      0.8%            0.97
+
+
+Two-Hour Count Summaries
+                         NE 153RD ST                                        NE 153RD ST                                    SR 522                            SR 522
+    Interval                                                                                                                                                                      15-min         Rolling
+      Start               Eastbound                                             Westbound                              Northbound                           Southbound             Total        One Hour
+                    LT             TH                    RT         LT              TH                    RT      LT         TH            RT       LT         TH        RT
+    4:00 PM         0                  0                   0        1                   0                 10       0         622            4          5       346       0            988
+    4:15 PM         0                  0                   0        4                   0                 25       0         571            5          6       381       0            992
+    4:30 PM         0                  0                   0        8                   0                 13       0         677            2          5       372       0        1,077
+    4:45 PM         0                  0                   0        4                   0                 16       0         618            5          3       404       0        1,050          4,107
+    5:00 PM         0                  0                   0        7                   0                 18       0         620            2          7       392       0        1,046          4,165
+    5:15 PM         0                  0                   0        4                   0                 16       0         559            4          6       380       0            969        4,142
+    5:30 PM         0                  0                   0        2                   0                 23       0         598            4          6       399       0        1,032          4,097
+    5:45 PM         0                  0                   0        3                   0                 18       0         617            3          6       364       0        1,011          4,058
+  Count Total       0                  0                   0        33                  0                 139      0       4,882           29          44     3,038      0        8,165
+   Peak Hr          0                  0                   0        23                  0                 72       0       2,486           14          21     1,549      0        4,165
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                                  Bicycles                                     Pedestrians (Crossing Leg)
+      Start         EB       WB                    NB          SB          Total        EB                WB      NB       SB      Total          East        West       North          South     Total
+    4:00 PM         0              0               12          1            13              0              0       0         0       0             1            0            2              0             3
+    4:15 PM         0              0               5           3            8               0              0       0         0       0             1            0            7              0             8
+    4:30 PM         0              0               6           3            9               0              0       0         0       0             1            0            0              0             1
+    4:45 PM         0              0               4           2            6               0              1       0         0       1             1            0            2              0             3
+    5:00 PM         0              0               10          1            11              0              0       1         0       1             1            0            9              0         10
+    5:15 PM         0              0               9           3            12              0              0       1         0       1             1            0            6              0             7
+    5:30 PM         0              0               4           3            7               0              0       2         0       2             4            0            3              0             7
+    5:45 PM         0              0               8           4            12              0              1       3         1       5             2            0            5              0             7
+  Count Total       0              0               58          20           78              0              2       7         1      10            12            0            34             0         46
+   Peak Hr          0              0               25          9            34              0              1       1         0       2             4            0            18             0         22
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                        mark.skaggs@idaxdata.com
+SR 522/ NE 147th St
+Tuesday May 19, 2015
+4pm to 6pm
+
+Count conducted for all side-street movements to/from NE 147th St
+
+                 WBRT        SBLT      NBRT         15min    Hr Vol
+     4:15          6           4         6            16      74
+     4:30          7           5         4            16      79
+     4:45         12          11         2            25      83
+     5:00         10          3          4            17      72
+     5:15          8           7         6            21      70
+     5:30          7           7         6            20
+     5:45          7           4         3            14
+     6:00          6           4         5            15
+
+Pk Hr Volume       37         28         18
+ www.idaxdata.com
+
+
+                                           SR 522
+                                         NE 145TH ST
+                                                                                                                                   Date: Tue, May 19, 2015
+                N                               Peak Hour                                                                  Count Period: 4:00 PM to 6:00 PM
+                                                                                                                             Peak Hour: 4:15 PM to 5:15 PM
+
+
+
+
+                                                   1,527
+
+
+
+                                                                     2,482
+                           SR 522
+
+
+
+
+                                                                                                                                                                0
+                                         523
+
+                                                      962
+
+                                                                 42
+                                                                                                  NE 145TH ST                                                        29
+
+
+      722                                                                                          251           402                                                                       0
+                    796                            TEV: 4,456                                       95
+
+
+
+
+                                                                                                                                                    26
+
+
+
+
+                                                                                                                                                                                  14
+                     58                            PHF: 0.98                                        56
+      966           112                                                                                          122                        2
+
+
+          NE 145TH ST                                                                                                                                                28
+                                                                                         SR 522
+                                                      104
+
+                                                                 1435
+
+                                                                                22
+
+
+
+
+                                                                                                                    HV %:          PHF
+
+
+
+
+                                                                                                                                                                            1
+                                                                                                           EB       0.6%           0.93
+                                                                                                           WB       1.2%           0.90
+                                                   1,130
+
+
+
+                                                                     1,561
+
+
+
+
+                                                                                                           NB       1.5%           0.98
+                                                                                                           SB       0.9%           0.99
+                                                                                                         TOTAL      1.1%           0.98
+Two-Hour Count Summaries
+                          NE 145TH ST                                    NE 145TH ST                                SR 522                           SR 522
+    Interval                                                                                                                                                                 15-min       Rolling
+      Start                Eastbound                                         Westbound                           Northbound                         Southbound                Total      One Hour
+                    LT              TH               RT          LT              TH                RT      LT          TH          RT       LT           TH          RT
+    4:00 PM         180                 19            23         19              18                57      25          348           2         10        232        117      1,050
+    4:15 PM         218                 14            29         8               21                68      28          355           9         5         227        150      1,132
+    4:30 PM         195                 11            19         16              31                65      25          365           2         14        242        122      1,107
+    4:45 PM         182                 17            28         16              17                62      24          351           2         16        251        115      1,081        4,370
+    5:00 PM         201                 16            36         16              26                56      27          364           9         7         242        136      1,136        4,456
+    5:15 PM         169                 11            27         12              28                49      34          325           4         11        268        115      1,053        4,377
+    5:30 PM         178                 12            15         16              27                54      23          377           6         14        263        153      1,138        4,408
+    5:45 PM         185                 17            32         9               24                53      24          371           10        11        275        117      1,128        4,455
+  Count Total    1,508              117              209         112             192               464     210      2,856            44        88     2,000         1,025    8,825
+    Peak Hr         796                 58           112         56              95                251     104      1,435            22        42        962        523      4,456
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval               Heavy Vehicle Totals                                                          Bicycles                                    Pedestrians (Crossing Leg)
+      Start         EB        WB               NB           SB          Total        EB            WB      NB       SB       Total        East           West        North      South          Total
+    4:00 PM          2              0          6            0            8           0              0       0          1      1            1              4            11         10           26
+    4:15 PM          1              0          7            4            12          0              0       0          0      0            5              7            0          10           22
+    4:30 PM          2              0          6            4            12          2              0       0          0      2            2              1            1             9         13
+    4:45 PM          2              0          2            2            6           0              0       0          0      0            4              13           19            7         43
+    5:00 PM          1              5          8            3            17          0              0       1          0      1            3              5            9             2         19
+    5:15 PM          3              0          11           2            16          0              1       0          0      1            0              4            14         11           29
+    5:30 PM          2              0          4            5            11          0              0       1          1      2            6              1            3          14           24
+    5:45 PM          1              0          11           4            16          0              1       3          2      6            3              3            22         16           44
+  Count Total       14              5          55           24           98          2              2       5          4      13          24              38           79         79           220
+    Peak Hr          6              5          23           13           47          2              0       1          0      3           14              26           29         28           97
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                  mark.skaggs@idaxdata.com
+                 ATTACHMENT 2
+
+        AM and PM Peak Hour Turn Movements
+(Existing 2015, 2017 Background, and 2017 with Project
+                      Conditions)
+                                                         LAKE FOREST CONDOS
+                                                    AM PEAK HOUR TURN MOVEMENTS
+                                                                                                                      Existing 2015 AM PK
+            1         SR 522 / NE 153rd St                                                                                        2203 1194
+                         Existing                        SGV             2017                          2017
+                          2015           Future         Traffic      Background       Project b     with Project             0                  38
+                         AM PK          Growth a          PM            Traffic         Trips         AM PK                  0                  53
+      EBLT                  0               0              0              0               0              0
+      EBT                   0               0              0              0               0              0                        2192 1198
+      EBRT                  0               0              0              0               0              0            2017 Background Traffic
+                                                                                                                                  2252 1224
+      WBLT                  21              1              0              22              0              22
+      WBT                   0               0              0              0               0              0                   0                  40
+      WBRT                  17              1              0              18              0              18                  0                  55
+
+
+      NBUT                  24              0              0              24              0              24
+      NBLT                  0               0              0              0               0              0                        2241 1229
+      NBT                 1177             24              6             1207             2            1209           2017 with Project AM PK
+      NBRT                  21              1              0              22              0              22                       2252 1226
+
+
+      SBUT                  12              0              0              12              0              12
+      SBLT                  32              1              0              33              0              33                  0                  40
+      SBT                 2171             44              4             2219             0            2219                  0                  55
+      SBRT                  0                              0              0               0              0
+                          3475             72              10            3556             2            3558                       2241 1231
+
+
+                      PHF=0.99
+                  a
+                      annual growth estimate is 0.5% per year for SR 522 and NE 145th St west leg; 1.0%/yr for east leg
+                  b
+                      16 condo units (14727 35th Ave NE)
+
+
+                                                                                                                          2015 AM PK
+            3         SR 522 / NE 145th St                                                                                        2078 1285
+                                                         SGV             2017                          2017
+                          2015           Future         Traffic      Background       Project b     with Project            868               119
+                         AM PK          Growth a          PM            Traffic         Trips         AM PK                 647                 91
+      EBLT                 440              4              0             444              1             445
+      EBT                   55              1              11             66              0              66                       1606 1006
+      EBRT                 153              2              0             154              0             154           2017 Background Traffic
+                                                                                                                                  2103 1304
+      WBLT                  29              1              8              37              2              39
+      WBT                   66              1              8              76              2              78                 885               144
+      WBRT                  24              0              6              31              0              31                 664               113
+
+
+      NBUT                  0               0              0              0               0              0
+      NBLT                 174              2              0             175              0             175                       1630 1022
+      NBT                  821              8              0             829              0             829           2017 with Project AM PK
+      NBRT                  11              0              6              17              0              17                       2103 1305
+
+
+      SBUT                  0               0              0              0               0              0
+      SBLT                  26              0              4              30              0              30                 887               148
+      SBT                 1425             14              0             1439             0            1439                 665               113
+      SBRT                 628              6              0             634              0             634
+                          3850             40              43            3933             5            3938                       1632 1022
+
+
+                      PHF=0.96
+                  a
+                      annual growth estimate is 0.5% per year for SR 522 and NE 145th St west leg; 1.0%/yr for east leg
+                  b
+                      16 condo units (14727 35th Ave NE)
+
+AM and PM Counts Forecasts.xls,AM TMC
+                                                          LAKE FOREST CONDOS
+                                                     PM PEAK HOUR TURN MOVEMENTS
+                                                                                                                       Existing 2015 PM PK
+            1          SR 522 / NE 153rd St                                                                                     1570 2558
+                          Existing                        SGV             2017                          2017
+                           2015           Future         Traffic      Background       Project b     with Project           0                    95
+                          PM PK          Growth a          PM            Traffic         Trips         PM PK                0                    35
+      EBLT                   0               0              0              0               0              0
+      EBT                    0               0              0              0               0              0                     1572 2500
+      EBRT                   0               0              0              0               0              0            2017 Background Traffic
+                                                                                                                                1594 2590
+      WBLT                   23              0              0              23              0              23
+      WBT                    0               0              0              0               0              0                 0                    97
+      WBRT                   72              1              0              73              0              73                0                    36
+
+
+      NBUT                   4               0              0              4               0              4
+      NBLT                   0               0              0              0               0              0                     1596 2531
+      NBT                  2486             25              6             2517             1            2518           2017 with Project PM PK
+      NBRT                   14              0              0              14              0              14                    1595 2591
+
+
+      SBUT                   14              0              0              14              0              14
+      SBLT                   21              0              0              21              0              21                0                    97
+      SBT                  1549             16              8             1573             1            1574                0                    36
+      SBRT                   0               0              0              0               0              0
+                           4183             43              14            4240             2            4242                    1597 2532
+                                                                                        0.05%
+                         phf=0.97
+                   a
+                       annual growth estimate is 0.5% per year for SR 522 and NE 145th St west leg; 1.0%/yr for east leg
+                   b
+                       16 condo units (14727 35th Ave NE)
+
+
+                                                                                                                       Existing 2015 PM PK
+            2          SR 522 / NE 147th St                                                                                     1574 2528
+                          Existing                        SGV             2017                          2017
+                           2015           Future         Traffic      Background       Project b     with Project           0                    37
+                          PM PK          Growth a          PM            Traffic         Trips         PM PK                0                    42
+      EBLT                   0               0              0              0               0              0
+      EBT                    0               0              0              0               0              0                     1550 2509
+      EBRT                   0               0              0              0               0              0            2017 Background Traffic
+                                                                                                                                1598 2560
+      WBLT                   0               0              0              0               0              0
+      WBT                    0               0              0              0               0              0                 0                    38
+      WBRT                   37              1              0              38              1              39                0                    43
+
+
+      NBUT                   0               0              0              0               0              0
+      NBLT                   0               0              0              0               0              0                     1573 2540
+      NBT                  2491             25              6             2522             0            2522           2017 with Project PM PK
+      NBRT                   18              0              0              18              4              22                    1599 2561
+
+
+      SBUT                   4               0              0              4               0              4
+      SBLT                   24              0              0              24              1              25                0                    39
+      SBT                  1550             16              8             1573             0            1573                0                    48
+      SBRT                   0               0              0              0               0              0
+                           4124             42              14            4180             6            4186                    1573 2544
+                                                                                        0.23%           2613
+                         PHF=0.97
+                   a
+                       annual growth estimate is 0.5% per year for SR 522 and NE 145th St west leg; 1.0%/yr for east leg
+                   b
+                       16 condo units (14727 35th Ave NE)
+
+AM and PM Counts Forecasts.xls, PM TMC
+                                                          LAKE FOREST CONDOS
+                                                     PM PEAK HOUR TURN MOVEMENTS
+
+                                                                                                                       Existing 2015 PM PK
+            3          SR 522 / NE 145th St                                                                                      1527 2482
+                          Existing                        SGV             2017                          2017
+                           2015           Future         Traffic      Background       Project b     with Project          722               402
+                          PM PK          Growth a          PM            Traffic         Trips         PM PK               966               122
+      EBLT                  796              8              0             804              2             806
+      EBT                    58              1              20             79              0              79                     1130 1561
+      EBRT                  112              1              0             113              0             113           2017 Background Traffic
+                                                                                                                                 1551 2515
+      WBLT                   56              1              9              66              1              67
+      WBT                    95              2              15            112              1             113               745               440
+      WBRT                  251              5              6             262              0             262               996               164
+
+
+      NBUT                   0               0              0              0               0              0
+      NBLT                  104              1              0             105              0             105                     1151 1589
+      NBT                  1435             14              0             1449             2            1451           2017 with Project PM PK
+      NBRT                   22              0              12             34              0              34                     1551 2519
+
+
+      SBUT                   0               0              0              0               0              0
+      SBLT                   42              1              8              51              0              51               746               442
+      SBT                   962             10              0             972              0             972               998               164
+      SBRT                  523              5              0             528              0             528
+                           4456             50              70            4576             6            4582                     1152 1591
+                                                                                        0.13%
+                         phf=0.98
+                   a
+                       annual growth estimate is 0.5% per year for SR 522 and NE 145th St west leg; 1.0%/yr for east leg
+                   b
+                       16 condo units (14727 35th Ave NE)
+
+
+
+
+AM and PM Counts Forecasts.xls, PM TMC
+           ATTACHMENT 3
+
+AM and PM Peak Hour Level of Service Results
+HCM Signalized Intersection Capacity Analysis
+1: NE 153rd St & SR 522                                                                         5/21/2015
+
+
+
+Movement               WBL WBR         NBU     NBT     NBR     SBU     SBL    SBT
+Lane Configurations
+Ideal Flow (vphpl)     1900 1900       1900    1900   1900    1900    1900    1900
+Total Lost time (s)      4.0             4.0     4.0    4.0            4.0      4.0
+Lane Util. Factor       1.00           1.00     0.95  1.00            1.00     0.95
+Frpb, ped/bikes         0.97           1.00     1.00  0.93            1.00     1.00
+Flpb, ped/bikes         1.00           1.00    1.00   1.00            1.00    1.00
+Frt                     0.94            1.00    1.00  0.85            1.00     1.00
+Flt Protected           0.97           0.95    1.00   1.00            0.95    1.00
+Satd. Flow (prot)      1631            1787    3505   1460            1760    3505
+Flt Permitted           0.97           0.95    1.00   1.00            0.95    1.00
+Satd. Flow (perm)      1631            1787    3505   1460            1760    3505
+Volume (vph)              21   17         24   1177      21      12     32    2171
+Peak-hour factor, PHF   0.80 0.80      0.99     0.99  0.80     0.99   0.80    0.99
+Adj. Flow (vph)           26   21         24   1189      26      12     40    2193
+RTOR Reduction (vph)      18    0          0       0      2       0      0        0
+Lane Group Flow (vph)     29    0         24   1189      24       0     52    2193
+Confl. Peds. (#/hr)            21                        10
+Heavy Vehicles (%)       3%   3%         1%      3%     3%      1%      3%     3%
+Turn Type                               Prot         Perm      Prot    Prot
+Protected Phases           8              5        2             1       1       6
+Permitted Phases                                          2
+Actuated Green, G (s)    7.2            5.0    131.6 131.6              8.6 135.2
+Effective Green, g (s)   7.2            5.0    131.6 131.6              8.6 135.2
+Actuated g/C Ratio      0.05           0.03     0.83 0.83              0.05 0.85
+Clearance Time (s)       4.0            4.0      4.0    4.0             4.0   4.0
+Vehicle Extension (s)    3.0            3.0      3.0    3.0             3.0   3.0
+Lane Grp Cap (vph)        74             56    2894 1205                 95 2973
+v/s Ratio Prot         c0.03           0.01     0.34                  c0.03 c0.63
+v/s Ratio Perm                                         0.02
+v/c Ratio               0.39           0.43     0.41 0.02             0.55    0.74
+Uniform Delay, d1       74.0           75.8      3.7    2.5           73.5     4.9
+Progression Factor      1.00           1.00     1.00 1.00             1.00    1.00
+Incremental Delay, d2    3.4            5.2      0.4    0.0            6.3     1.7
+Delay (s)               77.3           81.0      4.1    2.5           79.8     6.6
+Level of Service           E              F        A      A              E       A
+Approach Delay (s)      77.3                     5.6                           8.3
+Approach LOS               E                       A                             A
+Intersection Summary
+HCM Average Control Delay                8.2         HCM Level of Service               A
+HCM Volume to Capacity ratio            0.73
+Actuated Cycle Length (s)              159.4         Sum of lost time (s)             12.0
+Intersection Capacity Utilization     75.0%          ICU Level of Service               D
+Analysis Period (min)                     15
+c Critical Lane Group
+
+
+
+
+Existing Conditions                                                                          2015 AM Peak
+City of Mt Vernon, Public Works Dep                                                                Page 1
+HCM Signalized Intersection Capacity Analysis
+3: NE 145th St & SR 522                                                                               5/21/2015
+
+
+
+Movement                   EBL       EBT     EBR     WBL     WBT    WBR   NBL   NBT   NBR    SBL     SBT   SBR
+Lane Configurations
+Ideal Flow (vphpl)        1900      1900  1900       1900    1900  1900 1900 1900 1900 1900 1900 1900
+Total Lost time (s)         4.0       4.0    4.0      4.0     4.0    4.0    4.0   4.0   4.0  4.0   4.0   4.0
+Lane Util. Factor          0.95     0.95   1.00      1.00    1.00   1.00 1.00 0.95 1.00 1.00 0.95 1.00
+Frpb, ped/bikes            1.00     1.00   0.91      1.00    1.00   0.92 1.00 1.00 0.93 1.00 1.00 0.86
+Flpb, ped/bikes           1.00      1.00   1.00      1.00    1.00   1.00 1.00 1.00 1.00 1.00 1.00 1.00
+Frt                        1.00      1.00  0.85      1.00    1.00   0.85 1.00 1.00 0.85 1.00 1.00 0.85
+Flt Protected             0.95      0.96   1.00      0.95    1.00   1.00 0.95 1.00 1.00 0.95 1.00 1.00
+Satd. Flow (prot)         1633      1654  1406       1770    1863  1462 1736 3471 1442 1736 3471 1339
+Flt Permitted             0.95      0.96   1.00      0.95    1.00   1.00 0.95 1.00 1.00 0.95 1.00 1.00
+Satd. Flow (perm)         1633      1654  1406       1770    1863  1462 1736 3471 1442 1736 3471 1339
+Volume (vph)                440        55   153        29      66     24   174   821     11   26 1425   528
+Peak-hour factor, PHF      0.96     0.96   0.96      0.96    0.96   0.96 0.96 0.96 0.96 0.96 0.96 0.96
+Adj. Flow (vph)            458         57   159        30      69     25   181   855     11   27 1484   550
+RTOR Reduction (vph)          0         0   126         0       0     24      0     0     2    0     0  212
+Lane Group Flow (vph)      251       264      33       30      69      1  181   855       9   27 1484   338
+Confl. Peds. (#/hr)                          24                       21                 10               23
+Heavy Vehicles (%)          5%        5%    5%        2%       2%    2%    4%    4%     4%   4%    4%    4%
+Turn Type                  Split          Perm       Split         Perm   Prot        Perm  Prot       Perm
+Protected Phases              4         4               8        8            5     2          1     6
+Permitted Phases                               4                       8                  2                6
+Actuated Green, G (s)      29.9      29.9 29.9        9.7      9.7   9.7 20.8 107.5 107.5    3.9 90.6 90.6
+Effective Green, g (s)     29.9      29.9 29.9        9.7      9.7   9.7 20.8 107.5 107.5    3.9 90.6 90.6
+Actuated g/C Ratio         0.18      0.18 0.18       0.06     0.06 0.06 0.12 0.64 0.64 0.02 0.54 0.54
+Clearance Time (s)          4.0       4.0   4.0       4.0      4.0   4.0    4.0  4.0    4.0  4.0   4.0   4.0
+Vehicle Extension (s)       3.0       3.0    3.0      3.0      3.0   3.0    3.0   3.0   3.0  3.0   3.0   3.0
+Lane Grp Cap (vph)          292       296   252       103      108    85   216 2234     928   41 1883   726
+v/s Ratio Prot             0.15     c0.16            0.02    c0.04       c0.10 0.25         0.02 c0.43
+v/s Ratio Perm                             0.11                     0.02               0.01             0.41
+v/c Ratio                  0.86      0.89 0.13       0.29     0.64 0.02 0.84 0.38 0.01 0.66 0.79 0.47
+Uniform Delay, d1          66.5      67.0 57.6       75.4     76.9 74.2 71.5 14.1 10.7 80.9 30.5 23.4
+Progression Factor         1.00      1.00 1.00       1.00     1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00
+Incremental Delay, d2      21.4      26.7   0.2       1.6     11.8   0.1 23.7    0.5    0.0 32.2   3.4   2.1
+Delay (s)                  87.9      93.7 57.8       76.9     88.7 74.2 95.1 14.6 10.7 113.1 34.0 25.5
+Level of Service              F         F      E        E        F     E      F     B     B    F     C     C
+Approach Delay (s)                   83.1                     82.9              28.5              32.7
+Approach LOS                            F                        F                 C                 C
+Intersection Summary
+HCM Average Control Delay                     41.9       HCM Level of Service           D
+HCM Volume to Capacity ratio                  0.81
+Actuated Cycle Length (s)                    167.0       Sum of lost time (s)         16.0
+Intersection Capacity Utilization           79.3%        ICU Level of Service           D
+Analysis Period (min)                           15
+c Critical Lane Group
+
+
+
+
+Existing Conditions                                                                                2015 AM Peak
+City of Mt Vernon, Public Works Dep                                                                      Page 2
+HCM Signalized Intersection Capacity Analysis
+1: NE 153rd St & SR 522                                                                           5/21/2015
+
+
+
+Movement               WBL WBR         NBU       NBT     NBR     SBU     SBL    SBT
+Lane Configurations
+Ideal Flow (vphpl)     1900 1900       1900      1900   1900    1900    1900    1900
+Total Lost time (s)      4.0             4.0       4.0    4.0            4.0      4.0
+Lane Util. Factor       1.00           1.00       0.95  1.00            1.00     0.95
+Frpb, ped/bikes         0.97           1.00       1.00  0.93            1.00     1.00
+Flpb, ped/bikes         1.00           1.00      1.00   1.00            1.00    1.00
+Frt                     0.94            1.00      1.00  0.85            1.00     1.00
+Flt Protected           0.97           0.95      1.00   1.00            0.95    1.00
+Satd. Flow (prot)      1633            1787      3505   1459            1760    3505
+Flt Permitted           0.97           0.95      1.00   1.00            0.95    1.00
+Satd. Flow (perm)      1633            1787      3505   1459            1760    3505
+Volume (vph)              22   18         24     1207      22      12     33    2219
+Peak-hour factor, PHF   0.80 0.80      0.99       0.99  0.80     0.99   0.80    0.99
+Adj. Flow (vph)           28   22         24     1219      28      12     41    2241
+RTOR Reduction (vph)      17    0          0         0      2       0      0        0
+Lane Group Flow (vph)     33    0         24     1219      26       0     53    2241
+Confl. Peds. (#/hr)            21                          10
+Heavy Vehicles (%)       3%   3%         1%        3%     3%      1%      3%     3%
+Turn Type                               Prot           Perm      Prot    Prot
+Protected Phases           8              5          2             1       1       6
+Permitted Phases                                            2
+Actuated Green, G (s)    7.5             4.8     133.3 133.3              8.7 137.2
+Effective Green, g (s)   7.5             4.8     133.3 133.3              8.7 137.2
+Actuated g/C Ratio      0.05            0.03      0.83 0.83              0.05 0.85
+Clearance Time (s)       4.0             4.0       4.0    4.0             4.0   4.0
+Vehicle Extension (s)    3.0             3.0       3.0    3.0             3.0   3.0
+Lane Grp Cap (vph)        76              53     2893 1204                 95 2978
+v/s Ratio Prot         c0.03            0.01      0.35                  c0.03 c0.64
+v/s Ratio Perm                                           0.02
+v/c Ratio               0.43            0.45      0.42 0.02             0.56    0.75
+Uniform Delay, d1       74.9            77.1       3.8    2.5           74.5     5.1
+Progression Factor      1.00            1.00      1.00 1.00             1.00    1.00
+Incremental Delay, d2    3.9             6.0       0.5    0.0            6.9     1.8
+Delay (s)               78.8            83.1       4.2    2.5           81.5     6.9
+Level of Service           E               F         A      A              F       A
+Approach Delay (s)      78.8                       5.7                           8.6
+Approach LOS               E                         A                             A
+Intersection Summary
+HCM Average Control Delay                8.5           HCM Level of Service               A
+HCM Volume to Capacity ratio            0.75
+Actuated Cycle Length (s)              161.5           Sum of lost time (s)             12.0
+Intersection Capacity Utilization     76.4%            ICU Level of Service               D
+Analysis Period (min)                     15
+c Critical Lane Group
+
+
+
+
+Future Background (without Project) Conditions                                                 2017 AM Peak
+City of Mt Vernon, Public Works Dep                                                                  Page 1
+HCM Signalized Intersection Capacity Analysis
+3: NE 145th St & SR 522                                                                                  5/21/2015
+
+
+
+Movement                   EBL       EBT     EBR     WBL     WBT    WBR   NBL   NBT    NBR    SBL       SBT    SBR
+Lane Configurations
+Ideal Flow (vphpl)        1900      1900  1900       1900    1900  1900 1900 1900 1900        1900     1900  1900
+Total Lost time (s)         4.0       4.0    4.0      4.0     4.0    4.0    4.0   4.0   4.0     4.0      4.0    4.0
+Lane Util. Factor          0.95     0.95   1.00      1.00    1.00   1.00 1.00 0.95 1.00       1.00     0.95   1.00
+Frpb, ped/bikes            1.00     1.00   0.91      1.00    1.00   0.92 1.00 1.00 0.93        1.00     1.00  0.86
+Flpb, ped/bikes           1.00      1.00   1.00      1.00    1.00   1.00 1.00 1.00 1.00        1.00     1.00  1.00
+Frt                        1.00      1.00  0.85      1.00    1.00   0.85 1.00 1.00 0.85        1.00     1.00  0.85
+Flt Protected             0.95      0.96   1.00      0.95    1.00   1.00 0.95 1.00 1.00        0.95     1.00  1.00
+Satd. Flow (prot)         1633      1657  1405       1770    1863  1461 1736 3471 1441        1736     3471  1336
+Flt Permitted             0.95      0.96   1.00      0.95    1.00   1.00 0.95 1.00 1.00        0.95     1.00  1.00
+Satd. Flow (perm)         1633      1657  1405       1770    1863  1461 1736 3471 1441        1736     3471  1336
+Volume (vph)                444        66   154        37      76     31   175   829     17      30    1439    634
+Peak-hour factor, PHF      0.96     0.96   0.96      0.96    0.96   0.96 0.96 0.96 0.96        0.96     0.96  0.96
+Adj. Flow (vph)            462         69   160        39      79     32   182   864     18      31    1499    660
+RTOR Reduction (vph)          0         0   123         0       0     30      0     0     4       0        0   261
+Lane Group Flow (vph)      259       272      37       39      79      2  182   864      14      31    1499    399
+Confl. Peds. (#/hr)                          24                       21                 10                     23
+Heavy Vehicles (%)          5%        5%    5%        2%       2%    2%    4%    4%     4%     4%        4%    4%
+Turn Type                  Split          Perm       Split         Perm   Prot        Perm    Prot           Perm
+Protected Phases              4         4               8        8            5     2            1         6
+Permitted Phases                               4                       8                  2                       6
+Actuated Green, G (s)      31.4      31.4 31.4       12.1     12.1 12.1 21.1 104.2 104.2       6.0     89.1 89.1
+Effective Green, g (s)     31.4      31.4 31.4       12.1     12.1 12.1 21.1 104.2 104.2       6.0      89.1 89.1
+Actuated g/C Ratio         0.19      0.19 0.19       0.07     0.07 0.07 0.12 0.61 0.61        0.04     0.53 0.53
+Clearance Time (s)          4.0       4.0   4.0       4.0      4.0   4.0    4.0  4.0    4.0    4.0       4.0    4.0
+Vehicle Extension (s)       3.0       3.0    3.0      3.0      3.0   3.0    3.0   3.0   3.0    3.0       3.0    3.0
+Lane Grp Cap (vph)          302       307   260       126      133   104   216 2131     885     61     1822    701
+v/s Ratio Prot             0.16     c0.16            0.02    c0.04       c0.10 0.25           0.02     0.43
+v/s Ratio Perm                             0.11                     0.02               0.01                   0.49
+v/c Ratio                  0.86      0.89 0.14       0.31     0.59 0.02 0.84 0.41 0.02        0.51     0.82 0.57
+Uniform Delay, d1          67.0      67.4 57.9       74.8     76.4 73.3 72.7 16.8 12.8        80.4     33.7 27.3
+Progression Factor         1.00      1.00 1.00       1.00     1.00 1.00 1.00 1.00 1.00        1.00     1.00 1.00
+Incremental Delay, d2      20.6      24.8   0.3       1.4      6.9   0.1 24.6    0.6    0.0    6.5       4.3    3.3
+Delay (s)                  87.6      92.2 58.1       76.2     83.4 73.4 97.3 17.4 12.8        86.9     38.0 30.6
+Level of Service              F         F      E        E        F     E      F     B     B      F        D      C
+Approach Delay (s)                   82.6                     79.4              31.0                   36.5
+Approach LOS                            F                        E                 C                      D
+Intersection Summary
+HCM Average Control Delay                     44.4       HCM Level of Service            D
+HCM Volume to Capacity ratio                  0.89
+Actuated Cycle Length (s)                    169.7       Sum of lost time (s)          16.0
+Intersection Capacity Utilization           80.2%        ICU Level of Service            D
+Analysis Period (min)                           15
+c Critical Lane Group
+
+
+
+
+Future Background (without Project) Conditions                                                        2017 AM Peak
+City of Mt Vernon, Public Works Dep                                                                         Page 2
+HCM Signalized Intersection Capacity Analysis
+1: NE 153rd St & SR 522                                                                         5/21/2015
+
+
+
+Movement               WBL WBR         NBU     NBT     NBR     SBU     SBL    SBT
+Lane Configurations
+Ideal Flow (vphpl)     1900 1900       1900    1900   1900    1900    1900    1900
+Total Lost time (s)      4.0             4.0     4.0    4.0            4.0      4.0
+Lane Util. Factor       1.00           1.00     0.95  1.00            1.00     0.95
+Frpb, ped/bikes         0.97           1.00     1.00  0.93            1.00     1.00
+Flpb, ped/bikes         1.00           1.00    1.00   1.00            1.00    1.00
+Frt                     0.94            1.00    1.00  0.85            1.00     1.00
+Flt Protected           0.97           0.95    1.00   1.00            0.95    1.00
+Satd. Flow (prot)      1633            1787    3505   1459            1760    3505
+Flt Permitted           0.97           0.95    1.00   1.00            0.95    1.00
+Satd. Flow (perm)      1633            1787    3505   1459            1760    3505
+Volume (vph)              22   18         24   1209      22      12     33    2219
+Peak-hour factor, PHF   0.80 0.80      0.99     0.99  0.80     0.99   0.80    0.99
+Adj. Flow (vph)           28   22         24   1221      28      12     41    2241
+RTOR Reduction (vph)      17    0          0       0      2       0      0        0
+Lane Group Flow (vph)     33    0         24   1221      26       0     53    2241
+Confl. Peds. (#/hr)            21                        10
+Heavy Vehicles (%)       3%   3%         1%      3%     3%      1%      3%     3%
+Turn Type                               Prot         Perm      Prot    Prot
+Protected Phases           8              5        2             1       1       6
+Permitted Phases                                          2
+Actuated Green, G (s)    7.5            4.8    133.3 133.3              8.7 137.2
+Effective Green, g (s)   7.5            4.8    133.3 133.3              8.7 137.2
+Actuated g/C Ratio      0.05           0.03     0.83 0.83              0.05 0.85
+Clearance Time (s)       4.0            4.0      4.0    4.0             4.0   4.0
+Vehicle Extension (s)    3.0            3.0      3.0    3.0             3.0   3.0
+Lane Grp Cap (vph)        76             53    2893 1204                 95 2978
+v/s Ratio Prot         c0.03           0.01     0.35                  c0.03 c0.64
+v/s Ratio Perm                                         0.02
+v/c Ratio               0.43           0.45     0.42 0.02             0.56    0.75
+Uniform Delay, d1       74.9           77.1      3.8    2.5           74.5     5.1
+Progression Factor      1.00           1.00     1.00 1.00             1.00    1.00
+Incremental Delay, d2    3.9            6.0      0.5    0.0            6.9     1.8
+Delay (s)               78.8           83.1      4.2    2.5           81.5     6.9
+Level of Service           E              F        A      A              F       A
+Approach Delay (s)      78.8                     5.7                           8.6
+Approach LOS               E                       A                             A
+Intersection Summary
+HCM Average Control Delay                8.5         HCM Level of Service               A
+HCM Volume to Capacity ratio            0.75
+Actuated Cycle Length (s)              161.5         Sum of lost time (s)             12.0
+Intersection Capacity Utilization     76.4%          ICU Level of Service               D
+Analysis Period (min)                     15
+c Critical Lane Group
+
+
+
+
+Future with Project Conditions                                                               2017 AM Peak
+City of Mt Vernon, Public Works Dep                                                                Page 1
+HCM Signalized Intersection Capacity Analysis
+3: NE 145th St & SR 522                                                                                  5/21/2015
+
+
+
+Movement                   EBL       EBT     EBR     WBL     WBT    WBR   NBL   NBT    NBR    SBL       SBT    SBR
+Lane Configurations
+Ideal Flow (vphpl)        1900      1900  1900       1900    1900  1900 1900 1900 1900        1900     1900  1900
+Total Lost time (s)         4.0       4.0    4.0      4.0     4.0    4.0    4.0   4.0   4.0     4.0      4.0    4.0
+Lane Util. Factor          0.95     0.95   1.00      1.00    1.00   1.00 1.00 0.95 1.00       1.00     0.95   1.00
+Frpb, ped/bikes            1.00     1.00   0.91      1.00    1.00   0.92 1.00 1.00 0.93        1.00     1.00  0.86
+Flpb, ped/bikes           1.00      1.00   1.00      1.00    1.00   1.00 1.00 1.00 1.00        1.00     1.00  1.00
+Frt                        1.00      1.00  0.85      1.00    1.00   0.85 1.00 1.00 0.85        1.00     1.00  0.85
+Flt Protected             0.95      0.96   1.00      0.95    1.00   1.00 0.95 1.00 1.00        0.95     1.00  1.00
+Satd. Flow (prot)         1633      1657  1404       1770    1863  1461 1736 3471 1441        1736     3471  1336
+Flt Permitted             0.95      0.96   1.00      0.95    1.00   1.00 0.95 1.00 1.00        0.95     1.00  1.00
+Satd. Flow (perm)         1633      1657  1404       1770    1863  1461 1736 3471 1441        1736     3471  1336
+Volume (vph)                445        66   154        39      78     31   175   829     17      30    1439    634
+Peak-hour factor, PHF      0.96     0.96   0.96      0.96    0.96   0.96 0.96 0.96 0.96        0.96     0.96  0.96
+Adj. Flow (vph)            464         69   160        41      81     32   182   864     18      31    1499    660
+RTOR Reduction (vph)          0         0   122         0       0     30      0     0     4       0        0   262
+Lane Group Flow (vph)      260       273      38       41      81      2  182   864      14      31    1499    398
+Confl. Peds. (#/hr)                          24                       21                 10                     23
+Heavy Vehicles (%)          5%        5%    5%        2%       2%    2%    4%    4%     4%     4%        4%    4%
+Turn Type                  Split          Perm       Split         Perm   Prot        Perm    Prot           Perm
+Protected Phases              4         4               8        8            5     2            1         6
+Permitted Phases                               4                       8                  2                       6
+Actuated Green, G (s)      31.5      31.5 31.5       12.2     12.2 12.2 21.1 104.2 104.2       6.0     89.1 89.1
+Effective Green, g (s)     31.5      31.5 31.5       12.2     12.2 12.2 21.1 104.2 104.2       6.0      89.1 89.1
+Actuated g/C Ratio         0.19      0.19 0.19       0.07     0.07 0.07 0.12 0.61 0.61        0.04     0.52 0.52
+Clearance Time (s)          4.0       4.0   4.0       4.0      4.0   4.0    4.0  4.0    4.0    4.0       4.0    4.0
+Vehicle Extension (s)       3.0       3.0    3.0      3.0      3.0   3.0    3.0   3.0   3.0    3.0       3.0    3.0
+Lane Grp Cap (vph)          303       307   260       127      134   105   216 2129     884     61     1820    701
+v/s Ratio Prot             0.16     c0.16            0.02    c0.04       c0.10 0.25           0.02     0.43
+v/s Ratio Perm                             0.11                     0.02               0.01                   0.49
+v/c Ratio                  0.86      0.89 0.15       0.32     0.60 0.02 0.84 0.41 0.02        0.51     0.82 0.57
+Uniform Delay, d1          67.0      67.5 57.9       74.9     76.5 73.3 72.8 16.9 12.8        80.5     33.8 27.4
+Progression Factor         1.00      1.00 1.00       1.00     1.00 1.00 1.00 1.00 1.00        1.00     1.00 1.00
+Incremental Delay, d2      20.6      25.2   0.3       1.5      7.5   0.1 24.6    0.6    0.0    6.5       4.4    3.3
+Delay (s)                  87.7      92.7 58.2       76.4     84.0 73.4 97.4 17.5 12.9        87.0     38.2 30.7
+Level of Service              F         F      E        E        F     E      F     B     B      F        D      C
+Approach Delay (s)                   82.9                     79.8              31.1                   36.6
+Approach LOS                            F                        E                 C                      D
+Intersection Summary
+HCM Average Control Delay                     44.6       HCM Level of Service            D
+HCM Volume to Capacity ratio                  0.89
+Actuated Cycle Length (s)                    169.9       Sum of lost time (s)          16.0
+Intersection Capacity Utilization           80.2%        ICU Level of Service            D
+Analysis Period (min)                           15
+c Critical Lane Group
+
+
+
+
+Future with Project Conditions                                                                        2017 AM Peak
+City of Mt Vernon, Public Works Dep                                                                         Page 2
+HCM Signalized Intersection Capacity Analysis
+1: NE 153rd St & SR 522                                                                   5/21/2015
+
+
+
+Movement               WBL WBR NBU NBT NBR               SBU     SBL    SBT
+Lane Configurations
+Ideal Flow (vphpl)     1900 1900 1900 1900 1900         1900    1900    1900
+Total Lost time (s)      4.0         4.0   4.0   4.0             4.0      4.0
+Lane Util. Factor       1.00       1.00 0.95 1.00               1.00     0.95
+Frpb, ped/bikes         0.95       1.00 1.00 0.96               1.00     1.00
+Flpb, ped/bikes         1.00       1.00 1.00 1.00               1.00    1.00
+Frt                     0.90        1.00 1.00 0.85              1.00     1.00
+Flt Protected           0.99       0.95 1.00 1.00               0.95    1.00
+Satd. Flow (prot)      1609        1805 3574 1549               1805    3574
+Flt Permitted           0.99       0.95 1.00 1.00               0.95    1.00
+Satd. Flow (perm)      1609        1805 3574 1549               1805    3574
+Volume (vph)              23   72      4 2486     14       14     21    1549
+Peak-hour factor, PHF   0.80 1.00 1.00 0.97 0.80         0.80   0.80    0.97
+Adj. Flow (vph)           29   72      4 2563     18       18     26    1597
+RTOR Reduction (vph)      33    0      0     0     1        0      0        0
+Lane Group Flow (vph)     68    0      4 2563     17        0     44    1597
+Confl. Peds. (#/hr)            18                  4
+Heavy Vehicles (%)       0%   0%     0%    1%    0%       0%      0%     1%
+Turn Type                           Prot       Perm      Prot    Prot
+Protected Phases           8           5     2             1       1       6
+Permitted Phases                                   2
+Actuated Green, G (s)   12.3         1.1 142.9 142.9              5.5 147.3
+Effective Green, g (s)  12.3         1.1 142.9 142.9              5.5 147.3
+Actuated g/C Ratio      0.07       0.01 0.83 0.83                0.03 0.85
+Clearance Time (s)       4.0         4.0   4.0   4.0              4.0   4.0
+Vehicle Extension (s)    3.0         3.0   3.0   3.0              3.0   3.0
+Lane Grp Cap (vph)       115          11 2957 1282                 57 3048
+v/s Ratio Prot         c0.06       0.00 c0.72                   c0.02 0.45
+v/s Ratio Perm                                  0.01
+v/c Ratio               0.59       0.36 0.87 0.01                0.77   0.52
+Uniform Delay, d1       77.7       85.5    9.1   2.6             83.0    3.4
+Progression Factor      1.00       1.00 1.00 1.00                1.00   1.00
+Incremental Delay, d2    7.5       19.3    3.7   0.0             46.8    0.6
+Delay (s)               85.2      104.7 12.8     2.6            129.8    4.0
+Level of Service           F           F     B     A                F      A
+Approach Delay (s)      85.2              12.9                           7.4
+Approach LOS               F                 B                             A
+Intersection Summary
+HCM Average Control Delay               12.5   HCM Level of Service               B
+HCM Volume to Capacity ratio            0.86
+Actuated Cycle Length (s)              172.7   Sum of lost time (s)             12.0
+Intersection Capacity Utilization     85.3%    ICU Level of Service                E
+Analysis Period (min)                     15
+c Critical Lane Group
+
+
+
+
+Existing Conditions                                                                    2015 PM Peak
+City of Mt Vernon, Public Works Dep                                                          Page 1
+HCM Unsignalized Intersection Capacity Analysis
+2: NE 147th St & SR 522                                                                  5/21/2015
+
+
+
+Movement                  WBL WBR            NBT     NBR      SBL    SBT
+Lane Configurations
+Sign Control               Stop              Free                    Free
+Grade                       0%                 0%                     0%
+Volume (veh/h)                0       37     2491      18       28   1550
+Peak Hour Factor           0.25     0.80      0.97   0.80     0.80   0.97
+Hourly flow rate (vph)        0       46     2568      22       35   1598
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type               None
+Median storage veh)
+Upstream signal (ft)                          700
+pX, platoon unblocked
+vC, conflicting volume    3448      1295                     2591
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol        3448      1295                     2591
+tC, single (s)              6.8       6.9                      4.1
+tC, 2 stage (s)
+tF (s)                      3.5       3.3                      2.2
+p0 queue free %             100       70                       79
+cM capacity (veh/h)           4      156                      171
+Direction, Lane #      WB 1         NB 1     NB 2    SB 1    SB 2    SB 3
+Volume Total              46        1712      879      35     799     799
+Volume Left                0            0        0     35       0       0
+Volume Right              46            0      22       0       0       0
+cSH                      156        1700     1700     171    1700    1700
+Volume to Capacity      0.30        1.01     0.52    0.21    0.47    0.47
+Queue Length 95th (ft)    29            0        0     19       0       0
+Control Delay (s)       37.6          0.0      0.0   31.5     0.0     0.0
+Lane LOS                   E                            D
+Approach Delay (s)      37.6         0.0              0.7
+Approach LOS               E
+Intersection Summary
+Average Delay                                  0.7
+Intersection Capacity Utilization           79.4%          ICU Level of Service   D
+Analysis Period (min)                           15
+
+
+
+
+Existing Conditions                                                                   2015 PM Peak
+City of Mt Vernon, Public Works Dep                                                         Page 1
+HCM Signalized Intersection Capacity Analysis
+3: NE 145th St & SR 522                                                                                5/21/2015
+
+
+
+Movement                   EBL       EBT     EBR     WBL     WBT    WBR   NBL   NBT   NBR    SBL     SBT     SBR
+Lane Configurations
+Ideal Flow (vphpl)        1900      1900  1900       1900    1900   1900 1900 1900 1900 1900        1900  1900
+Total Lost time (s)         4.0       4.0    4.0      4.0     4.0     4.0    4.0  4.0   4.0  4.0       4.0   4.0
+Lane Util. Factor          0.95     0.95   1.00      1.00    1.00   1.00 1.00 0.95 1.00 1.00        0.95   1.00
+Frpb, ped/bikes            1.00     1.00   0.88      1.00    1.00   0.87 1.00 1.00 0.89 1.00         1.00  0.81
+Flpb, ped/bikes           1.00      1.00   1.00      1.00    1.00   1.00 1.00 1.00 1.00 1.00         1.00  1.00
+Frt                        1.00      1.00  0.85      1.00    1.00   0.85 1.00 1.00 0.85 1.00         1.00  0.85
+Flt Protected             0.95      0.96   1.00      0.95    1.00   1.00 0.95 1.00 1.00 0.95         1.00  1.00
+Satd. Flow (prot)         1698      1713  1405       1787    1881   1399 1770 3539 1408 1787        3574  1297
+Flt Permitted             0.95      0.96   1.00      0.95    1.00   1.00 0.95 1.00 1.00 0.95         1.00  1.00
+Satd. Flow (perm)         1698      1713  1405       1787    1881   1399 1770 3539 1408 1787        3574  1297
+Volume (vph)                796        58   112        56      95    251    104 1435     22   42      962   523
+Peak-hour factor, PHF      0.98     0.98   0.98      0.98    0.98   0.98 0.98 0.98 0.98 0.98         0.98  0.98
+Adj. Flow (vph)            812         59   114        57      97    256    106 1464     22   43      982   534
+RTOR Reduction (vph)          0         0    44         0       0      52      0    0     3    0         0  270
+Lane Group Flow (vph)      424       447     70        57      97    204    106 1464     19   43      982   264
+Confl. Peds. (#/hr)                          28                        29                14                  26
+Heavy Vehicles (%)          1%        1%    1%        1%       1%     1%    2%    2%    2%   1%       1%    1%
+Turn Type                  Split          Perm       Split         Perm    Prot       Perm  Prot          Perm
+Protected Phases              4         4               8        8             5    2          1        6
+Permitted Phases                               4                        8                 2                    6
+Actuated Green, G (s)      58.3      58.3 58.3       33.4     33.4 33.4 17.3 97.4 97.4       7.0    87.1 87.1
+Effective Green, g (s)     58.3      58.3 58.3       33.4     33.4 33.4 17.3 97.4 97.4       7.0    87.1 87.1
+Actuated g/C Ratio         0.27      0.27 0.27       0.16     0.16 0.16 0.08 0.46 0.46 0.03         0.41 0.41
+Clearance Time (s)          4.0       4.0   4.0       4.0      4.0    4.0   4.0   4.0   4.0  4.0      4.0    4.0
+Vehicle Extension (s)       3.0       3.0   3.0       3.0      3.0    3.0   3.0   3.0   3.0  3.0      3.0    3.0
+Lane Grp Cap (vph)          467       471   386       281      296    220   144 1625    647   59    1468    533
+v/s Ratio Prot             0.25     c0.26            0.03     0.05        c0.06 c0.41       0.02    0.27
+v/s Ratio Perm                             0.08                      0.18              0.02                0.41
+v/c Ratio                  0.91      0.95 0.18       0.20     0.33 0.93 0.74 0.90 0.03 0.73         0.67 0.50
+Uniform Delay, d1          74.3      75.4 58.7       77.8     79.4 88.1 95.2 52.9 31.4 101.6        50.8 46.2
+Progression Factor         1.00      1.00 1.00       1.00     1.00 1.00 1.00 1.00 1.00 1.00         1.00 1.00
+Incremental Delay, d2      21.1      28.6   0.2       0.4      0.7 40.4 17.7      8.5   0.1 36.0      2.4   3.3
+Delay (s)                  95.4     104.1 58.9       78.1     80.0 128.5 112.8 61.4 31.5 137.6       53.2 49.5
+Level of Service              F         F      E        E        F      F      F    E     C    F       D      D
+Approach Delay (s)                   95.1                    110.0               64.4               54.3
+Approach LOS                            F                        F                  E                  D
+Intersection Summary
+HCM Average Control Delay                     71.7       HCM Level of Service           E
+HCM Volume to Capacity ratio                  1.01
+Actuated Cycle Length (s)                    212.1       Sum of lost time (s)         20.0
+Intersection Capacity Utilization           91.4%        ICU Level of Service            F
+Analysis Period (min)                           15
+c Critical Lane Group
+
+
+
+
+Existing Conditions                                                                                2015 PM Peak
+City of Mt Vernon, Public Works Dep                                                                      Page 2
+HCM Signalized Intersection Capacity Analysis
+1: NE 153rd St & SR 522                                                                   5/21/2015
+
+
+
+Movement               WBL WBR NBU NBT NBR               SBU     SBL    SBT
+Lane Configurations
+Ideal Flow (vphpl)     1900 1900 1900 1900 1900         1900    1900    1900
+Total Lost time (s)      4.0         4.0   4.0   4.0             4.0      4.0
+Lane Util. Factor       1.00       1.00 0.95 1.00               1.00     0.95
+Frpb, ped/bikes         0.95       1.00 1.00 0.96               1.00     1.00
+Flpb, ped/bikes         1.00       1.00 1.00 1.00               1.00    1.00
+Frt                     0.90        1.00 1.00 0.85              1.00     1.00
+Flt Protected           0.99       0.95 1.00 1.00               0.95    1.00
+Satd. Flow (prot)      1609        1805 3574 1548               1805    3574
+Flt Permitted           0.99       0.95 1.00 1.00               0.95    1.00
+Satd. Flow (perm)      1609        1805 3574 1548               1805    3574
+Volume (vph)              23   73      4 2517     14       14     21    1573
+Peak-hour factor, PHF   0.80 1.00 1.00 0.97 0.80         0.80   0.80    0.97
+Adj. Flow (vph)           29   73      4 2595     18       18     26    1622
+RTOR Reduction (vph)      32    0      0     0     1        0      0        0
+Lane Group Flow (vph)     70    0      4 2595     17        0     44    1622
+Confl. Peds. (#/hr)            18                  4
+Heavy Vehicles (%)       0%   0%     0%    1%    0%       0%      0%     1%
+Turn Type                           Prot       Perm      Prot    Prot
+Protected Phases           8           5     2             1       1       6
+Permitted Phases                                   2
+Actuated Green, G (s)   12.5         1.1 142.9 142.9              5.5 147.3
+Effective Green, g (s)  12.5         1.1 142.9 142.9              5.5 147.3
+Actuated g/C Ratio      0.07       0.01 0.83 0.83                0.03 0.85
+Clearance Time (s)       4.0         4.0   4.0   4.0              4.0   4.0
+Vehicle Extension (s)    3.0         3.0   3.0   3.0              3.0   3.0
+Lane Grp Cap (vph)       116          11 2954 1279                 57 3045
+v/s Ratio Prot         c0.06       0.00 c0.73                   c0.02 0.45
+v/s Ratio Perm                                  0.01
+v/c Ratio               0.60       0.36 0.88 0.01                0.77   0.53
+Uniform Delay, d1       77.8       85.6    9.5   2.6             83.1    3.5
+Progression Factor      1.00       1.00 1.00 1.00                1.00   1.00
+Incremental Delay, d2    8.1       19.3    4.1   0.0             46.8    0.7
+Delay (s)               85.9      104.8 13.6     2.7            129.9    4.1
+Level of Service           F           F     B     A                F      A
+Approach Delay (s)      85.9              13.7                           7.5
+Approach LOS               F                 B                             A
+Intersection Summary
+HCM Average Control Delay               13.0   HCM Level of Service               B
+HCM Volume to Capacity ratio            0.87
+Actuated Cycle Length (s)              172.9   Sum of lost time (s)             12.0
+Intersection Capacity Utilization     86.2%    ICU Level of Service                E
+Analysis Period (min)                     15
+c Critical Lane Group
+
+
+
+
+Background (without project) Conditions                                                2017 PM Peak
+City of Mt Vernon, Public Works Dep                                                          Page 1
+HCM Unsignalized Intersection Capacity Analysis
+2: NE 147th St & SR 522                                                                  5/21/2015
+
+
+
+Movement                  WBL WBR            NBT     NBR      SBL    SBT
+Lane Configurations
+Sign Control               Stop              Free                    Free
+Grade                       0%                 0%                     0%
+Volume (veh/h)                0       38     2522      18       28   1573
+Peak Hour Factor           0.25     0.80      0.97   0.80     0.80   0.97
+Hourly flow rate (vph)        0       48     2600      22       35   1622
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type               None
+Median storage veh)
+Upstream signal (ft)                          700
+pX, platoon unblocked
+vC, conflicting volume    3492      1311                     2622
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol        3492      1311                     2622
+tC, single (s)              6.8       6.9                      4.1
+tC, 2 stage (s)
+tF (s)                      3.5       3.3                      2.2
+p0 queue free %             100       69                       79
+cM capacity (veh/h)           4      152                      166
+Direction, Lane #      WB 1         NB 1     NB 2    SB 1    SB 2    SB 3
+Volume Total              48        1733      889      35     811     811
+Volume Left                0            0        0     35       0       0
+Volume Right              48            0      22       0       0       0
+cSH                      152        1700     1700     166    1700    1700
+Volume to Capacity      0.31        1.02     0.52    0.21    0.48    0.48
+Queue Length 95th (ft)    31            0        0     19       0       0
+Control Delay (s)       39.1          0.0      0.0   32.5     0.0     0.0
+Lane LOS                   E                            D
+Approach Delay (s)      39.1         0.0              0.7
+Approach LOS               E
+Intersection Summary
+Average Delay                                  0.7
+Intersection Capacity Utilization           80.3%          ICU Level of Service   D
+Analysis Period (min)                           15
+
+
+
+
+Background (without project) Conditions                                               2017 PM Peak
+City of Mt Vernon, Public Works Dep                                                         Page 1
+HCM Signalized Intersection Capacity Analysis
+3: NE 145th St & SR 522                                                                                5/21/2015
+
+
+
+Movement                   EBL       EBT     EBR     WBL     WBT     WBR   NBL   NBT   NBR    SBL     SBT    SBR
+Lane Configurations
+Ideal Flow (vphpl)        1900      1900  1900       1900    1900   1900 1900 1900 1900 1900         1900  1900
+Total Lost time (s)         4.0       4.0    4.0      4.0      4.0    4.0   4.0   4.0   4.0  4.0       4.0    4.0
+Lane Util. Factor          0.95     0.95   1.00      1.00    1.00   1.00 1.00 0.95 1.00 1.00         0.95   1.00
+Frpb, ped/bikes            1.00     1.00   0.88      1.00    1.00   0.87 1.00 1.00 0.89 1.00          1.00  0.81
+Flpb, ped/bikes           1.00      1.00   1.00      1.00    1.00   1.00 1.00 1.00 1.00 1.00          1.00  1.00
+Frt                        1.00      1.00  0.85      1.00    1.00   0.85 1.00 1.00 0.85 1.00          1.00  0.85
+Flt Protected             0.95      0.96   1.00      0.95    1.00   1.00 0.95 1.00 1.00 0.95          1.00  1.00
+Satd. Flow (prot)         1698      1716  1403       1787    1881   1396 1770 3539 1405 1787         3574  1293
+Flt Permitted             0.95      0.96   1.00      0.95    1.00   1.00 0.95 1.00 1.00 0.95          1.00  1.00
+Satd. Flow (perm)         1698      1716  1403       1787    1881   1396 1770 3539 1405 1787         3574  1293
+Volume (vph)                804        76   113        66     112    262    105 1449     34   51       972   528
+Peak-hour factor, PHF      0.98     0.98   0.98      0.98    0.98   0.98 0.98 0.98 0.98 0.98          0.98  0.98
+Adj. Flow (vph)            820         78   115        67     114    267    107 1479     35   52       992   539
+RTOR Reduction (vph)          0         0    42         0        0     51     0     0     4    0         0   274
+Lane Group Flow (vph)      437       461     73        67     114    216    107 1479     31   52       992   265
+Confl. Peds. (#/hr)                          28                        29                14                   26
+Heavy Vehicles (%)          1%        1%    1%        1%       1%     1%    2%    2%    2%   1%        1%    1%
+Turn Type                  Split          Perm       Split         Perm    Prot       Perm  Prot           Perm
+Protected Phases              4         4               8        8            5     2          1         6
+Permitted Phases                               4                        8                 2                     6
+Actuated Green, G (s)      60.2      60.2 60.2       35.1     35.1 35.1 17.5 97.2 97.2       7.0     86.7 86.7
+Effective Green, g (s)     60.2      60.2 60.2       35.1     35.1 35.1 17.5 97.2 97.2       7.0     86.7 86.7
+Actuated g/C Ratio         0.28      0.28 0.28       0.16     0.16 0.16 0.08 0.45 0.45 0.03          0.40 0.40
+Clearance Time (s)          4.0       4.0   4.0       4.0      4.0    4.0   4.0   4.0   4.0  4.0       4.0    4.0
+Vehicle Extension (s)       3.0       3.0   3.0       3.0      3.0    3.0   3.0   3.0   3.0  3.0       3.0    3.0
+Lane Grp Cap (vph)          474       479   392       291      306    227   144 1596    634   58     1438    520
+v/s Ratio Prot             0.26     c0.27            0.04     0.06        c0.06 c0.42       0.03     0.28
+v/s Ratio Perm                             0.08                      0.19              0.02                 0.42
+v/c Ratio                  0.92      0.96 0.19       0.23     0.37 0.95 0.74 0.93 0.05 0.90          0.69 0.51
+Uniform Delay, d1          75.4      76.5 59.0       78.5     80.4 89.4 96.8 55.8 33.2 103.9         53.3 48.4
+Progression Factor         1.00      1.00 1.00       1.00     1.00 1.00 1.00 1.00 1.00 1.00          1.00 1.00
+Incremental Delay, d2      23.5      31.5   0.2       0.4      0.8 46.0 18.6 10.8       0.1 80.9       2.7    3.5
+Delay (s)                  98.8     108.0 59.3       78.9     81.2 135.3 115.4 66.5 33.4 184.8        56.0 52.0
+Level of Service              F         F      E        E        F      F     F     E     C    F         E     D
+Approach Delay (s)                   98.5                    113.1               69.0                58.9
+Approach LOS                            F                        F                  E                    E
+Intersection Summary
+HCM Average Control Delay                     76.2       HCM Level of Service            E
+HCM Volume to Capacity ratio                  1.04
+Actuated Cycle Length (s)                    215.5       Sum of lost time (s)          20.0
+Intersection Capacity Utilization           93.2%        ICU Level of Service             F
+Analysis Period (min)                           15
+c Critical Lane Group
+
+
+
+
+Background (without project) Conditions                                                             2017 PM Peak
+City of Mt Vernon, Public Works Dep                                                                       Page 2
+HCM Signalized Intersection Capacity Analysis
+1: NE 153rd St & SR 522                                                                   5/21/2015
+
+
+
+Movement               WBL WBR NBU NBT NBR               SBU     SBL    SBT
+Lane Configurations
+Ideal Flow (vphpl)     1900 1900 1900 1900 1900         1900    1900    1900
+Total Lost time (s)      4.0         4.0   4.0   4.0             4.0      4.0
+Lane Util. Factor       1.00       1.00 0.95 1.00               1.00     0.95
+Frpb, ped/bikes         0.95       1.00 1.00 0.96               1.00     1.00
+Flpb, ped/bikes         1.00       1.00 1.00 1.00               1.00    1.00
+Frt                     0.90        1.00 1.00 0.85              1.00     1.00
+Flt Protected           0.99       0.95 1.00 1.00               0.95    1.00
+Satd. Flow (prot)      1596        1805 3574 1548               1805    3574
+Flt Permitted           0.99       0.95 1.00 1.00               0.95    1.00
+Satd. Flow (perm)      1596        1805 3574 1548               1805    3574
+Volume (vph)              23   73      4 2518     14       14     21    1574
+Peak-hour factor, PHF   0.80 0.80 0.80 0.97 1.00         0.80   0.80    0.97
+Adj. Flow (vph)           29   91      5 2596     14       18     26    1623
+RTOR Reduction (vph)      32    0      0     0     1        0      0        0
+Lane Group Flow (vph)     88    0      5 2596     13        0     44    1623
+Confl. Peds. (#/hr)            18                  4
+Heavy Vehicles (%)       0%   0%     0%    1%    0%       0%      0%     1%
+Turn Type                           Prot       Perm      Prot    Prot
+Protected Phases           8           5     2             1       1       6
+Permitted Phases                                   2
+Actuated Green, G (s)   14.3         1.1 142.9 142.9              5.5 147.3
+Effective Green, g (s)  14.3         1.1 142.9 142.9              5.5 147.3
+Actuated g/C Ratio      0.08       0.01 0.82 0.82                0.03 0.84
+Clearance Time (s)       4.0         4.0   4.0   4.0              4.0   4.0
+Vehicle Extension (s)    3.0         3.0   3.0   3.0              3.0   3.0
+Lane Grp Cap (vph)       131          11 2923 1266                 57 3013
+v/s Ratio Prot         c0.08       0.00 c0.73                   c0.02 0.45
+v/s Ratio Perm                                  0.01
+v/c Ratio               0.67       0.45 0.89 0.01                0.77   0.54
+Uniform Delay, d1       77.9       86.5 10.6     2.9             84.0    3.9
+Progression Factor      1.00       1.00 1.00 1.00                1.00   1.00
+Incremental Delay, d2   12.7       27.0    4.5   0.0             46.8    0.7
+Delay (s)               90.6      113.5 15.1     2.9            130.8    4.6
+Level of Service           F           F     B     A                F      A
+Approach Delay (s)      90.6              15.2                           8.0
+Approach LOS               F                 B                             A
+Intersection Summary
+HCM Average Control Delay               14.5   HCM Level of Service               B
+HCM Volume to Capacity ratio            0.89
+Actuated Cycle Length (s)              174.7   Sum of lost time (s)             12.0
+Intersection Capacity Utilization     86.2%    ICU Level of Service                E
+Analysis Period (min)                     15
+c Critical Lane Group
+
+
+
+
+Future with Project Conditions                                                         2017 PM Peak
+City of Mt Vernon, Public Works Dep                                                          Page 1
+HCM Unsignalized Intersection Capacity Analysis
+2: NE 147th St & SR 522                                                                  5/21/2015
+
+
+
+Movement                  WBL WBR            NBT     NBR      SBL    SBT
+Lane Configurations
+Sign Control               Stop              Free                    Free
+Grade                       0%                 0%                     0%
+Volume (veh/h)                0       39     2522      22       29   1573
+Peak Hour Factor           0.25     0.80      0.97   0.80     0.80   0.97
+Hourly flow rate (vph)        0       49     2600      28       36   1622
+Pedestrians
+Lane Width (ft)
+Walking Speed (ft/s)
+Percent Blockage
+Right turn flare (veh)
+Median type               None
+Median storage veh)
+Upstream signal (ft)                          700
+pX, platoon unblocked
+vC, conflicting volume    3497      1314                     2628
+vC1, stage 1 conf vol
+vC2, stage 2 conf vol
+vCu, unblocked vol        3497      1314                     2628
+tC, single (s)              6.8       6.9                      4.1
+tC, 2 stage (s)
+tF (s)                      3.5       3.3                      2.2
+p0 queue free %             100       68                       78
+cM capacity (veh/h)           4      151                      165
+Direction, Lane #      WB 1         NB 1     NB 2    SB 1    SB 2    SB 3
+Volume Total              49        1733      894      36     811     811
+Volume Left                0            0        0     36       0       0
+Volume Right              49            0      28       0       0       0
+cSH                      151        1700     1700     165    1700    1700
+Volume to Capacity      0.32        1.02     0.53    0.22    0.48    0.48
+Queue Length 95th (ft)    32            0        0     20       0       0
+Control Delay (s)       39.7          0.0      0.0   32.9     0.0     0.0
+Lane LOS                   E                            D
+Approach Delay (s)      39.7         0.0              0.7
+Approach LOS               E
+Intersection Summary
+Average Delay                                  0.7
+Intersection Capacity Utilization           80.4%          ICU Level of Service   D
+Analysis Period (min)                           15
+
+
+
+
+Future with Project Conditions                                                        2017 PM Peak
+City of Mt Vernon, Public Works Dep                                                         Page 1
+HCM Signalized Intersection Capacity Analysis
+3: NE 145th St & SR 522                                                                                5/21/2015
+
+
+
+Movement                   EBL       EBT     EBR     WBL     WBT     WBR   NBL   NBT   NBR    SBL     SBT    SBR
+Lane Configurations
+Ideal Flow (vphpl)        1900      1900  1900       1900    1900   1900 1900 1900 1900 1900         1900  1900
+Total Lost time (s)         4.0       4.0    4.0      4.0      4.0    4.0   4.0   4.0   4.0  4.0       4.0    4.0
+Lane Util. Factor          0.95     0.95   1.00      1.00    1.00   1.00 1.00 0.95 1.00 1.00         0.95   1.00
+Frpb, ped/bikes            1.00     1.00   0.88      1.00    1.00   0.87 1.00 1.00 0.89 1.00          1.00  0.81
+Flpb, ped/bikes           1.00      1.00   1.00      1.00    1.00   1.00 1.00 1.00 1.00 1.00          1.00  1.00
+Frt                        1.00      1.00  0.85      1.00    1.00   0.85 1.00 1.00 0.85 1.00          1.00  0.85
+Flt Protected             0.95      0.96   1.00      0.95    1.00   1.00 0.95 1.00 1.00 0.95          1.00  1.00
+Satd. Flow (prot)         1698      1716  1402       1787    1881   1396 1770 3539 1405 1787         3574  1292
+Flt Permitted             0.95      0.96   1.00      0.95    1.00   1.00 0.95 1.00 1.00 0.95          1.00  1.00
+Satd. Flow (perm)         1698      1716  1402       1787    1881   1396 1770 3539 1405 1787         3574  1292
+Volume (vph)                806        79   113        67     113    262    105 1451     34   51       972   528
+Peak-hour factor, PHF      0.98     0.98   0.98      0.98    0.98   0.98 0.98 0.98 0.98 0.98          0.98  0.98
+Adj. Flow (vph)            822         81   115        68     115    267    107 1481     35   52       992   539
+RTOR Reduction (vph)          0         0    42         0        0     51     0     0     4    0         0   274
+Lane Group Flow (vph)      440       463     73        68     115    216    107 1481     31   52       992   265
+Confl. Peds. (#/hr)                          28                        29                14                   26
+Heavy Vehicles (%)          1%        1%    1%        1%       1%     1%    2%    2%    2%   1%        1%    1%
+Turn Type                  Split          Perm       Split         Perm    Prot       Perm  Prot           Perm
+Protected Phases              4         4               8        8            5     2          1         6
+Permitted Phases                               4                        8                 2                     6
+Actuated Green, G (s)      60.4      60.4 60.4       35.2     35.2 35.2 17.6 97.2 97.2       7.0     86.6 86.6
+Effective Green, g (s)     60.4      60.4 60.4       35.2     35.2 35.2 17.6 97.2 97.2       7.0     86.6 86.6
+Actuated g/C Ratio         0.28      0.28 0.28       0.16     0.16 0.16 0.08 0.45 0.45 0.03          0.40 0.40
+Clearance Time (s)          4.0       4.0   4.0       4.0      4.0    4.0   4.0   4.0   4.0  4.0       4.0    4.0
+Vehicle Extension (s)       3.0       3.0   3.0       3.0      3.0    3.0   3.0   3.0   3.0  3.0       3.0    3.0
+Lane Grp Cap (vph)          475       480   392       291      307    228   144 1594    633   58     1434    518
+v/s Ratio Prot             0.26     c0.27            0.04     0.06        c0.06 c0.42       0.03     0.28
+v/s Ratio Perm                             0.08                      0.19              0.02                 0.42
+v/c Ratio                  0.93      0.96 0.19       0.23     0.37 0.95 0.74 0.93 0.05 0.90          0.69 0.51
+Uniform Delay, d1          75.5      76.6 59.0       78.6     80.5 89.4 96.9 56.0 33.3 104.0         53.5 48.7
+Progression Factor         1.00      1.00 1.00       1.00     1.00 1.00 1.00 1.00 1.00 1.00          1.00 1.00
+Incremental Delay, d2      24.1      31.9   0.2       0.4      0.8 44.5 18.6 11.0       0.1 80.9       2.8    3.6
+Delay (s)                  99.6     108.5 59.3       79.0     81.3 133.9 115.5 67.0 33.5 185.0        56.3 52.2
+Level of Service              F         F      E        E        F      F     F     E     C    F         E     D
+Approach Delay (s)                   99.1                    112.2               69.5                59.1
+Approach LOS                            F                        F                  E                    E
+Intersection Summary
+HCM Average Control Delay                     76.6       HCM Level of Service            E
+HCM Volume to Capacity ratio                  1.04
+Actuated Cycle Length (s)                    215.8       Sum of lost time (s)          20.0
+Intersection Capacity Utilization           93.4%        ICU Level of Service             F
+Analysis Period (min)                           15
+c Critical Lane Group
+
+
+
+
+Future with Project Conditions                                                                      2017 PM Peak
+City of Mt Vernon, Public Works Dep                                                                       Page 2
+ATTACHMENT 4
+
+  Queue Results

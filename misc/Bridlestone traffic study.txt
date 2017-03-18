@@ -1,0 +1,2683 @@
+Gibson Traffic Consultants
+2802 Wetmore Avenue
+Suite 220
+Everett, WA 98201
+425.339.8266
+
+
+
+
+                                        Bridal Trails
+                              Traffic Impact Analysis
+
+                             Prepared for: KLN Construction, Inc.
+                                    Jurisdiction: City of Kirkland
+                                                    Tran14-02146
+
+                                                      January 2015
+
+
+
+
+                                                       GTC #14-236
+Bridal Trails                                                                                           Traffic Impact Analysis
+
+                                              TABLE OF CONTENTS
+
+1.  INTRODUCTION ................................................................................................................... 1 
+2.  EXISTING CONDITIONS ..................................................................................................... 1 
+    2.1  Turning Movement Volumes ........................................................................................ 3 
+    2.2  Existing Conditions Level of Service Analysis ............................................................ 5 
+3.  TRIP GENERATION AND DISTRIBUTION ....................................................................... 5 
+    3.1  Trip Generation ............................................................................................................. 5 
+    3.2  Trip Distribution ........................................................................................................... 6 
+4.  FUTURE ANALYSIS ............................................................................................................. 6 
+    4.1  Turning Movements ...................................................................................................... 6 
+    4.2  Level of Service Analysis ............................................................................................. 6 
+5.  SITE EVALUATION............................................................................................................ 10 
+    5.1  Access Separation ....................................................................................................... 10 
+    5.2  Sight Distance Analysis .............................................................................................. 10 
+    5.3  Collision Analysis ....................................................................................................... 11 
+6.  CONCLUSIONS ................................................................................................................... 11 
+
+                                                   LIST OF FIGURES
+
+Figure 1: Site Vicinity Map ............................................................................................................ 2 
+Figure 2: 2014 Existing Turning Movements ................................................................................. 4 
+Figure 3: Development Trip Distribution PM Peak-Hour .............................................................. 7 
+Figure 4: 2019 Baseline Turning Movements ................................................................................ 8 
+Figure 5: 2019 Future with Development Turning Movements ..................................................... 9 
+
+                                                    LIST OF TABLES
+
+Table 1: Level of Service Criteria for Intersections ....................................................................... 3 
+Table 2: Existing Level of Service Summary ................................................................................. 5 
+Table 3: Trip Generation Summary ................................................................................................ 6 
+Table 4: Existing and Future Level of Service Summary ............................................................. 10 
+
+
+
+
+Gibson Traffic Consultants, Inc.                                                                                      January 2015
+info@gibsontraffic.com                                                                                                GTC #14-236
+                                                               i
+Bridal Trails                                                                                                  Traffic Impact Analysis
+
+                                                        ATTACHMENTS
+
+Trip Generation Calculations ......................................................................................................... A 
+Turning Movements ........................................................................................................................ B 
+2014 Existing LOS.......................................................................................................................... C 
+2019 Baseline LOS ........................................................................................................................ D 
+2019 Future With Development LOS ............................................................................................. E 
+Collision Data ................................................................................................................................. F 
+Traffic Counts ................................................................................................................................ G 
+Concurrency Test ........................................................................................................................... H 
+Site Plan ........................................................................................................................................ I
+
+
+
+
+Gibson Traffic Consultants, Inc.                                                                                              January 2015
+info@gibsontraffic.com                                                                                                        GTC #14-236
+                                                                  ii
+Bridal Trails                                                           Traffic Impact Analysis
+
+
+1. INTRODUCTION
+
+Gibson Traffic Consultants, Inc. (GTC) has been retained to analyze the traffic impacts of the
+proposed Bridal Trails development. The 35 single-family-unit development is proposed will
+replace the five existing single-family units. The proposed development site is located at 4600-
+4646 116th Avenue NE. A site vicinity map is included in Figure 1. The development is
+proposed to have one access to 116th Avenue NE. The development is proposed to be constructed
+and fully occupied by 2019.
+
+The findings of this analysis show that the development will not have a significant adverse
+impact on the surrounding roadway system.
+
+
+2. EXISTING CONDITIONS
+
+The scope of the analysis is based on the current concurrency test that identified intersections
+that have a “significant” amount of development traffic through them. The critical off-site
+intersections of identified for concurrency were:
+
+The weekday PM peak-hour, one hour between 4:00 PM and 6:00 PM, has been analyzed since
+the development will generate the greatest number of trips during the PM peak-hour and the
+historical data shows that the surrounding intersections have higher volumes during the weekday
+PM peak-hour than the weekday AM peak-hour.
+
+The intersection level of service analysis has been performed for the existing conditions, 2019
+baseline conditions and 2019 future with development conditions during the PM peak-hour. The
+site access intersection has only been analyzed for the 2019 future conditions with development.
+
+The peak-hour level of service (LOS) analysis calculations were completed using the Synchro 8,
+Build 805 software. This software applies the operational analysis methodology of the current
+Highway Capacity Manual (HCM). Traffic congestion is generally measured in terms of level of
+service. In accordance with the 2010 HCM, road facilities and intersections are rated between
+LOS A and LOS F, with LOS A being free flow and LOS F being forced flow or over-capacity
+conditions. The level of service criteria is summarized in Table 1. The level of service at two-
+way stop-controlled intersections is based on the average delay of the worst approach. The level
+of service at signalized and all-way stop-controlled intersections is based on the average delay
+for all approaches. Geometric characteristics and conflicting traffic movements are taken into
+consideration when determining level of service values.
+
+
+
+
+Gibson Traffic Consultants, Inc.                                                  January 2015
+info@gibsontraffic.com                                                            GTC #14-236
+                                           1
+                 STATE ST S
+
+
+
+                                                                                         #3        NE 70TH ST
+                              NE 68TH ST
+  LAKE VIEW DR
+
+
+
+
+                                                                                                                124TH AVE NE
+                                           6TH ST S
+
+
+
+
+                                                      NE 60TH ST         #2
+                                                                                               NE 60TH ST
+                                                                          124TH AVE NE
+
+
+
+
+                                                 NE 53RD ST
+
+
+
+                                                                                              NE 48TH PL
+                                                                         #1
+
+
+
+                                                                         #4                   SITE
+
+
+ N
+
+
+
+
+1/14/15
+
+                                                                                                            TRAFFIC IMPACT STUDY
+GIBSON TRAFFIC C ONSULTANTS                                                                                     GTC #14-236
+
+    BRIDAL TRAILS                                        LEGEND                                                                FIGURE 1
+   30 NEW SFD UNITS                                                DEVELOPMENT SITE
+                                                                                                                SITE VICINITY MAP
+                                                            #X
+
+
+
+
+                                                                   STUDY INTERSECTION
+  CITY OF KIRKLAND
+Bridal Trails                                                                        Traffic Impact Analysis
+
+
+                          Table 1: Level of Service Criteria for Intersections
+
+                                                                 Intersection Control Delay
+                 Level of 1            Expected                    (Seconds per Vehicle)
+                  Service               Delay               Unsignalized            Signalized
+                                                            Intersections          Intersections
+                     A              Little/No Delay              <10                    <10
+                     B               Short Delays           >10 and <15            >10 and <20
+                     C              Average Delays          >15 and <25            >20 and <35
+                     D               Long Delays            >25 and <35            >35 and <55
+                     E             Very Long Delays         >35 and <50            >55 and <80
+                     F             Extreme Delays2               >50                    >80
+
+The City of Kirkland does not require SEPA mitigation for intersections that operate at LOS D
+or better. SEPA mitigation may be required for intersections that operate at LOS E or LOS F,
+depending on the intersection proportional share impacts.
+
+
+      2.1 Turning Movement Volumes
+
+Existing turning movement counts were performed by iDax Data (iDax) at the study
+intersections on Tuesday December 16, 2014 between 4:00 PM and 6:00 PM. The existing
+turning movement volumes are shown in Figure 2. The study intersections are:
+
+      1. 116th Avenue NE at NE 48th Place – Minor Leg Stop Control
+      2. 116th Avenue NE at NE 60th Street – All-way Stop Control
+      3. 116th Avenue NE at I-405 NB Ramps – Signalized
+
+
+
+
+1   Source: Highway Capacity Manual 2010.
+     LOS A: Free-flow traffic conditions, with minimal delay to stopped vehicles (no vehicle is delayed longer
+              than one cycle at signalized intersection).
+     LOS B: Generally stable traffic flow conditions.
+     LOS C: Occasional back-ups may develop, but delay to vehicles is short term and still tolerable.
+     LOS D: During short periods of the peak hour, delays to approaching vehicles may be substantial but are
+              tolerable during times of less demand (i.e. vehicles delayed one cycle or less at signal).
+     LOS E: Intersections operate at or near capacity, with long queues developing on all approaches and long
+              delays.
+     LOS F: Jammed conditions on all approaches with excessively long delays and vehicles unable to move at
+              times.
+2   When demand volume exceeds the capacity of the lane, extreme delays will be encountered with queuing which
+    may cause severe congestion affecting other traffic movements in the intersection.
+Gibson Traffic Consultants, Inc.                                                                   January 2015
+info@gibsontraffic.com                                                                             GTC #14-236
+                                                   3
+                 STATE ST S
+                                                                                                                                         NE 48TH PL @
+                                                                                                                                    #1
+                                                                                                                                         124TH AVE NE
+
+
+
+
+                                                                                                                                          158
+                                                                                                                                                 8
+
+
+
+
+                                                                                                                                          14
+                                                                                                                                                 6
+                                                                                            #3        NE 70TH ST
+                              NE 68TH ST
+
+
+
+
+                                                                                                                                                676
+                                                                                                                                                 14
+  LAKE VIEW DR
+
+
+
+
+                                                                                                                   124TH AVE NE
+                                                                                                                                         NE 60TH ST @
+                                                                                                                                    #2
+                                           6TH ST S
+
+
+
+                                                                                                                                         124TH AVE NE
+
+                                                                                                                                                 130
+
+
+
+
+                                                                                                                                         131
+                                                                                                                                         71
+                                                                                                                                                 1
+
+
+
+
+                                                                                                                                         4
+                                                                                                                                                 42
+                                                      NE 60TH ST            #2                                                            5
+                                                                                                  NE 60TH ST                              0
+
+
+
+
+                                                                                                                                                  0
+                                                                                                                                                570
+                                                                                                                                                 65
+                                                                                                                                          0
+                                                                             124TH AVE NE
+
+
+                                                                                                                                         I-5 NB RAMPS @
+                                                                                                                                    #3
+                                                                                                                                         124TH AVE NE
+
+                                                 NE 53RD ST                                                                                      9
+
+
+
+
+                                                                                                                                         567
+                                                                                                                                         168
+                                                                                                                                                 0
+
+
+
+
+                                                                                                                                         0
+                                                                                                                                                 0
+
+                                                                                                                                         622
+                                                                                                 NE 48TH PL                                0
+
+
+
+
+                                                                                                                                                413
+                                                                                                                                                304
+                                                                                                                                                  0
+                                                                                                                                          55
+                                                                            #1
+
+
+                                                                                                                                         SITE ACCESS @
+                                                                                                                                    #4
+                                                                            #4                   SITE                                    124TH AVE NE
+                                                                                                                                          164
+
+
+
+                                                                                                                                                 0
+                                                                                                                                          0
+
+
+
+                                                                                                                                                 0
+
+ N
+                                                                                                                                                690
+                                                                                                                                                  0
+
+
+
+
+1/14/15
+
+                                                                                                                TRAFFIC IMPACT STUDY
+GIBSON TRAFFIC C ONSULTANTS                                                                                         GTC #14-236
+
+    BRIDAL TRAILS                                        LEGEND                                                                   FIGURE 2
+   30 NEW SFD UNITS                                      XXX
+                                                                   PM PEAK HOUR                                     2014 EXISTING
+                                                                   TURNING MOVEMENT VOLUMES
+                                                                                                                INTERSECTION TURNING
+                                                                                                               MOVEMENTS PM PEAK HOUR
+  CITY OF KIRKLAND
+Bridal Trails                                                                 Traffic Impact Analysis
+
+   2.2 Existing Conditions Level of Service Analysis
+
+An existing turning movement counts were performed at the study intersections on December
+16, 2014 between 4:00 PM and 6:00 PM. The existing turning movement volumes are shown in
+Figure 2. The existing level of service analysis is based on signal phasing, peak-hour factors and
+heavy vehicle factors from the existing counts.
+
+The study intersections along 116th Avenue NE all currently operates at LOS C. The intersection
+level of service analysis is summarized in Table 2.
+
+                          Table 2: Existing Level of Service Summary
+
+                                                                  Existing
+                                   Intersection
+                                                                 Conditions
+                     1.   116th Avenue NE at
+                                                               C      15.4 sec
+                          NE 48th Place
+                     2.   116th Avenue NE at
+                                                               C      20.4 sec
+                          NE 60th Street
+                     3.   116th Avenue NE at
+                                                               C      25.9 sec
+                          I-405 Northbound Ramps
+
+The intersection level of service calculations are included in the attachments.
+
+
+3. TRIP GENERATION AND DISTRIBUTION
+
+   3.1 Trip Generation
+
+Trip generation for the Bridal Trails development is based on national research data for similar
+developments contained in the Institute of Transportation Engineers (ITE) Trip Generation, 9th
+Edition (2012). The regression equation, per direction of the City, for ITE Land Use Code 210,
+single-family residential unit, was utilized in the trip generation calculations. The credit for the
+five existing units was reflected in the use of 30 units in the equation.
+
+
+
+
+Gibson Traffic Consultants, Inc.                                                       January 2015
+info@gibsontraffic.com                                                                 GTC #14-236
+                                              5
+Bridal Trails                                                               Traffic Impact Analysis
+
+The Bridal Trails development is anticipated to generate 347 average daily trips (ADT) with 36
+PM peak-hour trips. The development’s trip generation is summarized in Table 3.
+
+                              Table 3: Trip Generation Summary
+
+                                        Daily          AM Peak-Hour               PM Peak-Hour
+        Land Use              Size
+                                        Trips     In       Out      Total    In       Out    Total
+
+ Single-Family Residential   30 Units   346.92     8        25        33     23       13         36
+
+
+The trip generation calculations are included in the attachments.
+
+   3.2 Trip Distribution
+
+The development’s trip distribution is based on the current concurrency test model run. It is
+anticipated that 60% of the development’s trips will travel along 116th Avenue NE to and from
+the north and 40% to and from the south. Detailed trip distributions are shown in Figure 3 for the
+PM peak-hour.
+
+
+4. FUTURE ANALYSIS
+
+   4.1 Turning Movements
+
+The 2019 baseline conditions turning movement volumes have been calculated by applying a 2%
+annually compounded to the existing turning movements. This growth rate is consistent with
+growth rates used for other developments within the City of Kirkland. The 2019 baseline
+conditions turning movements are shown in Figure 4. The 2019 future conditions with
+development turning movements have been calculated by adding the development’s trips to the
+2019 baseline conditions turning movements and are shown in Figure 5.
+
+   4.2 Level of Service Analysis
+
+The level of service analysis for the 2019 baseline conditions and 2019 future conditions with
+development was performed using the same parameters as the existing conditions. The analysis
+shows that the study intersections will continue to operate at LOS D or better. The site access
+intersection is anticipated to operate at LOS C. A summary of the future level of service is
+included in Table 4.
+
+
+
+
+Gibson Traffic Consultants, Inc.                                                     January 2015
+info@gibsontraffic.com                                                               GTC #14-236
+                                             6
+                                                                                   4
+                                                                    25
+
+                 STATE ST S
+
+
+
+
+                                                                         87
+                                                                                                      0
+                                                                               6
+                                                                                                                 2
+
+
+
+
+                                                                                                          7
+                                                                                                      0
+
+                                                           5         1
+
+
+
+
+                                                               17
+                                                                                                                      NE 70TH ST
+                              NE 68TH ST                       1
+                                                                                                      5
+                                                                                                                 35
+
+
+
+
+                                                                                                           121
+  LAKE VIEW DR
+
+
+
+
+                                                                                                                                   124TH AVE NE
+                                                                                                      8
+                                           6TH ST S
+
+
+
+
+                                                                                                                     25
+                                                                                                                     87
+                                                      NE 60TH ST                                                 5        3
+                                                                                                                NE 60TH ST
+
+                                                                           1
+                                                                3
+                                                                                       124TH AVE NE
+                                                                     10
+
+
+
+
+                                                                                                      8
+                                                                                                                 60
+                                                                                                          208
+                                                                           0
+                                                 NE 53RD ST                                           13
+
+
+                                                                                                            NE 48TH PL
+
+
+
+
+                                                                                                            SITE
+
+
+ N                                                                                                    10
+                                                                                                                 40
+                                                                                                          139
+
+
+
+
+                                                                                                      5
+
+1/14/15
+
+                                                                                                                              TRAFFIC IMPACT STUDY
+GIBSON TRAFFIC C ONSULTANTS                                                                                                       GTC #14-236
+
+    BRIDAL TRAILS                                          LEGEND                                                                                 FIGURE 3
+   30 NEW SFD UNITS                                   PM            PEAK       NEW PM PEAK HOUR TRIPS                                DEVELOPMENT
+                                                                                                                                   TRIP DISTRIBUTION
+                                                            XX                 TRIP DISTRIBUTION %
+                                                                                                                                    PM PEAK-HOUR
+  CITY OF KIRKLAND
+                 STATE ST S
+                                                                                                                                         NE 48TH PL @
+                                                                                                                                    #1
+                                                                                                                                         124TH AVE NE
+
+
+
+
+                                                                                                                                          174
+                                                                                                                                                 9
+
+
+
+
+                                                                                                                                          15
+                                                                                                                                                 7
+                                                                                            #3        NE 70TH ST
+                              NE 68TH ST
+
+
+
+
+                                                                                                                                                746
+                                                                                                                                                 15
+  LAKE VIEW DR
+
+
+
+
+                                                                                                                   124TH AVE NE
+                                                                                                                                         NE 60TH ST @
+                                                                                                                                    #2
+                                           6TH ST S
+
+
+
+                                                                                                                                         124TH AVE NE
+
+                                                                                                                                                 144
+
+
+
+
+                                                                                                                                         145
+                                                                                                                                         78
+                                                                                                                                                 1
+
+
+
+
+                                                                                                                                         4
+                                                                                                                                                 46
+                                                      NE 60TH ST            #2                                                            6
+                                                                                                  NE 60TH ST                              0
+
+
+
+
+                                                                                                                                                  0
+                                                                                                                                                629
+                                                                                                                                                 72
+                                                                                                                                          0
+                                                                             124TH AVE NE
+
+
+                                                                                                                                         I-5 NB RAMPS @
+                                                                                                                                    #3
+                                                                                                                                         124TH AVE NE
+
+                                                 NE 53RD ST                                                                                      10
+
+
+
+
+                                                                                                                                         626
+                                                                                                                                         185
+                                                                                                                                                 0
+
+
+
+
+                                                                                                                                         0
+                                                                                                                                                 0
+
+                                                                                                                                         687
+                                                                                                 NE 48TH PL                                0
+
+
+
+
+                                                                                                                                                456
+                                                                                                                                                336
+                                                                                                                                                  0
+                                                                                                                                          61
+                                                                            #1
+
+
+                                                                                                                                         SITE ACCESS @
+                                                                                                                                    #4
+                                                                            #4                   SITE                                    124TH AVE NE
+                                                                                                                                          181
+
+
+
+                                                                                                                                                 0
+                                                                                                                                          0
+
+
+
+                                                                                                                                                 0
+
+ N
+                                                                                                                                                762
+                                                                                                                                                  0
+
+
+
+
+1/14/15
+
+                                                                                                                TRAFFIC IMPACT STUDY
+GIBSON TRAFFIC C ONSULTANTS                                                                                         GTC #14-236
+
+    BRIDAL TRAILS                                        LEGEND                                                                   FIGURE 4
+   30 NEW SFD UNITS                                      XXX
+                                                                   PM PEAK HOUR                                     2019 BASELINE
+                                                                   TURNING MOVEMENT VOLUMES
+                                                                                                                INTERSECTION TURNING
+                                                                                                               MOVEMENTS PM PEAK HOUR
+  CITY OF KIRKLAND
+                 STATE ST S
+                                                                                                                                         NE 48TH PL @
+                                                                                                                                    #1
+                                                                                                                                         124TH AVE NE
+
+
+
+
+                                                                                                                                          187
+                                                                                                                                                 9
+
+
+
+
+                                                                                                                                          15
+                                                                                                                                                 7
+                                                                                            #3        NE 70TH ST
+                              NE 68TH ST
+
+
+
+
+                                                                                                                                                754
+                                                                                                                                                 15
+  LAKE VIEW DR
+
+
+
+
+                                                                                                                   124TH AVE NE
+                                                                                                                                         NE 60TH ST @
+                                                                                                                                    #2
+                                           6TH ST S
+
+
+
+                                                                                                                                         124TH AVE NE
+
+                                                                                                                                                 144
+
+
+
+
+                                                                                                                                         153
+                                                                                                                                         78
+                                                                                                                                                 1
+
+
+
+
+                                                                                                                                         4
+                                                                                                                                                 51
+                                                      NE 60TH ST            #2                                                            6
+                                                                                                  NE 60TH ST                              0
+
+
+
+
+                                                                                                                                                  0
+                                                                                                                                                634
+                                                                                                                                                 75
+                                                                                                                                          0
+                                                                             124TH AVE NE
+
+
+                                                                                                                                         I-5 NB RAMPS @
+                                                                                                                                    #3
+                                                                                                                                         124TH AVE NE
+
+                                                 NE 53RD ST                                                                                      10
+
+
+
+
+                                                                                                                                         626
+                                                                                                                                         192
+                                                                                                                                                 0
+
+
+
+
+                                                                                                                                         0
+                                                                                                                                                 0
+
+                                                                                                                                         687
+                                                                                                 NE 48TH PL                                0
+
+
+
+
+                                                                                                                                                460
+                                                                                                                                                337
+                                                                                                                                                  0
+                                                                                                                                          62
+                                                                            #1
+
+
+                                                                                                                                         SITE ACCESS @
+                                                                                                                                    #4
+                                                                            #4                   SITE                                    124TH AVE NE
+                                                                                                                                          181
+
+
+
+                                                                                                                                                 8
+                                                                                                                                          13
+
+
+
+                                                                                                                                                 5
+
+ N
+                                                                                                                                                762
+                                                                                                                                                 10
+
+
+
+
+1/14/15
+
+                                                                                                               TRAFFIC IMPACT STUDY
+GIBSON TRAFFIC C ONSULTANTS                                                                                        GTC #14-236
+
+    BRIDAL TRAILS                                        LEGEND                                                                   FIGURE 5
+   30 NEW SFD UNITS                                      XXX
+                                                                   PM PEAK HOUR                          2019 FUTURE WITH DEVELOPMENT
+                                                                   TURNING MOVEMENT VOLUMES
+                                                                                                              INTERSECTION TURNING
+                                                                                                           MOVEMENTS PM PEAK-HOUR
+  CITY OF KIRKLAND
+Bridal Trails                                                                  Traffic Impact Analysis
+
+
+                    Table 4: Existing and Future Level of Service Summary
+
+                                                                                      2019 Future
+                                                Existing       2019 Baseline
+                Intersection                                                       with Development
+                                               Conditions       Conditions
+                                                                                       Conditions
+  1.   116th Avenue NE at
+                                           C        15.4 sec   C     16.8 sec        C      17.1 sec
+       NE 48th Place
+  2.   116th Avenue NE at
+                                           C        20.4 sec   D     29.9 sec        D      34.6 sec
+       NE 60th Street
+  3.   116th Avenue NE at
+                                           C        25.9 sec   C     29.4 sec        C      29.7 sec
+       I-405 Northbound Ramps
+  4.   116th Avenue NE at
+                                          ---         ---      ---      ---          C      17.3 sec
+       Site Access
+
+The level of service calculations are included in the attachments.
+
+
+5. SITE EVALUATION
+
+The site access has been analyzed to determine if there is adequate sight distance and ensure the
+access operates acceptably. The posted speed limit is 35 mph along 116th Avenue NE a collector
+roadway.
+
+   5.1 Access Separation
+
+The City of Kirkland identifies intersection spacing requirements in the Department of Public
+Works Pre-Approved Plans Policy R-4 (February 2010). The City is the reviewing agency when
+determining access points along 116th Avenue NE (Collector). The City policy identifies that the
+driveway for the 35 houses would be classified as a Multi-Family/Non-Residential driveway
+which requires 50 feet of spacing measured edge-to-edge. The proposed access will have more
+than 50 feet of access spacing to the north and south.
+
+   5.2 Sight Distance Analysis
+
+The City of Kirkland identifies intersection sight distance requirements in the Department of
+Public Works Pre-Approved Plans Policy R-13 (January 2009). The driveway is classified based
+on the driveway PM peak volume and the major street Average Daily Traffic (ADT). The site
+will only generate 9 PM peak-hour trips; however, the major street ADT volume is greater than
+6,000 trips. This identifies that the driveway type should be E2; the recommended sight distance
+for a posted speed limit of 35 mph is 390 feet. It should be noted that the minimum sight
+distance for the same posted speed limit is 250 feet.
+
+
+
+
+Gibson Traffic Consultants, Inc.                                                         January 2015
+info@gibsontraffic.com                                                                   GTC #14-236
+                                            10
+Bridal Trails                                                               Traffic Impact Analysis
+
+The sight distance is measured from a point in the middle of the outbound lane, 14 feet on-site
+from the edge of traveled way to a point 390 feet away in the middle of the major roadway
+approach lane. The driveway will have at least 390 feet of sight distance in both directions with
+the frontage improvements and maintenance of trees in the right-of-way, therefore satisfying
+the City of Kirkland standards.
+
+   5.3 Collision Analysis
+
+Collision data was obtained from WSDOT for the City intersections and along the site frontage.
+Data was obtained for more than a 5-year reporting period, January 1, 2009 through December 1,
+2014. The data shows that there have been 5 collisions (3 rear end, 1 ditch, 1 opposite direction)
+that are related to the intersection of 116th Avenue NE at NE 60th Street within the reporting
+period. There were no fatalities and no pedestrian related collisions.
+
+Along the site frontage there was 1 collision, it was a fixed object collision with no injury. The
+collision data is included in the attachments.
+
+
+6. CONCLUSIONS
+
+The 35 single-family-unit development is proposed will replace the five existing single-family
+units. The proposed development site is located at 4600-4646 116th Avenue NE. The
+development is anticipated to generate 347 daily trips with 36 PM peak-hour trips. The
+development will have one access to 116th Avenue NE and it will have adequate sight distance.
+The collision data shows that there is not a significant collision history along the development’s
+frontage or at the City study intersections. The study intersections and the site access intersection
+are all anticipated to operate at LOS D or better, which is within City of Kirkland acceptable
+standards. Therefore, as there are no significant impacts at this time there should be no off-site
+traffic mitigation needed.
+
+
+
+
+Gibson Traffic Consultants, Inc.                                                      January 2015
+info@gibsontraffic.com                                                                GTC #14-236
+                                             11
+Trip Generation Calculations
+
+
+
+
+                               A
+                                                                                    Bridal Trails
+                                                                                    GTC #14-236
+
+
+
+
+              Trip Generation for: Weekday
+                          (a.k.a.): Average Weekday Daily Trips (AWDT)
+
+
+                                                                                                                                      NET EXTERNAL TRIPS BY TYPE
+                                                                                                                          IN BOTH DIRECTIONS                DIRECTIONAL ASSIGNMENTS
+                                                                                           Internal                                                                          DIVERTED
+                                                                Gross Trips                               TOTAL       PASS-BY         DIVERTED LINK      NEW      PASS-BY                 NEW
+                                                                                          Crossover                                                                             LINK
+                                                                                         % of    Trips              % of              % of
+                                                ITE LU   Trip   %      %      In+Out                      In+Out            In+Out            In+Out    In+Out
+ LAND USES                          VARIABLE                                            Gross   In+Out               Ext.              Ext.                       In   Out   In   Out   In    Out
+                                                 code    Rate   IN    OUT     (Total)                     (Total)           (Total)           (Total)   (Total)
+                                                                                        Trips   (Total)             Trips             Trips
+ Single-family Residential           30 units    210     EQ     50%   50%     346.92     0%       0        347       0%        0       0%       0        347      0     0     0    0    173   174
+ Totals                                                                       346.92              0        347                 0                0        347      0     0     0    0    173   174
+A-1
+                                                                                     Bridal Trails
+                                                                                     GTC #14-236
+
+
+
+
+              Trip Generation for: Weekday, Peak Hour of Adjacent Street Traffic, One Hour between 7 and 9 AM
+                          (a.k.a.): Weekday AM Peak Hour
+
+
+                                                                                                                                      NET EXTERNAL TRIPS BY TYPE
+                                                                                                                          IN BOTH DIRECTIONS                DIRECTIONAL ASSIGNMENTS
+                                                                                           Internal                                                                          DIVERTED
+                                                                Gross Trips                               TOTAL       PASS-BY         DIVERTED LINK      NEW      PASS-BY                   NEW
+                                                                                          Crossover                                                                             LINK
+                                                                                         % of    Trips              % of              % of
+                                                ITE LU   Trip   %      %      In+Out                      In+Out            In+Out            In+Out    In+Out
+ LAND USES                          VARIABLE                                            Gross   In+Out               Ext.              Ext.                       In   Out   In   Out   In    Out
+                                                 code    Rate   IN    OUT     (Total)                     (Total)           (Total)           (Total)   (Total)
+                                                                                        Trips   (Total)             Trips             Trips
+ Single-family Residential           30 units    210     EQ     25%   75%       33       0%       0         33       0%        0       0%       0         33      0     0     0    0    8     25
+ Totals                                                                         33                0         33                 0                0         33      0     0     0    0    8     25
+A-2
+                                                                                        Bridal Trails
+                                                                                        GTC #14-236
+
+
+
+
+              Trip Generation for: Weekday, Peak Hour of Adjacent Street Traffic, One Hour between 4 and 6 PM
+                          (a.k.a.): Weekday PM Peak Hour
+
+
+                                                                                                                                     NET EXTERNAL TRIPS BY TYPE
+                                                                                                                        IN BOTH DIRECTIONS                 DIRECTIONAL ASSIGNMENTS
+                                                                                            Internal                                                              DIVERTED
+                                                                Gross Trips                                TOTAL       PASS-BY    DIVERTED LINK NEW     PASS-BY               NEW
+                                                                                           Crossover                                                                 LINK
+                                                                                          % of    Trips              % of              % of
+                                                ITE LU   Trip   %      %      In+Out                       In+Out            In+Out            In+Out    In+Out
+  LAND USES                         VARIABLE                                             Gross   In+Out               Ext.              Ext.                       In   Out   In   Out    In   Out
+                                                 code    Rate   IN    OUT     (Total)                      (Total)           (Total)           (Total)   (Total)
+                                                                                         Trips   (Total)             Trips             Trips
+  Single-family Residential          30 units    210     EQ     63%   37%     35.55       0%       0         36       0%       0        0%       0       35.55     0     0    0     0    22.40 13.15
+  Totals                                                                      35.55                0         36                0                 0       35.55     0     0    0     0    22.40 13.15
+A-3
+                                      Bridal Trails
+                                     GTC #14-236
+
+
+                                        AM Version
+       New       New AM Peak Hour Trips                 New       New AM Peak Hour Trips
+%      ADT       In      Out       Total         %      ADT       In      Out       Total
+100%       347         8     25           33     100%       347         8     25          33
+  1%      3.47      0.08   0.25         0.33      51%    176.93      4.08  12.81       16.89
+  2%      6.94      0.16   0.50         0.66      52%    180.40      4.16  13.06       17.22
+  3%     10.41      0.24   0.75         0.99      53%    183.87      4.24  13.31       17.55
+  4%     13.88      0.32   1.00         1.32      54%    187.34      4.32  13.56       17.88
+  5%     17.35      0.40   1.26         1.66      55%    190.81      4.40  13.82       18.22
+  6%     20.82      0.48   1.51         1.99      56%    194.28      4.48  14.07       18.55
+  7%     24.28      0.56   1.76         2.32      57%    197.74      4.56  14.32       18.88
+  8%     27.75      0.64   2.01         2.65      58%    201.21      4.64  14.57       19.21
+  9%     31.22      0.72   2.26         2.98      59%    204.68      4.72  14.82       19.54
+ 10%     34.69      0.80   2.51         3.31      60%    208.15      4.80  15.07       19.87
+ 11%     38.16      0.88   2.76         3.64      61%    211.62      4.88  15.32       20.20
+ 12%     41.63      0.96   3.01         3.97      62%    215.09      4.96  15.57       20.53
+ 13%     45.10      1.04   3.27         4.31      63%    218.56      5.04  15.83       20.87
+ 14%     48.57      1.12   3.52         4.64      64%    222.03      5.12  16.08       21.20
+ 15%     52.04      1.20   3.77         4.97      65%    225.50      5.20  16.33       21.53
+ 16%     55.51      1.28   4.02         5.30      66%    228.97      5.28  16.58       21.86
+ 17%     58.98      1.36   4.27         5.63      67%    232.44      5.36  16.83       22.19
+ 18%     62.45      1.44   4.52         5.96      68%    235.91      5.44  17.08       22.52
+ 19%     65.91      1.52   4.77         6.29      69%    239.37      5.52  17.33       22.85
+ 20%     69.38      1.60   5.02         6.62      70%    242.84      5.60  17.58       23.18
+ 21%     72.85      1.68   5.28         6.96      71%    246.31      5.68  17.84       23.52
+ 22%     76.32      1.76   5.53         7.29      72%    249.78      5.76  18.09       23.85
+ 23%     79.79      1.84   5.78         7.62      73%    253.25      5.84  18.34       24.18
+ 24%     83.26      1.92   6.03         7.95      74%    256.72      5.92  18.59       24.51
+ 25%     86.73      2.00   6.28         8.28      75%    260.19      6.00  18.84       24.84
+ 26%     90.20      2.08   6.53         8.61      76%    263.66      6.08  19.09       25.17
+ 27%     93.67      2.16   6.78         8.94      77%    267.13      6.16  19.34       25.50
+ 28%     97.14      2.24   7.03         9.27      78%    270.60      6.24  19.59       25.83
+ 29%    100.61      2.32   7.28         9.60      79%    274.07      6.32  19.84       26.16
+ 30%    104.08      2.40   7.54         9.94      80%    277.54      6.40  20.10       26.50
+ 31%    107.55      2.48   7.79       10.27       81%    281.01      6.48  20.35       26.83
+ 32%    111.01      2.56   8.04       10.60       82%    284.47      6.56  20.60       27.16
+ 33%    114.48      2.64   8.29       10.93       83%    287.94      6.64  20.85       27.49
+ 34%    117.95      2.72   8.54       11.26       84%    291.41      6.72  21.10       27.82
+ 35%    121.42      2.80   8.79       11.59       85%    294.88      6.80  21.35       28.15
+ 36%    124.89      2.88   9.04       11.92       86%    298.35      6.88  21.60       28.48
+ 37%    128.36      2.96   9.29       12.25       87%    301.82      6.96  21.85       28.81
+ 38%    131.83      3.04   9.55       12.59       88%    305.29      7.04  22.11       29.15
+ 39%    135.30      3.12   9.80       12.92       89%    308.76      7.12  22.36       29.48
+ 40%    138.77      3.20  10.05       13.25       90%    312.23      7.20  22.61       29.81
+ 41%    142.24      3.28  10.30       13.58       91%    315.70      7.28  22.86       30.14
+ 42%    145.71      3.36  10.55       13.91       92%    319.17      7.36  23.11       30.47
+ 43%    149.18      3.44  10.80       14.24       93%    322.64      7.44  23.36       30.80
+ 44%    152.64      3.52  11.05       14.57       94%    326.10      7.52  23.61       31.13
+ 45%    156.11      3.60  11.30       14.90       95%    329.57      7.60  23.86       31.46
+ 46%    159.58      3.68  11.56       15.24       96%    333.04      7.68  24.12       31.80
+ 47%    163.05      3.76  11.81       15.57       97%    336.51      7.76  24.37       32.13
+ 48%    166.52      3.84  12.06       15.90       98%    339.98      7.84  24.62       32.46
+ 49%    169.99      3.92  12.31       16.23       99%    343.45      7.92  24.87       32.79
+ 50%    173.46      4.00  12.56       16.56      100%    346.92      8.00  25.12       33.12
+
+
+
+
+                                                                                               A-4
+                                      Bridal Trails
+                                     GTC #14-236
+
+
+                                        PM Version
+       New       New PM Peak Hour Trips                 New       New PM Peak Hour Trips
+%      ADT       In      Out       Total         %      ADT       In      Out       Total
+100%    346.92    22.40   13.15       35.55      100%      347        22      13          36
+  1%      3.47      0.22   0.13         0.36      51%    176.93    11.42    6.71       18.13
+  2%      6.94      0.45   0.26         0.71      52%    180.40    11.65    6.84       18.49
+  3%     10.41      0.67   0.39         1.07      53%    183.87    11.87    6.97       18.84
+  4%     13.88      0.90   0.53         1.42      54%    187.34    12.10    7.10       19.20
+  5%     17.35      1.12   0.66         1.78      55%    190.81    12.32    7.23       19.55
+  6%     20.82      1.34   0.79         2.13      56%    194.28    12.54    7.36       19.91
+  7%     24.28      1.57   0.92         2.49      57%    197.74    12.77    7.50       20.26
+  8%     27.75      1.79   1.05         2.84      58%    201.21    12.99    7.63       20.62
+  9%     31.22      2.02   1.18         3.20      59%    204.68    13.22    7.76       20.97
+ 10%     34.69      2.24   1.32         3.56      60%    208.15    13.44    7.89       21.33
+ 11%     38.16      2.46   1.45         3.91      61%    211.62    13.66    8.02       21.69
+ 12%     41.63      2.69   1.58         4.27      62%    215.09    13.89    8.15       22.04
+ 13%     45.10      2.91   1.71         4.62      63%    218.56    14.11    8.28       22.40
+ 14%     48.57      3.14   1.84         4.98      64%    222.03    14.34    8.42       22.75
+ 15%     52.04      3.36   1.97         5.33      65%    225.50    14.56    8.55       23.11
+ 16%     55.51      3.58   2.10         5.69      66%    228.97    14.78    8.68       23.46
+ 17%     58.98      3.81   2.24         6.04      67%    232.44    15.01    8.81       23.82
+ 18%     62.45      4.03   2.37         6.40      68%    235.91    15.23    8.94       24.17
+ 19%     65.91      4.26   2.50         6.75      69%    239.37    15.46    9.07       24.53
+ 20%     69.38      4.48   2.63         7.11      70%    242.84    15.68    9.21       24.89
+ 21%     72.85      4.70   2.76         7.47      71%    246.31    15.90    9.34       25.24
+ 22%     76.32      4.93   2.89         7.82      72%    249.78    16.13    9.47       25.60
+ 23%     79.79      5.15   3.02         8.18      73%    253.25    16.35    9.60       25.95
+ 24%     83.26      5.38   3.16         8.53      74%    256.72    16.58    9.73       26.31
+ 25%     86.73      5.60   3.29         8.89      75%    260.19    16.80    9.86       26.66
+ 26%     90.20      5.82   3.42         9.24      76%    263.66    17.02    9.99       27.02
+ 27%     93.67      6.05   3.55         9.60      77%    267.13    17.25   10.13       27.37
+ 28%     97.14      6.27   3.68         9.95      78%    270.60    17.47   10.26       27.73
+ 29%    100.61      6.50   3.81       10.31       79%    274.07    17.70   10.39       28.08
+ 30%    104.08      6.72   3.95       10.67       80%    277.54    17.92   10.52       28.44
+ 31%    107.55      6.94   4.08       11.02       81%    281.01    18.14   10.65       28.80
+ 32%    111.01      7.17   4.21       11.38       82%    284.47    18.37   10.78       29.15
+ 33%    114.48      7.39   4.34       11.73       83%    287.94    18.59   10.91       29.51
+ 34%    117.95      7.62   4.47       12.09       84%    291.41    18.82   11.05       29.86
+ 35%    121.42      7.84   4.60       12.44       85%    294.88    19.04   11.18       30.22
+ 36%    124.89      8.06   4.73       12.80       86%    298.35    19.26   11.31       30.57
+ 37%    128.36      8.29   4.87       13.15       87%    301.82    19.49   11.44       30.93
+ 38%    131.83      8.51   5.00       13.51       88%    305.29    19.71   11.57       31.28
+ 39%    135.30      8.74   5.13       13.86       89%    308.76    19.94   11.70       31.64
+ 40%    138.77      8.96   5.26       14.22       90%    312.23    20.16   11.84       32.00
+ 41%    142.24      9.18   5.39       14.58       91%    315.70    20.38   11.97       32.35
+ 42%    145.71      9.41   5.52       14.93       92%    319.17    20.61   12.10       32.71
+ 43%    149.18      9.63   5.65       15.29       93%    322.64    20.83   12.23       33.06
+ 44%    152.64      9.86   5.79       15.64       94%    326.10    21.06   12.36       33.42
+ 45%    156.11    10.08    5.92       16.00       95%    329.57    21.28   12.49       33.77
+ 46%    159.58    10.30    6.05       16.35       96%    333.04    21.50   12.62       34.13
+ 47%    163.05    10.53    6.18       16.71       97%    336.51    21.73   12.76       34.48
+ 48%    166.52    10.75    6.31       17.06       98%    339.98    21.95   12.89       34.84
+ 49%    169.99    10.98    6.44       17.42       99%    343.45    22.18   13.02       35.19
+ 50%    173.46    11.20    6.58       17.78      100%    346.92    22.40   13.15       35.55
+
+
+
+
+                                                                                               A-5
+Turning Movements
+
+
+
+
+                    B
+                                        1 116th Ave NE @ NE 48th Pl                                            Page 1 of 4
+
+     Synchro ID:    1
+         Existing                                          172         856        684
+     Average Weekday                             0         158   14           0   676    8
+       PM Peak Hour                                              
+                                    0                             116th Ave NE                      8
+          Year: 12/16/14        0   0                                                               0    14
+                                    0                                                               6               
+Data Source:        Idax Data   0                    ---              876          NE 48th Pl             42        North
+                                    0                                                               14               
+                                0   0                                                                0   28
+                                    0                            116th Ave NE                       14
+                                                                                        
+                                                 0         158   6            0   676   14
+                                                           164         854        690
+
+
+
+    Future without Project                                 189         944        755
+      Average Weekday                            0         174   15           0   746    9
+        PM Peak Hour                                             
+                                    0                             116th Ave NE                      9
+            Year:      2019     0   0                                                               0    16
+   Growth Rate =       2.0%         0                                                               7               
+Years of Growth =        5      0                    ---              966          NE 48th Pl             46        North
+   Total Growth =      1.1041       0                                                               15               
+                                0   0                                                                0   30
+                                    0                            116th Ave NE                       15
+                                                                                        
+                                                 0         174   7            0   746   15
+                                                           181         942        761
+
+
+
+     Total Project Trips                                   13          21         8
+     Average Weekday                             0         13    0           0    8      0
+       PM Peak Hour                                             
+                                    0                             116th Ave NE                      0
+                                0   0                                                               0    0
+                                    0                                                               0               
+                                0                    ---               21          NE 48th Pl             0         North
+                                    0                                                               0                
+                                0   0                                                               0    0
+                                    0                            116th Ave NE                       0
+                                                                                           
+                                                 0         13    0            0   8      0
+                                                           13          21         8
+
+
+
+     Future with Project                                   202         965        763
+      Average Weekday                            0         187   15           0   754    9
+       PM Peak Hour                                              
+                                    0                             116th Ave NE                      9
+                                0   0                                                               0    16
+                                    0                                                               7               
+                                0                    ---              987          NE 48th Pl             46        North
+                                    0                                                               15               
+                                0   0                                                                0   30
+                                    0                            116th Ave NE                       15
+                                                                                        
+                                                 0         187   7            0   754   15
+                                                           194         963        769
+
+
+
+
+                                                                                                                             B-1
+                                         2 116th Ave NE @ NE 60th St                                        Page 2 of 4
+
+     Synchro ID:    2
+         Existing                                     206         911        705
+     Average Weekday                              4   131   71           5   570   130
+       PM Peak Hour                                         
+                                     4                       116th Ave NE                      130
+          Year: 12/16/14        5    1                                                          1    173
+                                     0                                                         42                
+Data Source:        Idax Data   10            NE 60th St        1,019         NE 60th St              309        North
+                                     5                                                         71                 
+                                5    0                                                          0    136
+                                     0                      116th Ave NE                       65
+                                                                                   
+                                                  0   131   42           0   570   65
+                                                      173         808        635
+
+
+
+    Future without Project                            227        1,006       779
+      Average Weekday                             4   145   78           6   629   144
+        PM Peak Hour                                        
+                                     4                       116th Ave NE                      144
+            Year:      2019     5    1                                                          1    191
+   Growth Rate =       2.0%          0                                                         46                
+Years of Growth =        5      11            NE 60th St        1,125         NE 60th St              341        North
+   Total Growth =      1.1041        6                                                         78                 
+                                6    0                                                          0    150
+                                     0                      116th Ave NE                       72
+                                                                                   
+                                                  0   145   46           0   629   72
+                                                      191         892        701
+
+
+
+     Total Project Trips                               8          13         5
+     Average Weekday                              0    8    0           0    5      0
+       PM Peak Hour                                        
+                                     0                       116th Ave NE                      0
+                                0    0                                                         0     5
+                                     0                                                         5                 
+                                0             NE 60th St          21          NE 60th St              8          North
+                                     0                                                         0                  
+                                0    0                                                         0     3
+                                     0                      116th Ave NE                       3
+                                                                                      
+                                                  0    8    5            0   5      3
+                                                      13          21         8
+
+
+
+     Future with Project                              235        1,019       784
+      Average Weekday                             4   153   78           6   634   144
+       PM Peak Hour                                         
+                                     4                       116th Ave NE                      144
+                                5    1                                                          1    196
+                                     0                                                         51                
+                                11            NE 60th St        1,146         NE 60th St              349        North
+                                     6                                                         78                 
+                                6    0                                                          0    153
+                                     0                      116th Ave NE                       75
+                                                                                   
+                                                  0   153   51           0   634   75
+                                                      204         913        709
+
+
+
+
+                                                                                                                          B-2
+                                            3 116th Ave NE @ I-405 Ramps                                            Page 3 of 4
+
+     Synchro ID:    3
+         Existing                                          735       1,670            935
+     Average Weekday                                567    168   0           622      304     9
+       PM Peak Hour                                             
+                                        567                       116th Ave NE                            9
+          Year: 12/16/14        980      0                                                                0   9
+                                        413                                                               0              
+Data Source:        Idax Data   1,657             I-405 Ramps        2,138        Park & Ride Bus Access       9         North
+                                        622                                                               0               
+                                677      0                                                                0   0
+                                        55                       116th Ave NE                             0
+                                                                                                
+                                                    55     168   0           413      304     0
+                                                           223         940            717
+
+
+
+    Future without Project                                 811       1,844           1,033
+      Average Weekday                               626    185   0           687      336    10
+        PM Peak Hour                                            
+                                        626                       116th Ave NE                           10
+            Year:      2019     1,082    0                                                                0   10
+   Growth Rate =       2.0%             456                                                               0              
+Years of Growth =        5      1,830             I-405 Ramps        2,361        Park & Ride Bus Access       10        North
+   Total Growth =      1.1041           687                                                               0               
+                                748      0                                                                0   0
+                                        61                       116th Ave NE                             0
+                                                                                                
+                                                    61     185   0           456      336     0
+                                                           246        1,038           792
+
+
+
+     Total Project Trips                                   7           8               1
+     Average Weekday                                   0   7     0           0         1      0
+       PM Peak Hour                                             
+                                        0                         116th Ave NE                            0
+                                 4      0                                                                 0   0
+                                        4                                                                 0              
+                                 5                I-405 Ramps         13          Park & Ride Bus Access       0         North
+                                        0                                                                 0               
+                                 1      0                                                                 0   0
+                                        1                        116th Ave NE                             0
+                                                                                                
+                                                       1   7     0            4        1      0
+                                                           8           13              5
+
+
+
+     Future with Project                                   818       1,852           1,034
+      Average Weekday                               626    192   0           687      337    10
+       PM Peak Hour                                             
+                                        626                       116th Ave NE                           10
+                                1,086    0                                                                0   10
+                                        460                                                               0              
+                                1,835             I-405 Ramps        2,374        Park & Ride Bus Access       10        North
+                                        687                                                               0               
+                                749      0                                                                0   0
+                                        62                       116th Ave NE                             0
+                                                                                                
+                                                    62     192   0           460      337     0
+                                                           254        1,051           797
+
+
+
+
+                                                                                                                                  B-3
+                                        4 116th Ave NE @ Site Access                                            Page 4 of 4
+
+      Synchro ID:    4
+          Existing                                          164        854         690
+      Average Weekday                             0         164   0           0    690    0
+        PM Peak Hour                                             
+                                    0                              116th Ave NE                      0
+           Year: 12/16/14       0   0                                                                0    0
+                                    0                                                                0               
+Data Source:        Idax Data   0                     ---              854          Site Access            0         North
+                                    0                                                                0                
+-Extrapolated from 116th Ave    0   0                                                                0    0
+NE at NE 48th Pl                    0                             116th Ave NE                       0
+                                                                                            
+                                                  0         164   0            0   690    0
+                                                            164         854        690
+
+
+
+    Future without Project                                  181        943         762
+      Average Weekday                             0         181   0           0    762    0
+        PM Peak Hour                                             
+                                    0                              116th Ave NE                      0
+            Year:      2019     0   0                                                                0    0
+   Growth Rate =       2.0%         0                                                                0               
+Years of Growth =        5      0                     ---              943          Site Access            0         North
+   Total Growth =      1.1041       0                                                                0                
+                                0   0                                                                0    0
+                                    0                             116th Ave NE                       0
+                                                                                            
+                                                  0         181   0            0   762    0
+                                                            181         943        762
+
+
+
+      Total Project Trips                                   13          21         8
+      Average Weekday                             0          0    13           0   0      8
+        PM Peak Hour                                              
+                                    0                              116th Ave NE                      8
+                                0   0                                                                0    13
+                                    0                                                                5               
+                                0                     ---               36          Site Access            36        North
+                                    0                                                                13               
+                                0   0                                                                 0   23
+                                    0                             116th Ave NE                       10
+                                                                                          
+                                                  0         0     5            0    0     10
+                                                            5           15         10
+
+
+
+     Future with Project                                    194         964        770
+      Average Weekday                             0         181   13           0   762    8
+       PM Peak Hour                                               
+                                    0                              116th Ave NE                      8
+                                0   0                                                                0    13
+                                    0                                                                5               
+                                0                     ---              979          Site Access            36        North
+                                    0                                                                13               
+                                0   0                                                                 0   23
+                                    0                             116th Ave NE                       10
+                                                                                          
+                                                  0         181   5            0   762    10
+                                                            186         958        772
+
+
+
+
+                                                                                                                              B-4
+2014 Existing LOS
+
+
+
+
+                    C
+H:\2014\14-236\Syncrho\Existing.syn
+1: 116th Avenue NE & 48th Place                                                           Bridal Trails (14-236)
+
+
+
+Intersection
+Int Delay, s/veh           0.4
+
+Movement                          WBL        WBR                 NBT NBR      SBL SBT
+Vol, veh/h                           6          8                 676   14      14 158
+Conflicting Peds, #/hr               0          0                   0    0       0    0
+Sign Control                      Stop       Stop                Free Free    Free Free
+RT Channelized                       -       None                   - None       - None
+Storage Length                       0          -                   -    -       -    -
+Veh in Median Storage, #             0          -                   0    -       -    0
+Grade, %                             0          -                   0    -       -    0
+Peak Hour Factor                    95         95                  95   95      95   95
+Heavy Vehicles, %                    1          1                   1    1       1    1
+Mvmt Flow                            6          8                 712   15      15 166
+
+Major/Minor                      Minor1                         Major1       Major2
+Conflicting Flow All                915        719                   0   0      726   0
+       Stage 1                      719          -                   -   -        -   -
+       Stage 2                      196          -                   -   -        -   -
+Critical Hdwy                      6.41       6.21                   -   -     4.11   -
+Critical Hdwy Stg 1                5.41          -                   -   -        -   -
+Critical Hdwy Stg 2                5.41          -                   -   -        -   -
+Follow-up Hdwy                    3.509      3.309                   -   -    2.209   -
+Pot Cap-1 Maneuver                  304        430                   -   -      882   -
+       Stage 1                      484          -                   -   -        -   -
+       Stage 2                      840          -                   -   -        -   -
+Platoon blocked, %                                                   -   -            -
+Mov Cap-1 Maneuver                 298        430                    -   -     882    -
+Mov Cap-2 Maneuver                 298          -                    -   -       -    -
+       Stage 1                     484          -                    -   -       -    -
+       Stage 2                     824          -                    -   -       -    -
+
+Approach                            WB                             NB           SB
+HCM Control Delay, s               15.4                             0           0.7
+HCM LOS                              C
+
+Minor Lane/Major Mvmt              NBT NBRWBLn1 SBL       SBT
+Capacity (veh/h)                     -    - 361 882         -
+HCM Lane V/C Ratio                   -    - 0.041 0.017     -
+HCM Control Delay (s)                -    - 15.4    9.2     0
+HCM Lane LOS                         -    -     C     A     A
+HCM 95th %tile Q(veh)                -    -   0.1   0.1     -
+
+
+
+
+GTC (MJP)                                                                                              Existing
+
+
+
+
+                                                                                                                   C-1
+H:\2014\14-236\Syncrho\Existing.syn
+2: 116th Avenue NE & NE 60th Street                                                           Bridal Trails (14-236)
+
+
+
+Intersection
+Intersection Delay, s/veh    20.4
+Intersection LOS               C
+Movement                     EBU     EBL    EBT    EBR    WBU    WBL    WBT    WBR    NBU    NBL     NBT       NBR
+Vol, veh/h                      0       5      0      0      0     42      1    130      0      0     570        65
+Peak Hour Factor             0.92    0.98   0.98   0.98   0.92   0.98   0.98   0.98   0.92   0.98    0.98      0.98
+Heavy Vehicles, %               2       1      1      1      2      1      1      1      2      1       1         1
+Mvmt Flow                       0       5      0      0      0     43      1    133      0      0     582        66
+Number of Lanes                 0       0      1      0      0      0      1      0      0      0       1         0
+
+Approach                              EB                          WB                                  NB
+Opposing Approach                     WB                          EB                                  SB
+Opposing Lanes                          1                           1                                   1
+Conflicting Approach Left             SB                          NB                                  EB
+Conflicting Lanes Left                  1                           1                                   1
+Conflicting Approach Right            NB                          SB                                  WB
+Conflicting Lanes Right                 1                           1                                   1
+HCM Control Delay                     9.7                        10.7                                26.2
+HCM LOS                                 A                           B                                  D
+
+Lane                                NBLn1 EBLn1 WBLn1 SBLn1
+Vol Left, %                            0% 100%    24%   34%
+Vol Thru, %                           90%    0%    1%   64%
+Vol Right, %                          10%    0%   75%    2%
+Sign Control                          Stop  Stop  Stop  Stop
+Traffic Vol by Lane                    635      5  173   206
+LT Vol                                    0     5   42    71
+Through Vol                            570      0     1  131
+RT Vol                                   65     0  130      4
+Lane Flow Rate                         648      5  177   210
+Geometry Grp                              1     1     1     1
+Degree of Util (X)                    0.83 0.009 0.273  0.31
+Departure Headway (Hd)               4.609  6.59  5.57 5.308
+Convergence, Y/N                       Yes   Yes   Yes   Yes
+Cap                                    778   545   648   679
+Service Time                         2.703 4.609 3.578 3.322
+HCM Lane V/C Ratio                   0.833 0.009 0.273 0.309
+HCM Control Delay                     26.2    9.7 10.7  10.7
+HCM Lane LOS                              D     A     B     B
+HCM 95th-tile Q                         9.3     0   1.1   1.3
+
+
+
+
+GTC (MJP)                                                                                                   Existing
+
+
+
+
+                                                                                                                       C-2
+H:\2014\14-236\Syncrho\Existing.syn
+2: 116th Avenue NE & NE 60th Street                      Bridal Trails (14-236)
+
+
+
+Intersection
+Intersection Delay, s/veh
+Intersection LOS
+Movement                     SBU    SBL    SBT    SBR
+Vol, veh/h                      0     71    131      4
+Peak Hour Factor             0.92   0.98   0.98   0.98
+Heavy Vehicles, %               2      1      1      1
+Mvmt Flow                       0     72    134      4
+Number of Lanes                 0      0      1      0
+
+Approach                             SB
+Opposing Approach                    NB
+Opposing Lanes                         1
+Conflicting Approach Left            WB
+Conflicting Lanes Left                 1
+Conflicting Approach Right           EB
+Conflicting Lanes Right                1
+HCM Control Delay                   10.7
+HCM LOS                                B
+
+Lane
+
+
+
+
+GTC (MJP)                                                             Existing
+
+
+
+
+                                                                                  C-3
+H:\2014\14-236\Syncrho\Existing.syn
+3: 116th Avenue NE & I-405 NB Off/Park & Ride                                                           Bridal Trails (14-236)
+
+
+
+Lane Group                 EBL     EBT     EBR      WBL     WBT      WBR      NBL      NBT     NBR    SBL      SBT        SBR
+Lane Configurations
+Volume (vph)                622       0      55         0      0        9      413      304       0       0     168       567
+Ideal Flow (vphpl)         1900    1900    1900     1900    1900     1900     1900     1900    1900   1900     1900      1900
+Storage Length (ft)         635               0       500               0       120               0       0               250
+Storage Lanes                  1              1         1               1         1               0       0                 1
+Taper Length (ft)             25                       25                        25                      25
+Lane Util. Factor           1.00   1.00    1.00      1.00   1.00     1.00      1.00    1.00    1.00    1.00    1.00       1.00
+Frt                                       0.850                     0.850                                                0.850
+Flt Protected             0.950                                              0.950
+Satd. Flow (prot)          1770      0     1583     1863       0     1583    1770      1863      0       0     1863      1583
+Flt Permitted             0.950                                              0.520
+Satd. Flow (perm)          1770      0     1583     1863       0     1583      969     1863      0       0     1863      1583
+Right Turn on Red                           Yes                       Yes                      Yes                        Yes
+Satd. Flow (RTOR)                            53                       474                                                 585
+Link Speed (mph)                     30                        30                        30                      30
+Link Distance (ft)                 166                       235                       2537                    1129
+Travel Time (s)                     3.8                       5.3                       57.7                    25.7
+Peak Hour Factor           0.97    0.97    0.97     0.97    0.97     0.97     0.97     0.97    0.97   0.97     0.97       0.97
+Adj. Flow (vph)             641       0      57        0        0       9      426      313       0      0      173       585
+Shared Lane Traffic (%)
+Lane Group Flow (vph)      641       0      57        0        0       9       426      313      0       0      173       585
+Turn Type                 Perm            Perm     Perm             Perm     pm+pt       NA                      NA      Perm
+Protected Phases                                                                 5        2                       6
+Permitted Phases              4               4        8                8        2                                           6
+Detector Phase                4               4        8                8        5        2                        6         6
+Switch Phase
+Minimum Initial (s)          4.0             4.0      4.0              4.0      4.0      4.0                     4.0       4.0
+Minimum Split (s)           20.0            20.0     20.0             20.0      8.0     20.0                    20.0      20.0
+Total Split (s)             58.0            58.0     58.0             58.0     25.0     62.0                    37.0      37.0
+Total Split (%)           48.3%           48.3%    48.3%            48.3%    20.8%    51.7%                   30.8%     30.8%
+Maximum Green (s)           54.0            54.0     54.0             54.0     21.0     58.0                    33.0      33.0
+Yellow Time (s)              3.5             3.5      3.5              3.5      3.5      3.5                     3.5       3.5
+All-Red Time (s)             0.5             0.5      0.5              0.5      0.5      0.5                     0.5       0.5
+Lost Time Adjust (s)         0.0             0.0      0.0              0.0      0.0      0.0                     0.0       0.0
+Total Lost Time (s)          4.0             4.0      4.0              4.0      4.0      4.0                     4.0       4.0
+Lead/Lag                                                                      Lead                               Lag       Lag
+Lead-Lag Optimize?                                                             Yes                              Yes       Yes
+Vehicle Extension (s)       3.0             3.0      3.0              3.0       3.0     3.0                      3.0       3.0
+Recall Mode               None            None     None             None      None     Max                      Max       Max
+Walk Time (s)               5.0             5.0      5.0              5.0               5.0                      5.0       5.0
+Flash Dont Walk (s)        11.0            11.0     11.0             11.0              11.0                     11.0      11.0
+Pedestrian Calls (#/hr)       0               0        0                0                 0                        0         0
+Act Effct Green (s)        43.7            43.7                      43.7     58.4     58.4                     35.9      35.9
+Actuated g/C Ratio         0.40            0.40                      0.40     0.53     0.53                     0.33      0.33
+v/c Ratio                  0.91            0.09                      0.01     0.66     0.32                     0.29      0.64
+Control Delay              49.7             6.1                       0.0     23.6     17.4                     32.5       6.5
+Queue Delay                 0.0             0.0                       0.0      0.0      0.0                      0.0       0.0
+Total Delay                49.7             6.1                       0.0     23.6     17.4                     32.5       6.5
+LOS                           D               A                         A        C        B                        C         A
+
+GTC (MJP)                                                                                                              Existing
+
+
+
+
+                                                                                                                                  C-4
+H:\2014\14-236\Syncrho\Existing.syn
+3: 116th Avenue NE & I-405 NB Off/Park & Ride                                                              Bridal Trails (14-236)
+
+
+
+Lane Group                       EBL      EBT    EBR     WBL     WBT        WBR       NBL    NBT    NBR   SBL      SBT      SBR
+Approach Delay                                                                               21.0                 12.5
+Approach LOS                                                                                    C                    B
+Queue Length 50th (ft)           419               2                          0       183     123                   95         0
+Queue Length 95th (ft)           584              26                          0       311     214                  172        99
+Internal Link Dist (ft)                    86                         155                    2457                 1049
+Turn Bay Length (ft)            635                                                    120                                   250
+Base Capacity (vph)             873              807                        1021      667    987                  605       909
+Starvation Cap Reductn             0                0                          0         0      0                    0         0
+Spillback Cap Reductn              0                0                          0         0      0                    0         0
+Storage Cap Reductn                0                0                          0         0      0                    0         0
+Reduced v/c Ratio               0.73             0.07                       0.01      0.64   0.32                 0.29      0.64
+Intersection Summary
+Area Type:                   Other
+Cycle Length: 120
+Actuated Cycle Length: 110.2
+Natural Cycle: 60
+Control Type: Actuated-Uncoordinated
+Maximum v/c Ratio: 0.91
+Intersection Signal Delay: 25.9                              Intersection LOS: C
+Intersection Capacity Utilization 76.2%                      ICU Level of Service D
+Analysis Period (min) 15
+
+Splits and Phases:    3: 116th Avenue NE & I-405 NB Off/Park & Ride
+
+
+
+
+GTC (MJP)                                                                                                                Existing
+
+
+
+
+                                                                                                                                    C-5
+2019 Baseline LOS
+
+
+
+
+                    D
+H:\2014\14-236\Syncrho\Baseline.syn
+1: 116th Avenue NE & 48th Place                                                           Bridal Trails (14-236)
+
+
+
+Intersection
+Int Delay, s/veh           0.4
+
+Movement                          WBL        WBR                 NBT NBR      SBL SBT
+Vol, veh/h                           7          9                 746   15      15 174
+Conflicting Peds, #/hr               0          0                   0    0       0    0
+Sign Control                      Stop       Stop                Free Free    Free Free
+RT Channelized                       -       None                   - None       - None
+Storage Length                       0          -                   -    -       -    -
+Veh in Median Storage, #             0          -                   0    -       -    0
+Grade, %                             0          -                   0    -       -    0
+Peak Hour Factor                    95         95                  95   95      95   95
+Heavy Vehicles, %                    1          1                   1    1       1    1
+Mvmt Flow                            7          9                 785   16      16 183
+
+Major/Minor                      Minor1                         Major1       Major2
+Conflicting Flow All              1008         793                   0   0      801   0
+       Stage 1                      793          -                   -   -        -   -
+       Stage 2                      215          -                   -   -        -   -
+Critical Hdwy                      6.41       6.21                   -   -     4.11   -
+Critical Hdwy Stg 1                5.41          -                   -   -        -   -
+Critical Hdwy Stg 2                5.41          -                   -   -        -   -
+Follow-up Hdwy                    3.509      3.309                   -   -    2.209   -
+Pot Cap-1 Maneuver                  268        390                   -   -      827   -
+       Stage 1                      447          -                   -   -        -   -
+       Stage 2                      823          -                   -   -        -   -
+Platoon blocked, %                                                   -   -            -
+Mov Cap-1 Maneuver                 262        390                    -   -     827    -
+Mov Cap-2 Maneuver                 262          -                    -   -       -    -
+       Stage 1                     447          -                    -   -       -    -
+       Stage 2                     805          -                    -   -       -    -
+
+Approach                            WB                             NB           SB
+HCM Control Delay, s               16.8                             0           0.7
+HCM LOS                              C
+
+Minor Lane/Major Mvmt              NBT NBRWBLn1 SBL       SBT
+Capacity (veh/h)                     -    - 321 827         -
+HCM Lane V/C Ratio                   -    - 0.052 0.019     -
+HCM Control Delay (s)                -    - 16.8    9.4     0
+HCM Lane LOS                         -    -     C     A     A
+HCM 95th %tile Q(veh)                -    -   0.2   0.1     -
+
+
+
+
+GTC (MJP)                                                                                        Baseline 2019
+
+
+
+
+                                                                                                                   D-1
+H:\2014\14-236\Syncrho\Baseline.syn
+2: 116th Avenue NE & NE 60th Street                                                           Bridal Trails (14-236)
+
+
+
+Intersection
+Intersection Delay, s/veh    29.9
+Intersection LOS               D
+Movement                     EBU     EBL    EBT    EBR    WBU    WBL    WBT    WBR    NBU    NBL     NBT       NBR
+Vol, veh/h                      0       6      0      0      0     46      1    144      0      0     629        72
+Peak Hour Factor             0.92    0.98   0.98   0.98   0.92   0.98   0.98   0.98   0.92   0.98    0.98      0.98
+Heavy Vehicles, %               2       1      1      1      2      1      1      1      2      1       1         1
+Mvmt Flow                       0       6      0      0      0     47      1    147      0      0     642        73
+Number of Lanes                 0       0      1      0      0      0      1      0      0      0       1         0
+
+Approach                              EB                          WB                                  NB
+Opposing Approach                     WB                          EB                                  SB
+Opposing Lanes                          1                           1                                   1
+Conflicting Approach Left             SB                          NB                                  EB
+Conflicting Lanes Left                  1                           1                                   1
+Conflicting Approach Right            NB                          SB                                  WB
+Conflicting Lanes Right                 1                           1                                   1
+HCM Control Delay                      10                        11.5                                  41
+HCM LOS                                 A                           B                                   E
+
+Lane                                NBLn1 EBLn1 WBLn1 SBLn1
+Vol Left, %                            0% 100%    24%   34%
+Vol Thru, %                           90%    0%    1%   64%
+Vol Right, %                          10%    0%   75%    2%
+Sign Control                          Stop  Stop  Stop  Stop
+Traffic Vol by Lane                    701     6   191   227
+LT Vol                                   0     6    46    78
+Through Vol                            629     0      1  145
+RT Vol                                  72     0   144      4
+Lane Flow Rate                         715     6   195   232
+Geometry Grp                             1     1      1     1
+Degree of Util (X)                   0.937 0.012 0.315 0.354
+Departure Headway (Hd)                4.84 6.935 5.814 5.508
+Convergence, Y/N                       Yes   Yes   Yes   Yes
+Cap                                    751   517   622   653
+Service Time                          2.84 4.964 3.826 3.532
+HCM Lane V/C Ratio                   0.952 0.012 0.314 0.355
+HCM Control Delay                       41    10  11.5  11.5
+HCM Lane LOS                             E     A      B     B
+HCM 95th-tile Q                       13.5     0    1.3   1.6
+
+
+
+
+GTC (MJP)                                                                                            Baseline 2019
+
+
+
+
+                                                                                                                       D-2
+H:\2014\14-236\Syncrho\Baseline.syn
+2: 116th Avenue NE & NE 60th Street                      Bridal Trails (14-236)
+
+
+
+Intersection
+Intersection Delay, s/veh
+Intersection LOS
+Movement                     SBU    SBL    SBT    SBR
+Vol, veh/h                      0     78    145      4
+Peak Hour Factor             0.92   0.98   0.98   0.98
+Heavy Vehicles, %               2      1      1      1
+Mvmt Flow                       0     80    148      4
+Number of Lanes                 0      0      1      0
+
+Approach                             SB
+Opposing Approach                    NB
+Opposing Lanes                         1
+Conflicting Approach Left            WB
+Conflicting Lanes Left                 1
+Conflicting Approach Right           EB
+Conflicting Lanes Right                1
+HCM Control Delay                   11.5
+HCM LOS                                B
+
+Lane
+
+
+
+
+GTC (MJP)                                                       Baseline 2019
+
+
+
+
+                                                                                  D-3
+H:\2014\14-236\Syncrho\Baseline.syn
+3: 116th Avenue NE & I-405 NB Off/Park & Ride                                                           Bridal Trails (14-236)
+
+
+
+Lane Group                 EBL     EBT     EBR      WBL     WBT      WBR      NBL      NBT     NBR    SBL      SBT       SBR
+Lane Configurations
+Volume (vph)                687       0      61         0      0       10      456      336       0       0     185      626
+Ideal Flow (vphpl)         1900    1900    1900     1900    1900     1900     1900     1900    1900   1900     1900     1900
+Storage Length (ft)         635               0       500               0       120               0       0              250
+Storage Lanes                  1              1         1               1         1               0       0                1
+Taper Length (ft)             25                       25                        25                      25
+Lane Util. Factor           1.00   1.00    1.00      1.00   1.00     1.00      1.00    1.00    1.00    1.00    1.00      1.00
+Frt                                       0.850                     0.850                                               0.850
+Flt Protected             0.950                                              0.950
+Satd. Flow (prot)          1770      0     1583     1863       0     1583    1770      1863      0       0     1863     1583
+Flt Permitted             0.950                                              0.477
+Satd. Flow (perm)          1770      0     1583     1863       0     1583      889     1863      0       0     1863     1583
+Right Turn on Red                           Yes                       Yes                      Yes                       Yes
+Satd. Flow (RTOR)                            53                       434                                                645
+Link Speed (mph)                     30                        30                        30                      30
+Link Distance (ft)                 166                       235                       2537                    1129
+Travel Time (s)                     3.8                       5.3                       57.7                    25.7
+Peak Hour Factor           0.97    0.97    0.97     0.97    0.97     0.97     0.97     0.97    0.97   0.97     0.97      0.97
+Adj. Flow (vph)             708       0      63        0        0      10      470      346       0      0      191      645
+Shared Lane Traffic (%)
+Lane Group Flow (vph)      708       0      63        0        0      10       470      346      0       0      191      645
+Turn Type                 Perm            Perm     Perm             Perm     pm+pt       NA                      NA     Perm
+Protected Phases                                                                 5        2                       6
+Permitted Phases              4               4        8                8        2                                          6
+Detector Phase                4               4        8                8        5        2                        6        6
+Switch Phase
+Minimum Initial (s)          4.0             4.0      4.0              4.0      4.0      4.0                     4.0      4.0
+Minimum Split (s)           20.0            20.0     20.0             20.0      8.0     20.0                    20.0     20.0
+Total Split (s)             58.0            58.0     58.0             58.0     25.0     62.0                    37.0     37.0
+Total Split (%)           48.3%           48.3%    48.3%            48.3%    20.8%    51.7%                   30.8%    30.8%
+Maximum Green (s)           54.0            54.0     54.0             54.0     21.0     58.0                    33.0     33.0
+Yellow Time (s)              3.5             3.5      3.5              3.5      3.5      3.5                     3.5      3.5
+All-Red Time (s)             0.5             0.5      0.5              0.5      0.5      0.5                     0.5      0.5
+Lost Time Adjust (s)         0.0             0.0      0.0              0.0      0.0      0.0                     0.0      0.0
+Total Lost Time (s)          4.0             4.0      4.0              4.0      4.0      4.0                     4.0      4.0
+Lead/Lag                                                                      Lead                               Lag      Lag
+Lead-Lag Optimize?                                                             Yes                              Yes      Yes
+Vehicle Extension (s)       3.0             3.0      3.0              3.0       3.0     3.0                      3.0      3.0
+Recall Mode               None            None     None             None      None     Max                      Max      Max
+Walk Time (s)               5.0             5.0      5.0              5.0               5.0                      5.0      5.0
+Flash Dont Walk (s)        11.0            11.0     11.0             11.0              11.0                     11.0     11.0
+Pedestrian Calls (#/hr)       0               0        0                0                 0                        0        0
+Act Effct Green (s)        48.8            48.8                      48.8     58.2     58.2                     34.2     34.2
+Actuated g/C Ratio         0.42            0.42                      0.42     0.51     0.51                     0.30     0.30
+v/c Ratio                  0.94            0.09                      0.01     0.78     0.37                     0.35     0.70
+Control Delay              53.7             6.9                       0.0     31.5     19.7                     35.8      7.3
+Queue Delay                 0.0             0.0                       0.0      0.0      0.0                      0.0      0.0
+Total Delay                53.7             6.9                       0.0     31.5     19.7                     35.8      7.3
+LOS                           D               A                         A        C        B                        D        A
+
+GTC (MJP)                                                                                                      Baseline 2019
+
+
+
+
+                                                                                                                                 D-4
+H:\2014\14-236\Syncrho\Baseline.syn
+3: 116th Avenue NE & I-405 NB Off/Park & Ride                                                             Bridal Trails (14-236)
+
+
+
+Lane Group                     EBL     EBT      EBR     WBL     WBT        WBR       NBL    NBT    NBR   SBL      SBT      SBR
+Approach Delay                                                                              26.5                 13.8
+Approach LOS                                                                                   C                    B
+Queue Length 50th (ft)         492                4                          0     249       165                  120         0
+Queue Length 95th (ft)        #733               30                          0    #369       240                  188       106
+Internal Link Dist (ft)                  86                          155                    2457                 1049
+Turn Bay Length (ft)           635                                                    120                                   250
+Base Capacity (vph)            833              773                        975       610    942                  553       923
+Starvation Cap Reductn            0                0                          0         0      0                    0         0
+Spillback Cap Reductn             0                0                          0         0      0                    0         0
+Storage Cap Reductn               0                0                          0         0      0                    0         0
+Reduced v/c Ratio              0.85             0.08                       0.01      0.77   0.37                 0.35      0.70
+Intersection Summary
+Area Type:                   Other
+Cycle Length: 120
+Actuated Cycle Length: 115.1
+Natural Cycle: 75
+Control Type: Actuated-Uncoordinated
+Maximum v/c Ratio: 0.94
+Intersection Signal Delay: 29.4                             Intersection LOS: C
+Intersection Capacity Utilization 83.1%                     ICU Level of Service E
+Analysis Period (min) 15
+# 95th percentile volume exceeds capacity, queue may be longer.
+    Queue shown is maximum after two cycles.
+
+Splits and Phases:   3: 116th Avenue NE & I-405 NB Off/Park & Ride
+
+
+
+
+GTC (MJP)                                                                                                        Baseline 2019
+
+
+
+
+                                                                                                                                   D-5
+2019 Future With Development LOS
+
+
+
+
+                                   E
+H:\2014\14-236\Syncrho\FutureW.syn
+1: 116th Avenue NE & 48th Place                                                                    Bridal Trails (14-236)
+
+
+
+Intersection
+Int Delay, s/veh           0.4
+
+Movement                          WBL        WBR                 NBT NBR      SBL SBT
+Vol, veh/h                           7          9                 754   15      15 187
+Conflicting Peds, #/hr               0          0                   0    0       0    0
+Sign Control                      Stop       Stop                Free Free    Free Free
+RT Channelized                       -       None                   - None       - None
+Storage Length                       0          -                   -    -       -    -
+Veh in Median Storage, #             0          -                   0    -       -    0
+Grade, %                             0          -                   0    -       -    0
+Peak Hour Factor                    95         95                  95   95      95   95
+Heavy Vehicles, %                    1          1                   1    1       1    1
+Mvmt Flow                            7          9                 794   16      16 197
+
+Major/Minor                      Minor1                         Major1       Major2
+Conflicting Flow All              1030         802                   0   0      809   0
+       Stage 1                      802          -                   -   -        -   -
+       Stage 2                      228          -                   -   -        -   -
+Critical Hdwy                      6.41       6.21                   -   -     4.11   -
+Critical Hdwy Stg 1                5.41          -                   -   -        -   -
+Critical Hdwy Stg 2                5.41          -                   -   -        -   -
+Follow-up Hdwy                    3.509      3.309                   -   -    2.209   -
+Pot Cap-1 Maneuver                  260        386                   -   -      821   -
+       Stage 1                      443          -                   -   -        -   -
+       Stage 2                      812          -                   -   -        -   -
+Platoon blocked, %                                                   -   -            -
+Mov Cap-1 Maneuver                 254        386                    -   -     821    -
+Mov Cap-2 Maneuver                 254          -                    -   -       -    -
+       Stage 1                     443          -                    -   -       -    -
+       Stage 2                     794          -                    -   -       -    -
+
+Approach                            WB                             NB           SB
+HCM Control Delay, s               17.1                             0           0.7
+HCM LOS                              C
+
+Minor Lane/Major Mvmt              NBT NBRWBLn1 SBL       SBT
+Capacity (veh/h)                     -    - 314 821         -
+HCM Lane V/C Ratio                   -    - 0.054 0.019     -
+HCM Control Delay (s)                -    - 17.1    9.5     0
+HCM Lane LOS                         -    -     C     A     A
+HCM 95th %tile Q(veh)                -    -   0.2   0.1     -
+
+
+
+
+GTC (MJP)                                                                                 Future 2019 With Development
+
+
+
+
+                                                                                                                            E-1
+H:\2014\14-236\Syncrho\FutureW.syn
+2: 116th Avenue NE & NE 60th Street                                                             Bridal Trails (14-236)
+
+
+
+Intersection
+Intersection Delay, s/veh    34.6
+Intersection LOS               D
+Movement                     EBU     EBL    EBT    EBR    WBU    WBL    WBT    WBR    NBU     NBL      NBT       NBR
+Vol, veh/h                      0       6      0      0      0     51      1    144      0       0      634        75
+Peak Hour Factor             0.92    0.98   0.98   0.98   0.92   0.98   0.98   0.98   0.92    0.98     0.98      0.98
+Heavy Vehicles, %               2       1      1      1      2      1      1      1      2       1        1         1
+Mvmt Flow                       0       6      0      0      0     52      1    147      0       0      647        77
+Number of Lanes                 0       0      1      0      0      0      1      0      0       0        1         0
+
+Approach                              EB                          WB                                    NB
+Opposing Approach                     WB                          EB                                    SB
+Opposing Lanes                          1                           1                                     1
+Conflicting Approach Left             SB                          NB                                    EB
+Conflicting Lanes Left                  1                           1                                     1
+Conflicting Approach Right            NB                          SB                                    WB
+Conflicting Lanes Right                 1                           1                                     1
+HCM Control Delay                    10.2                        11.8                                  48.6
+HCM LOS                                 B                           B                                     E
+
+Lane                                NBLn1 EBLn1 WBLn1 SBLn1
+Vol Left, %                            0% 100%    26%   33%
+Vol Thru, %                           89%    0%    1%   65%
+Vol Right, %                          11%    0%   73%    2%
+Sign Control                          Stop  Stop  Stop  Stop
+Traffic Vol by Lane                    709     6   196   235
+LT Vol                                   0     6    51    78
+Through Vol                            634     0      1  153
+RT Vol                                  75     0   144      4
+Lane Flow Rate                         723     6   200   240
+Geometry Grp                             1     1      1     1
+Degree of Util (X)                   0.974 0.012 0.327  0.37
+Departure Headway (Hd)               4.848 7.009 5.877  5.55
+Convergence, Y/N                       Yes   Yes   Yes   Yes
+Cap                                    745   508   610   647
+Service Time                         2.879 5.085 3.926 3.595
+HCM Lane V/C Ratio                    0.97 0.012 0.328 0.371
+HCM Control Delay                     48.6  10.2  11.8  11.8
+HCM Lane LOS                             E     B      B     B
+HCM 95th-tile Q                       15.3     0    1.4   1.7
+
+
+
+
+GTC (MJP)                                                                              Future 2019 With Development
+
+
+
+
+                                                                                                                         E-2
+H:\2014\14-236\Syncrho\FutureW.syn
+2: 116th Avenue NE & NE 60th Street                               Bridal Trails (14-236)
+
+
+
+Intersection
+Intersection Delay, s/veh
+Intersection LOS
+Movement                     SBU    SBL    SBT    SBR
+Vol, veh/h                      0     78    153      4
+Peak Hour Factor             0.92   0.98   0.98   0.98
+Heavy Vehicles, %               2      1      1      1
+Mvmt Flow                       0     80    156      4
+Number of Lanes                 0      0      1      0
+
+Approach                             SB
+Opposing Approach                    NB
+Opposing Lanes                         1
+Conflicting Approach Left            WB
+Conflicting Lanes Left                 1
+Conflicting Approach Right           EB
+Conflicting Lanes Right                1
+HCM Control Delay                   11.8
+HCM LOS                                B
+
+Lane
+
+
+
+
+GTC (MJP)                                                Future 2019 With Development
+
+
+
+
+                                                                                           E-3
+H:\2014\14-236\Syncrho\FutureW.syn
+3: 116th Avenue NE & I-405 NB Off/Park & Ride                                                            Bridal Trails (14-236)
+
+
+
+Lane Group                 EBL     EBT     EBR      WBL     WBT      WBR      NBL      NBT     NBR     SBL      SBT       SBR
+Lane Configurations
+Volume (vph)                687       0      62         0      0       10      460      337       0       0      192      626
+Ideal Flow (vphpl)         1900    1900    1900     1900    1900     1900     1900     1900    1900   1900      1900     1900
+Storage Length (ft)         635               0       500               0       120               0       0               250
+Storage Lanes                  1              1         1               1         1               0       0                 1
+Taper Length (ft)             25                       25                        25                      25
+Lane Util. Factor           1.00   1.00    1.00      1.00   1.00     1.00      1.00    1.00    1.00    1.00     1.00      1.00
+Frt                                       0.850                     0.850                                                0.850
+Flt Protected             0.950                                              0.950
+Satd. Flow (prot)          1770      0     1583     1863       0     1583    1770      1863       0       0     1863     1583
+Flt Permitted             0.950                                              0.467
+Satd. Flow (perm)          1770      0     1583     1863       0     1583      870     1863      0        0     1863     1583
+Right Turn on Red                           Yes                       Yes                      Yes                        Yes
+Satd. Flow (RTOR)                            54                       432                                                 645
+Link Speed (mph)                     30                        30                        30                       30
+Link Distance (ft)                 166                       235                       2537                     1129
+Travel Time (s)                     3.8                       5.3                       57.7                     25.7
+Peak Hour Factor           0.97    0.97    0.97     0.97    0.97     0.97     0.97     0.97    0.97    0.97     0.97      0.97
+Adj. Flow (vph)             708       0      64        0        0      10      474      347       0       0      198      645
+Shared Lane Traffic (%)
+Lane Group Flow (vph)      708       0      64        0        0      10       474      347       0       0      198      645
+Turn Type                 Perm            Perm     Perm             Perm     pm+pt       NA                       NA     Perm
+Protected Phases                                                                 5        2                        6
+Permitted Phases              4               4        8                8        2                                           6
+Detector Phase                4               4        8                8        5        2                         6        6
+Switch Phase
+Minimum Initial (s)          4.0             4.0      4.0              4.0      4.0      4.0                     4.0       4.0
+Minimum Split (s)           20.0            20.0     20.0             20.0      8.0     20.0                    20.0      20.0
+Total Split (s)             58.0            58.0     58.0             58.0     25.0     62.0                    37.0      37.0
+Total Split (%)           48.3%           48.3%    48.3%            48.3%    20.8%    51.7%                   30.8%     30.8%
+Maximum Green (s)           54.0            54.0     54.0             54.0     21.0     58.0                    33.0      33.0
+Yellow Time (s)              3.5             3.5      3.5              3.5      3.5      3.5                     3.5       3.5
+All-Red Time (s)             0.5             0.5      0.5              0.5      0.5      0.5                     0.5       0.5
+Lost Time Adjust (s)         0.0             0.0      0.0              0.0      0.0      0.0                     0.0       0.0
+Total Lost Time (s)          4.0             4.0      4.0              4.0      4.0      4.0                     4.0       4.0
+Lead/Lag                                                                      Lead                               Lag       Lag
+Lead-Lag Optimize?                                                             Yes                              Yes       Yes
+Vehicle Extension (s)       3.0             3.0      3.0              3.0       3.0     3.0                      3.0       3.0
+Recall Mode               None            None     None             None      None     Max                      Max       Max
+Walk Time (s)               5.0             5.0      5.0              5.0               5.0                      5.0       5.0
+Flash Dont Walk (s)        11.0            11.0     11.0             11.0              11.0                     11.0      11.0
+Pedestrian Calls (#/hr)       0               0        0                0                 0                        0         0
+Act Effct Green (s)        48.8            48.8                      48.8     58.2     58.2                     34.1      34.1
+Actuated g/C Ratio         0.42            0.42                      0.42     0.51     0.51                     0.30      0.30
+v/c Ratio                  0.94            0.09                      0.01     0.79     0.37                     0.36      0.70
+Control Delay              53.7             6.8                       0.0     32.4     19.7                     36.0       7.3
+Queue Delay                 0.0             0.0                       0.0      0.0      0.0                      0.0       0.0
+Total Delay                53.7             6.8                       0.0     32.4     19.7                     36.0       7.3
+LOS                           D               A                         A        C        B                        D         A
+
+GTC (MJP)                                                                                       Future 2019 With Development
+
+
+
+
+                                                                                                                                  E-4
+H:\2014\14-236\Syncrho\FutureW.syn
+3: 116th Avenue NE & I-405 NB Off/Park & Ride                                                               Bridal Trails (14-236)
+
+
+
+Lane Group                     EBL     EBT      EBR     WBL     WBT        WBR       NBL    NBT    NBR    SBL       SBT      SBR
+Approach Delay                                                                              27.1                   14.1
+Approach LOS                                                                                   C                      B
+Queue Length 50th (ft)         492                4                          0     252       166                    125         0
+Queue Length 95th (ft)        #733               30                          0    #385       240                    196       106
+Internal Link Dist (ft)                  86                          155                    2457                   1049
+Turn Bay Length (ft)           635                                                    120                                     250
+Base Capacity (vph)            833              774                        973       605    942                    552       922
+Starvation Cap Reductn            0                0                          0         0      0                      0         0
+Spillback Cap Reductn             0                0                          0         0      0                      0         0
+Storage Cap Reductn               0                0                          0         0      0                      0         0
+Reduced v/c Ratio              0.85             0.08                       0.01      0.78   0.37                   0.36      0.70
+Intersection Summary
+Area Type:                   Other
+Cycle Length: 120
+Actuated Cycle Length: 115.1
+Natural Cycle: 80
+Control Type: Actuated-Uncoordinated
+Maximum v/c Ratio: 0.94
+Intersection Signal Delay: 29.7                             Intersection LOS: C
+Intersection Capacity Utilization 83.7%                     ICU Level of Service E
+Analysis Period (min) 15
+# 95th percentile volume exceeds capacity, queue may be longer.
+    Queue shown is maximum after two cycles.
+
+Splits and Phases:   3: 116th Avenue NE & I-405 NB Off/Park & Ride
+
+
+
+
+GTC (MJP)                                                                                          Future 2019 With Development
+
+
+
+
+                                                                                                                                     E-5
+H:\2014\14-236\Syncrho\FutureW.syn
+4: 116th Avenue NE                                                                                 Bridal Trails (14-236)
+
+
+
+Intersection
+Int Delay, s/veh           0.3
+
+Movement                          WBL        WBR                 NBT NBR      SBL SBT
+Vol, veh/h                           5          8                 762   10      13 181
+Conflicting Peds, #/hr               0          0                   0    0       0    0
+Sign Control                      Stop       Stop                Free Free    Free Free
+RT Channelized                       -       None                   - None       - None
+Storage Length                       0          -                   -    -       -    -
+Veh in Median Storage, #             0          -                   0    -       -    0
+Grade, %                             0          -                   0    -       -    0
+Peak Hour Factor                    92         92                  92   92      92   92
+Heavy Vehicles, %                    2          2                   2    2       2    2
+Mvmt Flow                            5          9                 828   11      14 197
+
+Major/Minor                      Minor1                         Major1       Major2
+Conflicting Flow All              1059         834                   0   0      839   0
+       Stage 1                      834          -                   -   -        -   -
+       Stage 2                      225          -                   -   -        -   -
+Critical Hdwy                      6.42       6.22                   -   -     4.12   -
+Critical Hdwy Stg 1                5.42          -                   -   -        -   -
+Critical Hdwy Stg 2                5.42          -                   -   -        -   -
+Follow-up Hdwy                    3.518      3.318                   -   -    2.218   -
+Pot Cap-1 Maneuver                  249        368                   -   -      796   -
+       Stage 1                      426          -                   -   -        -   -
+       Stage 2                      812          -                   -   -        -   -
+Platoon blocked, %                                                   -   -            -
+Mov Cap-1 Maneuver                 244        368                    -   -     796    -
+Mov Cap-2 Maneuver                 244          -                    -   -       -    -
+       Stage 1                     426          -                    -   -       -    -
+       Stage 2                     796          -                    -   -       -    -
+
+Approach                            WB                             NB           SB
+HCM Control Delay, s               17.3                             0           0.6
+HCM LOS                              C
+
+Minor Lane/Major Mvmt              NBT NBRWBLn1 SBL       SBT
+Capacity (veh/h)                     -    - 308 796         -
+HCM Lane V/C Ratio                   -    - 0.046 0.018     -
+HCM Control Delay (s)                -    - 17.3    9.6     0
+HCM Lane LOS                         -    -     C     A     A
+HCM 95th %tile Q(veh)                -    -   0.1   0.1     -
+
+
+
+
+GTC (MJP)                                                                                 Future 2019 With Development
+
+
+
+
+                                                                                                                            E-6
+Collision Data
+
+
+
+
+                 F
+                                                               Transportation Data and GIS Office
+                                                               7345 Linderson Way Sw, Fl 1
+Lynn Peterson                                                  Tumwater, WA 98501
+Secretary of Transportation
+                                                               360-570-2464 / Fax 360-570-2449
+                                                               TTY: 1-800-833-6388
+                                                               www.wsdot.wa.gov
+December 17, 2014
+
+
+Matthew Palmer
+Gibson Traffic Consultants
+2802 Wetmore Ave #220
+Everett WA 98201
+
+Dear Mr. Palmer :
+
+In accordance with the Public Records Act, RCW 42.56, this letter acknowledges receipt
+of your request for records dated December 16, 2014 (Request Number PDR-14-3383).
+
+We have prepared a history of officer reported collisions that occurred on all City Streets
+and State Routes in the City of Kirkland for the period of 1/1/2009 – available 2014
+(2014 is considered partial and preliminary).
+
+Federal law 23 United States Code Section 409 governs use of the data you requested.
+Under this law, data maintained for purposes of evaluating potential highway safety
+enhancements:
+
+“ . . . shall not be subject to discovery or admitted into evidence in a federal or state
+court proceeding or considered for other purposes in any action for damages arising
+from any occurrence at a location mentioned or addressed in such reports, surveys,
+schedules, lists, or data.” [Emphasis added.]
+
+The Washington State Department of Transportation (WSDOT) is releasing this data to
+you with the understanding that you will not use this data contrary to the restrictions in
+Section 409, which means you will not use this data in discovery or as evidence at trial in
+any action for damages against the WSDOT, the State of Washington, or any other
+jurisdiction involved in the locations mentioned in the data. If you should attempt to use
+this data in an action for damages against WSDOT, the State of Washington, or any other
+jurisdiction involved in the locations mentioned in the data, these entities expressly
+reserve the right, under Section 409, to object to the use of the data, including any
+opinions drawn from the data.
+
+
+
+
+                                                                                                    F-1
+Public Disclosure Request PDR-14-3383
+December 17, 2014
+Page 2
+
+
+
+
+With this package, your request for records is complete and closed.
+
+If you have any further questions you may contact me at 360-570-2464.
+
+Sincerely,
+
+
+
+
+Julie Brown
+Transportation Planning Technician 3
+Transportation Data and GIS Office
+
+
+
+cc: w/enclosures
+Nafisa Peshtaz & Lauretta Lew, WSDOT Northwest Region
+
+
+
+
+                                                                        F-2
+OFFICER REPORTED COLLISIONS THAT OCCURRED ON ALL CITY STREETS AND STATE ROUTES IN THE CITY OF KIRKLAND
+1/1/2009 ‐ available 2014 (2014 is considered partial and preliminary)   
+
+UNDER 23 UNITED STATES CODE – SECTION 409, THIS DATA CANNOT BE USED IN DISCOVERY OR AS EVIDENCE
+AT TRIAL IN ANY ACTION FOR DAMAGES AGAINST THE WSDOT, OR ANY JURISDICTIONS INVOLVED IN THE DATA
+                                                                                                                                                                         #
+                                                                      COMP                                                                                          #    P
+                                                             DIST      DIR                                                                           #    #    #    P    E
+                                                            FROM  MI  FROM                              A                                            I    F    V    E    D
+                      PRIMARY          BLOCK  INTERSECTING  REF  or  REF      REFERENCE           MILE  / REPORT                      MOST SEVERE  N      A    E    D    A
+ JURISDICTION       TRAFFICWAY        NUMBER TRAFFICWAY POINT FT POINT POINT NAME                 POST B NUMBER      DATE      TIME INJURY TYPE J         T    H    S    L                      VEHICLE 1 TYPE                                  VEHICLE 2 TYPE
+City Street     116 AVE NE                    NE 60 ST                                                    E031311 10/1/2009    18:17 Possible Injury  1    0    2    0    0   Pickup,Panel Truck or Vanette under 10,000 lb   Passenger Car
+City Street     116TH AVE NE         6000                     80   F    N NE 60TH ST                      E373788 11/7/2014     8:00 No Injury        0    0    2    0    0   Passenger Car                                   Pickup,Panel Truck or Vanette under 10,000 lb
+City Street     116TH AVE NE         4700                    0.11 M     S   NE 48TH PL                    E251704 6/21/2013     1:10 No Injury        0    0    1    0    0   Passenger Car
+City Street     116TH AVE NE         5800     NE 60TH ST                                                  E052874 5/13/2010     0:49 Possible Injury  1    0    1    0    0   Passenger Car
+City Street     116TH AVE NE         6000     NE 60TH ST                                                  E362283 10/4/2014    17:14 No Injury        0    0    2    0    0   Pickup,Panel Truck or Vanette under 10,000 lb   Passenger Car
+City Street     116TH AVE NE         5800     NE 60TH ST                                                  E143674 12/18/2011   14:15 No Injury        0    0    2    0    0   Passenger Car                                   Pickup,Panel Truck or Vanette under 10,000 lb
+F-3
+
+
+
+
+WSDOT ‐ CRASH DATA                                                                                                       12/17/2014                                                                                                                                           1 of 3
+                                                  ROADWAY 
+                                                   SURFACE 
+             JUNCTION RELATIONSHIP               CONDITIONS   LIGHTING CONDITIONS                                FIRST COLLISION TYPE / OBJECT STRUCK                        VEH 1 ACTION            VEH 2 ACTION
+At Intersection and Related                    Wet            Dusk                    From same direction ‐ both going straight ‐ one stopped ‐ rear‐end   Going Straight Ahead             Stopped at Signal or Stop Sign
+Intersection Related but Not at Intersection   Dry            Daylight                From same direction ‐ both going straight ‐ both moving ‐ rear‐end   Going Straight Ahead             Slowing
+Not at Intersection and Not Related            Wet            Dark‐No Street Lights   Tree or Stump (stationary)                                           Going Straight Ahead
+At Intersection and Related                    Dry            Dark‐Street Lights On   Roadway Ditch                                                        Making Left Turn
+At Intersection and Not Related                Dry            Daylight                From same direction ‐ both going straight ‐ one stopped ‐ rear‐end   Slowing                          Going Straight Ahead
+At Intersection and Related                    Dry            Daylight                From opposite direction ‐ one left turn ‐ one straight               Going Straight Ahead             Making Left Turn
+F-4
+
+
+
+
+WSDOT ‐ CRASH DATA                                                                                                               12/17/2014                                                                                  2 of 3
+        MV DRIVER CONT CIRC 1 (UNIT 1)           MV DRIVER CONT CIRC 2 (UNIT 1)             MV DRIVER CONT CIRC 3 (UNIT 1)                   MV DRIVER CONT CIRC 1 (UNIT 2)
+Other                                    Follow Too Closely                                                                           None
+Exceeding Reas. Safe Speed                                                                                                            None
+Driver Distractions Outside Vehicle
+Under Influence of Alcohol               Exceeding Reas. Safe Speed                 Disregard Stop Sign ‐ Flashing Red
+Disregard Stop Sign ‐ Flashing Red       Driver Operating Handheld Telecommunicat                                                     None
+Disregard Stop Sign ‐ Flashing Red                                                                                                    None
+F-5
+
+
+
+
+WSDOT ‐ CRASH DATA                                                                                                       12/17/2014                                           3 of 3
+ www.idaxdata.com
+
+
+                                             116TH AVE NE
+                                              NE 48TH PL
+                                                                                                                                                Date: Tue, Dec 16, 2014
+                N                                       Peak Hour                                                                       Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                          Peak Hour: 4:30 PM to 5:30 PM
+
+
+
+
+                                                           172
+
+
+
+                                                                           684
+                          116TH AVE NE
+
+
+
+
+                                                                                                                                                                              1
+                                                 158
+
+                                                             14
+                                                                                                                 NE 48TH PL                                                       0
+
+
+                                                                                                                   8           14                                                                         0
+                                                           TEV: 876                                                6
+
+
+
+
+                                                                                                                                                                                                    0
+                                                           PHF: 0.95
+                                                                                                                               28
+
+
+                                                                                                                                                                                  0
+                                                                                                  116TH AVE NE
+                                                                       676
+
+                                                                                     14
+
+
+
+
+                                                                                                                                  HV %:         PHF
+
+
+
+
+                                                                                                                                                                                          2
+                                                                                                                         WB       0.0%            0.58
+                                                                                                                         NB       0.9%            0.97
+                                                                                                                         SB       1.2%            0.84
+                                                           164
+
+
+
+                                                                           690
+
+
+
+
+                                                                                                                       TOTAL      0.9%            0.95
+
+
+Two-Hour Count Summaries
+                         NE 48TH PL                                           NE 48TH PL                                      116TH AVE NE                         116TH AVE NE
+    Interval                                                                                                                                                                              15-min         Rolling
+      Start              Eastbound                                               Westbound                                     Northbound                           Southbound             Total        One Hour
+                    LT                   TH                 RT         LT             TH                          RT     LT         TH            RT       LT          TH         RT
+    4:00 PM         0                        0               0         1                  0                        3      0         174            3          3         36        0           220
+    4:15 PM         0                        0               0         1                  0                        0      0         134            1          1         37        0           174
+    4:30 PM         0                        0               0         2                  0                        4      0         169            5          6         30        0           216
+    4:45 PM         0                        0               0         1                  0                        2      0         163            1          2         40        0           209         819
+    5:00 PM         0                        0               0         0                  0                        0      0         172            5          3         40        0           220         819
+    5:15 PM         0                        0               0         3                  0                        2      0         172            3          3         48        0           231         876
+    5:30 PM         0                        0               0         1                  0                        2      0         139            3          1         44        0           190         850
+    5:45 PM         0                        0               0         0                  0                        2      0         125            2          6         32        0           167         808
+  Count Total       0                        0               0         9                  0                       15      0       1,248           23          25       307        0       1,627
+   Peak Hr          0                        0               0         6                  0                        8      0         676           14          14       158        0           876
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval             Heavy Vehicle Totals                                                                          Bicycles                                      Pedestrians (Crossing Leg)
+      Start         EB          WB                     NB         SB         Total        EB                      WB     NB       SB      Total          East          West       North         South     Total
+    4:00 PM         0                    0             3          1           4               0                    0      1         0       1             0             0             0             0             0
+    4:15 PM         0                    0             2          1           3               0                    0      0         0       0             0             0             0             0             0
+    4:30 PM         0                    0             2          1           3               0                    0      0         0       0             0             0             0             0             0
+    4:45 PM         0                    0             4          0           4               0                    0      0         1       1             0             0             0             0             0
+    5:00 PM         0                    0             0          0           0               0                    0      2         0       2             0             0             0             0             0
+    5:15 PM         0                    0             0          1           1               0                    0      0         0       0             0             0             0             0             0
+    5:30 PM         0                    0             0          0           0               0                    0      1         0       1             0             0             0             0             0
+    5:45 PM         0                    0             0          0           0               0                    0      0         0       0             0             0             0             0             0
+  Count Total       0                    0             11         4           15              0                    0      4         1       5             0             0             0             0             0
+   Peak Hr          0                    0             6          2           8               0                    0      2         1       3             0             0             0             0             0
+
+                                                                                                                                                                              mark.skaggs@idaxdata.com
+ Mark Skaggs: 425 - 250 - 0777
+                                                                                                                                                                                                                  G-1
+ www.idaxdata.com
+
+
+                                             116TH AVE NE
+                                              NE 60TH ST
+                                                                                                                                                Date: Tue, Dec 16, 2014
+                N                                     Peak Hour                                                                         Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                          Peak Hour: 5:00 PM to 6:00 PM
+
+
+
+
+                                                         206
+
+
+
+                                                                          705
+                          116TH AVE NE
+
+
+
+
+                                                                                                                                                                              0
+                                                           131
+
+                                                                      71
+                                                 4
+
+
+
+                                                                                                                NE 60TH ST                                                        3
+
+
+      5                                                                                                          130          173                                                                         2
+                    5                                    TEV: 1,019                                                1
+
+
+
+
+                                                                                                                                                                   0
+
+
+
+
+                                                                                                                                                                                                    0
+                    0                                    PHF: 0.98                                                42
+      5             0                                                                                                         136                        0
+
+
+           NE 60TH ST                                                                                                                                                             1
+                                                                                                 116TH AVE NE
+                                                           0
+
+                                                                      570
+
+                                                                                    65
+
+
+
+
+                                                                                                                                  HV %:        PHF
+
+
+
+
+                                                                                                                                                                                          2
+                                                                                                                         EB       0.0%         0.63
+                                                                                                                         WB       2.3%         0.87
+                                                                                                                         NB       0.0%         0.96
+                                                         173
+
+
+
+                                                                          635
+
+
+
+
+                                                                                                                         SB       1.0%         0.89
+                                                                                                                       TOTAL      0.6%         0.98
+Two-Hour Count Summaries
+                         NE 60TH ST                                          NE 60TH ST                                       116TH AVE NE                       116TH AVE NE
+    Interval                                                                                                                                                                              15-min         Rolling
+      Start              Eastbound                                              Westbound                                      Northbound                         Southbound               Total        One Hour
+                    LT                   TH               RT          LT             TH                          RT      LT         TH         RT        LT            TH         RT
+    4:00 PM         0                        0             0          11                 0                       29       0         127           16        19          29        0           231
+    4:15 PM         0                        0             0          7                  0                       31       0         142           15        11          25        1           232
+    4:30 PM         0                        1             0          21                 0                       18       0         147           18        11          22        0           238
+    4:45 PM         1                        0             0          14                 0                       30       1         142           16        15          27        2           248         949
+    5:00 PM         2                        0             0          12                 0                       27       0         147           12        15          32        2           249         967
+    5:15 PM         1                        0             0          11                 0                       27       0         141           18        16          41        1           256         991
+    5:30 PM         1                        0             0          13                 0                       37       0         138           14        23          34        1           261        1,014
+    5:45 PM         1                        0             0          6                  1                       39       0         144           21        17          24        0           253        1,019
+  Count Total       6                        1             0          95                 1                       238      1       1,128        130       127           234        7       1,968
+    Peak Hr         5                        0             0          42                 1                       130      0         570           65        71         131        4       1,019
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval             Heavy Vehicle Totals                                                                          Bicycles                                    Pedestrians (Crossing Leg)
+      Start         EB          WB                   NB          SB         Total        EB                      WB      NB       SB      Total        East            West       North         South         Total
+    4:00 PM         0                    1           3           4           8               0                    0       1         0      1            0               0             0             1          1
+    4:15 PM         0                    7           2           4           13              1                    0       0         0      1            1               0             1             0          2
+    4:30 PM         1                    2           1           2           6               0                    0       0         0      0            0               0             1             0          1
+    4:45 PM         0                    3           4           1           8               0                    0       0         0      0            0               0             0             0          0
+    5:00 PM         0                    2           0           0           2               0                    1       1         0      2            0               0             2             1          3
+    5:15 PM         0                    0           0           2           2               0                    0       0         0      0            0               0             0             0          0
+    5:30 PM         0                    1           0           0           1               0                    1       0         0      1            0               0             1             0          1
+    5:45 PM         0                    1           0           0           1               0                    0       1         0      1            0               0             0             0          0
+  Count Total       1              17                10          13          41              1                    2       3         0      6            1               0             5             2          8
+    Peak Hr         0                    4           0           2           6               0                    2       2         0      4            0               0             3             1          4
+
+                                                                                                                                                                              mark.skaggs@idaxdata.com
+ Mark Skaggs: 425 - 250 - 0777
+                                                                                                                                                                                                                   G-2
+ www.idaxdata.com
+
+
+                        116TH AVE NE
+                    PARK AND RIDE ACCESS
+                                                                                                                                                    Date: Tue, Dec 16, 2014
+                N                                        Peak Hour                                                                          Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                              Peak Hour: 4:30 PM to 5:30 PM
+
+
+
+
+                                                            735
+
+
+
+                                                                             935
+                           116TH AVE NE
+
+
+
+
+                                                                                                                                                                                  0
+                                                  567
+
+                                                              168
+
+                                                                         0
+                                                                                                                  PARK AND RIDE ACCESS                                                 2
+
+
+      980                                                                                                          9               9                                                                           0
+                    622                                     TEV: 2,138                                             0
+
+
+
+
+                                                                                                                                                                       0
+
+
+
+
+                                                                                                                                                                                                         0
+                     0                                      PHF: 0.97                                              0
+      677            55                                                                                                            0                          0
+
+
+          I-405 RAMPS                                                                                                                                                                  0
+                                                                                                   116TH AVE NE
+                                                              413
+
+                                                                         304
+
+                                                                                       0
+
+
+
+
+                                                                                                                                   HV %:             PHF
+
+
+
+
+                                                                                                                                                                                               0
+                                                                                                                          EB       1.5%              0.92
+                                                                                                                          WB       66.7%             0.75
+                                                                                                                          NB       1.8%              0.97
+                                                            223
+
+
+
+                                                                             717
+
+
+
+
+                                                                                                                          SB       0.7%              0.92
+                                                                                                                        TOTAL      1.6%              0.97
+Two-Hour Count Summaries
+                          I-405 RAMPS                                PARK AND RIDE ACCESS                                      116TH AVE NE                          116TH AVE NE
+    Interval                                                                                                                                                                                   15-min         Rolling
+      Start                Eastbound                                               Westbound                                    Northbound                            Southbound                Total        One Hour
+                    LT                    TH                 RT          LT            TH                          RT     LT           TH            RT       LT           TH          RT
+    4:00 PM         181                       0               16         0                 0                        3     100              76           0        0          36        112          524
+    4:15 PM         163                       0               12         0                 0                        0     103              76           0        0          35        110          499
+    4:30 PM         160                       0               14         0                 0                        3     103              80           0        0          36        156          552
+    4:45 PM         141                       0               10         0                 0                        1     106              79           0        0          40        146          523        2,098
+    5:00 PM         167                       0               16         0                 0                        3     108              75           0        0          40        117          526        2,100
+    5:15 PM         154                       0               15         0                 0                        2     96               70           0        0          52        148          537        2,138
+    5:30 PM         161                       0               26         0                 0                        2     109              84           0        0          50        117          549        2,135
+    5:45 PM         164                       0               30         0                 2                        1     105              74           1        0          33        112          522        2,134
+  Count Total    1,291                        0              139         0                 2                       15     830          614              1        0         322        1,018    4,232
+    Peak Hr         622                       0               55         0                 0                        9     413          304              0        0         168        567      2,138
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval               Heavy Vehicle Totals                                                                         Bicycles                                       Pedestrians (Crossing Leg)
+      Start         EB           WB                     NB          SB         Total       EB                      WB     NB       SB           Total       East           West        North         South         Total
+    4:00 PM          8                    3             2           3           16             0                    0      0           0         0           0              0              0             0          0
+    4:15 PM          0                    0             8           6           14             0                    0      0           0         0           0              0              0             0          0
+    4:30 PM          0                    3             4           2           9              0                    0      0           0         0           0              0              2             0          2
+    4:45 PM          4                    1             5           0           10             0                    0      0           0         0           0              0              0             0          0
+    5:00 PM          2                    1             3           0           6              0                    0      0           0         0           0              0              0             0          0
+    5:15 PM          4                    1             1           3           9              0                    0      0           0         0           0              0              0             0          0
+    5:30 PM          1                    1             2           0           4              0                    0      0           0         0           0              0              0             0          0
+    5:45 PM          1                    0             1           3           5              0                    0      0           0         0           0              0              0             0          0
+  Count Total       20              10                  26          17          73             0                    0      0           0         0           0              0              2             0          2
+    Peak Hr         10                    6             13          5           34             0                    0      0           0         0           0              0              2             0          2
+
+                                                                                                                                                                                  mark.skaggs@idaxdata.com
+ Mark Skaggs: 425 - 250 - 0777
+                                                                                                                                                                                                                        G-3
