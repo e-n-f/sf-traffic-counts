@@ -12,7 +12,7 @@ for $file (<misc/*.txt>) {
 	$n = 0;
 	while (<IN>) {
 		if (/\014/) {
-			if ($n < $max || $page =~ /Two-Hour Count Summaries/ || $page =~ /idax/) {
+			if ($n < $max || $page =~ /-Hour Count Summaries/ || $page =~ /idax/) {
 				print OUT $page;
 			}
 
@@ -22,7 +22,7 @@ for $file (<misc/*.txt>) {
 
 		$page .= $_;
 	}
-	if ($n < $max || $page =~ /Two-Hour Count Summaries/ || $page =~ /idax/) {
+	if ($n < $max || $page =~ /-Hour Count Summaries/ || $page =~ /idax/) {
 		print OUT $page;
 	}
 	close(IN);

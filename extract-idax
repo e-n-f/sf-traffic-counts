@@ -54,11 +54,11 @@ while (<>) {
 		$section = 0;
 	}
 
-	if (/^ *Two-Hour Count Summaries/) {
+	if (/-Hour Count Summaries/ || /-Hour Count Summaries/) {
 		unless (/Heavy/ || /Bikes/) {
 			$streets = <>;
 
-			while ($streets =~ /^\s*$/ || $streets =~ /Interval\s*Start\s*$/) {
+			while ($streets =~ /^\s*$/ || $streets =~ /Interval\s*Start\s*$/ || $streets =~ /Interval\s*$/) {
 				$streets = <>;
 			}
 
