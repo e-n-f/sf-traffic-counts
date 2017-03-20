@@ -1,0 +1,16 @@
+#!/bin/sh
+
+newest=$(ls -t ./*.txt | head -1)
+
+find . -name '*.pdf' -print |
+while read i
+do
+	xml=$(basename "$i" .pdf).txt
+
+	if test -f "$xml"
+	then :
+	else
+		echo "$xml"
+		pdftotext -layout "$i"
+	fi
+done

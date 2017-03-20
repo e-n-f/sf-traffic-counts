@@ -1,0 +1,111 @@
+ www.idaxdata.com
+
+
+                                            RURAL AVE
+                                            SLATER RD
+                                                                                                                                       Date: Wed, Mar 25, 2015
+                N                                Peak Hour                                                                     Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                 Peak Hour: 4:45 PM to 5:45 PM
+
+
+
+
+                                                    157
+
+
+
+                                                                    126
+                           RURAL AVE
+
+
+
+
+                                                                                                                                                                   0
+                                                                118
+                                           24
+
+                                                      15
+                                                                                                   SLATER RD                                                           0
+
+
+      631                                                                                           98           740                                                                           0
+                     14                             TEV: 1,661                                     590
+
+
+
+
+                                                                                                                                                        0
+
+
+
+
+                                                                                                                                                                                         0
+                    662                             PHF: 0.96                                       52
+      689            13                                                                                          824                           0
+
+
+            SLATER RD                                                                                                                                                  0
+                                                      17
+
+                                                                14
+
+                                                                              44
+
+                                                                                       RURAL AVE
+
+
+
+
+                                                                                                                     HV %:           PHF
+
+
+
+
+                                                                                                                                                                               0
+                                                                                                            EB       1.3%            0.94
+                                                                                                            WB       1.9%            0.87
+                                                                                                            NB       1.3%            0.72
+                                                    80
+
+
+
+                                                                    75
+
+
+
+
+                                                                                                            SB       4.5%            0.77
+                                                                                                          TOTAL      1.9%            0.96
+Two-Hour Count Summaries
+                          SLATER RD                                    SLATER RD                                 RURAL AVE                             RURAL AVE
+    Interval                                                                                                                                                                   15-min         Rolling
+      Start               Eastbound                                       Westbound                              Northbound                            Southbound               Total        One Hour
+                    LT                 TH            RT         LT             TH                   RT      LT         TH            RT        LT           TH         RT
+    4:00 PM          4                 129            2         15             113                  13       6             5            11        32         1         6           337
+    4:15 PM          2                 145            2         8              109                  21       0             1            13        25         4         4           334
+    4:30 PM          2                 121            2         12             108                  29       1             2            35        48         7         3           370
+    4:45 PM          0                 151            3         13             117                  29       9             6            11        38         4         7           388        1,429
+    5:00 PM          4                 178            2         10             140                  26       5             3            15        38         6         7           434        1,526
+    5:15 PM          4                 164            4         13             154                  26       1             5            9         26         2         4           412        1,604
+    5:30 PM          6                 169            4         16             179                  17       2             0            9         16         3         6           427        1,661
+    5:45 PM          5                 105            1         12             159                  20       2             3            6         25         2         6           346        1,619
+  Count Total       27             1,162              20        99            1,079                 181     26             25        109       248           29        43      3,048
+    Peak Hr         14                 662            13        52             590                  98      17             14           44     118           15        24      1,661
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                            Bicycles                                      Pedestrians (Crossing Leg)
+      Start         EB         WB               NB         SB         Total        EB               WB      NB       SB         Total        East           West       North         South         Total
+    4:00 PM          7                 7        0          1           15          0                0        0         0         0            0              0             0             0          0
+    4:15 PM          7                 2        1          1           11          0                0        0         0         0            0              0             0             0          0
+    4:30 PM          3                 5        1          2           11          0                0        0         0         0            0              0             0             0          0
+    4:45 PM          4                 4        1          4           13          0                0        0         0         0            0              0             0             0          0
+    5:00 PM          3                 3        0          3           9           0                0        0         0         0            0              0             0             0          0
+    5:15 PM          1                 2        0          0           3           0                0        0         0         0            0              0             0             0          0
+    5:30 PM          1                 5        0          0           6           0                0        0         0         0            0              0             0             0          0
+    5:45 PM          0                 1        1          1           3           0                0        0         0         0            0              0             0             0          0
+  Count Total       26            29            4          12          71          0                0        0         0         0            0              0             0             0          0
+    Peak Hr          9            14            1          7           31          0                0        0         0         0            0              0             0             0          0
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                     mark.skaggs@idaxdata.com
+

@@ -1,0 +1,109 @@
+ www.idaxdata.com
+
+
+                                              SB I-5 RAMPS
+                                               SLATER RD
+                                                                                                                                          Date: Wed, Mar 25, 2015
+                N                                    Peak Hour                                                                    Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                    Peak Hour: 4:45 PM to 5:45 PM
+
+
+
+
+                                                        138
+
+
+
+                                                                      0
+                           SB I-5 RAMPS
+
+
+
+
+                                                                                                                                                                      0
+                                               86
+
+
+
+
+                                                                    49
+                                                          3
+                                                                                                       SLATER RD                                                          0
+
+
+      733                                                                                               0           807                                                                           0
+                     0                                  TEV: 1,769                                     647
+
+
+
+
+                                                                                                                                                           0
+
+
+
+
+                                                                                                                                                                                            0
+                    278                                 PHF: 0.96                                      160
+      824           546                                                                                             327                          0
+
+
+            SLATER RD                                                                                                                                                     0
+                                                                                        SB I-5 RAMPS
+
+
+
+
+                                                                                                                        HV %:           PHF
+
+
+
+
+                                                                                                                                                                                  0
+                                                                                                               EB       2.4%            0.94
+                                                                                                               WB       2.0%            0.93
+                                                                                                               NB             -            -
+                                                        709
+
+
+
+
+                                                                                                               SB       2.9%            0.77
+                                                                      0
+
+
+
+
+                                                                                                             TOTAL      2.3%            0.96
+Two-Hour Count Summaries
+                          SLATER RD                                       SLATER RD                                 SB I-5 RAMPS                         SB I-5 RAMPS
+    Interval                                                                                                                                                                      15-min         Rolling
+      Start               Eastbound                                        Westbound                                 Northbound                           Southbound               Total        One Hour
+                    LT                    TH             RT         LT            TH                    RT     LT         TH            RT       LT            TH         RT
+    4:00 PM          0                        60         111        50           122                    0       0             0            0        11          0         23          377
+    4:15 PM          0                        69         120        42           117                    0       0             0            0        16          0         22          386
+    4:30 PM          0                        74         121        58           133                    0       0             0            0        13          1         20          420
+    4:45 PM          0                        80         131        31           145                    0       0             0            0        10          0         18          415        1,598
+    5:00 PM          0                        71         149        56           151                    0       0             0            0        12          0         16          455        1,676
+    5:15 PM          0                        58         139        44           174                    0       0             0            0        16          2         27          460        1,750
+    5:30 PM          0                        69         127        29           177                    0       0             0            0        11          1         25          439        1,769
+    5:45 PM          0                        49          87        24           170                    0       0             0            0        10          0         18          358        1,712
+  Count Total        0                    530            985        334          1,189                  0       0             0            0        99          4         169     3,310
+    Peak Hr          0                    278            546        160          647                    0       0             0            0        49          3         86      1,769
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                               Bicycles                                      Pedestrians (Crossing Leg)
+      Start         EB           WB                 NB         SB        Total     EB                   WB     NB       SB         Total       East            West       North         South         Total
+    4:00 PM          5                    6         0          3          14        0                   0       0         0         0           0               0             0             0          0
+    4:15 PM         10                    4         0          0          14        0                   0       0         0         0           0               0             0             0          0
+    4:30 PM          6                    5         0          2          13        1                   0       0         0         1           0               0             0             0          0
+    4:45 PM          8                    2         0          2          12        0                   0       0         0         0           0               0             0             0          0
+    5:00 PM          7                    5         0          1          13        0                   0       0         0         0           0               0             0             0          0
+    5:15 PM          4                    4         0          1          9         0                   0       0         0         0           0               0             0             0          0
+    5:30 PM          1                    5         0          0          6         0                   0       0         0         0           0               0             0             0          0
+    5:45 PM          3                    1         0          0          4         0                   0       0         0         0           0               0             0             0          0
+  Count Total       44              32              0          9          85        1                   0       0         0         1           0               0             0             0          0
+    Peak Hr         20              16              0          4          40        0                   0       0         0         0           0               0             0             0          0
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                        mark.skaggs@idaxdata.com
+

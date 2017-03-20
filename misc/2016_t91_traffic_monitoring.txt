@@ -2035,1007 +2035,3 @@ Level of Service Criteria for Unsignalized Intersections
 *URZWK)DFWRUYSK                                                                  
 $GM)ORZYSK                                                                                                 
 57255HGXFWLRQYSK                                                                                                      
-/DQH*URXS)ORZYSK                                                                                          
-&RQIO3HGVKU                                                                                                          
-+HDY\9HKLFOHV                                                                                            
-7XUQ7\SH                   3HUP      1$     FXVWRP     3HUP        1$             3HUP        1$     3HUP     3HUP       1$     3HUP
-3URWHFWHG3KDVHV                                                                                                       
-3HUPLWWHG3KDVHV                                                                                                                
-$FWXDWHG*UHHQ*V                                                                      
-(IIHFWLYH*UHHQJV                                                                     
-$FWXDWHGJ&5DWLR                                                                                 
-&OHDUDQFH7LPHV                                                                                          
-9HKLFOH([WHQVLRQV                                                                                       
-/DQH*US&DSYSK                                                                                    
-YV5DWLR3URW                                                                                                  F
-YV5DWLR3HUP                      F                                                                     
-YF5DWLR                                                                                         
-8QLIRUP'HOD\G                                                                                        
-3URJUHVVLRQ)DFWRU                                                                                
-,QFUHPHQWDO'HOD\G                                                                                      
-'HOD\V                                                                                                
-/HYHORI6HUYLFH                        (           $                 (                $        $         $        $        $        $
-$SSURDFK'HOD\V                                                                                              
-$SSURDFK/26                            $                             (                         $                           $
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                      +&0/HYHORI6HUYLFH                  $
-+&09ROXPHWR&DSDFLW\UDWLR               
-$FWXDWHG&\FOH/HQJWKV                             6XPRIORVWWLPHV                        
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                     ,&8/HYHORI6HUYLFH                         *
-$QDO\VLV3HULRGPLQ                             
-F&ULWLFDO/DQH*URXS
-
-$0([LVWLQJ                                                                                                        6\QFKUR5HSRUW
-                                                                                                                               3DJH
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-(OOLRWW	:*DOHU6W)O\RYHU                                                                 
-
-
-
-0RYHPHQW                     1%7     1%5      6%/      6%7     6:/      6:5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                          
-)XWXUH9ROXPHYSK                                           
-,GHDO)ORZYSKSO                                   
-/DQH:LGWK                                                        
-7RWDO/RVWWLPHV                                         
-/DQH8WLO)DFWRU                                     
-)USESHGELNHV                                       
-)OSESHGELNHV                                      
-)UW                                                   
-)OW3URWHFWHG                                         
-6DWG)ORZSURW                                    
-)OW3HUPLWWHG                                         
-6DWG)ORZSHUP                                    
-3HDNKRXUIDFWRU3+)                                
-*URZWK)DFWRUYSK                                 
-$GM)ORZYSK                                               
-57255HGXFWLRQYSK                                                  
-/DQH*URXS)ORZYSK                                          
-&RQIO3HGVKU                              
-+HDY\9HKLFOHV                                            
-7XUQ7\SH                     1$ FXVWRP        3URW     1$      3URW    3HUP
-3URWHFWHG3KDVHV                                          
-3HUPLWWHG3KDVHV                                                             
-$FWXDWHG*UHHQ*V                               
-(IIHFWLYH*UHHQJV                              
-$FWXDWHGJ&5DWLR                                   
-&OHDUDQFH7LPHV                                                
-9HKLFOH([WHQVLRQV                                             
-/DQH*US&DSYSK                                       
-YV5DWLR3URW                   F        F     
-YV5DWLR3HUP                                                           
-YF5DWLR                                            
-8QLIRUP'HOD\G                                      
-3URJUHVVLRQ)DFWRU                                   
-,QFUHPHQWDO'HOD\G                                      
-'HOD\V                                              
-/HYHORI6HUYLFH                $        %       '        $        (        (
-$SSURDFK'HOD\V                                        
-$SSURDFK/26                    $                         $        (
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                  +&0/HYHORI6HUYLFH     $
-+&09ROXPHWR&DSDFLW\UDWLR              
-$FWXDWHG&\FOH/HQJWKV                            6XPRIORVWWLPHV        
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                     ,&8/HYHORI6HUYLFH           %
-$QDO\VLV3HULRGPLQ                            
-F&ULWLFDO/DQH*URXS
-
-
-$0([LVWLQJ                                                                             6\QFKUR5HSRUW
-                                                                                                    3DJH
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-(OOLRWW	:5R\6W:0HUFHU3O                                                                                       
-
-
-
-0RYHPHQW                     (%/      (%7      (%5     :%/       :%7      :%5      1%/      1%7      1%5      6%/       6%7     6%5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                                                                      
-)XWXUH9ROXPHYSK                                                                                       
-,GHDO)ORZYSKSO                                                                  
-/DQH:LGWK                                                                                                 
-*UDGH                                                                                                          
-7RWDO/RVWWLPHV                                                                                          
-/DQH8WLO)DFWRU                                                                                   
-)USESHGELNHV                                                                                     
-)OSESHGELNHV                                                                                     
-)UW                                                                                                  
-)OW3URWHFWHG                                                                                        
-6DWG)ORZSURW                                                                                   
-)OW3HUPLWWHG                                                                                        
-6DWG)ORZSHUP                                                                                   
-3HDNKRXUIDFWRU3+)                                                                
-*URZWK)DFWRUYSK                                                                
-$GM)ORZYSK                                                                                            
-57255HGXFWLRQYSK                                                                                                   
-/DQH*URXS)ORZYSK                                                                                      
-&RQIO3HGVKU                                                                                                      
-+HDY\9HKLFOHV                                                                                       
-3DUNLQJKU                                                                                                           
-7XUQ7\SH                    6SOLW     1$                                 )UHH     3URW      1$     3HUP      3URW       1$    3HUP
-3URWHFWHG3KDVHV                                                                                                   
-3HUPLWWHG3KDVHV                                                          )UHH                                                     
-$FWXDWHG*UHHQ*V                                                                               
-(IIHFWLYH*UHHQJV                                                                              
-$FWXDWHGJ&5DWLR                                                                                  
-&OHDUDQFH7LPHV                                                                                                 
-9HKLFOH([WHQVLRQV                                                                                              
-/DQH*US&DSYSK                                                                                       
-YV5DWLR3URW                                                                F                  F     F
-YV5DWLR3HUP                                                           F                                              
-YF5DWLR                                                                                           
-8QLIRUP'HOD\G                                                                                     
-3URJUHVVLRQ)DFWRU                                                                                  
-,QFUHPHQWDO'HOD\G                                                                                      
-'HOD\V                                                                                             
-/HYHORI6HUYLFH                         (                                   $        (        &        &        &         %       $
-$SSURDFK'HOD\V                                                                                           
-$SSURDFK/26                             (                           $                         '                           &
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                    +&0/HYHORI6HUYLFH                 &
-+&09ROXPHWR&DSDFLW\UDWLR               
-$FWXDWHG&\FOH/HQJWKV                            6XPRIORVWWLPHV                      
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                     ,&8/HYHORI6HUYLFH                        '
-$QDO\VLV3HULRGPLQ                             
-
-$0([LVWLQJ                                                                                                     6\QFKUR5HSRUW
-                                                                                                                              3DJH
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-WK	:*DUILHOG6W                                                                                                   
-
-
-
-0RYHPHQW                     (%/     (%7      (%5     :%/       :%7      :%5      1%/      1%7      1%5      6%/        6%7      6%5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                                                                      
-)XWXUH9ROXPHYSK                                                                                       
-,GHDO)ORZYSKSO                                                                  
-/DQH:LGWK                                                                                                 
-*UDGH                                                                                                         
-7RWDO/RVWWLPHV                                                                                        
-/DQH8WLO)DFWRU                                                                                
-)USESHGELNHV                                                                                  
-)OSESHGELNHV                                                                                  
-)UW                                                                                               
-)OW3URWHFWHG                                                                                     
-6DWG)ORZSURW                                                                                
-)OW3HUPLWWHG                                                                                     
-6DWG)ORZSHUP                                                                                  
-3HDNKRXUIDFWRU3+)                                                                 
-*URZWK)DFWRUYSK                                                                 
-$GM)ORZYSK                                                                                            
-57255HGXFWLRQYSK                                                                                                     
-/DQH*URXS)ORZYSK                                                                                      
-&RQIO3HGVKU                                                                                                           
-+HDY\9HKLFOHV                                                                                           
-7XUQ7\SH                   3HUP      1$      )UHH    3HUP        1$             3HUP       1$     3HUP     3HUP         1$     3HUP
-3URWHFWHG3KDVHV                                                                                                       
-3HUPLWWHG3KDVHV                             )UHH                                                                               
-$FWXDWHG*UHHQ*V                                                                     
-(IIHFWLYH*UHHQJV                                                                    
-$FWXDWHGJ&5DWLR                                                                                
-&OHDUDQFH7LPHV                                                                                            
-9HKLFOH([WHQVLRQV                                                                                         
-/DQH*US&DSYSK                                                                                   
-YV5DWLR3URW                                                                            F                          
-YV5DWLR3HUP                      F                                                                    
-YF5DWLR                                                                                        
-8QLIRUP'HOD\G                                                                                       
-3URJUHVVLRQ)DFWRU                                                                               
-,QFUHPHQWDO'HOD\G                                                                                    
-'HOD\V                                                                                               
-/HYHORI6HUYLFH                        (        $                  '                $        $        $        $          $        $
-$SSURDFK'HOD\V                                                                                            
-$SSURDFK/26                            &                           '                         $                            $
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                    +&0/HYHORI6HUYLFH                 $
-+&09ROXPHWR&DSDFLW\UDWLR              
-$FWXDWHG&\FOH/HQJWKV                           6XPRIORVWWLPHV                       
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                    ,&8/HYHORI6HUYLFH                        &
-$QDO\VLV3HULRGPLQ                            
-F&ULWLFDO/DQH*URXS
-
-30([LVWLQJ                                                                                                     6\QFKUR5HSRUW
-                                                                                                                               3DJH
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-(OOLRWW	:*DOHU6W)O\RYHU                                                                                                                                                     
-
-
-
-0RYHPHQW                                    6%/           6%/         1:5 1:5                   6:/         6:5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                                                              
-)XWXUH9ROXPHYSK                                                                               
-,GHDO)ORZYSKSO                                                                        
-/DQH:LGWK                                                                                             
-7RWDO/RVWWLPHV                                                                              
-/DQH8WLO)DFWRU                                                                          
-)USESHGELNHV                                                                            
-)OSESHGELNHV                                                                           
-)UW                                                                                        
-)OW3URWHFWHG                                                                              
-6DWG)ORZSURW                                                                         
-)OW3HUPLWWHG                                                                              
-6DWG)ORZSHUP                                                                         
-3HDNKRXUIDFWRU3+)                                                                     
-*URZWK)DFWRUYSK                                                                      
-$GM)ORZYSK                                                                                   
-57255HGXFWLRQYSK                                                                                       
-/DQH*URXS)ORZYSK                                                                              
-&RQIO3HGVKU                                                                                             
-+HDY\9HKLFOHV                                                                                    
-7XUQ7\SH                                     3URW         3URW        2YHU        SWRY           3URW      3HUP
-3URWHFWHG3KDVHV                                                                              
-3HUPLWWHG3KDVHV                                                                                                  
-$FWXDWHG*UHHQ*V                                                                    
-(IIHFWLYH*UHHQJV                                                                   
-$FWXDWHGJ&5DWLR                                                                         
-&OHDUDQFH7LPHV                                                                                      
-9HKLFOH([WHQVLRQV                                                                                   
-/DQH*US&DSYSK                                                                            
-YV5DWLR3URW                                       F        F        F          
-YV5DWLR3HUP                                                                                             
-YF5DWLR                                                                                  
-8QLIRUP'HOD\G                                                                            
-3URJUHVVLRQ)DFWRU                                                                         
-,QFUHPHQWDO'HOD\G                                                                           
-'HOD\V                                                                                    
-/HYHORI6HUYLFH                                 '            $            '           $             (            (
-$SSURDFK'HOD\V                                                                         
-$SSURDFK/26                                                  $            &                         (
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                                                 +&0/HYHORI6HUYLFH                                       %
-+&09ROXPHWR&DSDFLW\UDWLR                                      
-$FWXDWHG&\FOH/HQJWKV                                                            6XPRIORVWWLPHV                                        
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                                                     ,&8/HYHORI6HUYLFH                                          '
-$QDO\VLV3HULRGPLQ                                                    
-F&ULWLFDO/DQH*URXS
-
-
-30([LVWLQJ6\QFKUR5HSRUW
-                                                                                                                                                                                               3DJH
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-:5R\6W	(OOLRWW	:0HUFHU3O                                                                                       
-
-
-
-0RYHPHQW                     :%/    :%5       6(/       6(7      6(5     1:/       1:7      1:5       1(/     1(5      1(5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                                                              
-)XWXUH9ROXPHYSK                                                                               
-,GHDO)ORZYSKSO                                                              
-/DQH:LGWK                                                                                           
-*UDGH                                                                                         
-7RWDO/RVWWLPHV                                                                
-/DQH8WLO)DFWRU                                                          
-)USESHGELNHV                                                            
-)OSESHGELNHV                                                            
-)UW                                                                        
-)OW3URWHFWHG                                                              
-6DWG)ORZSURW                                                         
-)OW3HUPLWWHG                                                              
-6DWG)ORZSHUP                                                         
-3HDNKRXUIDFWRU3+)                                                           
-*URZWK)DFWRUYSK                                                            
-$GM)ORZYSK                                                                                   
-57255HGXFWLRQYSK                                                                                          
-/DQH*URXS)ORZYSK                                                                                 
-&RQIO3HGVKU                                                                                                  
-+HDY\9HKLFOHV                                                                                   
-3DUNLQJKU                                           
-7XUQ7\SH                            )UHH      3URW      1$     3HUP      3URW       1$     3HUP      3URW
-3URWHFWHG3KDVHV                                                                                   
-3HUPLWWHG3KDVHV                     )UHH                                                              
-$FWXDWHG*UHHQ*V                                                      
-(IIHFWLYH*UHHQJV                                                     
-$FWXDWHGJ&5DWLR                                                        
-&OHDUDQFH7LPHV                                                                      
-9HKLFOH([WHQVLRQV                                                                   
-/DQH*US&DSYSK                                                               
-YV5DWLR3URW                               F                         F              
-YV5DWLR3HUP                      F                                                
-YF5DWLR                                                                 
-8QLIRUP'HOD\G                                                           
-3URJUHVVLRQ)DFWRU                                                        
-,QFUHPHQWDO'HOD\G                                                             
-'HOD\V                                                                   
-/HYHORI6HUYLFH                        $        '         &        $        (         &        %        (
-$SSURDFK'HOD\V                                                                         
-$SSURDFK/26                    $                          &                           &                 (
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                  +&0/HYHORI6HUYLFH                    &
-+&09ROXPHWR&DSDFLW\UDWLR              
-$FWXDWHG&\FOH/HQJWKV                             6XPRIORVWWLPHV                      
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                      ,&8/HYHORI6HUYLFH                        '
-$QDO\VLV3HULRGPLQ                            
-
-30([LVWLQJ                                                                                                      6\QFKUR5HSRUW
-                                                                                                                              3DJH
-2016 – One Cruise Call
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-WK	:*DUILHOG6W                                                                                                                                                        
-
-
-
-0RYHPHQW                                     (%/         (%7          (%5         :%/          :%7         :%5           1%/         1%7          1%5          6%/          6%7         6%5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                                                                                                                                 
-)XWXUH9ROXPHYSK                                                                                                                                                  
-,GHDO)ORZYSKSO                                                                                                                          
-/DQH:LGWK                                                                                                                                                         
-*UDGH                                                                                                                                                            
-7RWDO/RVWWLPHV                                                                                                                                                  
-/DQH8WLO)DFWRU                                                                                                                                           
-)USESHGELNHV                                                                                                                                             
-)OSESHGELNHV                                                                                                                                             
-)UW                                                                                                                                                          
-)OW3URWHFWHG                                                                                                                                                
-6DWG)ORZSURW                                                                                                                                           
-)OW3HUPLWWHG                                                                                                                                                
-6DWG)ORZSHUP                                                                                                                                             
-3HDNKRXUIDFWRU3+)                                                                                                                        
-*URZWK)DFWRUYSK                                                                                                                        
-$GM)ORZYSK                                                                                                                                                       
-57255HGXFWLRQYSK                                                                                                                                                            
-/DQH*URXS)ORZYSK                                                                                                                                                 
-&RQIO3HGVKU                                                                                                                                                                
-+HDY\9HKLFOHV                                                                                                                                                  
-7XUQ7\SH                                  3HUP            1$     FXVWRP                                               3HUP            1$       3HUP         3HUP            1$        3HUP
-3URWHFWHG3KDVHV                                                                                                                                                          
-3HUPLWWHG3KDVHV                                                                                                                                                                      
-$FWXDWHG*UHHQ*V                                                                                                                                
-(IIHFWLYH*UHHQJV                                                                                                                               
-$FWXDWHGJ&5DWLR                                                                                                                                           
-&OHDUDQFH7LPHV                                                                                                                                                   
-9HKLFOH([WHQVLRQV                                                                                                                                                
-/DQH*US&DSYSK                                                                                                                                             
-YV5DWLR3URW                                                     F                                                                                              F
-YV5DWLR3HUP                                                                                                                                                       
-YF5DWLR                                                                                                                                                    
-8QLIRUP'HOD\G                                                                                                                                                   
-3URJUHVVLRQ)DFWRU                                                                                                                                           
-,QFUHPHQWDO'HOD\G                                                                                                                                                
-'HOD\V                                                                                                                                                           
-/HYHORI6HUYLFH                                            (            $                                                  $            $           $            $            $            $
-$SSURDFK'HOD\V                                                                                                                                                  
-$SSURDFK/26                                                $                                      $                                     $                                     $
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                                                  +&0/HYHORI6HUYLFH                                  $
-+&09ROXPHWR&DSDFLW\UDWLR                                    
-$FWXDWHG&\FOH/HQJWKV                                                          6XPRIORVWWLPHV                                       
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                                                   ,&8/HYHORI6HUYLFH                                         )
-$QDO\VLV3HULRGPLQ                                                  
-F&ULWLFDO/DQH*URXS
-
-$02QH&UXLVH&RQGLWLRQ6\QFKUR5HSRUW
-                                                                                                                                                                                         3DJH
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-(OOLRWW	:*DOHU6W)O\RYHU                                                                                                                                                
-
-
-
-0RYHPHQW                                    1%7          1%5          6%/          6%7         6:/         6:5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                                                           
-)XWXUH9ROXPHYSK                                                                            
-,GHDO)ORZYSKSO                                                                     
-/DQH:LGWK                                                                                          
-7RWDO/RVWWLPHV                                                                           
-/DQH8WLO)DFWRU                                                                       
-)USESHGELNHV                                                                         
-)OSESHGELNHV                                                                        
-)UW                                                                                     
-)OW3URWHFWHG                                                                           
-6DWG)ORZSURW                                                                      
-)OW3HUPLWWHG                                                                           
-6DWG)ORZSHUP                                                                      
-3HDNKRXUIDFWRU3+)                                                                  
-*URZWK)DFWRUYSK                                                                   
-$GM)ORZYSK                                                                                
-57255HGXFWLRQYSK                                                                                   
-/DQH*URXS)ORZYSK                                                                           
-&RQIO3HGVKU                                                     
-+HDY\9HKLFOHV                                                                               
-7XUQ7\SH                                     1$ FXVWRP               3URW          1$         3URW        3HUP
-3URWHFWHG3KDVHV                                                                         
-3HUPLWWHG3KDVHV                                                                                                
-$FWXDWHG*UHHQ*V                                                                  
-(IIHFWLYH*UHHQJV                                                                 
-$FWXDWHGJ&5DWLR                                                                      
-&OHDUDQFH7LPHV                                                                                   
-9HKLFOH([WHQVLRQV                                                                                
-/DQH*US&DSYSK                                                                          
-YV5DWLR3URW                                                       F        F
-YV5DWLR3HUP                                                                                              
-YF5DWLR                                                                               
-8QLIRUP'HOD\G                                                                        
-3URJUHVVLRQ)DFWRU                                                                      
-,QFUHPHQWDO'HOD\G                                                                         
-'HOD\V                                                                                 
-/HYHORI6HUYLFH                               $            &            (            $           (            '
-$SSURDFK'HOD\V                                                                       
-$SSURDFK/26                                   $                                      $           (
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                                                +&0/HYHORI6HUYLFH                                    $
-+&09ROXPHWR&DSDFLW\UDWLR                                    
-$FWXDWHG&\FOH/HQJWKV                                                          6XPRIORVWWLPHV                                     
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                                                   ,&8/HYHORI6HUYLFH                                        %
-$QDO\VLV3HULRGPLQ                                                  
-F&ULWLFDO/DQH*URXS
-
-
-$02QH&UXLVH&RQGLWLRQ6\QFKUR5HSRUW
-                                                                                                                                                                                         3DJH
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-(OOLRWW	:5R\6W:0HUFHU3O                                                                                                                                              
-
-
-
-0RYHPHQW                                     (%/         (%7          (%5         :%/         :%7          :%5           1%/         1%7          1%5          6%/          6%7         6%5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                                                                                                                             
-)XWXUH9ROXPHYSK                                                                                                                                              
-,GHDO)ORZYSKSO                                                                                                                          
-/DQH:LGWK                                                                                                                                                         
-*UDGH                                                                                                                                                              
-7RWDO/RVWWLPHV                                                                                                                                                  
-/DQH8WLO)DFWRU                                                                                                                                           
-)USESHGELNHV                                                                                                                                             
-)OSESHGELNHV                                                                                                                                             
-)UW                                                                                                                                                          
-)OW3URWHFWHG                                                                                                                                                
-6DWG)ORZSURW                                                                                                                                            
-)OW3HUPLWWHG                                                                                                                                                
-6DWG)ORZSHUP                                                                                                                                            
-3HDNKRXUIDFWRU3+)                                                                                                                        
-*URZWK)DFWRUYSK                                                                                                                        
-$GM)ORZYSK                                                                                                                                                   
-57255HGXFWLRQYSK                                                                                                                                                           
-/DQH*URXS)ORZYSK                                                                                                                                              
-&RQIO3HGVKU                                                                                                                                                              
-+HDY\9HKLFOHV                                                                                                                                               
-3DUNLQJKU                                                                                                                                                               
-7XUQ7\SH                                                  1$                                               )UHH         3URW          1$        3HUP          3URW          1$        3HUP
-3URWHFWHG3KDVHV                                                                                                                                                       
-3HUPLWWHG3KDVHV                                                                                           )UHH                                                                            
-$FWXDWHG*UHHQ*V                                                                                                                                     
-(IIHFWLYH*UHHQJV                                                                                                                                    
-$FWXDWHGJ&5DWLR                                                                                                                                          
-&OHDUDQFH7LPHV                                                                                                                                                         
-9HKLFOH([WHQVLRQV                                                                                                                                                      
-/DQH*US&DSYSK                                                                                                                                                
-YV5DWLR3URW                                                                                                     F                             F        F
-YV5DWLR3HUP                                                                                             F                                                                    
-YF5DWLR                                                                                                                                                   
-8QLIRUP'HOD\G                                                                                                                                             
-3URJUHVVLRQ)DFWRU                                                                                                                                          
-,QFUHPHQWDO'HOD\G                                                                                                                                               
-'HOD\V                                                                                                                                                     
-/HYHORI6HUYLFH                                            (                                                  $            (            &           &            &            &           $
-$SSURDFK'HOD\V                                                                                                                                               
-$SSURDFK/26                                                (                                      $                                     '                                     &
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                                               +&0/HYHORI6HUYLFH                                    &
-+&09ROXPHWR&DSDFLW\UDWLR                                    
-$FWXDWHG&\FOH/HQJWKV                                                          6XPRIORVWWLPHV                                     
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                                                   ,&8/HYHORI6HUYLFH                                       '
-$QDO\VLV3HULRGPLQ                                                  
-
-$02QH&UXLVH&RQGLWLRQ6\QFKUR5HSRUW
-                                                                                                                                                                                         3DJH
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-WK	:*DUILHOG6W                                                                                                                                                        
-
-
-
-0RYHPHQW                                     (%/         (%7          (%5         :%/          :%7         :%5           1%/         1%7          1%5          6%/          6%7         6%5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                                                                                                                              
-)XWXUH9ROXPHYSK                                                                                                                                               
-,GHDO)ORZYSKSO                                                                                                                          
-/DQH:LGWK                                                                                                                                                         
-*UDGH                                                                                                                                                            
-7RWDO/RVWWLPHV                                                                                                                                               
-/DQH8WLO)DFWRU                                                                                                                                       
-)USESHGELNHV                                                                                                                                         
-)OSESHGELNHV                                                                                                                                         
-)UW                                                                                                                                                      
-)OW3URWHFWHG                                                                                                                                            
-6DWG)ORZSURW                                                                                                                                       
-)OW3HUPLWWHG                                                                                                                                            
-6DWG)ORZSHUP                                                                                                                                         
-3HDNKRXUIDFWRU3+)                                                                                                                        
-*URZWK)DFWRUYSK                                                                                                                        
-$GM)ORZYSK                                                                                                                                                   
-57255HGXFWLRQYSK                                                                                                                                                            
-/DQH*URXS)ORZYSK                                                                                                                                             
-&RQIO3HGVKU                                                                                                                                                                  
-+HDY\9HKLFOHV                                                                                                                                                  
-7XUQ7\SH                                  3HUP            1$        )UHH        3HUP            1$                    3HUP            1$       3HUP         3HUP            1$        3HUP
-3URWHFWHG3KDVHV                                                                                                                                                           
-3HUPLWWHG3KDVHV                                                    )UHH                                                                                                               
-$FWXDWHG*UHHQ*V                                                                                                                            
-(IIHFWLYH*UHHQJV                                                                                                                           
-$FWXDWHGJ&5DWLR                                                                                                                                       
-&OHDUDQFH7LPHV                                                                                                                                                   
-9HKLFOH([WHQVLRQV                                                                                                                                                
-/DQH*US&DSYSK                                                                                                                                          
-YV5DWLR3URW                                                                                                                      F                                   
-YV5DWLR3HUP                                          F                                                                                                        
-YF5DWLR                                                                                                                                                
-8QLIRUP'HOD\G                                                                                                                                               
-3URJUHVVLRQ)DFWRU                                                                                                                                       
-,QFUHPHQWDO'HOD\G                                                                                                                                            
-'HOD\V                                                                                                                                                       
-/HYHORI6HUYLFH                                            (            $                        '                         $            $           $            $            $            $
-$SSURDFK'HOD\V                                                                                                                                                
-$SSURDFK/26                                                &                                     '                                      $                                     $
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                                                  +&0/HYHORI6HUYLFH                                  $
-+&09ROXPHWR&DSDFLW\UDWLR                                    
-$FWXDWHG&\FOH/HQJWKV                                                          6XPRIORVWWLPHV                                       
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                                                   ,&8/HYHORI6HUYLFH                                        &
-$QDO\VLV3HULRGPLQ                                                  
-F&ULWLFDO/DQH*URXS
-
-302QH&UXLVH&RQGLWLRQ6\QFKUR5HSRUW
-                                                                                                                                                                                         3DJH
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-(OOLRWW	:*DOHU6W)O\RYHU                                                                      
-
-
-
-0RYHPHQW                    6%/      6%/     1:5 1:5           6:/      6:5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                           
-)XWXUH9ROXPHYSK                                            
-,GHDO)ORZYSKSO                                     
-/DQH:LGWK                                                          
-7RWDO/RVWWLPHV                                           
-/DQH8WLO)DFWRU                                       
-)USESHGELNHV                                         
-)OSESHGELNHV                                        
-)UW                                                     
-)OW3URWHFWHG                                           
-6DWG)ORZSURW                                      
-)OW3HUPLWWHG                                           
-6DWG)ORZSHUP                                      
-3HDNKRXUIDFWRU3+)                                  
-*URZWK)DFWRUYSK                                   
-$GM)ORZYSK                                                
-57255HGXFWLRQYSK                                                    
-/DQH*URXS)ORZYSK                                           
-&RQIO3HGVKU                                                          
-+HDY\9HKLFOHV                                                 
-7XUQ7\SH                     3URW    3URW     2YHU    SWRY      3URW    3HUP
-3URWHFWHG3KDVHV                                             
-3HUPLWWHG3KDVHV                                                              
-$FWXDWHG*UHHQ*V                                
-(IIHFWLYH*UHHQJV                               
-$FWXDWHGJ&5DWLR                                     
-&OHDUDQFH7LPHV                                                  
-9HKLFOH([WHQVLRQV                                               
-/DQH*US&DSYSK                                        
-YV5DWLR3URW                   F    F    F      
-YV5DWLR3HUP                                                         
-YF5DWLR                                              
-8QLIRUP'HOD\G                                        
-3URJUHVVLRQ)DFWRU                                     
-,QFUHPHQWDO'HOD\G                                       
-'HOD\V                                                
-/HYHORI6HUYLFH                '        $        '        $         (        '
-$SSURDFK'HOD\V                                         
-$SSURDFK/26                             $        &                  (
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                   +&0/HYHORI6HUYLFH     &
-+&09ROXPHWR&DSDFLW\UDWLR               
-$FWXDWHG&\FOH/HQJWKV                              6XPRIORVWWLPHV        
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                       ,&8/HYHORI6HUYLFH           (
-$QDO\VLV3HULRGPLQ                             
-F&ULWLFDO/DQH*URXS
-
-
-302QH&UXLVH&RQGLWLRQ                                                                         6\QFKUR5HSRUW
-                                                                                                         3DJH
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-:5R\6W	(OOLRWW	:0HUFHU3O                                                                                        
-
-
-
-0RYHPHQW                     :%/    :%5       6(/       6(7      6(5     1:/       1:7      1:5       1(/     1(5       1(5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                                                               
-)XWXUH9ROXPHYSK                                                                                
-,GHDO)ORZYSKSO                                                               
-/DQH:LGWK                                                                                            
-*UDGH                                                                                         
-7RWDO/RVWWLPHV                                                                
-/DQH8WLO)DFWRU                                                          
-)USESHGELNHV                                                            
-)OSESHGELNHV                                                            
-)UW                                                                        
-)OW3URWHFWHG                                                              
-6DWG)ORZSURW                                                         
-)OW3HUPLWWHG                                                              
-6DWG)ORZSHUP                                                         
-3HDNKRXUIDFWRU3+)                                                            
-*URZWK)DFWRUYSK                                                             
-$GM)ORZYSK                                                                                    
-57255HGXFWLRQYSK                                                                                           
-/DQH*URXS)ORZYSK                                                                                  
-&RQIO3HGVKU                                                                                                   
-+HDY\9HKLFOHV                                                                                    
-3DUNLQJKU                                           
-7XUQ7\SH                            )UHH      3URW      1$     3HUP      3URW       1$     3HUP      3URW
-3URWHFWHG3KDVHV                                                                                   
-3HUPLWWHG3KDVHV                     )UHH                                                              
-$FWXDWHG*UHHQ*V                                                      
-(IIHFWLYH*UHHQJV                                                     
-$FWXDWHGJ&5DWLR                                                        
-&OHDUDQFH7LPHV                                                                      
-9HKLFOH([WHQVLRQV                                                                   
-/DQH*US&DSYSK                                                               
-YV5DWLR3URW                               F                         F              
-YV5DWLR3HUP                      F                                                
-YF5DWLR                                                                 
-8QLIRUP'HOD\G                                                           
-3URJUHVVLRQ)DFWRU                                                        
-,QFUHPHQWDO'HOD\G                                                             
-'HOD\V                                                                   
-/HYHORI6HUYLFH                        $        '         &        $        (         &        %        (
-$SSURDFK'HOD\V                                                                         
-$SSURDFK/26                    $                          &                           &                 (
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                  +&0/HYHORI6HUYLFH                    &
-+&09ROXPHWR&DSDFLW\UDWLR              
-$FWXDWHG&\FOH/HQJWKV                             6XPRIORVWWLPHV                      
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                      ,&8/HYHORI6HUYLFH                        '
-$QDO\VLV3HULRGPLQ                            
-
-302QH&UXLVH&RQGLWLRQ                                                                                               6\QFKUR5HSRUW
-                                                                                                                                3DJH
-2016 – Two Cruise Calls
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-WK	:*DUILHOG6W                                                                                                                                                        
-
-
-
-0RYHPHQW                                     (%/         (%7         (%5          :%/         :%7          :%5           1%/         1%7          1%5          6%/          6%7         6%5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                                                                                                                               
-)XWXUH9ROXPHYSK                                                                                                                                                
-,GHDO)ORZYSKSO                                                                                                                         
-/DQH:LGWK                                                                                                                                                        
-*UDGH                                                                                                                                                            
-7RWDO/RVWWLPHV                                                                                                                                              
-/DQH8WLO)DFWRU                                                                                                                                      
-)USESHGELNHV                                                                                                                                        
-)OSESHGELNHV                                                                                                                                        
-)UW                                                                                                                                                     
-)OW3URWHFWHG                                                                                                                                           
-6DWG)ORZSURW                                                                                                                                      
-)OW3HUPLWWHG                                                                                                                                           
-6DWG)ORZSHUP                                                                                                                                        
-3HDNKRXUIDFWRU3+)                                                                                                                       
-*URZWK)DFWRUYSK                                                                                                                       
-$GM)ORZYSK                                                                                                                                                     
-57255HGXFWLRQYSK                                                                                                                                                           
-/DQH*URXS)ORZYSK                                                                                                                                              
-&RQIO3HGVKU                                                                                                                                                               
-+HDY\9HKLFOHV                                                                                                                                                 
-7XUQ7\SH                                  3HUP            1$     FXVWRP         3HUP            1$                    3HUP            1$       3HUP         3HUP            1$       3HUP
-3URWHFWHG3KDVHV                                                                                                                                                          
-3HUPLWWHG3KDVHV                                                                                                                                                                      
-$FWXDWHG*UHHQ*V                                                                                                                            
-(IIHFWLYH*UHHQJV                                                                                                                           
-$FWXDWHGJ&5DWLR                                                                                                                                       
-&OHDUDQFH7LPHV                                                                                                                                                
-9HKLFOH([WHQVLRQV                                                                                                                                             
-/DQH*US&DSYSK                                                                                                                                          
-YV5DWLR3URW                                                                                                                                                    F
-YV5DWLR3HUP                                          F                                                                                                       
-YF5DWLR                                                                                                                                               
-8QLIRUP'HOD\G                                                                                                                                              
-3URJUHVVLRQ)DFWRU                                                                                                                                      
-,QFUHPHQWDO'HOD\G                                                                                                                                            
-'HOD\V                                                                                                                                                      
-/HYHORI6HUYLFH                                            (            $                        '                         $           $            $            $            $           $
-$SSURDFK'HOD\V                                                                                                                                                 
-$SSURDFK/26                                                $                                     '                                     $                                      $
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                                                  +&0/HYHORI6HUYLFH                                  $
-+&09ROXPHWR&DSDFLW\UDWLR                                   
-$FWXDWHG&\FOH/HQJWKV                                                          6XPRIORVWWLPHV                                       
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                                                  ,&8/HYHORI6HUYLFH                                        +
-$QDO\VLV3HULRGPLQ                                                 
-F&ULWLFDO/DQH*URXS
-
-$07ZR&UXLVH&RQGLWLRQ6\QFKUR5HSRUW
-                                                                                                                                                                                        3DJH
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-(OOLRWW	:*DOHU6W)O\RYHU                                                                  
-
-
-
-0RYHPHQW                     1%7     1%5     6%/      6%7     6:/      6:5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                     
-)XWXUH9ROXPHYSK                                      
-,GHDO)ORZYSKSO                                  
-/DQH:LGWK                                                       
-7RWDO/RVWWLPHV                                        
-/DQH8WLO)DFWRU                                    
-)USESHGELNHV                                      
-)OSESHGELNHV                                     
-)UW                                                  
-)OW3URWHFWHG                                        
-6DWG)ORZSURW                                   
-)OW3HUPLWWHG                                        
-6DWG)ORZSHUP                                   
-3HDNKRXUIDFWRU3+)                               
-*URZWK)DFWRUYSK                                
-$GM)ORZYSK                                           
-57255HGXFWLRQYSK                                                
-/DQH*URXS)ORZYSK                                      
-&RQIO3HGVKU                             
-+HDY\9HKLFOHV                                           
-7XUQ7\SH                     1$ FXVWRP       3URW     1$      3URW    3HUP
-3URWHFWHG3KDVHV                                         
-3HUPLWWHG3KDVHV                                                            
-$FWXDWHG*UHHQ*V                              
-(IIHFWLYH*UHHQJV                             
-$FWXDWHGJ&5DWLR                                  
-&OHDUDQFH7LPHV                                               
-9HKLFOH([WHQVLRQV                                            
-/DQH*US&DSYSK                                      
-YV5DWLR3URW                           F    F
-YV5DWLR3HUP                                                          
-YF5DWLR                                           
-8QLIRUP'HOD\G                                    
-3URJUHVVLRQ)DFWRU                                  
-,QFUHPHQWDO'HOD\G                                     
-'HOD\V                                             
-/HYHORI6HUYLFH                $       &       (        $        '        '
-$SSURDFK'HOD\V                                      
-$SSURDFK/26                    %                        $        '
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                +&0/HYHORI6HUYLFH     %
-+&09ROXPHWR&DSDFLW\UDWLR             
-$FWXDWHG&\FOH/HQJWKV                           6XPRIORVWWLPHV        
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                    ,&8/HYHORI6HUYLFH           %
-$QDO\VLV3HULRGPLQ                           
-F&ULWLFDO/DQH*URXS
-
-
-$07ZR&UXLVH&RQGLWLRQ                                                                      6\QFKUR5HSRUW
-                                                                                                     3DJH
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-(OOLRWW	:5R\6W:0HUFHU3O                                                                                         
-
-
-
-0RYHPHQW                     (%/      (%7      (%5     :%/       :%7      :%5      1%/      1%7      1%5      6%/        6%7      6%5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                                                                      
-)XWXUH9ROXPHYSK                                                                                       
-,GHDO)ORZYSKSO                                                                   
-/DQH:LGWK                                                                                                  
-*UDGH                                                                                                            
-7RWDO/RVWWLPHV                                                                                            
-/DQH8WLO)DFWRU                                                                                     
-)USESHGELNHV                                                                                       
-)OSESHGELNHV                                                                                       
-)UW                                                                                                    
-)OW3URWHFWHG                                                                                          
-6DWG)ORZSURW                                                                                     
-)OW3HUPLWWHG                                                                                          
-6DWG)ORZSHUP                                                                                     
-3HDNKRXUIDFWRU3+)                                                                  
-*URZWK)DFWRUYSK                                                                  
-$GM)ORZYSK                                                                                             
-57255HGXFWLRQYSK                                                                                                     
-/DQH*URXS)ORZYSK                                                                                       
-&RQIO3HGVKU                                                                                                        
-+HDY\9HKLFOHV                                                                                         
-3DUNLQJKU                                                                                                            
-7XUQ7\SH                    6SOLW     1$                                 )UHH     3URW      1$     3HUP      3URW        1$     3HUP
-3URWHFWHG3KDVHV                                                                                                    
-3HUPLWWHG3KDVHV                                                          )UHH                                                       
-$FWXDWHG*UHHQ*V                                                                                 
-(IIHFWLYH*UHHQJV                                                                                
-$FWXDWHGJ&5DWLR                                                                                    
-&OHDUDQFH7LPHV                                                                                                   
-9HKLFOH([WHQVLRQV                                                                                                
-/DQH*US&DSYSK                                                                                         
-YV5DWLR3URW                                                                F                  F      F
-YV5DWLR3HUP                                                           F                                                
-YF5DWLR                                                                                             
-8QLIRUP'HOD\G                                                                                       
-3URJUHVVLRQ)DFWRU                                                                                    
-,QFUHPHQWDO'HOD\G                                                                                       
-'HOD\V                                                                                               
-/HYHORI6HUYLFH                         (                                   $        (        '        &        &          '        $
-$SSURDFK'HOD\V                                                                                            
-$SSURDFK/26                             (                           $                         '                            '
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                    +&0/HYHORI6HUYLFH                 '
-+&09ROXPHWR&DSDFLW\UDWLR               
-$FWXDWHG&\FOH/HQJWKV                            6XPRIORVWWLPHV                      
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                     ,&8/HYHORI6HUYLFH                        '
-$QDO\VLV3HULRGPLQ                             
-
-$07ZR&UXLVH&RQGLWLRQ                                                                                               6\QFKUR5HSRUW
-                                                                                                                                3DJH
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-WK	:*DUILHOG6W                                                                                                   
-
-
-
-0RYHPHQW                     (%/     (%7      (%5     :%/       :%7      :%5      1%/      1%7      1%5      6%/        6%7      6%5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                                                                      
-)XWXUH9ROXPHYSK                                                                                       
-,GHDO)ORZYSKSO                                                                  
-/DQH:LGWK                                                                                                 
-*UDGH                                                                                                         
-7RWDO/RVWWLPHV                                                                                        
-/DQH8WLO)DFWRU                                                                                
-)USESHGELNHV                                                                                  
-)OSESHGELNHV                                                                                  
-)UW                                                                                               
-)OW3URWHFWHG                                                                                     
-6DWG)ORZSURW                                                                                
-)OW3HUPLWWHG                                                                                     
-6DWG)ORZSHUP                                                                                  
-3HDNKRXUIDFWRU3+)                                                                 
-*URZWK)DFWRUYSK                                                                 
-$GM)ORZYSK                                                                                            
-57255HGXFWLRQYSK                                                                                                     
-/DQH*URXS)ORZYSK                                                                                      
-&RQIO3HGVKU                                                                                                           
-+HDY\9HKLFOHV                                                                                           
-7XUQ7\SH                   3HUP      1$      )UHH    3HUP        1$             3HUP       1$     3HUP     3HUP         1$     3HUP
-3URWHFWHG3KDVHV                                                                                                       
-3HUPLWWHG3KDVHV                             )UHH                                                                               
-$FWXDWHG*UHHQ*V                                                                     
-(IIHFWLYH*UHHQJV                                                                    
-$FWXDWHGJ&5DWLR                                                                                
-&OHDUDQFH7LPHV                                                                                            
-9HKLFOH([WHQVLRQV                                                                                         
-/DQH*US&DSYSK                                                                                   
-YV5DWLR3URW                                                                            F                          
-YV5DWLR3HUP                      F                                                                    
-YF5DWLR                                                                                        
-8QLIRUP'HOD\G                                                                                       
-3URJUHVVLRQ)DFWRU                                                                               
-,QFUHPHQWDO'HOD\G                                                                                    
-'HOD\V                                                                                               
-/HYHORI6HUYLFH                        (        $                  '                $        $        $        $          $        $
-$SSURDFK'HOD\V                                                                                            
-$SSURDFK/26                            &                           '                         $                            $
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                    +&0/HYHORI6HUYLFH                 $
-+&09ROXPHWR&DSDFLW\UDWLR              
-$FWXDWHG&\FOH/HQJWKV                           6XPRIORVWWLPHV                       
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                    ,&8/HYHORI6HUYLFH                        &
-$QDO\VLV3HULRGPLQ                            
-F&ULWLFDO/DQH*URXS
-
-307ZR&UXLVH&RQGLWLRQ                                                                                              6\QFKUR5HSRUW
-                                                                                                                              3DJH
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-(OOLRWW	:*DOHU6W)O\RYHU                                                                      
-
-
-
-0RYHPHQW                    6%/      6%/     1:5 1:5           6:/      6:5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                           
-)XWXUH9ROXPHYSK                                            
-,GHDO)ORZYSKSO                                     
-/DQH:LGWK                                                          
-7RWDO/RVWWLPHV                                           
-/DQH8WLO)DFWRU                                       
-)USESHGELNHV                                         
-)OSESHGELNHV                                        
-)UW                                                     
-)OW3URWHFWHG                                           
-6DWG)ORZSURW                                      
-)OW3HUPLWWHG                                           
-6DWG)ORZSHUP                                      
-3HDNKRXUIDFWRU3+)                                  
-*URZWK)DFWRUYSK                                   
-$GM)ORZYSK                                                
-57255HGXFWLRQYSK                                                    
-/DQH*URXS)ORZYSK                                           
-&RQIO3HGVKU                                                          
-+HDY\9HKLFOHV                                                 
-7XUQ7\SH                     3URW    3URW     2YHU    SWRY      3URW    3HUP
-3URWHFWHG3KDVHV                                             
-3HUPLWWHG3KDVHV                                                              
-$FWXDWHG*UHHQ*V                                
-(IIHFWLYH*UHHQJV                               
-$FWXDWHGJ&5DWLR                                     
-&OHDUDQFH7LPHV                                                  
-9HKLFOH([WHQVLRQV                                               
-/DQH*US&DSYSK                                        
-YV5DWLR3URW                   F    F    F      
-YV5DWLR3HUP                                                         
-YF5DWLR                                              
-8QLIRUP'HOD\G                                        
-3URJUHVVLRQ)DFWRU                                     
-,QFUHPHQWDO'HOD\G                                       
-'HOD\V                                                
-/HYHORI6HUYLFH                '        $        '        $         (        '
-$SSURDFK'HOD\V                                         
-$SSURDFK/26                             $        &                  '
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                   +&0/HYHORI6HUYLFH     &
-+&09ROXPHWR&DSDFLW\UDWLR               
-$FWXDWHG&\FOH/HQJWKV                              6XPRIORVWWLPHV        
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                       ,&8/HYHORI6HUYLFH           (
-$QDO\VLV3HULRGPLQ                             
-F&ULWLFDO/DQH*URXS
-
-
-307ZR&UXLVH&RQGLWLRQ                                                                         6\QFKUR5HSRUW
-                                                                                                         3DJH
-+&06LJQDOL]HG,QWHUVHFWLRQ&DSDFLW\$QDO\VLV
-:5R\6W	(OOLRWW	:0HUFHU3O                                                                                        
-
-
-
-0RYHPHQW                     :%/    :%5       6(/       6(7      6(5     1:/       1:7      1:5       1(/     1(5       1(5
-/DQH&RQILJXUDWLRQV
-7UDIILF9ROXPHYSK                                                                              
-)XWXUH9ROXPHYSK                                                                               
-,GHDO)ORZYSKSO                                                              
-/DQH:LGWK                                                                                           
-*UDGH                                                                                         
-7RWDO/RVWWLPHV                                                                
-/DQH8WLO)DFWRU                                                          
-)USESHGELNHV                                                            
-)OSESHGELNHV                                                            
-)UW                                                                        
-)OW3URWHFWHG                                                              
-6DWG)ORZSURW                                                         
-)OW3HUPLWWHG                                                              
-6DWG)ORZSHUP                                                         
-3HDNKRXUIDFWRU3+)                                                            
-*URZWK)DFWRUYSK                                                             
-$GM)ORZYSK                                                                                    
-57255HGXFWLRQYSK                                                                                           
-/DQH*URXS)ORZYSK                                                                                  
-&RQIO3HGVKU                                                                                                   
-+HDY\9HKLFOHV                                                                                    
-3DUNLQJKU                                           
-7XUQ7\SH                            )UHH      3URW      1$     3HUP      3URW       1$     3HUP      3URW
-3URWHFWHG3KDVHV                                                                                   
-3HUPLWWHG3KDVHV                     )UHH                                                              
-$FWXDWHG*UHHQ*V                                                      
-(IIHFWLYH*UHHQJV                                                     
-$FWXDWHGJ&5DWLR                                                        
-&OHDUDQFH7LPHV                                                                      
-9HKLFOH([WHQVLRQV                                                                   
-/DQH*US&DSYSK                                                               
-YV5DWLR3URW                               F                         F              
-YV5DWLR3HUP                      F                                                
-YF5DWLR                                                                 
-8QLIRUP'HOD\G                                                           
-3URJUHVVLRQ)DFWRU                                                        
-,QFUHPHQWDO'HOD\G                                                            
-'HOD\V                                                                   
-/HYHORI6HUYLFH                        $        '         &        $        (         &        %        (
-$SSURDFK'HOD\V                                                                         
-$SSURDFK/26                    $                          &                           &                 (
-,QWHUVHFWLRQ6XPPDU\
-+&0&RQWURO'HOD\                                  +&0/HYHORI6HUYLFH                    &
-+&09ROXPHWR&DSDFLW\UDWLR              
-$FWXDWHG&\FOH/HQJWKV                             6XPRIORVWWLPHV                      
-,QWHUVHFWLRQ&DSDFLW\8WLOL]DWLRQ                      ,&8/HYHORI6HUYLFH                        '
-$QDO\VLV3HULRGPLQ                            
-
-307ZR&UXLVH&RQGLWLRQ                                                                                               6\QFKUR5HSRUW
-                                                                                                                               3DJH
-

@@ -1,0 +1,86 @@
+ www.idaxdata.com
+
+
+                                            BARRETT RD
+                                             AXTON RD
+                                                                                                                         Date: Wed, Mar 25, 2015
+                 N                                Peak Hour                                                      Count Period: 4:00 PM to 6:00 PM
+                                                                                                                   Peak Hour: 4:45 PM to 5:45 PM
+
+
+
+
+                                                     74
+
+
+
+                                                                    124
+                           BARRETT RD
+
+
+
+
+                                                                                                                                                      0
+                                            69
+
+                                                      5
+                                                                                      AXTON RD                                                            0
+
+
+      571                                                                              10          512                                                                          0
+                                                     TEV: 1,267                       502
+
+
+
+
+                                                                                                                                           0
+
+
+
+
+                                                                                                                                                                         0
+                     114                             PHF: 0.95
+      681            567                                                                           572                            0
+
+
+               AXTON RD
+                                                                                                       HV %:           PHF
+                                                                                              EB       5.0%              0.88
+                                                                                              WB       2.1%              0.90
+                                                                                              SB       31.1%             0.74
+                                                                                            TOTAL      5.4%              0.95
+
+
+Two-Hour Count Summaries
+                           AXTON RD                                       AXTON RD                 BARRETT RD                             BARRETT RD
+    Interval                                                                                                                                                      15-min       Rolling
+      Start                Eastbound                                      Westbound                Northbound                             Southbound               Total      One Hour
+                     LT                 TH            RT        LT           TH        RT     LT         TH              RT       LT           TH         RT
+    4:00 PM          39                 114           0         0            110       0       0             0            0          0          0         21       284
+    4:15 PM          29                 131           0         0            114       1       0             0            0          3          0         23       301
+    4:30 PM          16                 131           0         0            122       0       0             0            0          2          0         23       294
+    4:45 PM          30                 127           0         0            141       1       0             0            0          0          0         18       317         1,196
+    5:00 PM          23                 144           0         0            109       5       0             0            0          3          0         16       300         1,212
+    5:15 PM          35                 159           0         0            122       4       0             0            0          1          0         11       332         1,243
+    5:30 PM          26                 137           0         0            130       0       0             0            0          1          0         24       318         1,267
+    5:45 PM          17                 131           0         0            125       3       0             0            0          0          0         20       296         1,246
+  Count Total        215            1,074             0         0            973       14      0             0            0          10         0         156     2,442
+    Peak Hr          114                567           0         0            502       10      0             0            0          5          0         69      1,267
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval               Heavy Vehicle Totals                                             Bicycles                                        Pedestrians (Crossing Leg)
+      Start          EB         WB               NB        SB       Total     EB       WB     NB       SB        Total          East           West       North      South          Total
+    4:00 PM           8                 4        0         7         19        3       0       0         0         3             0              0             0           0          0
+    4:15 PM           7                 0        0         7         14        0       0       0         0         0             0              0             0           0          0
+    4:30 PM           6                 2        0         8         16        0       0       0         0         0             0              0             0           0          0
+    4:45 PM           9                 4        0         5         18        0       0       0         0         0             0              0             0           0          0
+    5:00 PM          12                 4        0         5         21        0       0       0         0         0             0              0             0           0          0
+    5:15 PM           6                 2        0         4         12        0       0       0         0         0             0              0             0           0          0
+    5:30 PM           7                 1        0         9         17        0       0       0         0         0             0              0             0           4          4
+    5:45 PM           5                 5        0         5         15        0       0       0         0         0             0              0             0           0          0
+  Count Total        60            22            0         50        132       3       0       0         0         3             0              0             0           4          4
+    Peak Hr          34            11            0         23        68        0       0       0         0         0             0              0             0           4          4
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                        mark.skaggs@idaxdata.com
+

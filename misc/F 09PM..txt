@@ -1,0 +1,113 @@
+ www.idaxdata.com
+
+
+                            NB I-5 RAMPS
+                          MAIN ST-AXTON RD
+                                                                                                                                           Date: Wed, Mar 25, 2015
+                N                                   Peak Hour                                                                      Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                     Peak Hour: 4:45 PM to 5:45 PM
+
+
+
+
+                                                       580
+
+
+
+                                                                       498
+                          NB I-5 RAMPS
+
+
+
+
+                                                                                                                                                                           0
+                                             400
+
+
+
+
+                                                                   161
+                                                         19
+                                                                                                         MAIN ST-AXTON RD                                                      0
+
+
+      795                                                                                                216            567                                                                            0
+                    190                                TEV: 2,147                                        330
+
+
+
+
+                                                                                                                                                                0
+
+
+
+
+                                                                                                                                                                                                 0
+                    476                                PHF: 0.92                                          21
+      787           121                                                                                                 693                           0
+
+
+  MAIN ST-AXTON RD                                                                                                                                                             1
+                                                                                          NB I-5 RAMPS
+                                                         65
+
+                                                                   92
+
+                                                                                 56
+
+
+
+
+                                                                                                                           HV %:            PHF
+
+
+
+
+                                                                                                                                                                                       0
+                                                                                                                  EB       2.5%             0.95
+                                                                                                                  WB       5.6%             0.88
+                                                                                                                  NB       2.3%             0.76
+                                                       161
+
+
+
+                                                                       213
+
+
+
+
+                                                                                                                  SB       2.9%             0.87
+                                                                                                                TOTAL      3.4%             0.92
+Two-Hour Count Summaries
+                    MAIN ST-AXTON RD                               MAIN ST-AXTON RD                                    NB I-5 RAMPS                           NB I-5 RAMPS
+    Interval                                                                                                                                                                           15-min         Rolling
+      Start               Eastbound                                          Westbound                                  Northbound                             Southbound               Total        One Hour
+                    LT                   TH             RT         LT             TH                      RT      LT          TH            RT        LT            TH         RT
+    4:00 PM         57                   119             27        5              85                      46      10              30           11        25          4         98          517
+    4:15 PM         43                   120             18        6              72                      57      19              20           6         29          5         91          486
+    4:30 PM         50                   116             17        12             88                      45      11              32           7         25          9         89          501
+    4:45 PM         52                   109             32        8              86                      67      22              24           12        37          4         102         555        2,059
+    5:00 PM         38                   123             33        5              61                      51      10              23           11        39          4         95          493        2,035
+    5:15 PM         53                   126             29        4              89                      48      18              27           25        43          9         114         585        2,134
+    5:30 PM         47                   118             27        4              94                      50      15              18           8         42          2         89          514        2,147
+    5:45 PM         50                   119             17        7              92                      48      14              17           5         30          4         80          483        2,075
+  Count Total       390                  950            200        51             667                     412     119         191              85     270            41        758     4,134
+    Peak Hr         190                  476            121        21             330                     216     65              92           56     161            19        400     2,147
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                                  Bicycles                                        Pedestrians (Crossing Leg)
+      Start         EB          WB                 NB         SB         Total        EB                  WB      NB       SB          Total        East            West       North         South         Total
+    4:00 PM          7             11              5          8           31          1                    0       0          0         1            0               0             0             0          0
+    4:15 PM          4                   7         3          3           17          0                    0       0          0         0            0               0             0             0          0
+    4:30 PM          5             10              1          6           22          0                    0       0          0         0            0               0             0             0          0
+    4:45 PM          6             10              2          5           23          0                    0       0          0         0            0               0             0             0          0
+    5:00 PM          6                   7         0          5           18          0                    0       0          0         0            0               0             0             0          0
+    5:15 PM          4                   6         1          4           15          0                    0       0          0         0            0               0             0             0          0
+    5:30 PM          4                   9         2          3           18          0                    0       0          0         0            0               0             0             1          1
+    5:45 PM          2             11              0          4           17          0                    0       0          0         0            0               0             0             0          0
+  Count Total       38             71              14         38         161          1                    0       0          0         1            0               0             0             1          1
+    Peak Hr         20             32              5          17          74          0                    0       0          0         0            0               0             0             1          1
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                             mark.skaggs@idaxdata.com
+
