@@ -93,15 +93,26 @@ while (<>) {
 
 			if ($section eq "vehicle") {
 				# 12 for first hour, then 13 after totals begin
-				if ($#fields != 12 && $#fields != 13) {
-					%val = ();
-					next ROUND;
-				}
+				if ($#fields == 17) {
+					my $f = 0;
+					for my $dir ("Eastbound", "Westbound", "Northbound", "Southbound") {
+						for my $turn ("uturn", "left", "through", "right") {
+							$fields[$f] =~ s/,//g;
+							$val{$time}{$dir}{$turn} = $fields[$f++];
+						}
+					}
+				} else {
+					if ($#fields != 12 && $#fields != 13) {
+						%val = ();
+						next ROUND;
+					}
 
-				my $f = 0;
-				for my $dir ("Eastbound", "Westbound", "Northbound", "Southbound") {
-					for my $turn ("left", "through", "right") {
-						$val{$time}{$dir}{$turn} = $fields[$f++];
+					my $f = 0;
+					for my $dir ("Eastbound", "Westbound", "Northbound", "Southbound") {
+						for my $turn ("left", "through", "right") {
+							$fields[$f] =~ s/,//g;
+							$val{$time}{$dir}{$turn} = $fields[$f++];
+						}
 					}
 				}
 			}
