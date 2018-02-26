@@ -1,0 +1,2578 @@
+           ENVIRONMENTAL CHECKLIST
+
+                                                        for the
+
+
+
+
+           Fishermen’s Terminal
+ Gateway, West Wall, and Seattle
+Ship Supply Improvement Project
+                           Port of Seattle SEPA File # 17-07
+
+
+
+
+                                                 prepared for
+
+                                            Port of Seattle
+
+                                            September 8, 2017
+
+
+             EA Engineering, Science, and Technology, Inc., PBC
+                                  Cultural Resource Consultants
+                                                 Transpo Group
+                                       PREFACE
+The purpose of this Environmental Checklist is to identify and evaluate probable environmental
+impacts that could result from the Fishermen’s Terminal Gateway, West Wall, and Seattle
+Ship Supply Improvement Project and to identify measures to mitigate those impacts. “In
+2015, the Port of Seattle initiated a planning process concerned with the upland assets of the
+Fishermen’s Terminal property. The objective was to determine how the uplands can best
+support the homeporting activity of the commercial fishing fleet. The evolving needs of the fleet
+were considered along with the aging structures on the uplands. A comprehensive stakeholder
+outreach program was part of the planning process. The Fishermen’s Terminal Gateway,
+West Wall, and Seattle Ship Supply Improvement Project would involve redevelopment of
+the Gateway site in up to 86,250 sq. ft. of marine sales and services, with accessory office and
+warehouse uses, the West Wall site in up to 48,200 sq. ft. of maritime flex-industrial and 33,000
+sq. ft. of exterior open storage and the Seattle Ship Supply in up to 26,000 sq. ft. of workforce
+and maritime incubator uses.
+                                             1
+The State Environmental Policy Act (SEPA) requires that all governmental agencies consider
+the environmental impacts of a proposal before the proposal is decided upon. This
+Environmental Checklist has been prepared in compliance with the SEPA Rules, effective April
+4, 1984, as amended (Chapter 197-11), Washington Administrative Code; and Port of Seattle
+SEPA Resolution No. 3650.
+
+This document is intended to serve as SEPA review for site preparation work, building
+construction and operation of the proposed development comprising the Fishermen’s Terminal
+Gateway, West Wall, and Seattle Ship Supply Improvement Project. Analysis associated
+with the proposed project contained in this Environmental Checklist is based on plans for the
+project, which are on-file with the Port of Seattle. While not construction-level in detail, the
+schematic plans accurately represent the eventual size, location and configuration of the
+proposed structures and are considered adequate for analysis and disclosure of environmental
+impacts.
+
+This Environmental Checklist is organized into three major sections. Section A of the Checklist
+(starting on page 1) provides background information concerning the Proposed Action (e.g.,
+purpose, proponent/contact person, project description, project location, etc.). Section B
+(beginning on page 9) contains the analysis of environmental impacts that could result from
+implementation of the proposed project, based on review of major environmental parameters.
+This section also identifies possible mitigation measures. Section C (page 43) contains the
+signature of the proponent, confirming the completeness of this Environmental Checklist.
+
+Relevant project analyses that served as a basis for this Environmental Checklist include: the
+Greenhouse Gas Emissions Worksheet (EA, 2017), Historic/Cultural Resources Analysis (CRC,
+2017); and Transportation Impact Analysis (Transpo Group, 2017). These reports are on-file at
+the Port of Seattle, and are included as appendices to this SEPA Checklist.
+
+
+
+
+1
+    Chapter 43.21C. RCW
+                                                        Table of Contents
+
+
+                                                                                                                                     Page
+
+A. Background .........................................................................................................................1
+   1. Name of the Proposed Project .........................................................................................1
+   2. Name of Applicant ...........................................................................................................1
+   3. Address and Phone Number of Applicant/Contact Person ...............................................1
+   4. Date Checklist Prepared ..................................................................................................1
+   5. Agency Requesting Checklist ..........................................................................................1
+   6. Proposed Timing/Schedule..............................................................................................1
+   7. Future Plans ....................................................................................................................2
+   8. Additional Environmental Information ..............................................................................2
+   9. Pending Applications of Other Projects............................................................................2
+   10. Governmental Approvals .................................................................................................2
+   11. Project Description ..........................................................................................................3
+   12. Project Location...............................................................................................................6
+
+B. Environmental Elements
+   1. Earth ...............................................................................................................................9
+   2. Air..................................................................................................................................12
+   3. Water.............................................................................................................................13
+   4. Plants ............................................................................................................................16
+   5. Animals .........................................................................................................................17
+   6. Energy and Natural Resources ......................................................................................19
+   7. Environmental Health ....................................................................................................19
+   8. Land and Shoreline Use ................................................................................................25
+   9. Housing .........................................................................................................................31
+   10. Aesthetics......................................................................................................................31
+   11. Light and Glare ..............................................................................................................33
+   12. Recreation .....................................................................................................................35
+   13. Historic and Cultural Preservation .................................................................................36
+   14. Transportation ...............................................................................................................40
+   15. Public Services ..............................................................................................................43
+   16. Utilities...........................................................................................................................43
+
+C. Signatures .........................................................................................................................44
+
+
+Appendices
+   A. Greenhouse Gas Emissions Worksheet
+   B. Historic/Cultural Resources Analysis
+   C. Transportation Impact Analysis
+
+
+
+
+Environmental Checklist                                                                                                                     i
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply Improvement Project
+                                                        List of Figures
+
+
+Figure                                                                                                                         Page
+
+1.   Conceptual Site Plan .............................................................................................................4
+2.   Regional and Vicinity Map .....................................................................................................7
+3.   Existing Site Conditions.........................................................................................................8
+4.   Areas of Concern for Contaminants ....................................................................................21
+
+Table                                                                                                                          Page
+
+1.   Summary of Proposed Redevelopment .................................................................................5
+2.   Grading, HMA Removal/Replacement and Demolition ........................................................10
+3.   Building Foundations ...........................................................................................................11
+4.   Estimated Jobs with Redevelopment ...................................................................................30
+5.   Parks and Recreational Facilities Near Site .........................................................................35
+
+
+
+
+Environmental Checklist                                                                                                               ii
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply Improvement Project
+                                           PURPOSE
+
+The State Environmental Policy Act (SEPA), Chapter 43.21 RCW, requires all governmental
+agencies to consider the environmental impacts of a proposal before making decisions. The
+purpose of this checklist is to provide information to help identify impacts from the proposal (and
+to reduce or avoid impacts, if possible) and to help the Port of Seattle to make a SEPA
+threshold determination.
+
+A.     BACKGROUND
+
+1.     Name of Proposed Project:
+
+       Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply Improvement
+       Project (Port of Seattle SEPA File # 17-07)
+
+2.     Name of Applicant:
+
+       Port of Seattle
+
+3.     Address and Phone Number of Applicant and Contact Person:
+
+       Paul Meyer, Manager Maritime Environmental Programs
+       Port of Seattle, Pier 69
+       2811 Alaskan Way
+       Seattle, WA
+       206-787-3127
+       Meyer.p@portseattle.org
+
+4.     Date Checklist Prepared
+
+       August 2017
+
+5.     Agency Requesting Checklist
+
+       Port of Seattle (the Port)
+
+6.     Proposed Timing or Schedule (including phasing, if applicable):
+
+       The Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+       Improvement Project analyzed in this Environmental Checklist involves site preparation
+       work, construction and operation of three projects within the terminal: the Gateway,
+       West Wall and Seattle Ship Supply projects. Site preparation and construction is
+       expected to begin in 2017 with build-out and building occupancy of the three projects by
+       mid-2020.
+
+
+
+
+Environmental Checklist                                                                          1
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply Improvement Project
+7.     Do you have any plans for future additions, expansion, or further
+       activity related to or connected with this proposal? If yes, explain.
+
+       Yes. A Long-Term Strategic Plan has been prepared for Fisherman’s Terminal,
+       however, no other specific development is planned for at this time.
+
+8.     List any environmental information you know about that has been
+       prepared, or will be prepared, directly related to this proposal:
+
+       Past studies used to prepare this SEPA Checklist include:
+           Historical Report Soil and Ground Water Conditions (Pinnacle 2009);
+           Geotechnical Report, South Wall Repair (PanGEO 2000, 2002);
+           Geotechnical Report, West Bulkhead Rehabilitation (PanGEO 2000);
+           Geotechnical Report, Fishermen’s Terminal Electrical Upgrade Project (Shannon
+              and Wilson 1999);
+           Subsurface Exploration, Net Shed (Rittenhouse-Zeman 1981);
+           Limited Good Faith Inspection – Building C-9 Demolition (Port of Seattle
+              Construction Services (PCS) 2017);
+           Limited Good Faith Inspection – Building C-12 Demolition (Port of Seattle
+              Construction Services (PCS) 2017);
+           Limited Good Faith Inspection – Net Shed 7 Demolition (PCS 2017); and
+           Limited Good Faith Inspection – Net Shed 8 Demolition (PCS 2017).
+
+
+       Studies prepared specifically for this SEPA Checklist include:
+           Greenhouse Gas Emissions Worksheet (EA 2017);
+           Historic/Cultural Resources Analysis (CRC 2017); and
+           Transportation Impact Analysis (Transpo Group 2017).
+
+
+9.     Do you know whether applications are pending for governmental
+       approvals of other proposals directly affecting the property covered by
+       your proposal? If yes, explain:
+
+       There are no other applications that are pending approval for the Fishermen’s Terminal
+       Gateway, West Wall, and Seattle Ship Supply Improvement Project.
+
+10.    List any government approvals or permits that will be needed for your
+       proposal, if known:
+
+       The following approvals or permits are anticipated to be required for proposed
+       redevelopment at all the sites (Gateway, West Wall and Seattle Ship Supply), unless
+       noted for a specific project(s).
+
+       State and Regional Agencies
+
+        Washington Department of Ecology
+         - Construction General NPDES Permit
+
+
+Environmental Checklist                                                                      2
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply Improvement Project
+        Seattle-King County Department of Health
+         - Plumbing Permits
+
+       Local Agencies
+
+        City of Seattle
+
+          Department of Construction and Inspections -- permits/approvals associated
+          with the proposed project, including:
+          - Demolition Permits (for Gateway site)
+          - Grading Permit
+          - Building Permits
+          - Mechanical Permits
+          - Electrical Permits
+          - Elevator Permits (if necessary)
+          - Certificates of Occupancy
+          - Comprehensive Drainage Control Plan approval
+          - Shoreline Substantial Development (SSD) (for West Wall and Seattle Ship
+             Supply sites)
+
+          Seattle Department of Transportation (SDOT)
+          - Street Use Permits (temporary—construction-related and for any permanent curb
+             cuts)
+
+11.    Give a brief, complete description of your proposal, including the
+       proposed uses and the size of the project and site. There are several
+       questions later in this checklist that ask you to describe certain
+       aspects of your proposal. You do not need to repeat those answers on
+       this page.
+
+       The Port of Seattle is proposing redevelopment in three portions of the approximately
+       76-acre Fishermen’s Terminal. Proposed redevelopment at the Gateway, West Wall
+       and Seattle Ship Supply sites is described below and summarized in Table 1.
+
+       Gateway
+
+       Building, Uses and Design
+
+          The Gateway redevelopment would consist of a new up to 45-foot high, 86,250-sq. ft.
+          building. The proposal would include: 21,000 sq. ft. of marine sales and services,
+          55,000 sq. ft. of warehouse and 10,250 sq. ft. of office uses (see Figure 1 for the
+          conceptual site plan). Building design would consider contextual materials that relate
+          to the surrounding maritime industrial setting.
+
+       Circulation and Parking
+
+          Parking would be provided for the Gateway redevelopment within the existing
+          surface parking stalls in Fishermen’s Terminal.
+
+Environmental Checklist                                                                       3
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply Improvement Project
+       Figure 1
+       Conceptual Site Plan
+
+
+
+
+Environmental Checklist                                                                4
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply Improvement Project
+       West Wall
+
+       Building, Uses and Design
+
+          The West Wall redevelopment would consist of a new up to 35-foot high, 48,200-sq.
+          ft. building. Maritime flex-industrial uses consisting of light-industrial small business
+          uses supporting water-related activities are proposed in the new building. Such uses
+          could include warehouse, light manufacturing, general commercial, and accessory
+          office. The proposal would also include 33,000 sq. ft. of exterior open storage (see
+          Figure 1 for the conceptual site plan). Like the new Gateway building, building
+          design would consider contextual materials that relate to the surrounding maritime
+          industrial setting.
+
+       Circulation and Parking
+
+          Parking for 20 vehicles and a bike lane would be provided along 21st Avenue W.
+          Parking for additional vehicles would be provided for the West Wall redevelopment
+          within the existing surface parking stalls in the Fishermen’s Terminal.
+
+       Seattle Ship Supply
+
+       Building, Uses and Design
+
+          The Seattle Ship Supply redevelopment would consist of renovating the existing
+          26,000-sq. ft. building and constructing a new up to 35-foot high, approximately
+          8,000-sq. ft. addition for workforce and maritime incubator uses including uses that
+          further maritime job generation, and could include maritime training space. The
+          incubator space could include workshop/warehouse space for light fabrication and
+          accessory office space with business support resources for early stage maritime-
+          related businesses (see Figure 1 for the conceptual site plan). Like the new
+          Gateway and West Wall buildings, building design would likely consider contextual
+          materials that relate to the surrounding maritime industrial setting, although the
+          design has yet to be finalized.
+
+       Circulation and Parking
+
+          Parking for vehicles would be provided for the Seattle Ship Supply redevelopment
+          within the existing surface parking stalls in Fishermen’s Terminal.
+
+       Table1
+       SUMMARY OF PROPOSED REDEVELOPMENT
+       Land Use          Gateway   West Wall   Seattle Ship                           Total
+                         (sq. ft.)  (sq. ft.) Supply (sq. ft.)                       (sq. ft.)
+       Marine Sales &     21,000       _             _                               21,000
+       Services
+       Warehouse          55,000       _             _                               55,000.
+       Office             10,250       _             _                               10,250
+       Maritime Flex-        _      48,200           _                               48,200
+       Industrial
+       Exterior Storage      _      33,000           _                               33,000
+
+Environmental Checklist                                                                          5
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply Improvement Project
+       Workforce & Maritime           _               _            26,000          26,000
+       Incubator
+       Total                       86,250         81,200          26,000          193,540
+       Land Use                   Gateway        West Wall      Seattle Ship       Total
+                                  (sq. ft.)       (sq. ft.)     Supply (sq.       (sq. ft.)
+                                                                    ft.)
+       Existing Building to be       _                _           18,000           18,000
+       Renovated
+       Existing Buildings to      26,410              _               _            26,410
+       be Demolished
+       Net New                    59,840           81,200          8,000          149,040
+       Development
+       Source: Port of Seattle, 2017.
+
+12.    Location of the proposal. Give sufficient information for a person to
+       understand the precise location of your proposed project, including a
+       street address, if any. If a proposal would occur over a range of area,
+       provide the range or boundaries of the site(s).
+
+       The three proposed redevelopment sites are located within the Port of Seattle’s
+       Fishermen’s Terminal in Seattle’s Interbay neighborhood, east of the Hiram M.
+       Chittendon Locks and immediately west of the Ballard Bridge (see Figure 2). The
+       approximately 76-acre Fishermen’s Terminal is bounded by Salmon Bay to the north,
+       15th Avenue W to the east, W Emerson Place to the south and 21st Avenue W to the
+       west. The primary street address for the terminal is: 1511 W Thurman Street. The legal
+       description for Fishermen’s Terminal is on-file with the Port of Seattle (SEPA File # 17-
+       07). See Figure 3 for existing site conditions.
+
+       Gateway
+       The Gateway site is in the south portion of the Fishermen’s Terminal. The site is
+       bounded by Net Shed N-6 to the east and W Emerson Place to the south.
+
+       West Wall
+       The West Wall site is in the west portion of the Fishermen’s Terminal, west of Dock 9.
+       The site is bounded by a used oil station and gated storage areas for fishing gear to the
+       north, a surface parking lot for the Westwall Building (4005 20th Avenue W, Building C-
+       3) to the south and 21st Avenue W to the west.
+
+       Seattle Ship Supply
+       The Seattle Ship Supply site is in the east portion of Fishermen’s Terminal, immediately
+       south of Dock 4.
+
+
+
+
+Environmental Checklist                                                                       6
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply Improvement Project
+       Figure 2
+       Regional and Vicinity Map
+
+
+
+
+Environmental Checklist                                                                7
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply Improvement Project
+       Figure 3
+       Existing Site Conditions
+
+
+
+
+Environmental Checklist                                                                8
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply Improvement Project
+                   ENVIRONMENTAL (SEPA) CHECKLIST
+B. ENVIRONMENTAL ELEMENTS
+1. Earth
+      a. General description of the site (circle one):
+         Flat, rolling, hilly, steep slopes, mountainous, other:
+
+           Fishermen’s Terminal, including the three project sites (Gateway, West Wall, and
+           Seattle Ship Supply), is relatively flat. However, on the City of Seattle GIS
+           Environmentally Critical Area Map layers, a designated Steep Slope area runs from
+           north to south along the west side of the West Wall site.
+
+      b. What is the steepest slope on the site (approximate percent slope)?
+
+           The steep slope area adjacent to the West Wall site is the steepest slope on the
+           Fishermen’s Terminal site and is essentially a vertical slope.
+
+      c. What general types of soils are found on the site (for example, clay, sand, gravel,
+         peat, muck)? If you know the classification of agricultural soils, specify them and
+         note any agricultural land of long-term commercial significance and whether the
+         proposal results in removing any of these soils.
+
+           Fishermen’s Terminal is entirely fill with marine deposits approximately 15 feet below
+           existing grade. Underlying the soft clay and organic soils are glacial deposits consisting
+                                                                 2
+           of hard silt and clay and very dense sand and gravel.
+
+           No agricultural land of long-term commercial significance is present at the terminal.
+
+      d. Are there surface indications or history of unstable soils in the immediate
+         vicinity? If so, describe.
+
+         The Puget Sound region is a seismically active region; thus, Fishermen’s Terminal could
+         experience seismic activity, which may cause surface rupture, liquefaction and
+         subsidence and landslides. All of the terminal east of 21st Avenue W is a Liquefaction
+         Prone area, 3 including the proposed Gateway, West Wall and Seattle Ship Supply
+         sites. Liquefaction Prone areas are environmentally critical areas usually associated with
+         a shallow groundwater table that lose substantial strength during earthquakes.
+      e. Describe the purpose, type, and approximate quantities and total affected area of
+         any filling, excavation, and grading proposed. Indicate source of fill.
+
+           Grading and site disturbance would be required for the Fishermen’s Terminal
+           Gateway, West Wall, and Seattle Ship Supply Improvement Project; estimates are
+           provided below (see Table 2 for details). Ground and site disturbance will take place in
+           existing improved, impervious areas. As shown in this table, construction of the three
+           site areas (Gateway, West Wall and Seattle Ship Supply) would require a total of
+
+2
+    Shannon and Wilson, Geotechnical Report, Fishermen’s Terminal Electrical Upgrade Project (1999).
+3 Seattle Department of Construction and Inspections (SDCI) GIS Map.
+http://web6.seattle.gov/dpd/maps/dpdgis.aspx.
+Environmental Checklist                                                                                9
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+        approximately 37,870 CY of cut and the same amount of fill. A total of approximately
+        37,260 SY of Hot Mix Asphalt (HMA) would be removed and approximately 21,320 SY of
+        HMA would be replaced. A total of 2,950 SY of demolition would be required, all on the
+        Gateway site (all three buildings on this site would be demolished and removed). An
+        approved source would be used for the fill necessary for site redevelopment.
+
+        Table 2
+        GRADING, HMA REMOVAL/REPLACEMENT AND DEMOLITION
+                       Grading (CY) HMA (SY)        DEMO (SY)
+                       Cut/Fill      Remove/Replace Type/Area
+        Gateway Site   10,710/10,710 14,650/10,890  0/2,950
+        West Wall Site 24,530/24,530 17,370/15,000  0/0
+
+        Seattle Ship Supp 2,630/2,630        5,240/5,240       0/0
+        Subtotal            37,870/37,870 37,260/31,130        0/2,950
+        Emerson St.         350/350          690/690           0/0
+        Improvements
+        Source: The Miller Hull Partnership, 2017.
+        1. HMA areas - assumed that all asphalt would be demolished and replaced
+        2. Grading - assumed a minimum 1.5-foot thick cut section for all areas except under existing
+        buildings and the West Wall building pad.
+        3. West Wall building site – conservatively assumed removal of 15 feet of unsuitable material
+        in the building footprint area only (does not include areas for general storage or other onsite
+        improvements).
+
+        The anticipated foundation size, depth and spacing for the proposed buildings at the
+        Gateway, West Wall and Seattle Ship Supply sites are described in Table 3.
+
+
+        Table 3
+        BUILDING FOUNDATIONS
+        Site Area                         Foundation Size/Depth/Spacing
+
+        Gateway                           Up to 310 – 24 in. dia. pile at dept
+                                          to
+                                          to 40 feet, spaced at 15 ft. on cente
+                                          (o.c.)
+        West Wall                         Similar to Gateway.
+
+
+        Seattle Ship Supply             Up to 160 - 16 in. dia. ground impro
+                                        ments at depths up to 50 ft., spaced
+                                        8 ft. o.c.
+        Source: The Miller Hull Partnership, 2017.
+
+   f.   Could erosion occur as a result of clearing, construction, or use? If so, generally
+        describe.
+
+        Erosion is possible in conjunction with any construction activity. Site work would expose
+        soils, but the implementation of a Temporary Erosion Sedimentation Control (TESC)
+Environmental Checklist                                                      10
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+        plan would minimize potential impacts. Once the buildings are operational, no erosion is
+        anticipated because soils would not be exposed.
+
+     g. About what percent of the site will be covered with impervious surfaces after project
+        construction (for example, asphalt or buildings)?
+
+        Approximately 98 percent of the Fishermen’s Terminal would be covered in impervious
+        surfaces after project construction, slightly more than under existing conditions.
+        Pervious surfaces that would be disturbed would primarily include landscaping areas.
+        The City of Seattle Department of Construction and Inspection’s (SDCI) GIS indicates
+        that approximately 2.9 percent of the terminal is covered in tree canopy. 4 Some of this
+        canopy would be removed for redevelopment of the Gateway site, and a small amount
+        of pervious area/vegetated area on the rockery could be removed for redevelopment on
+        the West Wall site.
+
+     h. Proposed measures to reduce or control erosion, or other impacts to the earth, if
+        any:
+
+        The following proposed mitigation measure applies to redevelopment at all the project
+        sites (Gateway, West Wall and Seattle Ship Supply).
+
+             Comprehensive Drainage Control Plans (including Construction Best Management
+              Practices and Erosion and Sediment Control Plans) would be submitted as part of
+              Building Permit applications, in accordance with City of Seattle requirements.
+
+2.      Air
+     a. What type of emissions to the air would result from the proposal (i.e., dust,
+        automobile, odors, industrial wood smoke) during construction and when the
+        project is completed? If any, generally describe and give approximate quantities
+        if known.
+
+        The proposed projects could result in localized increases in air emissions (primarily
+        carbon monoxide and dust) due to construction vehicles, equipment and activities.
+
+        To evaluate the climate change impacts of the proposed projects, Greenhouse Gas
+        Emissions Worksheets were prepared to estimate the emissions footprint for the lifecycle
+        of the projects on a gross-level basis. The emissions estimates use the combined
+        emissions from the following sources:
+
+                 Embodied Emissions – extraction, processing, transportation, construction and
+                  disposal of materials and landscape disturbance;
+                 Energy-related Emissions – energy demands created by the development after it
+                  is completed; and,
+                 Transportation-related Emissions – transportation demands created by the
+                  development after it is completed.
+
+4 Seattle Department of Construction and Inspections (SDCI) GIS Map.
+http://web6.seattle.gov/dpd/maps/dpdgis.aspx.
+Environmental Checklist                                                    11
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+          The Worksheet estimates are based on building use and size. The estimated lifespan
+          emissions for each of the proposed redevelopment projects are listed below (see
+          Appendix A to this Checklist for the Greenhouse Gas Emissions Worksheets)
+
+          Gateway
+                                     5
+          Approximately 63,395 MTCO2e lifespan emissions.
+
+          West Wall
+          Approximately 94,743 MTCO2e lifespan emissions.
+
+          Seattle Ship Supply
+          Approximately 24,974 MTCO2e lifespan emissions.
+
+          The estimated lifespan emissions for the three projects would total approximately
+          183,112 MTCO2e.
+
+          The proposed projects would be designed to conform to applicable regulations and
+          standards of agencies regulating air quality in Seattle, including: the Environmental
+          Protection Agency (EPA), Washington State Department of Ecology (DOE) and the
+          Puget Sound Clean Air Agency (PSCAA).
+
+      b. Are there any off-site sources of emissions or odor that may affect your proposal?
+         If so, generally describe.
+
+          There are no off-site sources of air emissions or odors that may affect the proposed
+          projects.
+
+      c. Proposed measures to reduce or control emissions or other impacts to air, if any:
+
+          The following proposed mitigation measures apply to redevelopment at all the project
+          sites (Gateway, West Wall and Seattle Ship Supply). These measures could be
+          implemented to control emissions and/or dust during construction:
+
+             Using well-maintained equipment would reduce emissions from construction
+              equipment and construction-related trucks as would avoiding prolonged periods of
+              vehicle idling.
+
+             Using electrically operated small tools in place of gas powered small tools, wherever
+              feasible.
+
+             Trucking building materials to and from the project site could be scheduled and
+              coordinated to minimize congestion during peak travel times associated with
+              adjacent roadways.
+
+
+
+5
+     MTCO2e is defined as Metric Ton Carbon Dioxide Equivalent; equates to 2204.62 pounds of CO2. This is a
+    standard measure of amount of CO2 emissions reduced or sequestered. Carbon is not the same as Carbon
+    Dioxide. Sequestering 3.67 tons of CO2 is equivalent to sequester one ton of carbon.
+Environmental Checklist                                                             12
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+3.      Water
+     a. Surface:
+        1) Is there any surface water body on or in the immediate vicinity of the site
+           (including year-round and seasonal streams, saltwater, lakes, ponds,
+           wetlands)? If yes, describe type and provide names. If appropriate, state what
+           stream or river it flows into.
+
+           Yes, Fishermen’s Terminal is located adjacent to Salmon Bay and Lake Washington
+           Ship Canal, which connect to Puget Sound.
+
+        2) Will the project require any work over, in, or adjacent to
+           (within 200 feet) the described waters? If yes, please describe and attach
+           available plans.
+
+           Gateway
+           The Gateway project would not require work over, in or adjacent to (within 200 feet)
+           of Salmon Bay.
+
+           West Wall
+           The West Wall project is located approximately 70 feet west of Salmon Bay and is in
+           the Urban Maritime Shoreline Environment. The proposal would require work within
+           this area (e.g., grading, asphalt removal and construction). However, no work over or
+           in the water would be required.
+
+           Seattle Ship Supply
+           The Seattle Ship Supply project is located approximately 60 feet south of Salmon
+           Bay and is in the Urban Maritime Shoreline Environment. The proposal would require
+           work within this area (e.g. grading, asphalt removal and construction). However, no
+           work over or in the water would be required.
+
+        3) Estimate the amount of fill and dredge material that would be placed in or
+           removed from surface water or wetlands and indicate the area of the site that
+           would be affected. Indicate the source of fill material.
+
+           No fill or dredge material would be placed in or removed from any surface water
+           body with the proposed projects.
+
+        4) Will the proposal require surface water withdrawals or diversions? Give
+           general description, purpose, and approximate quantities if known.
+
+           No. The proposed projects would not require any surface water withdrawals or
+           diversions.
+
+
+
+
+Environmental Checklist                                                    13
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+       5) Does the proposal lie within a 100-year floodplain? If so, note location on the
+          site plan.
+
+          No, the project sites do not lie within a 100-year floodplain and are not identified as a
+          flood prone area on the City of Seattle Environmentally Critical Areas map layers.
+
+       6) Does the proposal involve any discharges of waste materials to surface
+          waters? If so, describe the type of waste and anticipated volume of discharge.
+
+          No. There would be no discharge of waste materials to surface waters.
+
+   b. Ground:
+      1) Will ground water be withdrawn, or will water be discharged to ground water?
+         If so, give a general description of the well, proposed uses and approximate
+         quantities withdrawn from the well. Will water be discharged to groundwater?
+         Give general description, purpose, and approximate quantities if known.
+
+          No groundwater would be withdrawn or water discharged to ground water.
+
+       2) Describe waste material that will be discharged into the ground from septic
+          tanks or other sources; industrial, containing the following chemicals;
+          agricultural; etc.). Describe the general size of the system, the number of such
+          systems, the number of houses to be served (if applicable), or the number of
+          animals or humans the system(s) are expected to serve.
+
+          Waste material would not be discharged into the ground from septic tanks or other
+          sources. The proposed buildings would connect to the City’s sewer system and
+          would discharge directly to the sewer system.
+
+   c. Water Runoff (including storm water):
+      1) Describe the source of runoff (including storm water) and method of collection
+         and disposal, if any (include quantities, if known). Where will this water flow?
+         Will this water flow into other waters? If so, describe.
+
+          Existing and new impervious surfaces constructed on the three sites are and would
+          continue to be the source of runoff from the proposed projects.
+
+       2) Could waste materials enter ground or surface waters? If so, generally
+          describe.
+
+          No. The proposed stormwater drainage control systems and associated mitigation
+          measures would prevent waste materials from entering ground water or surface
+          waters.
+
+
+
+
+Environmental Checklist                                                      14
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+       3) Does the proposal alter or otherwise affect drainage patterns in the vicinity of
+          the site? If so, describe.
+
+          No, the projects would not alter or otherwise affect drainage patterns in the site
+          vicinity.
+
+   d. Proposed measures to reduce or control surface, ground, and runoff water
+      impacts, if any:
+
+       The following proposed mitigation measures apply to redevelopment at all the project
+       sites (Gateway, West Wall and Seattle Ship Supply).
+
+             Stormwater from new impervious surfaces would be mitigated per the City’s
+              current stormwater code.
+
+             The proposed projects would require City approval of Comprehensive Drainage
+              Control Plans (including Construction Best Management Practices, Erosion and
+              Sediment Control approvals) as part of the building permit processes.
+
+4. Plants
+   a. Check or circle types of vegetation found on the site:
+      X_deciduous tree
+      X evergreen tree
+      X shrubs
+      __grass
+      __ pasture
+      __ crop or grain
+      __ wet soil plants: cattail, buttercup, bullrush, skunk cabbage, other
+      __ water plants: water lily, eelgrass, milfoil, other
+      X other types of vegetation:
+
+       Gateway
+       Ornamental landscaping is present around the existing bank building, in the parking area
+       surrounding the building and on the rockery to the south of the building. As necessary an
+       arborist report would be prepared to identify existing trees meeting the criteria for
+       ‘exceptional’ designation according to DPD Director’s Rule 16-2008.
+
+       West Wall
+       Ornamental landscaping is present on the rockery to west of the existing outdoor storage
+       area on the West Wall site.
+
+       Seattle Ship Supply
+       No vegetation is present on the Seattle Ship Supply site.
+
+
+
+
+Environmental Checklist                                                        15
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+     b. What kind and amount of vegetation will be removed or altered?
+        Gateway
+        Ornamental landscaping in the existing project area would be removed for the proposed
+        project. Some of the trees located in the parking area onsite would be removed as well.
+        The project would adhere to the City of Seattle’s mitigation requirements if any
+        exceptional trees are removed.
+
+        West Wall
+        Existing groundcover on the rockery in the west portion of the West Wall site may need
+        to be removed for the proposed project.
+
+        Seattle Ship Supply
+        No vegetation would be removed for the proposed project at the Seattle Ship Supply
+        site.
+
+     c. List threatened or endangered species known to be on or near the site.
+
+        No known threatened or endangered plant species are located on or proximate to the
+        project sites.
+
+     d. Proposed landscaping, use of native plants, or other measures to preserve or
+        enhance vegetation on the site, if any:
+
+        Landscaping would be provided for all three projects that would meet the requirements
+        of the Seattle Land Use Code.
+
+     e. List all noxious weeds and invasive species known to be on or near the site.
+
+        English ivy is an invasive species that is present on the Gateway and West Wall sites.
+        Milfoil could be present beneath the docks and in the water in Salmon Bay adjacent to
+        the project sites.
+
+5.      Animals
+     a. Circle (underlined) any birds and animals that have been observed on or near the
+        site or are known to be on or near the site:
+        birds: songbirds, hawk, heron, eagle, other: seagulls, pigeons.
+        mammals: deer, bear, elk, beaver, other: small mammals.
+        fish: bass, salmon, trout, herring, shellfish.
+
+        Birds and small mammals tolerant of urban conditions may use and may be present on
+        and near Fishermen’s Terminal. Mammals likely to be present include: raccoon, eastern
+        gray squirrel, mouse, rat, opossum, muskrat and feral cats.
+
+        Birds common to the area include: European starling, house sparrow, rock dove,
+        American crow, seagull, western gull, Canada goose, American robin, and house finch.
+
+
+
+
+Environmental Checklist                                                   16
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+        Salmonid species, including Chinook, coho and sockeye salmon and steel head trout,
+        are present in Salmon Bay. Other fish species and benthic animals occupy the bay as
+        well.
+
+     b. List any threatened or endangered species known to be on or near the site.
+        .
+        Chinook salmon and Puget Sound steelhead trout are listed as threatened under the
+        federal Endangered Species Act (ESA). Puget Sound coho salmon are considered an
+        ESA species of concern.
+
+     c. Is the site part of a migration route? If so, explain.
+
+        Yes. Anadromous salmonids living in the Cedar-Sammamish Basin use Salmon Bay as
+        part of a migratory passageway to and from saltwater. Adult salmon use the bay and
+        Ship Canal system as a migration corridor to upstream spawning grounds. No in water
+        work or over water structures are proposed in Salmon Bay for the Fishermen’s Terminal
+        Redevelopment projects, and the proposed stormwater control systems would minimize
+        impacts on fisheries resources.
+
+        The entire Puget Sound area is within the Pacific Flyway, which is a major north-south
+        flyway for migratory birds in America—extending from Alaska to Patagonia. Every year,
+        migratory birds travel some or all this distance both in spring and in fall, following food
+        sources, heading to breeding grounds or travelling to overwintering sites. The proposed
+        buildings would be of a similar height to adjacent structures; therefore, no impacts on the
+        Pacific Flyway migration route are expected.
+
+     d. Proposed measures to preserve or enhance wildlife, if any:
+
+        The following proposed mitigation measure applies to redevelopment at all the sites
+        (Gateway, West Wall and Seattle Ship Supply).
+
+           Temporary and permanent stormwater control system plans (including construction
+            BMPs and erosion and sediment control approvals) would be implemented, which
+            would limit stormwater impacts on fisheries resources.
+
+     e. List any invasive animal species known to be on or near the site.
+
+        Invasive species found in King County include European starling, house sparrow and
+        eastern gray squirrel.
+
+6.      Energy and Natural Resources
+     a. What kinds of energy (electric, natural gas, oil, wood stove, solar) will be used to
+        meet the completed project’s energy needs? Describe whether it will be used for
+        heating, manufacturing, etc.
+
+        Electricity and natural gas are the primary sources of energy that would serve the
+        proposed projects. During operation, these energy sources would be used for project
+        heating, cooling, hot water and lighting.
+Environmental Checklist                                                      17
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+   b. Would your project affect the potential use of solar energy by adjacent
+      properties? If so, generally describe.
+
+       No. The proposed project would not affect adjacent properties use of solar energy.
+
+   e. What kinds of energy conservation features are included in the plans of this
+      proposal? List other proposed measures to reduce or control energy impacts, if
+      any:
+
+       The following proposed mitigation measure applies to redevelopment at all the project
+       sites (Gateway, West Wall and Seattle Ship Supply).
+
+          Where feasible, building systems could include high efficiency mechanical systems,
+           rain water harvesting, solar hot water, photovoltaics, stormwater control through
+           green roofs and/or landscape features.
+
+7. Environmental Health
+   a. Are there any environmental health hazards, including exposure to toxic
+      chemicals, risk of fire and explosion, spill, or hazardous waste that could occur as
+      a result of this proposal? If so, describe.
+
+       Exposure to hazardous site materials (soil and groundwater) and building materials
+       could occur with the Fisherman’s Terminal Redevelopment project.
+
+       1) Describe any known or possible contamination at the site from present or past
+          uses.
+
+           Soil and Groundwater
+           Many locations at Fishermen’s Terminal could be considered Areas of Concern
+           (AOC) for soil and groundwater contamination from past uses. However, it is likely
+           that many of these areas have no residual contamination. There are three different
+           categories of AOCs:
+
+              Potential Sources of Petroleum Contamination: this includes above-ground and
+               underground storage tanks, piping, garages and net tarring facilities.
+
+              Shops and Industrial Process Areas: this includes non-descript “shops” and a
+               “factory” and better described facilities, including machine shops, paint shops,
+               boiler shops, a tin shop, a battery shop, a toll shop and boilers. These shops and
+               areas may have used chemicals that could result in soil or groundwater
+               contamination, if released.
+
+              Other Possible Contaminant Sources: this includes historic fills, an incinerator, a
+               foundry, a kiln and two blacksmith shops. Electrically powered shop equipment
+
+Environmental Checklist                                                     18
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+                 that have heavy power demand may require transformers and capacitators with
+                 the possibility of PCB releases.
+
+             Below are descriptions of the Areas of Concern:
+
+             Gateway
+             Former shops and industrial process areas are present in the west part of the
+             Gateway site and at the south end of a former canal that passed through the site
+             (between the vacant bank building and Net Shed 8). A potential source of petroleum
+             contamination, as well as former shops and industrial process areas are located
+             between Net Shed 7 and Net Shed 6 (see Figure 4). 6
+
+             West Wall
+             No Areas of Concern were identified at the West Wall site. However, given the past
+             industrial and commercial uses at Fishermen’s Terminal, soil and groundwater
+             contamination could be present at this location.
+
+             Seattle Ship Supply
+             Former shops and industrial process occurred in the Seattle Ship Supply building.
+             Other possible contaminant sources are present in the south part of the site (see
+             Figure 4). 7
+
+             Buildings
+
+             Gateway
+             Limited “good faith” inspections of the three existing buildings on the Gateway site
+             (bank building/C-12, Net Shed 7 and Net Shed 8) were conducted. These
+             inspections detected asbestos, including in the roofing at the net sheds, and in
+             asbestos board panels, tile, coating/mastic and exterior soffit texture at the bank
+             building. 8
+
+             Lead based paint was detected in the metal siding, flashing, piping ladders,
+             equipment, entry doors, bollards and standpipes at the net sheds, and throughout
+             the interior and on the bollards to the north of the bank building. 9
+
+
+
+
+6 Pinnacle GeoSciences, Historical Report Soil and Ground Water Conditions, Fisherman’s Terminal (2009).
+7 Ibid.
+8 Port of Seattle Construction Services, Limited Good Faith Inspections - Building C-12, Net Shed 7 and Net Shed 8
+Demolition (2017).
+9 Ibid.
+Environmental Checklist                                                                  19
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+       Figure 4
+       Fisherman’s Terminal Areas of Concern for Contaminants
+
+
+
+
+Environmental Checklist                                            20
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+             West Wall
+             No buildings are present on the West Wall site that would contain
+             contaminants.
+
+             Seattle Ship Supply
+             A limited “good faith” inspection of the one existing building on the Seattle Ship
+             Supply site (Building C-9) was conducted. This inspection detected asbestos,
+             including in sealants, pipe wrapping, ceiling and floor tiles, a fire door, insulation and
+             wallboard joints, of the building. 10
+
+             Lead based paint was detected throughout the interior and exterior of the Seattle
+             Ship Supply building. 11
+
+         2) Describe existing hazardous chemicals/conditions that might affect project
+            development and design. This includes underground hazardous liquid and gas
+            transmission pipelines located within the project area and in the vicinity.
+
+             See the identified soil/groundwater and building contamination described above and
+             shown in Figure 4.
+
+         3) Describe any toxic or hazardous chemicals that might be stored, used, or
+            produced during the project’s development or construction, or at any time
+            during the operating life of the project.
+
+             No toxic or hazardous chemicals are anticipated to be produced during the projects’
+             construction or operation. Hydraulic oil and fuel would be used and could be stored
+             onsite during construction of the projects. If handled improperly, oil and fuel spills
+             could occur.
+
+         4) Describe special emergency services that might be required.
+
+             No special emergency services are anticipated to be required because of the
+             projects. As is typical of urban development, it is possible that normal fire, medical
+             and other emergency services may, on occasion, be needed from the City of Seattle.
+
+         5) Proposed measures to reduce or control environmental health hazards, if any:
+
+             The following proposed mitigation measures apply to redevelopment at all the project
+             sites (Gateway, West Wall and Seattle Ship Supply).
+
+                 Contaminated soil and/or asphaltic concrete pavement would be characterized
+                  as part of site clearing, grading or general excavating to select an appropriate off-
+                  site disposal location.
+
+
+10 Port of Seattle Construction Services, Limited Good Faith Inspection – Building C-9 Demolition (2017).
+11 Ibid.
+Environmental Checklist                                                                    21
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+             A site-specific health and safety plan would be prepared that includes the safety
+              requirements of WAC 296-843, Hazardous Waste Operations, and WAC 296-
+              155, Safety Standards for Construction Work, to minimize the potential for
+              workers to be exposed to hazardous materials during construction and to
+              address appropriate handling and disposal of any soil with contaminant
+              concentrations greater than the MTCA cleanup levels.
+
+             During construction activities, possible contaminants in soil could become
+              entrained in stormwater. Stormwater treatment and monitoring would be
+              conducted during demolition and/or construction activities.
+
+             If unanticipated contamination is discovered, the project would need to comply
+              with applicable cleanup provisions, based on MTCA regulations.
+
+             Spill prevention and response planning would be conducted prior to the start of
+              construction to prevent and, if needed, respond to hydraulic oil or fuel spills.
+
+             Asbestos-containing material (ACM) and presumed asbestos-containing material
+              (PACM) that could be impacted by demolition/renovation activities would be
+              removed by a licensed asbestos abatement contractor prior to disturbance. The
+              asbestos work would be performed in compliance with Washington State worker
+              protection and environmental protection regulations. See WAC 292-62, WAC
+              296-65 and Puget Sound Clean Air Agency Regulation III, Article 4 for additional
+              information.
+
+             Necessary precautions (e.g., exposure assessments, respiratory protection)
+              would be taken to prevent or minimize worker exposure to lead, as outlined in
+              WAC 296-155-176. Demolition waste that contains lead would be characterized
+              and disposed of in accordance with the provisions of the Dangerous Waste
+              Regulations (WAC 173-303).
+
+             Conventional dust control measures would be implemented to minimize the
+              exposure of workers and the immediate surrounding populations to construction-
+              generated dust.
+
+   b. Noise
+      1) What types of noise exist in the area that may affect your project (for example:
+         traffic, equipment operation, other)?
+
+          Traffic noise associated with adjacent streets is relatively high at certain times of day,
+          particularly along 15th Avenue W immediately east of the site—a major arterial with
+          access to downtown Seattle. The traffic noise is not expected to adversely affect the
+          proposed projects. The project vicinity contains numerous industrial noise sources
+          from both Port tenants, nearby industrial facilities and the facility location in a working
+          maritime industrial area.
+
+       2) What types and levels of noise would be created by or associated with the
+          project on a short-term or a long-term basis (for example: traffic, construction,
+          operation, other)? Indicate what hours noise would come from site.
+
+Environmental Checklist                                                       22
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+          The proposed project would create construction activity and equipment noise related
+          to demolition of buildings and building construction.
+
+          The project size is zoned for Industrial uses and potentially affected sensitive
+          receivers in the project vicinity include residences to the west and east of the site.
+          The nearest residences west of the site are located approximately 965 feet from the
+          West Wall building site and 1,020 feet from the Gateway building site. East of the
+          site, the nearest sensitive receivers are 1,266 feet from the Gateway site, and 2,000
+          feet from the West Wall site. Commercial development occurs on Fishermen’s
+          Terminal and adjacent to the planned development sites at distances of 70 feet or
+          more.
+
+          Construction noise would be short-term and would occur during daytime hours.
+          Typical construction noise activities would include grading, demolition and building
+          construction and would employ equipment such as dump trucks, excavators, pavers,
+          generators and compressors. The foundations for the Gateway and West Wall
+          building will likely require piling support to achieve necessary strength to support the
+          buildings. Pile driving would occur between 965 and 2,000 feet from the West Wall
+          building at the nearest residences, and 1,020 and 1,265 feet from the Gateway
+          building to the nearest residence. The proposed projects would comply with
+          provisions of Seattle’s Noise Code (SMC, Chapter 25.08); no noise variances are
+          anticipated.
+
+          The unique nature of pile driving noise could result in the loudest sounds being
+          audible at the residences nearest this activity. This noise could be perceived by
+          some people as intrusive and possibly annoying, but the low overall sound levels and
+          compliance with Seattle’s noise code would minimize the potential for significant
+          impacts.
+
+          Once the buildings are operational, no significant long-term noise impacts are
+          anticipated; the developments would comply with provisions of the City of Seattle’s
+          Noise Ordinance.
+
+       3) Proposed measures to reduce or control noise impacts, if any:
+
+       The following proposed mitigation measure applies to redevelopment at all the project
+       sites (Gateway, West Wall and Seattle Ship Supply).
+
+             The project would comply with provisions of the City’s Noise Ordinance (SMC
+              25.08); specifically: construction hours would be limited to standard construction
+              hours (non-holiday) from 7 AM to 10 PM and Saturdays and Sundays from 9 AM
+              to 10 PM. If extended construction hours are necessary, the applicant would
+              apply for a noise variance.
+
+8. Land and Shoreline Use
+   a. What is the current use of the site and adjacent properties? Will the proposal
+      affect current land uses on nearby or adjacent properties? If so, describe.
+
+
+
+Environmental Checklist                                                     23
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+           Fishermen’s Terminal is a commercial fishing facility that accommodates over 600
+           vessels. Recreational moorage is also provided at the terminal. There are 20 buildings
+           located on the upland portion of the terminal, with approximately 227,000 sq. ft. of office,
+           retail, restaurant, industrial and warehouse space (see Figure 3). Most building tenants
+           have ties to the fishing fleets or the broader maritime industry.
+
+           Fishermen’s Terminal occupies approximately 76 acres (about half of which is upland
+           area and half of which is docks/water), and is generally bounded by other industrial and
+           commercial areas, including: marinas and warehouses to the north, across Salmon Bay;
+           the Salmon Bay Terminals to the east; the Burlington Northern Santa Fe (BNSF)
+           Interbay rail yard to the south; and commercial and retail office buildings to the west of
+           the site.
+           Fishermen’s Terminal is located within one of two designated Manufacturing/Industrial
+           Centers in the City of Seattle – the Ballard-Interbay-Northend Manufacturing/Industrial
+           Center (BINMIC). These areas are home to the city’s industrial businesses, and are
+           designated as regional resources for retaining and attracting jobs, and maintaining a
+           diversified economy. 12 A more detailed description of land and shoreline uses at and
+           around each project site is provided below. The potential for each project to affect
+           current land uses is also discussed.
+
+           Gateway
+           The Gateway site currently contains two net shed storage buildings, a vacant bank
+           building and surface parking areas. Net Sheds 7 and 8 occupy the east side of the site
+           and are each approximately 11,400 sq. ft. The bank is a one-story, approximately 3,370-
+           sq. ft. building and occupies the west side of the site. Land uses surrounding the site
+           include:
+                North - W Nickerson Street and the one-story Nordby Building (Building C-2),
+                   which consists of retail shops and restaurants, as well as office spaces for
+                   UnCruise Adventures and the Inlandboatmen’s Union;
+                East - net shed buildings (Net Sheds 6, 5 and 9);
+                South - the Emerson Street Bike Trail and BNSF Interbay rail yard is located to
+                   the south, across W. Emerson Place; and
+                West - a two-story office building (Building C-14).
+
+
+           West Wall
+           The West Wall site currently contains a fenced in, open storage area for marine
+           supplies. Land uses surrounding the site include:
+               North - additional open space storage and a materials recycling and disposal
+                  station;
+               East - working berths, loading space and marina slips/docks;
+               South - a surface parking area and the two-story Westwall building (Building C-
+                  3); and
+                                                                                              st
+               West - a vegetated/landscaped slope and sidewalk area adjacent to 21 Avenue
+                  W 13 immediately to the west, with retail and office buildings further to the west.
+
+
+
+
+12 City  of Seattle Comprehensive Plan.
+13                                                                                     st
+     An existing staircase connects the West Wall site with the sidewalk adjacent to 21 Avenue W.
+Environmental Checklist                                                                     24
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+        Seattle Ship Supply
+        The Seattle Ship Supply site is currently occupied by the Seattle Ship Supply building
+        (Building C-9); a surface parking area and Substation No. 6. The three-story,
+        approximately 12,454-sq. ft. ship supply building is in the north part of the site and is
+        presently used for storage. Land uses surrounding the site include:
+            North – Dock 4 and the marina;
+            East – a one-story storage warehouse and retail building (Building C-10);
+            South – a one-story building with retail and office space (Building I-8); and
+            West – net shed buildings (Net Sheds 3 and 4).
+
+
+        The proposed Fisherman’s Terminal Gateway, West Wall, and Seattle Ship Supply
+        Improvement Project would be developed as marine sales and services, office and
+        warehouse uses (on the Gateway site); maritime flex industrial 14 and exterior open
+        storage (on the West Wall site); and workforce and maritime incubator uses 15 (on the
+        Seattle Ship Supply site). These uses would be allowed by the Gateway site’s IG2
+        U/45 zoning classification, and the West Wall and Seattle Ship Supply sites’ IG1 U/45
+        zoning classification and Urban Maritime Shoreline Master Program (SMP) designation.
+        They would also be consistent with the types and character of the land uses in the
+        surrounding area on and offsite. The height, bulk and scale of the proposed buildings
+        would be consistent with the sites’ zoning classifications and SMP designation and
+        existing development in the area. Also, because of the topography of the site, the
+        proposed building at the West Wall site would be as much as 20 feet lower than
+        surrounding land uses, which would minimize height/bulk/scale impacts. Therefore, the
+        proposed redevelopment is not expected to negatively affect nearby or adjacent
+        properties.
+
+     b. Has the site been used as working farmlands or working forest lands? If so,
+        describe. How much agricultural or forest land of long-term commercial
+        significance will be converted to other uses as a result of the proposal, if any? If
+        resource lands have not been designated, how many acres in farmland or forest
+        land tax status will be converted to nonfarm or nonforest use?
+
+        No, the site has not been used as working farmlands or forest lands
+        for over 100 years.
+
+          1)   Will the proposal affect or be affected by surrounding working farm or
+               forest land normal business operations, such as oversize equipment
+               access, the application of pesticides, tilling, and harvesting? If so, how:
+
+               No. The site is in an urban area and would not affect or be affected by working
+               farm or forest land; no working farm or forest land near this urban site.
+
+
+14  Maritime flex-industrial development would include light-industrial small business uses that support
+water-related activities. The flex-component could include warehouse, light manufacturing, general
+commercial, and accessory office.
+15 Workforce and maritime incubator uses would include uses that further maritime job generation and
+could include maritime training space. Incubator space could include workshop/warehouse space for light
+fabrication and accessory office space with business support resources for early stage maritime-related
+businesses.
+Environmental Checklist                                                            25
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+   Improvement Project
+   c. Describe any structures on the site.
+      As previously described, the Gateway site contains two net sheds (N-7 and N-8), both
+      approximately 11,400 sq. ft., and a vacant one-story, approximately 3,370 sq. ft. bank
+      building (C-12). The Seattle Ship Supply site contains the three-story, 12,454-sq. ft.
+      Seattle Ship Supply building and Substation No. 6. No buildings are present on the West
+      Wall site.
+
+   d. Will any structures be demolished? If so, what?
+
+        Yes, all structures on the Gateway site would be demolished with proposed
+        redevelopment (Net Sheds N-7, N-8 and the bank building/C-12). The existing building
+        on the Seattle Ship Supply would be retained and renovated and the substation would
+        be retained. An approximately 8,000 sq. ft. addition would be constructed on the south
+        side of the Seattle Ship Supply building.
+
+   f.   What is the current zoning classification of the site?
+
+        The project sites are currently zoned as follows:
+
+              West Wall and Seattle Ship Supply: Industrial General 1 Unlimited/45 (IG1
+               U/45)
+              Gateway: Industrial General 2 Unlimited/45 (IG2 U/45).
+
+        Fishermen’s Terminal is also within the Ballard-Interbay-Northend Manufacturing
+        Industrial Center (BINMIC).         As noted above, this is one of two designated
+        Manufacturing/Industrial Centers in the City of Seattle. These areas are home to the
+        city’s thriving industrial businesses, and are designated as important regional resources
+        for retaining and attracting jobs, and maintaining a diversified economy.
+
+   f.   What is the current comprehensive plan designation of the site?
+
+        The Future Land Use Map in the Seattle Comprehensive Plan identifies Fishermen’s
+        Terminal as a Manufacturing Industrial Center.
+
+   g. If applicable, what is the current shoreline master program designation of the
+      site?
+
+        The West Wall and Seattle Ship Supply sites are located within the Urban Maritime
+        Shoreline Master Program (SMP) designation. The Gateway site is not located in any
+        SMP designation.
+
+   h. Has any part of the site been classified as a critical area by the city or county? If
+      so, specify.
+
+        Based on the SDCI GIS mapping, Fisherman’s Terminal contains the following
+        Environmentally Critical Areas.
+
+
+Environmental Checklist                                                     26
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+        Gateway
+        The Gateway site is located within a liquefaction prone area. The site is also located
+        within the archaeological buffer zone as defined in SMC 25.05.675H, Director’s Rule 2-
+        98 (see Section 13, Historic and Cultural Preservation and Appendix B for details).
+
+        West Wall
+        40% steep slope areas are located along the west edge of the West Wall site, adjacent
+        to 21st Avenue W. This area corresponds to an existing rockery and vegetated area in
+        this location. The site is also located within the archaeological buffer zone as defined in
+        SMC 25.05.675H, Director’s Rule 2-98 (see Section 13, Historic and Cultural
+        Preservation and Appendix B for details).
+
+        Seattle Ship Supply
+        The Seattle Ship Supply site is located within a liquefaction prone area. Most of the site
+        is also located waterward of the archaeological buffer zone, but portions of the east and
+        south edges of the site are within the buffer zone (see Section 13, Historic and Cultural
+        Preservation and Appendix B for details).
+
+   i.   Approximately how many people would reside or work in the completed project?
+
+        The project would not contain any residential units; therefore, no people would reside in
+        the completed projects. The proposed Fisherman’s Terminal Redevelopment could
+        provide a total of approximately 429 jobs: 241 jobs in the Gateway project, 107 jobs in
+        the West Wall project, and 80 jobs in the Seattle Ship Supply project (see Table 4 for
+        details).
+
+Table 4
+ESTIMATED JOBS WITH PROPOSED REDEVELOPMENT
+Land Use         Gateway       West Wall   Seattle Ship                 Total
+                                              Supply
+             Sq. Ft.  Jobs   Sq. Ft. Jobs   Sq.    Jobs                 Jobs
+                                            Ft.
+Marine       21,000   70.01    --     --     --     --                  70.01
+Sales &
+Service
+Warehouse    55,000   122.22   --     --   13,00 28.92                  151.1
+                                                                           2
+                                             0
+Accessory    12,250   49.03    --     --   13,00 52.03                  101.0
+                                                                           3
+Office                                       0
+                                         2
+General Lt.    --       --   48,200 107.1    --     --                  107.1
+                                                                           2
+Industrial
+Ext. Storage   --       --   33,000   --     --     --                    --
+
+Total          86,250      241.2    81,200    107.126,00 80.9 429.2
+                                                     0
+Source: EA Engineering, Science and Technology, Inc., PBC, 2017.
+1
+  Based on 300 sq. ft./employee for retail uses from the 2014 King County Buildable Lands
+  Report.
+
+
+Environmental Checklist                                                        27
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+2
+  Based on 450 sq. ft./employee for industrial uses from the 2014 King County Buildable Lands
+  Report.
+3
+   Based on 250 sq. ft./employee for office uses from the 2014 King County Buildable Lands
+  Report.
+
+         j.    Approximately how many people would the completed project displace?
+
+               The completed development project would not displace any people.
+
+         k. Proposed measures to avoid or reduce displacement impacts, if any:
+
+               No displacement impacts would occur and no mitigation measures are necessary.
+
+          l.   Proposed measures to ensure the proposal is compatible with existing and
+               projected land uses and plans, if any:
+
+               The project is compatible with existing and projected land uses and plans, and no
+               mitigation is necessary.
+
+          m. Proposed measures to ensure the proposal is compatible with nearby agricultural
+             and forest lands of long-term commercial significance, if any:
+
+               The project site is not located near agricultural or forest lands and no mitigation
+               measures would be necessary.
+
+    9.         Housing
+         a. Approximately how many units would be provided, if any? Indicate whether high,
+            middle, or low-income housing.
+
+               No housing units would be provided.
+
+         b. Approximately how many units, if any, would be eliminated? Indicate whether
+            high, middle, or low-income housing.
+
+               No housing presently exists onsite and none would be eliminated.
+
+         c. Proposed measures to reduce or control housing impacts, if any:
+
+               No housing impacts would occur and no mitigation measures would be necessary.
+
+10.            Aesthetics
+         a. What is the tallest height of any proposed structure(s), not including antennas;
+            what is the principal exterior building material(s) proposed?
+
+
+
+
+Environmental Checklist                                                           28
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+           Gateway
+           Based on the site’s IG2 U/45 zoning, the proposed building on the Gateway site would
+           be a maximum of 45 feet high. Existing structures on the Gateway site include the one-
+           story bank building and the 1-story net sheds.
+
+           West Wall
+           Based on the site’s IG1 U/45 zoning and Urban Maritime SMP designation, the proposed
+           building on the West Wall site would be a maximum of 35 feet high.
+
+           Seattle Ship Supply
+           Based on the site’s IG1 U/45 zoning and Urban Maritime SMP designation, the proposed
+           addition on the Seattle Ship Supply site would be a maximum of 35 feet high. The
+           existing Ship Supply Building is 3-stories.
+
+           Building design for the proposed buildings would likely consider contextual materials that
+           relate to the surrounding maritime industrial setting, although the design has not been
+           finalized at this time.
+
+
+       b. What views in the immediate vicinity would be altered or obstructed?
+
+           The City’s public view protection policies are intended to “protect public views of
+           significant natural and human-made features: Mount Rainier, the Olympic and Cascade
+           Mountains, the downtown skyline, and major bodies of water including Puget Sound,
+           Lake Washington, Lake Union and the Ship Canal, from public places consisting of
+           specified viewpoints, parks, scenic routes and view corridors identified in Attachment 1”
+           to the SEPA code. 16 It is also the City’s policy to protect views of designated historic
+           landmarks. 17 And it is City policy to protect public views of the Space Needle from
+           designated public places. 18 The Fishermen’s Terminal Gateway, West Wall, and
+           Seattle Ship Supply Improvement Project are not expected to result in significant
+           impacts on views from City-designated public viewpoints, parks, scenic routes or view
+           corridors of significant natural and human-made features; views of the Space Needle
+           from City-designated public places; or views of City-designated historic landmarks, as
+           described below.
+
+           Designated Viewpoints and Designated Views of the Space Needle
+
+           The nearest City-designated viewpoints are Commodore Park, approximately one mile
+           northwest of Fishermen’s Terminal and Lawton Playground, approximately ½ mile west
+           of the terminal. The nearest designated view of the Space Needle is from Kerry Park on
+           the south side of Queen Anne hill, approximately two miles southeast of the terminal.
+           Views from these viewpoints would not change with the proposed redevelopment
+           projects because of the distance from the viewpoints and topographic separation.
+
+16
+     SMC Chap. 25.05.675 P.2.a.i.
+17 SMC Chap. 25.05.675 P.2.b.i.
+18 SMC Chap. 25.05.675 P.2.c.
+
+Environmental Checklist                                                        29
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+       Scenic Routes
+
+       City-designated scenic routes near Fishermen’s Terminal include:
+                 th
+            15 Avenue W to the east;
+            W Emerson Street/Place to the south; and,
+                 st
+            21 Avenue W to the west of the terminal.
+
+
+       The projects are not expected to affect protected views to the water from either 15th
+       Avenue W or W Emerson Street/Place. The 15th Avenue W right-of-way is elevated
+       above the site, and the proposed new buildings would not be expected to affect views
+       toward the water from this roadway. From W Emerson Street/Place, views of the water
+       are largely blocked by existing development and vegetation under existing conditions.
+       The proposed Gateway building and addition to the Seattle Ship Supply building
+       would, therefore, represent a continuation of this existing condition.
+
+       The proposed approximately 48,200 sq. ft. and up to 35-foot tall building at the West
+       Wall site would obscure a portion of the view of Salmon Bay from 21st Avenue W. Views
+       to the east are partially obstructed from certain locations due to the presence of existing
+       trees and vegetation under existing conditions. With proposed redevelopment, views of
+       the water along an approximately 450 ft. span of the roadway would be replaced by
+       views of the new building. Assuming the existing view of the water available from 21st
+       Ave. W from W Emerson Street to the NW Dock is approximately 90 percent (minus 10
+       percent for the existing C-3 Building), the view could be reduced by approximately 35
+       percent following redevelopment. Approximately 55 percent of the existing view would
+       remain.
+
+       Views of Landmarks
+
+       The nearest City-designated historic landmark is Salmon Bay Bridge approximately one
+       mile to the northwest of Fishermen’s Terminal. Views toward the bridge would not be
+       impacted by the proposed projects because of the distance and topographical
+       separation.
+
+       The Ballard Bridge located to the east of the site is listed in the National Register of
+       Historic Places. Impacts to the viewshed of the bridge are not anticipated with proposed
+       redevelopment of Fishermen’s Terminal due to the extensive development of the Ballard
+       and Interbay neighborhoods over the past century, which has already significantly
+       altered the surrounding landscape of this resource.
+
+   c. Proposed measures to reduce or control aesthetic impacts, if any:
+
+       No significant aesthetic/views impacts are anticipated with the proposed projects and no
+       mitigation measures are proposed.
+
+11.    Light and Glare
+   a. What type of light or glare will the proposal produce? What time of day would it
+      mainly occur?
+
+
+
+Environmental Checklist                                                     30
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+       At times during the construction process, area lighting of the job sites (to meet safety
+       requirements) may be necessary, which will be noticeable proximate to the project sites.
+       In general, however, light and glare from construction of the proposed projects are not
+       anticipated to adversely affect adjacent land uses.
+
+       Once operational, interior and exterior building lighting could at times be visible from
+       adjacent land uses and streets. The amount of light and associated glare is not
+       expected to differ substantially from that which presently occurs from other
+       buildings/structures of similar height on and near the project sites. Stationary sources of
+       light would include interior lighting, building and parking entrance lighting; pedestrian-
+       level façade lighting; and security lighting.
+
+       Sources of glare would also include any mirrored and/or glazed building facade
+       materials.
+
+       Shadows
+
+       Seattle’s SEPA policies aim to “minimize or prevent light blockage and the creation of
+       shadows on open spaces most used by the public.” 19          Areas of the City outside
+       Downtown that are to be protected include:
+
+              publicly-owned parks;
+              public schoolyards;
+              private schools which allow public use of schoolyards during non-school hours;
+               and
+              publicly owned street ends in shoreline areas.
+
+       There are no protected open space areas that are proximate to Fishermen’s Terminal
+       where the projects could block light or cast shadows.
+
+   b. Could light or glare from the finished project be a safety hazard or interfere with
+      views?
+
+       No light or glare safety hazards or view interferences are anticipated.
+
+   c. What existing off-site sources of light or glare may affect your proposal?
+
+       No off-site sources of light or glare are anticipated to affect the proposed Fishermen’s
+       Terminal Redevelopment.
+
+   d. Proposed measures to reduce or control light and glare impacts, if any:
+
+       No significant long term light or glare-related environmental impacts are anticipated,
+       including for motorists on 15th Avenue W, W Emerson Street or 21st Avenue W, because
+       of the proposed Fishermen’s Terminal Redevelopment projects, and no mitigation
+       measures are necessary.
+
+
+
+19 SMC 25.05.675 Q2.
+
+Environmental Checklist                                                      31
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+       However, the following mitigation measures would help to reduce overall light and glare
+       from the projects as they relate to the neighborhood surrounding the site. These
+       proposed measures apply to redevelopment at all the project sites (Gateway, West Wall
+       and Seattle Ship Supply).
+
+             Excessively-reflective surfaces (i.e. mirrored glass, or polished metals) that go
+              beyond what is required to meet energy-related code provisions could be
+              minimized on the exterior of the project buildings.
+
+             Pedestrian-scale lighting would be provided consistent with code, function and
+              safety requirements. Exterior lighting would include fixtures to direct the light
+              downward and/or upward and away from off-site land uses.
+
+             New exterior lighting could be provided by light fixtures with well shielded
+              sources that have precise optical control to reduce impacts to neighboring
+              properties.
+
+12.    Recreation
+   a. What designated and informal recreational opportunities are in the immediate
+      vicinity?
+
+       Fishermen’s Terminal offers year-round recreational opportunities, including:
+       recreational moorage, self-guided walking tours and festivals, as well as retail shops and
+       restaurants. There are sidewalks along W Emerson Place and 19th Avenue W, as well as
+       sidewalks along internal streets and crosswalks at key locations within the terminal. The
+       Emerson Bike Trail runs along the south side of W Emerson Place, with a connection to
+       the terminal at 19th Avenue W. The Emerson Bike Trail links to the Ship Canal Trail near
+       15th Avenue W, providing bicycle connectivity between the terminal and other areas of
+       Seattle.
+
+       Parks and recreational facilities near Fishermen’s Terminal and their distance from
+       terminal are listed in Table 5.
+
+       Table 5
+       PARKS AND RECREATIONAL FACILITES NEAR SITE
+          Park/Recreational Facility          Distance from
+                                          Fishermen’s Terminal
+       Lawton Park                              ½ miles W
+       Kiwanis Memorial Preserve                ¾ miles W
+       Magnolia Manor Park                      ¾ mile SW
+       Discovery Park                            1 miles W
+       Interbay Golf Center                       1 mile S
+       Commodore Park                         1 ½ miles NW
+       Hiram M. Chittenden Locks              1 ½ miles NW
+       Queen Anne Bowl Playfield               1 ½ miles SE
+       David Roger’s Park                      1 ½ miles SE
+       Source: EA Engineering, Science, and Technology, Inc., PBC, 2017.
+
+
+Environmental Checklist                                                    32
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+   b. Would the proposed project displace any existing recreational uses?                   If so,
+      describe.
+
+       The project would not displace any existing recreational uses.
+
+   c. Proposed measures to reduce or control impacts on recreation, including
+      recreation opportunities to be provided by the project or applicant, if any:
+
+       No significant recreation impacts are anticipated and no mitigation measures are
+       necessary.
+
+13.    Historic and Cultural Preservation
+
+       A detailed Cultural Resources Assessment was prepared for the Fishermen’s Terminal
+       Redevelopment projects by CRC in June 2017 (see Appendix B). The following
+       responses summarize the findings in this report.
+
+   a. Are there any buildings, structures, or sites, located on or near the site that are over
+      45 years old listed in or eligible for listing in national, state, or local preservation
+      registers located on or near the site? If so, specifically describe.
+
+       The nearest City-designated historic landmark is Salmon Bay Bridge, located
+       approximately one mile to the northwest of Fishermen’s Terminal. The Ballard Bridge,
+       located to the east of the site, is listed in the National Register of Historic Places
+       (NRHP).
+
+       Below are summaries of historic/historic age buildings on the project sites.
+
+       Gateway
+       The three buildings on the Gateway site (the former bank building/Building C-12, Net
+       Sheds 7 and 8) have not been previously inventoried, and therefore are not currently
+       designated City Landmarks or historic resources. All three buildings are at least 25 years
+       old, and meet the City of Seattle’s threshold for eligibility as a Seattle Landmark. Net
+       Sheds N-7 and N-8 were constructed in 1943 and 1954, respectively. These two net
+       sheds are significant on the local level and are potentially eligible as Seattle Landmarks.
+       The vacant bank building/Building C-12 onsite was constructed in 1964, and meets the
+       threshold for historic structures. However, the bank does not possess traits to support
+       eligibility for listing on a historic register. The adjacent Nordby building to the east was
+       constructed in 1955. It has not been inventoried, but meets the age threshold for historic
+       structures. The bank building/Building C-12 and Net Sheds 7 and 8 would be
+       demolished and removed with the proposed project.
+
+       West Wall
+       There are no buildings located within or adjacent to the West Wall site that are over 45
+       years old listed in or eligible for listing in any historic registers.
+
+
+
+Environmental Checklist                                                      33
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+       Seattle Ship Supply
+       The former Seattle Ship Supply building was constructed in 1918, but was determined
+       ineligible for listing in the NRHP in 2003 due to extensive alterations and a lack of
+       historical significance. However, the building is significant on a local level and is
+       potentially eligible as a Seattle Landmark. Adjacent Building C-10 to the east
+       (constructed in 1938) and Net Shed N-3 to the west (constructed in 1943) are at least 25
+       years old and meet the threshold for historic structures; however, they are not listed on
+       any historic registers. The ship supply building would be renovated and expanded with
+       the proposed project.
+
+   c. Are there any landmarks, features, or other evidence of Indian or historic use or
+      occupation? This may include human burials or old cemeteries. Are there any
+      material evidence, artifacts, or areas of cultural importance on or near the site?
+      Please list any professional studies conducted at the site to identify such
+      resources.
+
+       Potential impacts to cultural resources with the proposed Fishermen’s Terminal
+       Redevelopment projects were evaluated in the Cultural Resources Report (see
+       Appendix B). Below are summaries of the ethnographic and historic context of
+       Fishermen’s Terminal, and the potential for archeological sites at Fishermen’s Terminal
+       and the project sites.
+
+       Ethnographic Context
+
+       Archeological sites dating to the early to mid-Holocene (the Holocene began about
+       11,700 years before present) are more commonly found in the region. Human land use
+       was generally structured around the value of natural resources available in the local
+       environments, including fresh water, terrestrial and marine food resources, forests and
+       suitable terrain. Fishermen’s Terminal is within the traditional territory of the Duwamish,
+       a southern South Coast Salish people who spoke Southern Lushootseed; historically,
+       members of the Suquamish and Muckleshoot Tribes also used this vicinity. A major
+       Duwamish winter village was located on the north shore of Salmon Bay and the bay was
+       a thoroughfare for Puget Sound peoples headed east to Lake Washington via canoe and
+       portage seeking resources and trade with neighboring tribes. Inland peoples also
+       travelled by trail to Salmon Bay in search of marine foodstuffs.
+
+       Historic Context
+
+       In the late 1700s, Euro-American exploration and settlement of the region began,
+       including on the south shore of Salmon Bay. In 1855, following the signing of the Point
+       Elliot Treaty and others, area tribes were forced to abandon their Puget Sound villages
+       and relocate to reservations. In 1911, the Port of Seattle was created and in 1913,
+       construction of Fishermen’s Terminal began. The terminal was envisioned as a harbor
+       for Seattle’s fishing fleet. In 1917, the Ship Canal connecting Lake Union Bay and
+       Salmon Bay and the Hiram M. Chittenden Locks opened. The locks raised the water
+       level of what was once east Salmon Bay approximately 21 feet and converted it to a
+       fresh water environment. Over the subsequent decades, Fishermen’s Terminal was
+       expanded and improved.
+
+
+
+Environmental Checklist                                                     34
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+        Potential for Archaeological Sites at Fishermen’s Terminal
+
+        Review of the local archaeological record and geomorphological setting indicates a high
+        potential for archaeological sites to be located at Fishermen’s Terminal. While the
+        terminal’s landscape has been modified by twentieth century development, near shore
+        locations retain the potential to contain buried intact archaeological sites, which may
+        have been capped by historic fill material or buried during seismic subsidence.
+
+        SDCI GIS mapping identifies an archaeological buffer area that extends 200 feet from
+        the U.S. Government Meander Line. The meander line provides the approximate
+        location of the saltwater shoreline prior to recent fill episodes and landscape alterations.
+        The buffer area represents the area where most potentially “archaeologically significant
+        resources” are likely located. 20 Most of Fishermen’s Terminal is located within the
+        Government Meander Line Buffer area.
+        Below are descriptions of the likelihood of encountering cultural resource at the project
+        sites:
+
+        Gateway and West Wall
+        The Gateway and West Wall sites are located within the archaeological buffer zone. In
+        the past, these sites contained shoreline habitat that could have provided for longer-term
+        occupation. Native Holocene sediments could potentially be capped beneath fill or
+        buried seismic subsidence at this sites, which could contain buried intact archaeological
+        sites
+
+        Ship Supply Building
+        Most of the Ship Supply site is located waterward of the archaeological buffer zone.
+        However, the east and south parts of the site are within the archaeological buffer zone.
+
+        (See Appendix B for details.)
+    c. Describe the methods used to assess the potential impacts to cultural and historic
+       resources on or near the project site. Examples include consultation with tribes
+       and the department of archeology and historic preservation, archaeological
+       surveys, historic maps, GIS data, etc.
+
+        Potential impacts to historic and cultural resources were assessed by reviewing
+        available project information, local environmental and cultural information and historical
+        maps, as well as a site survey. Archaeological and historic data from the Washington
+        State Department of Archaeology and Historic Preservation (DAHP) and the Washington
+        Information System for Architectural and Archaeological Records Data (WISSARD) was
+        reviewed. Contact was made with cultural resources staff of the Duwamish Tribe,
+        Muckleshoot Indian Tribe, Snoqualmie Indian Nation and the Suquamish Tribe Nation on
+        a technical staff-to-technical basis to inquire about project-related cultural information or
+        concerns. The Suquamish Tribe responded and they did not have any specific concerns
+        regarding the project at this time. On April 7, 2017, a field investigation was conducted,
+        consisting of a surface survey and photo documentation of site conditions and historic
+        structures anticipated to be impacted by proposed redevelopment (see Appendix B for
+        details).
+
+
+20 SMC 25.05.675 H, Director’s Rule 2-98.
+
+Environmental Checklist                                                        35
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+   d. Proposed measures to avoid, minimize, or compensate for loss, changes to, and
+      disturbance to resources. Please include plans for the above and any permits that
+      may be required.
+
+       The following proposed mitigation measures apply to redevelopment at all the project
+       sites (Gateway, West Wall and Seattle Ship Supply), unless noted for a specific
+       project(s).
+
+          The applicant would develop and implement appropriate measures for historic
+           buildings on the Gateway and Ship Supply sites in conjunction with the Seattle
+           Historic Preservation Program, King County Preservation Program, DAHP, and other
+           applicable parties. These measures could include the completion of Seattle
+           Landmarks nomination forms to determine if the structures could be listed on the
+           local register and/or completion of Level II Mitigation Documentation as defined by
+           DAHP, which would include more detailed documentation of the structures’
+           architecture and history, and supplemental interior and exterior photographs.
+
+          An accurate as-built drawing of the Seattle Ship Supply building could be prepared,
+           as this is not presently available, and, in-kind materials could be used or replaced for
+           renovation/expansion of this structure.
+
+          Interpretive information that would convey the historical significance of the structures
+           to be removed (on the Gateway site) and renovated/expanded (on the Seattle Ship
+           Supply site) could be used as public education tools and/or integrated into future
+           planning and design efforts.
+
+          Archaeological monitoring would be conducted for ground disturbance such as
+           grading and excavation (including street improvements, utility installation, etc.) within
+           the Holocene deposits at the Gateway and West Wall sites, as well as to the east
+           and south of the Seattle Ship Supply building.
+
+          In the event that resources of potential archaeological significance are encountered
+           during excavation or construction associated with the proposed project, the proposed
+           ‘Inadvertent Discovery Protocol’ identified in the Cultural Resources Report (see
+           Appendix B) would be followed including:
+           - work that is occurring in the portion of the site where potential archaeological
+               resources are found would be stopped immediately;
+           - agencies with jurisdiction over the property would be contacted;
+           - the City of Seattle land use planner that is assigned to the project and the
+               Washington State Archaeologist at DAHP would immediately be contacted; and
+           - a final written report of the discovery completed.
+
+          In the unlikely event that human remains are found within the project area, all activity
+           would cease that could cause further disturbance to the remains, and the proposed
+           ‘Protocols for Discovery of Human Remains’ identified in the Cultural Resources
+           Report (see Appendix B) would be followed, including:
+           - covering and securing the discovery; and
+           - contacting effected law enforcement personnel.
+
+
+Environmental Checklist                                                       36
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+14.    Transportation
+
+       A detailed Transportation and Parking Memorandum was prepared for the Fishermen’s
+       Terminal Redevelopment projects by Transpo Group in July, 2017 (see Appendix C).
+       The following responses summarize the findings in this report.
+
+   a. Identify public streets and highways serving the site or affected geographic area
+      and describe the proposed access to the existing street system. Show on site
+      plans, if any.
+
+       Fishermen’s Terminal is bounded by three public streets: 15th Avenue W (and the Ballard
+       Bridge) to the east, W Emerson Street/Place to the south and 21st Avenue W to the
+       west. Primary access is provided via W Emerson Street/19th Avenue W. Secondary
+       access is available at 21st Avenue W, and an industrial-user access off of16th Avenue W
+       (see Figure 3). Below are descriptions of the roadways/access to the three project sites.
+       Gateway
+       The Gateway site is bounded by W Nickerson Street to the north, an alley between Net
+       Sheds 6 and 7 to the east, W Emerson Street to the south (separated by a rockery) and
+       19th Avenue W to the west. Currently, 18th Avenue W runs north-south and a parking lot
+       driveway runs east-west through the middle of the site.
+
+       West Wall
+       The West Wall site is bounded by 20th Avenue W to the east and 21st Avenue W to the
+       west (separated from the site by a rockery). No streets border the north or south ends of
+       the site.
+
+       Seattle Ship Supply
+       The Seattle Ship Supply site is bounded by W Thurman Street to the north, 15th Place
+       W to the east, W Nickerson to the south and 16th Avenue W to the west.
+
+   b. Is site or affected geographic area currently served by public transit? If not, what
+       is the approximate distance to the nearest transit stop?
+
+       Yes, there are two transit routes operated by King County Metro near Fishermen’s
+       Terminal. The nearest transit stop is along W Emerson Place approximately 750 feet to
+       the west of the 19th Avenue W entrance to the terminal. This transit stop is served by
+       Route 31. The terminal is also served by Rapid Ride Line D which operates along 15th
+       Avenue W approximately 1,500 feet to the east of the 19th Avenue W entrance.
+
+   c. How many additional parking spaces would the completed project have? How
+      many would the project or proposal eliminate?
+
+       There are presently 969 parking spaces within Fishermen’s Terminal. Of these, there are
+       342 available spaces during the peak hour, of which 126 would be available for retail
+       uses (two-hour parking) and 216 would be available for other proposed uses.
+
+       In total, the three projects would eliminate 100 parking spaces at the terminal. The
+       projects would result in a net of 126 two-hour available spaces and 216 other available
+       spaces for the proposed development. During the peak hour, there would be a demand
+Environmental Checklist                                                    37
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+        for 49 two-hour parking spaces and 76 eight-hour parking spaces with the projects. The
+        2-hour parking has 126 available spaces, which could accommodate the anticipated 49
+        vehicles associated with the proposed marine sales and services accessory retail. The
+        available parking on-site for other uses is 216 spaces, which would fully accommodate
+        the 76 vehicles anticipated for the accessory office, warehouse, and light industrial uses
+        on-site (see Appendix C for details).
+
+
+   d. Will the proposal require any new or improvements to existing roads, streets,
+      pedestrian, bicycle or state transportation facilities, not including driveways? If
+      so, generally describe (indicate whether public or private).
+
+        The project would include construction of 20 on-street parking spaces along 21st Avenue
+        W.
+
+   e. Will the project or proposal use (or occur in the immediate vicinity of) water, rail,
+      or air transportation? If so, generally describe.
+
+        Given the project sites’ location at Fishermen’s Terminal, there may be some use of
+        water transportation with various commercial and recreational boating services.
+
+        Fishermen’s Terminal is situated to the north of the BNSF Railway Terminal. However, it
+        is not anticipated that the projects would use rail transportation.
+
+   f.   How many vehicular trips per day would be generated by the completed project or
+        proposal? If known, indicate when peak volumes would occur and what
+        percentage of the volume would be trucks (such as commercial and
+        nonpassenger vehicles). What data or transportation models were used to make
+        these estimates?
+
+        In total, the Fishermen’s Terminal Redevelopment projects are estimated to generate
+        1,020 net new weekday trips per day, with 175 trips occurring during the weekday AM
+        peak hour and 51 trips occurring during the weekday PM peak hour. The trip generation
+        estimate is based on methodology from the Institute of Transportation Engineers (ITE)
+        Trip Generation Manual, 9th Edition.
+
+        Traffic operations at the following three intersections were analyzed:
+                  th
+            19 Avenue W/ W Emerson Place;
+                  th
+            16 Avenue W/W Emerson Place; and
+            W Nickerson Street/W Emerson Place.
+
+
+        The transportation analysis shows that the existing off-site transportation system would
+        accommodate total proposed development of the three projects (Gateway, West Wall
+        and Seattle Ship Supply). (See Appendix C for details).
+
+   g. Will the proposal interfere with, affect or be affected by the movement of
+      agricultural and forest products on roads or streets in the area? If so, generally
+      describe.
+
+Environmental Checklist                                                      38
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+      The project would not interfere or be affected by the movement of agricultural and forest
+      products on the roadway network near the site area.
+   h. Proposed measures to reduce or control transportation impacts, if any.
+
+       No impacts are anticipated and no mitigation is proposed.
+
+
+15.    Public Services
+   a. Would the project result in an increased need for public services (for example:
+      fire protection, police protection, health care, schools, other)? If so, generally
+      describe.
+
+      No. The project would not result in an increased need for public services.
+   b. Proposed measures to reduce or control direct impacts on public services, if any.
+
+       While the potential increase in employees and visitors associated with the proposed
+       projects could result in incrementally greater demand for emergency services, it is
+       anticipated that adequate service capacity is available within the Interbay area and city
+       as a whole to preclude the need for additional public facilities/services.
+
+16.   Utilities
+   a. Circle utilities currently available at the site: electricity, natural gas, water, refuse
+      service, telephone, sanitary sewer, septic system, other.
+
+       All utilities are currently available at the site and have adequate capacity to serve the
+       proposed redevelopment projects.
+
+   b. Describe the utilities that are proposed for the project, the utility providing the
+      service, and the general construction activities on the site or in immediate vicinity
+      that might be needed.
+
+       Utilities and providers (in parentheses) proposed for the projects would include the
+       following:
+
+              Water – New domestic water connections and fire service connections to existing
+               infrastructure at the Port (Seattle Public Utilities).
+              Sewer – New side sewer connections to existing infrastructure at the Port
+               (Seattle Public Utilities).
+              Natural Gas – New gas service connections to existing Port infrastructure (Puget
+               Sound Energy).
+              Telecommunications – New telecommunications connections to existing
+               infrastructure at the Port (Century Link, Comcast).
+              Electrical – New electrical feed from existing infrastructure at the Port (Seattle
+               City Light).
+              Refuse/Recycling Service (Cleanscapes/Recology).
+C. SIGNATURES
+
+
+
+Environmental Checklist                                                     39
+Fishermen’s Terminal Gateway, West Wall, and Seattle Ship Supply
+  Improvement Project
+   APPENDIX A
+
+
+GHG Worksheets
+                                                                 Port of Seattle Fisherman's Terminal Redevelopment - Gateway
+
+
+
+   Section I: Buildings
+                                                                                                  Emissions Per Unit or Per Thousand Square Feet
+                                                                                                                     (MTCO2e)
+                                                                                Square Feet (in                                                       Lifespan
+    Type (Residential) or Principal Activity                                     thousands of                                                        Emissions
+                    (Commercial)                                        # Units square feet)        Embodied         Energy        Transportation    (MTCO2e)
+   Single-Family Home..............................                           0                                98            672              792              0
+   Multi-Family Unit in Large Building .......                                0                                33            357              766              0
+   Multi-Family Unit in Small Building .......                                0                                54            681              766              0
+   Mobile Home.........................................                       0                                41            475              709              0
+   Education ..............................................                                0.0                 39            646              361              0
+   Food Sales ...........................................                                  0.0                 39          1,541              282              0
+   Food Service ........................................                                   0.0                 39          1,994              561              0
+   Health Care Inpatient ............................                                      0.0                 39          1,938              582              0
+   Health Care Outpatient .........................                                        0.0                 39            737              571              0
+   Lodging .................................................                               0.0                 39            777              117              0
+   Retail (Other Than Mall)........................                                       21.0                 39            577              247         18118
+   Office ....................................................                            10.3                 39            723              588         13831
+   Public Assembly ...................................                                     0.0                 39            733              150              0
+   Public Order and Safety .......................                                         0.0                 39            899              374              0
+   Religious Worship ................................                                      0.0                 39            339              129              0
+   Service ..................................................                              0.0                 39            599              266              0
+   Warehouse and Storage ......................                                           55.0                 39            352              181         31446
+   Other ....................................................                              0.0                 39          1,278              257              0
+   Vacant ..................................................                               0.0                 39            162                47             0
+
+   Section II: Pavement...........................
+
+   Pavement..............................................                                 0.00                                                                0
+
+                                                                      Total Project Emissions:                                                            63395
+
+
+
+
+Version 1.7 12/26/07
+                                                     Port of Seattle Fisherman's Terminal Redevelopment - Seattle Ship Supply
+
+
+
+   Section I: Buildings
+                                                                                             Emissions Per Unit or Per Thousand Square Feet
+                                                                                                                (MTCO2e)
+                                                                           Square Feet (in                                                       Lifespan
+    Type (Residential) or Principal Activity                                thousands of                                                        Emissions
+                    (Commercial)                                   # Units square feet)        Embodied         Energy        Transportation    (MTCO2e)
+   Single-Family Home..............................                      0                                98            672              792              0
+   Multi-Family Unit in Large Building .......                           0                                33            357              766              0
+   Multi-Family Unit in Small Building .......                           0                                54            681              766              0
+   Mobile Home.........................................                  0                                41            475              709              0
+   Education ..............................................                           0.0                 39            646              361              0
+   Food Sales ...........................................                             0.0                 39          1,541              282              0
+   Food Service ........................................                              0.0                 39          1,994              561              0
+   Health Care Inpatient ............................                                 0.0                 39          1,938              582              0
+   Health Care Outpatient .........................                                   0.0                 39            737              571              0
+   Lodging .................................................                          0.0                 39            777              117              0
+   Retail (Other Than Mall)........................                                   0.0                 39            577              247              0
+   Office ....................................................                       13.0                 39            723              588         17541
+   Public Assembly ...................................                                0.0                 39            733              150              0
+   Public Order and Safety .......................                                    0.0                 39            899              374              0
+   Religious Worship ................................                                 0.0                 39            339              129              0
+   Service ..................................................                         0.0                 39            599              266              0
+   Warehouse and Storage ......................                                      13.0                 39            352              181          7433
+   Other ....................................................                         0.0                 39          1,278              257              0
+   Vacant ..................................................                          0.0                 39            162                47             0
+
+   Section II: Pavement...........................
+
+   Pavement..............................................                            0.00                                                                0
+
+                                                                 Total Project Emissions:                                                            24974
+
+
+
+
+Version 1.7 12/26/07
+                                                             Port of Seattle Fisherman's Terminal Redevelopment - West Wall
+
+
+
+   Section I: Buildings
+                                                                                              Emissions Per Unit or Per Thousand Square Feet
+                                                                                                                 (MTCO2e)
+                                                                            Square Feet (in                                                       Lifespan
+    Type (Residential) or Principal Activity                                 thousands of                                                        Emissions
+                    (Commercial)                                    # Units square feet)        Embodied         Energy        Transportation    (MTCO2e)
+   Single-Family Home..............................                       0                                98            672              792              0
+   Multi-Family Unit in Large Building .......                            0                                33            357              766              0
+   Multi-Family Unit in Small Building .......                            0                                54            681              766              0
+   Mobile Home.........................................                   0                                41            475              709              0
+   Education ..............................................                            0.0                 39            646              361              0
+   Food Sales ...........................................                              0.0                 39          1,541              282              0
+   Food Service ........................................                               0.0                 39          1,994              561              0
+   Health Care Inpatient ............................                                  0.0                 39          1,938              582              0
+   Health Care Outpatient .........................                                    0.0                 39            737              571              0
+   Lodging .................................................                           0.0                 39            777              117              0
+   Retail (Other Than Mall)........................                                    0.0                 39            577              247              0
+   Office ....................................................                         0.0                 39            723              588              0
+   Public Assembly ...................................                                 0.0                 39            733              150              0
+   Public Order and Safety .......................                                     0.0                 39            899              374              0
+   Religious Worship ................................                                  0.0                 39            339              129              0
+   Service ..................................................                          0.0                 39            599              266              0
+   Warehouse and Storage ......................                                       33.0                 39            352              181         18868
+   Other ....................................................                         48.2                 39          1,278              257         75875
+   Vacant ..................................................                           0.0                 39            162                47             0
+
+   Section II: Pavement...........................
+
+   Pavement..............................................                             0.00                                                                0
+
+                                                                  Total Project Emissions:                                                            94743
+
+
+
+
+Version 1.7 12/26/07
+         APPENDIX B
+
+
+Historic / Cultural Resources
+           Analysis
+                                                                        TECHNICAL MEMO 1703D-3
+
+
+DATE:          June 22, 2017
+
+TO:            Hugh Mortensen
+               The Watershed Company
+
+FROM:          Margaret Berger, Principal Investigator
+
+RE:            Cultural Resources Assessment for the SEPA Expanded Environmental Checklist
+               for the Port’s Fishermen’s Terminal Redevelopment Project, Seattle, King County,
+               Washington
+
+               DAHP PROJECT: 2017-04-02572
+
+The attached short report form constitutes our final report for the above referenced project. CRC
+completed updated and initial historic property inventory forms for four structures slated for
+demolition (DAHP Properties 38460, 709702, 709703, and 709704). Based on CRC’s
+investigations three of the four structures are significant on the local level and are potentially
+eligible for nomination as Seattle Landmarks. These structures will be adversely impacted by
+proposed project plans. Potential mitigation measures for these impacts are presented. CRC
+recommends location specific archaeological monitoring during ground disturbing activity
+should proposed project actions reach native Holocene sediments. Please contact our office
+should you have any questions about our findings and/or recommendations.
+
+
+
+
+                           1416 NW 46TH STREET, STE 105 PMB 346 SEATTLE, WA 98107
+                                 PHONE 206 855-9020      -   info@crcwa.com
+   CULTURAL RESOURCES REPORT COVER SHEET
+Author:             Sonja Kassa
+
+Title of Report:    Cultural Resources Assessment for the SEPA Expanded
+                    Environmental Checklist for the Port’s Fishermen’s Terminal
+                    Redevelopment Project, Seattle, King County, Washington
+
+Date of Report:     June 22, 2017
+
+County(ies):        King          Section: 14 Township: 25 N          Range: 03 E
+
+                    Quad: Seattle North, WA (1983)            Acres: approximately 2
+
+PDF of report submitted (REQUIRED)       Yes
+
+Historic Property Inventory Forms to be Approved Online?      Yes       No
+
+Archaeological Site(s)/Isolate(s) Found or Amended?     Yes      No
+
+TCP(s) found?      Yes     No
+
+Replace a draft?    Yes     No
+
+Satisfy a DAHP Archaeological Excavation Permit requirement?          Yes #         No
+
+Were Human Remains Found?           Yes DAHP Case #              No
+
+
+DAHP Archaeological Site #:
+
+                                      • Submission of PDFs is required.
+
+                                      • Please be sure that any PDF submitted to
+                                        DAHP has its cover sheet, figures,
+                                        graphics, appendices, attachments,
+                                        correspondence, etc., compiled into one
+                                        single PDF file.
+
+                                      • Please check that the PDF displays
+                                        correctly when opened.
+www.idaxdata.com                                                                                                                                                     Attachment 2 01
+
+
+
+                                       19TH AVE W
+                                      W EMERSON PL
+                                                                                                                                    Date: Thu, Apr 13, 2017
+                 N                                     Peak Hour                                                            Count Period: 7:00 AM to 9:00 AM
+                                                                                                                              Peak Hour: 7:15 AM to 8:15 AM
+
+
+
+                                                      23
+
+
+
+                                                                    117
+                             19TH AVE W
+
+
+
+
+                                                       20
+
+                                                                0
+                                             3
+
+
+
+
+                                                                                                                                                      0
+                                                                                       W EMERSON PL
+
+                                                                                       99
+                                                                                                                                                              14
+       639                                                                                              735                                                                          17
+                        0                             TEV: 1,606                       636
+                                                      PHF: 0.88
+
+
+
+
+                                                                                                                                                                      0
+                                                                                                                                                   1
+                       18                                                              0
+      848                                                                                               850                         26
+                      830
+                                                                                                                                                              0
+         W EMERSON PL
+                                                                                                                HV %:         PHF
+                                                                                                       EB       1.8%          0.88
+                                                                                                       WB       1.9%          0.88
+                                                                                                       NB           -           -
+                                                                                                       SB       8.7%          0.82
+                                                                                                   TOTAL        1.9%          0.88
+
+
+Two-Hour Count Summaries
+                      W EMERSON PL                                  W EMERSON PL                                0                                19TH AVE W
+   Interval                                                                                                                                                                   15-min       Rolling
+                        Eastbound                                     Westbound                            Northbound                            Southbound
+     Start                                                                                                                                                                     Total      One Hour
+                UT      LT    TH                      RT    UT        LT    TH             RT     UT        LT    TH           RT        UT       LT    TH           RT
+   7:00 AM       0       1                158         0         0         0    165         28     0         0           0      0         0        8           0       1        361           0
+   7:15 AM       0       5                192         0         0         0    152         30     0         0           0      0         0        5           0       1        385           0
+   7:30 AM       0       7                223         0         0         0    143         23     0         0           0      0         0        5           0       2        403           0
+   7:45 AM       0       3                237         0         0         0    179         31     0         0           0      0         0        5           0       0        455         1,604
+   8:00 AM       0       3                178         0         0         0    162         15     0         0           0      0         0        5           0       0        363         1,606
+   8:15 AM       0       4                173         0         0         0    162         29     0         0           0      0         0        7           0       2        377         1,598
+   8:30 AM       0       5                169         0         0         0    150         20     0         0           0      0         0        10          0       3        357         1,552
+   8:45 AM       0       2                184         0         0         0    203         32     0         0           0      0         0        13          0       2        436         1,533
+ Count Total     0      30                1,514       0         0         0    1,316       208    0         0           0      0         0        58          0       11      3,137          0
+ Peak Hour       0      18                830         0         0         0    636         99     0         0           0      0         0        20          0       3       1,606          0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval              Heavy Vehicle Totals                                                     Bicycles                                            Pedestrians (Crossing Leg)
+     Start      EB       WB      NB      SB                           Total     EB          WB       NB          SB           Total      East          West      North    South              Total
+   7:00 AM       2            2                   0         0             4     4            2         0            0          6             0            0               1           0          1
+   7:15 AM       0            5                   0         1             6     4            4         0            0          8             0            1               3           0          4
+   7:30 AM       9            1                   0         1             11    11           3         0            0          14            0            0               4           0          4
+   7:45 AM       3            4                   0         0             7     1            6         0            0          7             0            0               3           0          3
+   8:00 AM       3            4                   0         0             7     10           4         0            0          14            0            0               4           0          4
+   8:15 AM       3            3                   0         0             6     10           5         0            0          15            0            0               3           0          3
+   8:30 AM       2            2                   0         0             4     13           4         0            0          17            0            0               3           0          3
+   8:45 AM       5            3                   0         0             8     4            4         0            0          8             0            0               1           0          1
+ Count Total     27         24                    0         2             53    57           32        0            0          89            0            1            22             0       23
+   Peak Hr       15         14                    0         2             31    26           17        0            0          43            0            1            14             0       15
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                       mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                   Attachment 2 01
+
+
+
+                                       19TH AVE W
+                                      W EMERSON PL
+                                                                                                                                    Date: Thu, Apr 13, 2017
+                 N                                     Peak Hour                                                            Count Period: 4:00 PM to 6:00 PM
+                                                                                                                              Peak Hour: 4:30 PM to 5:30 PM
+
+
+
+                                                      131
+
+
+
+                                                                    137
+                             19TH AVE W
+
+
+                                             37
+
+                                                       94
+
+                                                                0
+
+
+
+
+                                                                                                                                                    0
+                                                                                       W EMERSON PL
+
+                                                                                       109
+                                                                                                                                                            10
+       808                                                                                              880                                                                        28
+                        0                             TEV: 1,829                       771
+                                                      PHF: 0.92
+
+
+
+
+                                                                                                                                                                    0
+                                                                                                                                                   0
+                       28                                                              0
+      818                                                                                               884                         20
+                      790
+                                                                                                                                                            0
+         W EMERSON PL
+                                                                                                                HV %:         PHF
+                                                                                                       EB       1.1%          0.87
+                                                                                                       WB       0.5%          0.95
+                                                                                                       NB           -           -
+                                                                                                       SB       0.0%          0.78
+                                                                                                   TOTAL        0.7%          0.92
+
+
+Two-Hour Count Summaries
+                      W EMERSON PL                                  W EMERSON PL                                0                                19TH AVE W
+   Interval                                                                                                                                                                 15-min       Rolling
+                        Eastbound                                     Westbound                            Northbound                            Southbound
+     Start                                                                                                                                                                   Total      One Hour
+                UT      LT    TH                      RT    UT        LT    TH             RT     UT        LT    TH           RT        UT       LT    TH         RT
+   4:00 PM       0       6                216         0         0         0    181         21     0         0           0      0         0        31        0       10       465           0
+   4:15 PM       0       7                179         0         0         0    171         24     0         0           0      0         0        18        0       9        408           0
+   4:30 PM       0       6                229         0         0         0    186         22     0         0           0      0         0        18        0       11       472           0
+   4:45 PM       0       7                167         0         0         0    194         38     0         0           0      0         0        25        0       6        437         1,782
+   5:00 PM       0       8                216         0         0         0    200         30     0         0           0      0         0        28        0       14       496         1,813
+   5:15 PM       0       7                178         0         0         0    191         19     0         0           0      0         0        23        0       6        424         1,829
+   5:30 PM       0      10                160         0         0         0    209         26     0         0           0      0         0        13        0       5        423         1,780
+   5:45 PM       0       8                160         0         0         0    192         17     0         0           0      0         0        21        0       7        405         1,748
+ Count Total     0      59                1,505       0         0         0    1,524       197    0         0           0      0         0       177        0       68      3,530          0
+ Peak Hour       0      28                790         0         0         0    771         109    0         0           0      0         0        94        0       37      1,829          0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval              Heavy Vehicle Totals                                                     Bicycles                                          Pedestrians (Crossing Leg)
+     Start      EB       WB      NB      SB                           Total     EB          WB       NB          SB           Total      East        West      North    South              Total
+   4:00 PM       0            1                   0         0             1     3            3         0            0          6             0          0               2           0          2
+   4:15 PM       2            1                   0         0             3     3            3         0            0          6             0          0               2           0          2
+   4:30 PM       2            1                   0         0             3     4            5         0            0          9             0          0               5           0          5
+   4:45 PM       1            0                   0         0             1     2            6         0            0          8             0          0               0           0          0
+   5:00 PM       5            2                   0         0             7     10           9         0            0          19            0          0               5           0          5
+   5:15 PM       1            1                   0         0             2     4            8         0            0          12            0          0               0           0          0
+   5:30 PM       0            1                   0         0             1     10           15        0            0          25            0          1               3           0          4
+   5:45 PM       2            1                   0         0             3     6            9         0            0          15            0          1               3           0          4
+ Count Total     13           8                   0         0             21    42           58        0            0         100            0          2            20             0       22
+   Peak Hr       9            4                   0         0             13    20           28        0            0          48            0          0            10             0       10
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                     mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                     Attachment 2 02
+
+
+
+                                  W NICKERSON ST
+                                   W EMERSON PL
+                                                                                                                                 Date: Thu, Apr 13, 2017
+                      N                       Peak Hour                                                                  Count Period: 7:00 AM to 9:00 AM
+                                                                                                                           Peak Hour: 7:30 AM to 8:30 AM
+
+
+
+
+                                                                                  W EMERSON PL
+
+                                                                                                                                                             0
+                                                                                  457
+         758                                                                                            743                                                                         7
+                              0               TEV: 1,918                          286
+                                              PHF: 0.89
+
+
+
+
+                                                                                                                                                                     0
+                                                                                                                                                 0
+                          165                                                     0
+         870                                                                                            169                        0
+                          705                                                                                                                                    0
+
+              W EMERSON PL
+                                                                                     ST
+                                                                            W NICKERSON
+
+
+
+
+                                                                                                               HV %:       PHF
+                                                            301
+
+                                                                   4
+                                                    0
+
+
+
+
+                                                                                                                                                                     0
+                                                                                                    EB         2.6%        0.88
+                                                                                                    WB         0.8%        0.87
+                                                                                                    NB         2.0%        0.95
+                                              991
+
+
+                                                             305
+
+
+
+
+                                                                                                    SB           -           -
+                                                                                                TOTAL          1.8%        0.89
+
+
+Two-Hour Count Summaries
+                      W EMERSON PL                          W EMERSON PL                           W NICKERSON ST                                    0
+   Interval                                                                                                                                                                  15-min       Rolling
+                          Eastbound                           Westbound                                 Northbound                             Southbound
+     Start                                                                                                                                                                    Total      One Hour
+                 UT       LT    TH           RT     UT        LT    TH             RT          UT        LT    TH           RT         UT       LT    TH             RT
+   7:00 AM        0       0       43         131        0         42   106            0        0         90          0      4          0        0            0       0        416           0
+   7:15 AM        0       0       58         159        0         51   104            0        0         74          0      0          0        0            0       0        446           0
+   7:30 AM        0       0       56         178        0         61   99             0        0         69          0      0          0        0            0       0        463           0
+   7:45 AM        0       0       45         202        0         71   143            0        0         76          0      2          0        0            0       0        539         1,864
+   8:00 AM        0       0       36         160        0         84   100            0        0         78          0      2          0        0            0       0        460         1,908
+   8:15 AM        0       0       28         165        0         70   115            0        0         78          0      0          0        0            0       0        456         1,918
+   8:30 AM        0       0       35         146        0         64   108            0        0         68          0      3          0        0            0       0        424         1,879
+   8:45 AM        0       0       40         176        0         80   164            0        0         74          0      4          0        0            0       0        538         1,878
+ Count Total      0       0       341       1,317       0     523      939            0        0         607         0      15         0        0            0       0       3,742          0
+ Peak Hour        0       0       165        705        0     286      457            0        0         301         0      4          0        0            0       0       1,918          0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval                Heavy Vehicle Totals                                                Bicycles                                             Pedestrians (Crossing Leg)
+     Start       EB        WB      NB      SB                 Total    EB             WB          NB            SB         Total       East          West      North    South               Total
+   7:00 AM        2           1         1           0             4    0                  0         0            0          0              0             0               0           0          0
+   7:15 AM        3           1         4           0             8    0                  2         0            0          2              0             0               0           0          0
+   7:30 AM       13           2         0           0             15   0                  1         0            0          1              0             0               0           0          0
+   7:45 AM        1           2         1           0             4    0                  1         0            0          1              0             0               0           0          0
+   8:00 AM        4           1         2           0             7    0                  2         0            0          2              0             0               0           0          0
+   8:15 AM        5           1         3           0             9    0                  3         0            0          3              0             0               0           0          0
+   8:30 AM        4           0         1           0             5    0                  5         0            0          5              0             0               0           0          0
+   8:45 AM        4           1         1           0             6    0                  2         0            0          2              0             0               0           0          0
+ Count Total     36           9         13          0             58   0                  16        0            0          16             0             0               0           0          0
+   Peak Hr       23           6         6           0             35   0                  7         0            0          7              0             0               0           0          0
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                      mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                     Attachment 2 02
+
+
+
+                             W NICKERSON ST
+                              W EMERSON PL
+                                                                                                                                  Date: Thu, Apr 13, 2017
+                N                            Peak Hour                                                                    Count Period: 4:00 PM to 6:00 PM
+                                                                                                                            Peak Hour: 4:30 PM to 5:30 PM
+
+
+
+
+                                                                                W EMERSON PL
+
+                                                                                                                                                              0
+                                                                                472
+      864                                                                                            624                                                                             3
+                        0                  TEV: 1,945                           152
+                                           PHF: 0.94
+
+
+
+
+                                                                                                                                                                      0
+                                                                                                                                                 2
+                      263                                                       0
+      911                                                                                            281                            2                         0
+                      648
+
+        W EMERSON PL
+                                                                                   ST
+                                                                          W NICKERSON
+                                                                 18
+                                                       392
+                                              0
+
+
+
+
+                                                                                                                HV %:       PHF
+
+
+
+
+                                                                                                                                                                    1
+                                                                                                     EB         1.1%        0.93
+                                                                                                     WB         0.2%        0.95
+                                                                                                     NB         1.2%        0.89
+                                           800
+
+
+
+                                                           410
+
+
+
+
+                                                                                                     SB           -           -
+                                                                                                 TOTAL          0.8%        0.94
+
+
+Two-Hour Count Summaries
+                      W EMERSON PL                         W EMERSON PL                             W NICKERSON ST                                    0
+   Interval                                                                                                                                                                   15-min       Rolling
+                        Eastbound                                Westbound                               Northbound                             Southbound
+     Start                                                                                                                                                                     Total      One Hour
+                UT      LT    TH            RT     UT            LT    TH               RT      UT        LT    TH           RT         UT       LT    TH            RT
+   4:00 PM       0       0       79        201         0          35     117            0       0         73          0      3          0        0            0       0        508           0
+   4:15 PM       0       0       58        153         0          39     124            0       0         71          0      4          0        0            0       0        449           0
+   4:30 PM       0       0       69        176         0          46     110            0       0         89          0      4          0        0            0       0        494           0
+   4:45 PM       0       0       55        140         0          41     123            0       0         110         0      5          0        0            0       0        474         1,925
+   5:00 PM       0       0       78        168         0          36     127            0       0         105         0      5          0        0            0       0        519         1,936
+   5:15 PM       0       0       61        164         0          29     112            0       0         88          0      4          0        0            0       0        458         1,945
+   5:30 PM       0       0       46        134         0          31     130            0       0         106         0      4          0        0            0       0        451         1,902
+   5:45 PM       0       0       33        162         0          37     122            0       0         94          0      6          0        0            0       0        454         1,882
+ Count Total     0       0       479       1,298       0         294     965            0       0         736         0      35         0        0            0       0       3,807          0
+ Peak Hour       0       0       263       648         0         152     472            0       0         392         0      18         0        0            0       0       1,945          0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval              Heavy Vehicle Totals                                                   Bicycles                                             Pedestrians (Crossing Leg)
+     Start      EB       WB      NB      SB                      Total   EB             WB         NB            SB         Total       East          West      North    South               Total
+   4:00 PM       0           3         1           0              4      2                  0        0            0          2              0             0               0           0          0
+   4:15 PM       3           0         1           0              4      0                  3        0            0          3              0             2               0           0          2
+   4:30 PM       2           1         1           0              4      0                  0        0            0          0              0             0               0           0          0
+   4:45 PM       1           0         1           0              2      0                  0        0            0          0              0             1               0           0          1
+   5:00 PM       4           0         2           0              6      2                  1        0            0          3              0             0               0           0          0
+   5:15 PM       3           0         1           0              4      0                  2        1            0          3              0             1               0           0          1
+   5:30 PM       0           0         1           0              1      2                  0        0            0          2              0             0               0           0          0
+   5:45 PM       2           0         1           0              3      0                  1        0            0          1              0             1               0           0          1
+ Count Total     15          4         9           0              28     6                  7        1            0          14             0             5               0           0          5
+   Peak Hr       10          1         5           0              16     2                  3        1            0          6              0             2               0           0          2
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                       mark.skaggs@idaxdata.com

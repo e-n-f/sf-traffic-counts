@@ -1,0 +1,2554 @@
+   APPENDIX A
+
+
+EIS Addendum –
+Distribution List
+U.S. Dept of Housing & Urban                U.S. Environmental Protection Agency       U.S. Fish & Wildlife Service
+Development,                                Region 10, EIS Coordinator                 Field Office
+909 First Avenue, Ste 200                   1200 Sixth Avenue, MS ECO-088              510 Desmond Drive SE, Ste. 102
+Seattle, WA 98104-1000                      Seattle, WA 98101                          Lacey, WA 98503
+Attn: John Myers
+
+ Muckleshoot Indian Tribe                                                               Suquamish Tribe
+                                             Duwamish Tribe
+ 39015 172nd Ave. SE                                                                    Port Madison Indian Reservation
+                                             4717 W. Marginal Way SW
+ Auburn, WA 98092-9763                                                                  PO Box 498
+                                             Seattle, WA 98106
+ Attn: Planning staff                                                                   Suquamish, WA 98392
+
+
+                                            Wash. Dept of Social & Health Services     Wash. State Dept. of Archaeology and
+Wa. State Dept. of Fish & Wildlife          Lands & Buildings Division                 Historic Preservation
+600 Capitol Way N.                          P.O. Box 45848                             1063 S. Capitol Way, Suite 106
+Olympia, WA 98501-1091                      Olympia, WA 98504-5848                     Olympia, WA 98501
+                                            Attn: Elizabeth McNagny                    Attn: Greg Griffith
+
+ Wa. State Dept. of Community Development    Wa. State. Dept. of Natural Resources
+ 906 Columbia St. SW.                        DNR SEPA Center                            Tulalip Tribes of Washington
+ PO Box 42525                                1111 Washington St.                        6700 Totem Beach Road
+ Olympia WA 98504-2525                                                                  Tulalip, WA 98271
+ Attn: Nancy Ousley
+                                             PO Box 47015
+                                             Olympia, WA 98504-7015
+
+Puget Sound Regional Council                Puget Sound Clean Air Agency               Sound Transit
+1011 Western Avenue, Ste 500                1904 Third Avenue, Suite 105               401 S. Jackson St.
+Seattle, WA 98104-1035                      Seattle, WA 98101                          Seattle, WA 98104
+Attn: Ivan Miller                           Attn: Paul Carr                            Attn: Steve Kennedy
+
+
+Seattle Housing Authority
+                                                                                        Wa. State Dept. of Transportation
+120 Sixth Avenue N.                          United Indians of All Tribes Foundation
+                                                                                        401 Second Ave. S., Suite 300
+PO Box 19028                                 PO Box 99100
+                                                                                        Seattle, WA 98104-2887
+Seattle, WA 98109-1028                       Seattle, WA 98199
+                                                                                        Attn: Thomas Noyes
+
+
+                                             King County Dept. of Design and            King County Housing and Community
+ Seattle Indian Services Commission
+                                             Environmental Services                     Development
+ 606 12th Avenue S.
+                                             900 Oakesdale Ave. SW                      821 Second Avenue, #500
+ Seattle, WA 98144
+                                             Renton, WA 98055                           Seattle, WA 98104
+                                             Attn: Stephanie Warden, Director           Attn: Linda Peterson
+
+
+ Wa. State Dept. of Transportation           Wa. State Dept. of Transportation          Freight Mobility Strategic Investment
+ PO Box 47322                                Urban Corridors Office                     Board
+ Olympia, WA 98504-7322                      999Third Avenue, Suite 2424                PO Box 40965
+ Attn: Barbara Ivanov                        Seattle, WA 98104                          Olympia, WA 98504-0965
+                                             Attn: John White                           Attn: Karen Schmidt
+
+King County Dept. of Transportation          King County Dept of Natural Resources      King County Executive’s Office
+201 S. Jackson St., KSC-TR-0815              201 S. Jackson St.                         Room 400, KC Courthouse
+Seattle, WA 98104-3856                       King Street Center, KSC-NR-0700            701 Fifth Avenue, Ste. 3210
+Attn: Harold Taniguchi                       Seattle, WA 98104-3855                     Seattle, WA 98104
+                                             Attn: Bob Burns                            Attn: Carolyn Duncan
+
+
+King County Dept. of Transportation         Washington State Dept. of Ecology
+                                            SEPA Unit                                   National Marine Fisheries Service
+201 S. Jackson St., KSC-TR-0415
+                                            PO Box 47703                                7600 Sand Point Way NE
+Seattle, WA 98104-3856
+                                            Olympia WA 98504-7703                       Seattle, WA 98115-0070
+Attn: Kevin Desmond
+                                            Attn: Peg Plummer
+       APPENDIX B
+
+
+GHG Emissions Worksheet
+                                                                            970 Denny Way Development
+
+
+
+   Section I: Buildings
+                                                                                             Emissions Per Unit or Per Thousand Square Feet
+                                                                                                                (MTCO2e)
+                                                                           Square Feet (in                                                       Lifespan
+    Type (Residential) or Principal Activity                                thousands of                                                        Emissions
+                    (Commercial)                                   # Units square feet)        Embodied         Energy        Transportation    (MTCO2e)
+   Single-Family Home..............................                      0                                98            672              792              0
+   Multi-Family Unit in Large Building .......                        468                                 33            357              766        540865
+   Multi-Family Unit in Small Building .......                           0                                54            681              766              0
+   Mobile Home.........................................                  0                                41            475              709              0
+   Education ..............................................                           0.0                 39            646              361              0
+   Food Sales ...........................................                             0.0                 39          1,541              282              0
+   Food Service ........................................                              0.0                 39          1,994              561              0
+   Health Care Inpatient ............................                                 0.0                 39          1,938              582              0
+   Health Care Outpatient .........................                                   0.0                 39            737              571              0
+   Lodging .................................................                          0.0                 39            777              117              0
+   Retail (Other Than Mall)........................                                  15.3                 39            577              247         13157
+   Office ....................................................                        0.0                 39            723              588              0
+   Public Assembly ...................................                                0.0                 39            733              150              0
+   Public Order and Safety .......................                                    0.0                 39            899              374              0
+   Religious Worship ................................                                 0.0                 39            339              129              0
+   Service ..................................................                         0.0                 39            599              266              0
+   Warehouse and Storage ......................                                       0.0                 39            352              181              0
+   Other ....................................................                         0.0                 39          1,278              257              0
+   Vacant ..................................................                          0.0                 39            162                47             0
+
+   Section II: Pavement...........................
+
+   Pavement..............................................                            0.00                                                                0
+
+                                                                 Total Project Emissions:                                                          554022
+
+
+
+
+Version 1.7 12/26/07
+        City of Seattle Department of Planning and Development
+                    SEPA GHG Emissions Worksheet
+                           Version 1.7 12/26/07
+
+Introduction
+The Washington State Environmental Policy Act (SEPA) requires environmental
+review of development proposals that may have a significant adverse impact on
+the environment. If a proposed development is subject to SEPA, the project
+proponent is required to complete the SEPA Checklist. The Checklist includes
+questions relating to the development's air emissions. The emissions that have
+traditionally been considered cover smoke, dust, and industrial and automobile
+emissions. With our understanding of the climate change impacts of GHG
+emissions, the City of Seattle requires the applicant to also estimate these
+emissions.
+
+Emissions created by Development
+GHG emissions associated with development come from multiple sources:
+  • The extraction, processing, transportation, construction and disposal of
+      materials and landscape disturbance (Embodied Emissions)
+  • Energy demands created by the development after it is completed (Energy
+      Emissions)
+  • Transportation demands created by the development after it is completed
+      (Transportation Emissions)
+
+GHG Emissions Worksheet
+This GHG Emissions Worksheet has been developed to assist applicants in
+answering the SEPA Checklist question relating to GHG emissions. The
+worksheet was originally developed by King County, but the City of Seattle and
+King County are working together on future updates to maintain consistency of
+methodologies across jurisdictions.
+
+The SEPA GHG Emissions worksheet estimates all GHG emissions that will be
+created over the life span of a project. This includes emissions associated with
+obtaining construction materials, fuel used during construction, energy consumed
+during a buildings operation, and transportation by building occupants.
+
+Using the Worksheet
+1. Descriptions of the different residential and commercial building types can be
+   found on the second tabbed worksheet ("Definition of Building Types"). If a
+   development proposal consists of multiple projects, e.g. both single family and
+   multi-family residential structures or a commercial development that consists
+   of more than on type of commercial activity, the appropriate information
+   should be estimated for each type of building or activity.
+2. For paving, estimate the total amount of paving (in thousands of square feet)
+   of the project.
+
+3. The Worksheet will calculate the amount of GHG emissions associated with
+   the project and display the amount in the "Total Emissions" column on the
+   worksheet. The applicant should use this information when completing the
+   SEPA checklist.
+
+4. The last three worksheets in the Excel file provide the background information
+   that is used to calculate the total GHG emissions.
+
+5. The methodology of creating the estimates is transparent; if there is reason to
+   believe that a better estimate can be obtained by changing specific values, this
+   can and should be done. Changes to the values should be documented with
+   an explanation of why and the sources relied upon.
+
+6. Print out the “Total Emissions” worksheet and attach it to the SEPA checklist.
+   If the applicant has made changes to the calculations or the values, the
+   documentation supporting those changes should also be attached to the
+   SEPA checklist.
+               Definition of Building Types
+               Type (Residential) or Principal Activity
+               (Commercial)                                                 Description
+                                                                            Unless otherwise specified, this includes both attached and detached
+               Single-Family Home................................... buildings
+               Multi-Family Unit in Large Building ............ Apartments in buildings with more than 5 units
+               Multi-Family Unit in Small Building ............ Apartments in building with 2-4 units
+               Mobile Home..............................................
+                                                                            Buildings used for academic or technical classroom instruction, such as
+                                                                            elementary, middle, or high schools, and classroom buildings on college or
+                                                                            university campuses. Buildings on education campuses for which the main
+                                                                            use is not classroom are included in the category relating to their use. For
+                                                                            example, administration buildings are part of "Office," dormitories are
+               Education .................................................. "Lodging," and libraries are "Public Assembly."
+               Food Sales ................................................ Buildings used for retail or wholesale of food.
+                                                                            Buildings used for preparation and sale of food and beverages for
+               Food Service ............................................. consumption.
+               Health Care Inpatient ................................ Buildings used as diagnostic and treatment facilities for inpatient care.
+
+                                                                    Buildings used as diagnostic and treatment facilities for outpatient care.
+                                                                    Doctor's or dentist's office are included here if they use any type of diagnostic
+               Health Care Outpatient ............................. medical equipment (if they do not, they are categorized as an office building).
+
+                                                                               Buildings used to offer multiple accommodations for short-term or long-term
+               Lodging ..................................................... residents, including skilled nursing and other residential care buildings.
+               Retail (Other Than Mall)............................. Buildings used for the sale and display of goods other than food.
+                                                                               Buildings used for general office space, professional office, or administrative
+                                                                               offices. Doctor's or dentist's office are included here if they do not use any
+                                                                               type of diagnostic medical equipment (if they do, they are categorized as an
+               Office ........................................................ outpatient health care building).
+                                                                               Buildings in which people gather for social or recreational activities, whether in
+               Public Assembly ........................................ private or non-private meeting halls.
+               Public Order and Safety ............................ Buildings used for the preservation of law and order or public safety.
+                                                                               Buildings in which people gather for religious activities, (such as chapels,
+               Religious Worship ..................................... churches, mosques, synagogues, and temples).
+                                                                               Buildings in which some type of service is provided, other than food service or
+               Service ...................................................... retail sales of goods 
+                                                                               Buildings used to store goods, manufactured products, merchandise, raw
+               Warehouse and Storage ........................... materials, or personal belongings (such as self-storage).
+                                                                               Buildings that are industrial or agricultural with some retail space; buildings
+                                                                               having several different commercial activities that, together, comprise 50
+                                                                               percent or more of the floorspace, but whose largest single activity is
+                                                                               agricultural, industrial/ manufacturing, or residential; and all other
+               Other ......................................................... miscellaneous buildings that do not fit into any other category.
+                                                                               Buildings in which more floorspace was vacant than was used for any single
+                                                                               commercial activity at the time of interview. Therefore, a vacant building may
+               Vacant ....................................................... have some occupied floorspace.
+
+Sources: .......
+Residential      2001 Residential Energy Consumption Survey
+                 Square footage measurements and comparisons
+                 http://www.eia.doe.gov/emeu/recs/sqft-measure.html
+
+Commercial     Commercial Buildings Energy Consumption Survey (CBECS),
+               Description of CBECS Building Types
+               http://www.eia.doe.gov/emeu/cbecs/pba99/bldgtypes.html
+                                                Embodied Emissions Worksheet
+                                                Section I: Buildings
+                                                                                                                                  Life span related     Life span related embodied
+                                                                                                                # thousand         embodied GHG           GHG missions (MTCO2e/
+                                                    Type (Residential) or Principal Activity                   sq feet/ unit   missions (MTCO2e/       thousand square feet) - See
+                                                                                        (Commercial)             or building                   unit)     calculations in table below
+                                                Single-Family Home................................                      2.53                     98                               39
+                                                Multi-Family Unit in Large Building ..........                          0.85                     33                               39
+                                                Multi-Family Unit in Small Building ..........                          1.39                     54                               39
+                                                Mobile Home...........................................                  1.06                     41                               39
+                                                Education ...............................................             25.6                     991                                39
+                                                Food Sales .............................................                5.6                    217                                39
+                                                Food Service ..........................................                 5.6                    217                                39
+                                                Health Care Inpatient ..............................                 241.4                   9,346                                39
+                                                Health Care Outpatient ...........................                    10.4                     403                                39
+                                                Lodging ..................................................            35.8                   1,386                                39
+                                                Retail (Other Than Mall)..........................                      9.7                    376                                39
+                                                Office .....................................................          14.8                     573                                39
+                                                Public Assembly .....................................                 14.2                     550                                39
+                                                Public Order and Safety .........................                     15.5                     600                                39
+                                                Religious Worship ..................................                  10.1                     391                                39
+                                                Service ...................................................             6.5                    252                                39
+                                                Warehouse and Storage .........................                       16.9                     654                                39
+                                                Other ......................................................          21.9                     848                                39
+                                                Vacant ...................................................            14.1                     546                                39
+
+                                                Section II: Pavement..............................
+                                                All Types of Pavement............................                                                                                50
+
+                                                                                                               Intermediate                                                            Interior
+                                                                             Columns and Beams                       Floors          Exterior Walls                       Windows        Walls    Roofs
+ Average GWP (lbs CO2e/sq ft): Vancouver,
+                       Low Rise Building                                                               5.3              7.8                    19.1                            51.2        5.7      21.3
+                                                                                                                                                                                                               Total     Total Embodied
+                                                                                                                                                                                                            Embodied           Emissions
+     Average Materials in a 2,272-square foot                                                                                                                                                              Emissions          (MTCO2e/
+                           single family home                                                          0.0          2269.0                  3206.0                            285.0    6050.0     3103.0   (MTCO2e)    thousand sq feet)
+                                     MTCO2e                                                            0.0             8.0                    27.8                              6.6      15.6       30.0        88.0                38.7
+
+
+Sources
+All data in black text                          King County, DNRP. Contact: Matt Kuharic, matt.kuharic@kingcounty.gov
+
+Residential floorspace per unit                 2001 Residential Energy Consumption Survey (National Average, 2001)
+                                                Square footage measurements and comparisons
+                                                http://www.eia.doe.gov/emeu/recs/sqft-measure.html
+
+Floorspace per building                         EIA, 2003 Commercial Buildings Energy Consumption Survey (National Average, 2003)
+                                                Table C3. Consumption and Gross Energy Intensity for Sum of Major Fuels for Non-Mall Buildings, 2003
+                                                http://www.eia.doe.gov/emeu/cbecs/cbecs2003/detailed_tables_2003/2003set9/2003excel/c3.xls
+
+Average GWP (lbs CO2e/sq ft): Vancouver,
+Low Rise Building                        Athena EcoCalculator
+                                         Athena Assembly Evaluation Tool v2.3- Vancouver Low Rise Building
+                                         Assembly Average GWP (kg) per square meter
+                                         http://www.athenasmi.ca/tools/ecoCalculator/index.html
+                                         Lbs per kg                                       2.20
+                                         Square feet per square meter                    10.76
+
+Average Materials in a 2,272-square foot
+single family home                              Buildings Energy Data Book: 7.3 Typical/Average Household
+                                                Materials Used in the Construction of a 2,272-Square-Foot Single-Family Home, 2000
+                                                http://buildingsdatabook.eren.doe.gov/?id=view_book_table&TableID=2036&t=xls
+                                                See also: NAHB, 2004 Housing Facts, Figures and Trends, Feb. 2004, p. 7.
+
+
+Average window size                             Energy Information Administration/Housing Characteristics 1993
+                                                Appendix B, Quality of the Data. Pg. 5.
+                                                ftp://ftp.eia.doe.gov/pub/consumption/residential/rx93hcf.pdf
+Pavement Emissions Factors
+MTCO2e/thousand square feet of asphalt
+or concrete pavement                                                50 (see below)
+
+
+
+   Embodied GHG Emissions…………………….Worksheet Background Information                                                   Special Section: Estimating the Embodied Emissions for Pavement
+
+   Buildings                                                                                   Four recent life cycle assessments of the environmental impacts of roads form the basis for the per unit embodied
+   Embodied GHG emissions are emissions that are created through the extraction,               emissions of pavement. Each study is constructed in slightly different ways; however, the aggregate results of the
+   processing, transportation, construction and disposal of building materials as well as      reports represent a reasonable estimate of the GHG emissions that are created from the manufacture of paving
+   emissions created through landscape disturbance (by both soil disturbance and               materials, construction related emissions, and maintenance of the pavement over its expected life cycle.
+   changes in above ground biomass).
+                                                                                               The results of the studies are presented in different units and measures; considerable effort was undertaken to be
+   Estimating embodied GHG emissions is new field of analysis; the estimates are rapidly       able to compare the results of the studies in a reasonable way. For more details about the below methodology,
+   improving and becoming more inclusive of all elements of construction and                   contact matt.kuharic@kingcounty.gov.
+   development.
+                                                                                               The four studies, Meil (2001), Park (2003), Stripple (2001) and Treolar (2001) produced total GHG emissions of 4-34
+   The estimate included in this worksheet is calculated using average values for the main     MTCO2e per thousand square feet of finished paving (for similar asphalt and concrete based pavements). This
+   construction materials that are used to create a typical family home. In 2004, the          estimate does not including downstream maintenance and repair of the highway. The average (for all concrete and
+   National Association of Home Builders calculated the average materials that are used
+                                                                                               asphalt pavements in the studies, assuming each study gets one data point) is ~17 MTCO2e/thousand square feet.
+   in a typical 2,272 square foot single-family household. The quantity of materials used is
+   then multiplied by the average GHG emissions associated with the life-cycle GHG
+                                                                                               Three of the studies attempted to thoroughly account for the emissions associated with long term maintenance (40
+   emissions for each material.
+                                                                                               years) of the roads. Stripple (2001), Park et al. (2003) and Treolar (2001) report 17, 81, and 68 MTCO2e/thousand
+                                                                                               square feet, respectively, after accounting for maintenance of the roads.
+   This estimate is a rough and conservative estimate; the actual embodied emissions for
+   a project are likely to be higher. For example, at this stage, due to a lack of
+   comprehensive data, the estimate does not include important factors such as                 Based on the above discussion, King County makes the conservative estimate that 50 MTCO2e/thousand square
+   landscape disturbance or the emissions associated with the interior components of a         feet of pavement (over the development’s life cycle) will be used as the embodied emission factor for pavement until
+   building (such as furniture).                                                               better estimates can be obtained. This is roughly equivalent to 3,500 MTCO2e per lane mile of road (assuming the
+                                                                                               lane is 13 feet wide).
+   King County realizes that the calculations for embodied emissions in this worksheet are
+   rough. For example, the emissions associated with building 1,000 square feet of a           It is important to note that these studies estimate the embodied emissions for roads. Paving that does not need to
+   residential building will not be the same as 1,000 square feet of a commercial building.    stand up to the rigors of heavy use (such as parking lots or driveways) would likely use less materials and hence
+   However, discussions with the construction community indicate that while there are          have lower embodied emissions.
+   significant differences between the different types of structures, this method of
+   estimation is reasonable; it will be improved as more data become available.                Sources:
+                                                                                               Meil, J. A Life Cycle Perspective on Concrete and Asphalt Roadways: Embodied Primary Energy and
+   Additionally, if more specific information about the project is known, King County             Global Warming Potential. 2006. Available:
+   recommends two online embodied emissions calculators that can be used to obtain a              http://www.cement.ca/cement.nsf/eee9ec7bbd630126852566c40052107b/6ec79dc8ae03a782852572b90061b9
+   more tailored estimate for embodied emissions: www.buildcarbonneutral.org and                  14/$FILE/ATTK0WE3/athena%20report%20Feb.%202%202007.pdf
+   www.athenasmi.ca/tools/ecoCalculator/.
+                                                                                               Park, K, Hwang, Y., Seo, S., M.ASCE, and Seo, H. , “Quantitative Assessment of Environmental
+   Pavement                                                                                       Impacts on Life Cycle of Highways,” Journal of Construction Engineering and Management , Vol 129,
+   Four recent life cycle assessments of the environmental impacts of roads form the              January/February 2003, pp 25-31, (DOI: 10.1061/(ASCE)0733-9364(2003)129:1(25)).
+   basis for the per unit embodied emissions of pavement. Each study is constructed in
+   slightly different ways; however, the aggregate results of the reports represent a          Stripple, H. Life Cycle Assessment of Road. A Pilot Study for Inventory Analysis. Second Revised
+   reasonable estimate of the GHG emissions that are created from the manufacture of               Edition. IVL Swedish Environmental Research Institute Ltd. 2001. Available:
+   paving materials, construction related emissions, and maintenance of the pavement               http://www.ivl.se/rapporter/pdf/B1210E.pdf
+   over its expected life cycle. For specifics, see the worksheet.
+                                                                                               Treloar, G., Love, P.E.D., and Crawford, R.H. Hybrid Life-Cycle Inventory for Road Construction and
+                                                                                                  Use. Journal of Construction Engineering and Management. P. 43-49. January/February 2004.
+Energy Emissions Worksheet
+
+                                                                         Energy                                          Floorspace     MTCE per                                                                Lifespan Energy
+                                                              consumption per             Carbon                        per Building     thousand           MTCO2e per           Average    Lifespan Energy    Related MTCO2e
+ Type (Residential) or Principal Activity                     building per year    Coefficient for   MTCO2e per           (thousand square feet per      thousand square     Building Life Related MTCO2e          emissions per
+                                      (Commercial)                 (million Btu)       Buildings building per year      square feet)          year           feet per year          Span emissions per unit thousand square feet
+Single-Family Home..............................                          107.3            0.108            11.61               2.53           4.6                   16.8            57.9              672                  266
+Multi-Family Unit in Large Building .......                                41.0            0.108             4.44               0.85           5.2                   19.2            80.5              357                  422
+Multi-Family Unit in Small Building .......                                78.1            0.108             8.45               1.39           6.1                   22.2            80.5              681                  489
+Mobile Home.........................................                       75.9            0.108             8.21               1.06           7.7                   28.4            57.9              475                  448
+Education ..............................................               2,125.0             0.124            264.2              25.6          10.3                    37.8            62.5           16,526                  646
+Food Sales ...........................................                 1,110.0             0.124            138.0               5.6          24.6                    90.4            62.5            8,632                1,541
+Food Service ........................................                  1,436.0             0.124            178.5               5.6          31.9                  116.9             62.5           11,168                1,994
+Health Care Inpatient ............................                   60,152.0              0.124          7,479.1             241.4          31.0                  113.6             62.5          467,794                1,938
+Health Care Outpatient .........................                          985.0            0.124            122.5              10.4          11.8                    43.2            62.5            7,660                  737
+Lodging .................................................              3,578.0             0.124            444.9              35.8          12.4                    45.6            62.5           27,826                  777
+Retail (Other Than Mall)........................                          720.0            0.124             89.5               9.7            9.2                   33.8            62.5            5,599                  577
+Office ....................................................            1,376.0             0.124            171.1              14.8          11.6                    42.4            62.5           10,701                  723
+Public Assembly ...................................                    1,338.0             0.124            166.4              14.2          11.7                    43.0            62.5           10,405                  733
+Public Order and Safety .......................                        1,791.0             0.124            222.7              15.5          14.4                    52.7            62.5           13,928                  899
+Religious Worship ................................                        440.0            0.124             54.7              10.1            5.4                   19.9            62.5            3,422                  339
+Service ..................................................                501.0            0.124             62.3               6.5            9.6                   35.1            62.5            3,896                  599
+Warehouse and Storage ......................                              764.0            0.124             95.0              16.9            5.6                   20.6            62.5            5,942                  352
+Other .....................................................            3,600.0             0.124            447.6              21.9          20.4                    74.9            62.5           27,997                1,278
+Vacant ..................................................                 294.0            0.124             36.6              14.1            2.6                    9.5            62.5            2,286                  162
+
+
+Sources
+All data in black text                                        King County, DNRP. Contact: Matt Kuharic, matt.kuharic@kingcounty.gov
+
+Energy consumption for residential
+buildings                                                     2007 Buildings Energy Data Book: 6.1 Quad Definitions and Comparisons (National Average, 2001)
+                                                              Table 6.1.4: Average Annual Carbon Dioxide Emissions for Various Functions
+                                                              http://buildingsdatabook.eren.doe.gov/
+                                                              Data also at: http://www.eia.doe.gov/emeu/recs/recs2001_ce/ce1-4c_housingunits2001.html
+
+Energy consumption for commercial
+buildings                                                     EIA, 2003 Commercial Buildings Energy Consumption Survey (National Average, 2003)
+and                                                           Table C3. Consumption and Gross Energy Intensity for Sum of Major Fuels for Non-Mall Buildings, 2003
+Floorspace per building                                       http://www.eia.doe.gov/emeu/cbecs/cbecs2003/detailed_tables_2003/2003set9/2003excel/c3.xls
+
+                                                              Note: Data in plum color is found in both of the above sources (buildings energy data book and commercial buildings energy consumption survey).
+
+Carbon Coefficient for Buildings                              Buildings Energy Data Book (National average, 2005)
+                                                              Table 3.1.7. 2005 Carbon Dioxide Emission Coefficients for Buildings (MMTCE per Quadrillion Btu)
+                                                              http://buildingsdatabook.eere.energy.gov/?id=view_book_table&TableID=2057
+                                                              Note: Carbon coefficient in the Energy Data book is in MTCE per Quadrillion Btu.
+                                                               To convert to MTCO2e per million Btu, this factor was divided by 1000 and multiplied by 44/12.
+Residential floorspace per unit                               2001 Residential Energy Consumption Survey (National Average, 2001)
+                                                              Square footage measurements and comparisons
+                                                              http://www.eia.doe.gov/emeu/recs/sqft-measure.html
+                                                             Single Family Multi-Family Units     All Residential
+average lief span of buildings,                                    Homes         in Large and          Buildings
+estimated by replacement time method                                        Small Buildings
+                                          New Housing
+                                          Construction,
+                                                 2001           1,273,000             329,000         1,602,000
+
+                                       Existing Housing
+                                            Stock, 2001         73,700,000          26,500,000         100,200,000
+                                          Replacement                                                                        (national
+                                                    time:              57.9                 80.5              62.5 average, 2001)
+                                       Note: Single family homes calculation is used for mobile homes as a best estimate life span.
+                                       Note: At this time, KC staff could find no reliable data for the average life span of commercial buildings.
+                                       Therefore, the average life span of residential buildings is being used until a better approximation can be ascertained.
+
+                                               Sources:
+
+                                         New Housing
+                                         Construction,
+                                                 2001 Quarterly Starts and Completions by Purpose and Design - US and Regions (Excel)
+                                                       http://www.census.gov/const/quarterly_starts_completions_cust.xls
+                                                       See also: http://www.census.gov/const/www/newresconstindex.html
+
+                                             Existing
+                                       Housing Stock,
+                                                2001 Residential Energy Consumption Survey (RECS) 2001
+                                                      Tables HC1:Housing Unit Characteristics, Million U.S. Households 2001
+                                                      Table HC1-4a. Housing Unit Characteristics by Type of Housing Unit, Million U.S. Households, 2001
+                                                      Million U.S. Households, 2001
+                                                      http://www.eia.doe.gov/emeu/recs/recs2001/hc_pdf/housunits/hc1-4a_housingunits2001.pdf
+Transportation Emissions Worksheet
+                                                                                                                      vehicle related                                                                Life span
+                                                                                                                                GHG                                              Life span    transportation
+                                                                                                                          emissions                  MTCO2e/               transportation       related GHG
+                                                                                                        # people or   (metric tonnes                     year/               related GHG            emissions
+                                                                                        # thousand      employees/         CO2e per                  thousand Average           emissions          (MTCO2e/
+     Type (Residential) or Principal Activity                       # people/ unit or   sq feet/ unit     thousand       person per     MTCO2e/        square Building         (MTCO2e/          thousand sq
+                                           (Commercial)                     building     or building    square feet             year)   year/ unit         feet Life Span         per unit)               feet)
+Single-Family Home...................................                            2.8            2.53            1.1               4.9        13.7           5.4       57.9             792                 313
+Multi-Family Unit in Large Building ............                                 1.9            0.85            2.3               4.9         9.5         11.2        80.5             766                 904
+Multi-Family Unit in Small Building ............                                 1.9            1.39            1.4               4.9         9.5           6.8       80.5             766                 550
+Mobile Home...............................................                       2.5            1.06            2.3               4.9        12.2         11.5        57.9             709                 668
+Education ...................................................                   30.0           25.6             1.2               4.9      147.8            5.8       62.5            9247                 361
+Food Sales .................................................                     5.1             5.6            0.9               4.9        25.2           4.5       62.5            1579                 282
+Food Service ..............................................                     10.2             5.6            1.8               4.9        50.2           9.0       62.5            3141                 561
+Health Care Inpatient .................................                        455.5         241.4              1.9               4.9     2246.4            9.3       62.5         140506                  582
+Health Care Outpatient ..............................                           19.3           10.4             1.9               4.9        95.0           9.1       62.5            5941                 571
+Lodging ......................................................                  13.6           35.8             0.4               4.9        67.1           1.9       62.5            4194                 117
+Retail (Other Than Mall).............................                            7.8             9.7            0.8               4.9        38.3           3.9       62.5            2394                 247
+Office .........................................................                28.2           14.8             1.9               4.9      139.0            9.4       62.5            8696                 588
+Public Assembly ........................................                         6.9           14.2             0.5               4.9        34.2           2.4       62.5            2137                 150
+Public Order and Safety .............................                           18.8           15.5             1.2               4.9        92.7           6.0       62.5            5796                 374
+Religious Worship .....................................                          4.2           10.1             0.4               4.9        20.8           2.1       62.5            1298                 129
+Service .......................................................                  5.6             6.5            0.9               4.9        27.6           4.3       62.5            1729                 266
+Warehouse and Storage ............................                               9.9           16.9             0.6               4.9        49.0           2.9       62.5            3067                 181
+Other ..........................................................                18.3           21.9             0.8               4.9        90.0           4.1       62.5            5630                 257
+Vacant ........................................................                  2.1           14.1             0.2               4.9        10.5           0.7       62.5             657                  47
+
+Sources
+All data in black text                                             King County, DNRP. Contact: Matt Kuharic, matt.kuharic@kingcounty.gov
+
+# people/ unit                                                     Estimating Household Size for Use in Population Estimates (WA state, 2000 average)
+                                                                   Washington State Office of Financial Management
+                                                                   Kimpel, T. and Lowe, T. Research Brief No. 47. August 2007
+                                                                   http://www.ofm.wa.gov/researchbriefs/brief047.pdf
+                                                                   Note: This analysis combines Multi Unit Structures in both large and small units into one category;
+                                                                   the average is used in this case although there is likely a difference
+
+Residential floorspace per unit                                    2001 Residential Energy Consumption Survey (National Average, 2001)
+                                                                   Square footage measurements and comparisons
+                                                                   http://www.eia.doe.gov/emeu/recs/sqft-measure.html
+
+# employees/thousand square feet                                   Commercial Buildings Energy Consumption Survey commercial energy uses and costs (National Median, 2003)
+                                                                   Table B2 Totals and Medians of Floorspace, Number of Workers, and Hours of Operation for Non-Mall Buildings, 2003
+                                                                   http://www.eia.doe.gov/emeu/cbecs/cbecs2003/detailed_tables_2003/2003set1/2003excel/b2.xls
+
+                                                                   Note: Data for # employees/thousand square feet is presented by CBECS as square feet/employee.
+                                                                    In this analysis employees/thousand square feet is calculated by taking the inverse of the CBECS number and multiplying by 1000.
+vehicle related GHG emissions
+
+Estimate calculated as follows (Washington state, 2006)_
+                            56,531,930,000 2006 Annual WA State Vehicle Miles Traveled
+                                                               Data was daily VMT. Annual VMT was 365*daily VMT.
+                                                               http://www.wsdot.wa.gov/mapsdata/tdo/annualmileage.htm
+                                  6,395,798 2006 WA state population
+                                                               http://quickfacts.census.gov/qfd/states/53000.html
+                                       8839 vehicle miles per person per year
+                                     0.0506 gallon gasoline/mile
+                                                               This is the weighted national average fuel efficiency for all cars and 2 axle, 4 wheel light trucks in 2005. This
+                                                               includes pickup trucks, vans and SUVs. The 0.051 gallons/mile used here is the inverse of the more commonly
+                                                               known term “miles/per gallon” (which is 19.75 for these cars and light trucks).
+                                                               Transportation Energy Data Book. 26th Edition. 2006. Chapter 4: Light Vehicles and Characteristics. Calculations
+                                                               based on weighted average MPG efficiency of cars and light trucks.
+                                                               http://cta.ornl.gov/data/tedb26/Edition26_Chapter04.pdf
+                                                               Note: This report states that in 2005, 92.3% of all highway VMT were driven by the above described vehicles.
+                                                               http://cta.ornl.gov/data/tedb26/Spreadsheets/Table3_04.xls
+                                        24.3 lbs CO2e/gallon gasoline
+                                                               The CO2 emissions estimates for gasoline and diesel include the extraction, transport, and refinement of petroleum
+                                                               as well as their combustion.
+                                                               Life-Cycle CO2 Emissions for Various New Vehicles. RENew Northfield.
+                                                               Available: http://renewnorthfield.org/wpcontent/uploads/2006/04/CO2%20emissions.pdf
+                                                               Note: This is a conservative estimate of emissions by fuel consumption because diesel fuel,
+                                       2205                    with a emissions factor of 26.55 lbs CO2e/gallon was not estimated.
+                                        4.93 lbs/metric tonne
+                                             vehicle related GHG emissions (metric tonnes CO2e per person per year)
+average lief span of buildings, estimated
+by replacement time method                   See Energy Emissions Worksheet for Calculations
+
+Commercial floorspace per unit             EIA, 2003 Commercial Buildings Energy Consumption Survey (National Average, 2003)
+                                           Table C3. Consumption and Gross Energy Intensity for Sum of Major Fuels for Non-Mall Buildings, 2003
+                                           http://www.eia.doe.gov/emeu/cbecs/cbecs2003/detailed_tables_2003/2003set9/2003excel/c3.xls
+    APPENDIX C
+
+
+Aesthetics - Glare
+                                        APPENDIX C
+
+                                AESTHETICS - GLARE
+
+South Lake Union EIS
+
+The South Lake Union EIS states that the increased amount of buildings would increase the
+cumulative level of artificial illumination in South Lake Union under all alternatives. The new
+buildings would include towers that may potentially incorporate reflective surfaces that could on
+occasion create glare-related impacts. The exposure may extend to adjacent hillsides and the
+freeway because of the topographic basin that comprises the South Lake Union neighborhood.
+The level of building and site lighting, as well as the potential for reflective solar glare, would be
+greater than existing conditions, incrementally expanding with the density of development.
+
+EIS Addendum – Project Impacts
+
+Principal sources of light that presently occur proximate to the project site include streetlights
+along Denny Way, Terry Ave., Westlake Ave. N., and 9th Ave. N.; light from headlights of vehicles
+operating on adjacent streets and maneuvering within parking lots; and building lighting (interior
+and in some instances low-level exterior) in the immediate area of the site.
+
+While vehicle headlights and glazing (and/or specular surfaces on vehicles) occasionally create
+glare, the principal source of glare associated with most development projects is sunlight reflected
+from specular surfaces on building facades. Factors influencing the amount of reflective solar
+glare that may occur include: weather (e.g., cloud cover); building height, width and orientation
+of the façade relative to the viewer; percent of the façade that is glazed or composed of specular
+material; reflectivity of the glass or specular surfaces; design relationship between the glazed and
+non-glazed portions of the façade (e.g., glass inset from the sash, horizontal and vertical
+modulation); the color and texture of building materials that comprise the façade; and the proximity
+of other intervening structures and/or landscaping.
+
+The 970 Denny Way Development would replace the existing building and surface parking with
+one high-rise building containing residential dwellings, retail space, outdoor amenity space on the
+roof of the podium and on the roof of the tower, as well as below-grade vehicular parking. Such
+development would result in an increased number of vehicles entering and exiting the project site,
+with the potential for localized increases in light and glare associated with vehicle headlights. In
+addition, building lighting (interior and low-level exterior) is expected to add to the pedestrian-
+scale ambient light level in the immediate area of the site. No significant light or glare-related
+impacts associated these activities, however, is anticipated.
+
+The proposed 970 Denny Way Development would be adjacent to Denny Way and proximate
+to Westlake Ave. N.; both of these streets are designated principal arterials and each carry
+significant volumes of traffic to, from, and through the South Lake Union neighborhood. As
+required by SMC 23.47A.022 E., a solar glare analysis has been performed for the proposed 970
+Denny Way Development. The analysis addresses probable environmental impacts to vehicular
+traffic on these two arterials during the AM and PM peak traffic periods and qualitatively evaluates
+solar glare-related impacts on nearby residential structures Figures 1 through 4 depict reflected
+solar glare from the proposed project at two times of the day during each of the four key days of
+the solar year -- vernal equinox (approx. March 21st), summer solstice (approx. June 21st),
+
+970 Denny Way Development                                                               Appendix C
+ EIS Addendum                                     1                                Aesthetics - Glare
+autumnal equinox (approx. September 21st), and winter solstice (approx. December 21st). The
+two times of the day (8 AM and 5 PM1) reflect peak hour traffic periods for Denny Way and
+Westlake Avenue N. The pattern of potential, solar glare that is depicted in Figure 1 through 4
+reflects the curvature of the east and west facades of the proposed tower.
+
+Due to the rise in topography west of the project site, a building cross-section diagram that aligns
+with Denny Way has been prepared for the 5PM time period for each key day of the year (Figures
+1a – 4a). The cross sections provide a greater level of detail concerning potential impacts of
+reflected solar glare relative to the site plan for each key solar time period and they more
+accurately detail the relationship of the proposed project with existing and proposed buildings
+west of the site. It should be noted, however, that solar glare-related impacts may also occur at
+other times of the day and days of the year. Also, because of the earth’s rotation, the duration of
+reflected solar glare impacts will vary – from several minutes2 for a stationary observer to
+substantially less for a mobile observer.
+
+Existing and future structures and, to an extent, vegetation can mitigate the environmental
+impacts of reflected solar glare from glazing. Such can occur if these mitigating factors are located
+between the sun and the glass or specular surface, or between the reflective surface of the façade
+and the area potentially affected by reflected solar glare. While coniferous and/or evergreen
+vegetation typically afford the greatest amount of mitigation at lower elevations, at times
+deciduous vegetation can also restrict the amount of solar glare that is reflected from glazing --
+from approximately late April to late October when leaves are present. Street trees that are
+proposed adjacent to the project site would be deciduous. Between late October and late April,
+while the amount of glare restriction afforded by deciduous trees is substantially less (influenced
+by the density of the branches), even during this time of the year they can partially restrict the
+amount of reflected solar glare emanating from glazed surfaces below a height of 20-30 ft.
+
+While all figures have been adjusted to compensate for existing buildings and the surrounding
+topography, they depict a worst-case scenario in that they cannot accurately depict the following
+factors that would further limit the extent of possible reflected solar glare:
+
+             the mitigating effect of existing and/or proposed street trees;
+             the mitigating effect of future, intervening buildings, and
+             the final extent of façade curvature, modulation and building materials .
+
+A key consideration for motorists is the effect of potential solar glare on a driver’s cone-of-
+influence.3 The cone-of-influence is defined as the driver’s viewing area and is within 20 degrees
+of the horizontal that points in the direction of vehicle travel. This typically represents the most
+sensitive viewing area for motorists. Glare impacts that occur outside the 20-degree cone-of-
+influence are considered less critical.
+
+As noted, SMC 23.47A.022 E. also pertains to glare impacts associated with nearby residential
+uses. Analysis indicates that at certain times of the year and times of day – assuming that weather
+conditions are suitable (e.g., not raining or overcast) -- reflected solar glare from the façades of
+the proposed 970 Denny Way Development buildings could be noticeable to residents in nearby
+buildings. While the effect on nearby residents may at times be noticeable, no significant long-
+
+1   8:30 AM and 4 PM for winter solstice because sunrise occurs slightly after 8AM and sunset occurs slightly after 4 PM.
+2   The rate of change of the sun’s angle relative to the earth varies widely by season – from about 5 degrees horizontally and 2 degrees
+    vertically every 15 minutes in June to 3 degrees horizontally and 1 degree vertically every 15 minutes in December.
+3   Seattle, 2003b.
+
+970 Denny Way Development                                                                                           Appendix C
+ EIS Addendum                                                      2                                           Aesthetics - Glare
+term impact is anticipated partly due to mitigating effects such as less-reflective buildings
+materials being used, building curvature and modulation, and other measures listed later in this
+section, as well as the fact that reflected glare, if it occurs, would be limited in duration and
+contingent on clear weather.
+
+The following is a seasonal breakdown of possible reflected glare impacts associated with the
+proposed project for the AM and PM peak traffic timeframes.
+
+Vernal Equinox – Approximately March 21st (refer to Figures 1 and 1a)
+
+Climatic data indicate that March typically has 3 clear days, 6 partly cloudy days and 22 cloudy
+days.4 Glare is not likely off the building on the 22 cloudy days/month, or the cloudy portions of
+the 6 days/month.
+
+            At 8 AM, reflected solar glare would extend from portions of the south and east facades
+             of the proposed building to the southwest and northeast, respectively. Reflected solar
+             glare could potentially affect eastbound vehicular traffic on Denny Way in the vicinity
+             of Westlake Ave. N. Reflected solar glare occurring at this time of the day and day of
+             the year from the south façade of the building would be within the cone of influence for
+             eastbound motorists on Denny Way between 9th and Terry (2 blocks) and, depending
+             upon travel speed, could affect motorists for approximately 1 second. Such is not
+             expected to cause significant problems for motorists nor differ substantially from
+             periodic glare that motorists typically experience from stationary and mobile sources.
+
+            At 5 PM, reflected solar glare would extend from the south and west facades of the
+             proposed building in westerly and very limited southeasterly directions. As illustrated
+             in Figure 1, reflected solar glare extending to the northwest could potentially affect
+             motorists on Westlake Ave. N. between John St. and Denny Way, and eastbound
+             motorists on Denny Way between Dexter Ave. N. and Westlake Ave. N. Reflected
+             solar glare occurring at this time of the day and day of the year from the west façade
+             of the building would be outside the cone of influence for north or southbound motorists
+             on Westlake Ave. N. As illustrated in Figure 1a, reflected solar glare occurring at this
+             time of the day and day of the year from the west façade of the building would,
+             however, be within the cone of influence for eastbound motorists on Denny Way
+             between Dexter Ave. and 9th Ave. N. (distance of two blocks) and could affect motorists
+             for approximately 11 seconds, assuming normal travel speeds. However, glare is not
+             expected to cause problems for motorists due to the fact that: 1) during this time of
+             day, traffic is usually moving very slowly due to high levels of congestion along
+             eastbound Denny Way giving drivers adequate time to react to potential glare-related
+             impacts, and 2) the 11-story Rollin Street Flats building, which is located directly to the
+             west of the proposed 970 Denny Way building, as well as the large trees located within
+             Denny Park that overhang onto Denny Way in the
+
+
+
+
+4   U.S. Dept. of Commerce, NOAA, 1992.
+
+970 Denny Way Development                                                                 Appendix C
+ EIS Addendum                                      3                                 Aesthetics - Glare
+                                                      970 Denny Way
+                                                      EIS Addendum
+
+
+
+
+           8 AM
+
+           5 PM
+
+ Note: The solid color within the glare outline
+ represents the actual glare from the proposed
+ building that would be experienced in the sur-
+ rounding area. The area that is not shaded
+ represents the potential glare area that would be
+ interrupted by an intervening structure/vegetation
+ of some kind.
+
+
+
+ 1” = 250’
+
+
+
+
+Source: EA and City of Seattle, 2014                                                                               Figure 1
+                                                                      March 21st—Vernal Equinox—Pacific Daylight Savings Time
+                                                                                       970 Denny Way
+                                                                                       EIS Addendum
+
+
+
+
+                                                                                                                                                                              590’ Elevation
+
+
+
+
+                                                                                                                                                                              490’ Elevation
+
+
+
+
+                                                                                                                                                                              390’ Elevation
+
+
+
+
+                                                                                                                                                                              290’ Elevation
+
+
+
+
+                                                                                                                                                                              190’ Elevation
+
+
+
+
+                                                                                                                                                                              90’ Elevation
+
+
+        Dexter                                 Denny Park                 9th Ave     (proposed             (proposed     Westlake     Rollin           970
+         Ave                                                                          residential             office       Ave         Street          Denny
+                                                                                       building)             building)                 Flats            Way                   0’ Elevation
+                                                                                                    Block 48
+             1200’
+
+
+
+
+                              1100’
+
+
+
+
+                                       1000’
+
+
+
+
+                                                     900’
+
+
+
+
+                                                                                    600’
+
+
+
+
+                                                                                                                                300’
+
+
+
+
+                                                                                                                                                200’
+                                                                                                                   400’
+
+
+
+
+                                                                                                                                                               100’
+                                                                   700’
+                                                            800’
+
+
+
+
+                                                                                                     500’
+
+
+
+
+                                                                                                                                                                         0’
+Source: City of Seattle and EA, 2015                                                                                                                   Figure 1a—Denny Way Cross Section—5PM
+                                                                                                                                                 March 21st—Vernal Equinox—Pacific Daylight Savings Time
+               vicinity of the park would block a substantial amount of street-level glare from the
+               proposed building.5
+
+               Reflected solar glare extending to the southeast from the south façade of the proposed
+               building at this time of day could potentially affect westbound traffic on Denny Way,
+               but only in the vicinity of its intersection with Terry Ave. While noticeable, this glare
+               would be mostly outside the cone-of-influence for motorists on this street and would
+               not be expected to cause problems for motorists nor differ substantially from periodic
+               glare from stationary and mobile sources that motorists typically experience.
+
+Summer Solstice – Approximately June 21st (refer to Figures 2 and 2a)
+
+Climatic data indicate that June typically has 5 clear days, 8 partly cloudy days and 17 cloudy
+days.6 Glare is not likely off the building on the 17 cloudy days/month, or the cloudy portion of 8
+days/month.
+
+              At 8 AM, reflected solar glare would extend from portions of the east facade of the
+               proposed building to the east. Reflected solar glare could potentially affect westbound
+               vehicular traffic on Denny Way, but only in the vicinity of Terry Ave. Reflected solar
+               glare occurring at this time of the day and day of the year from the east façade would
+               be within the cone of influence for westbound motorists on Denny Way and could affect
+               motorists for less than 1 second. However, it is not expected to cause problems for
+               motorists nor differ substantially from periodic glare from stationary and mobile
+               sources that motorists typically experience.
+
+              At 5 PM, reflected solar glare would extend from the south and west facades of the
+               proposed building in northwesterly and limited southeasterly directions. As illustrated
+               in Figure 2, reflected solar glare extending to the northwest could be noticeable to
+               motorists on Westlake Ave. N. between John St. and Denny Way, but outside their
+               cone of influence. As illustrated in Figure 2a, reflected solar glare extending to the
+               west could, however, affect eastbound motorists on Denny Way between 9th Ave. N.
+               and Westlake Ave. N.
+
+
+
+
+5   In addition, proposed residential and office buildings (MUP #s 3017320, 3017687, 3017321 and 3017686), represented by dotted lines on
+    the Block 48/89 project site in Figure 1a, if built, would essentially block most of the solar glare that could potentially be reflected by the
+    proposed 970 Denny Way building. Since the MUPs for these structures have not been approved, the probable effect of these buildings
+    has not been depicted in plan-view on Figure 1.
+6   Ibid.
+
+970 Denny Way Development                                                                                                    Appendix C
+ EIS Addendum                                                           6                                               Aesthetics - Glare
+                                                      970 Denny Way
+                                                      EIS Addendum
+
+
+
+
+           8 AM
+
+           5 PM
+
+ Note: The solid color within the glare outline
+ represents the actual glare from the proposed
+ building that would be experienced in the sur-
+ rounding area. The area that is not shaded
+ represents the potential glare area that would be
+ interrupted by an intervening structure/vegetation
+ of some kind.
+
+
+
+ 1” = 250’
+
+
+
+
+Source: EA and City of Seattle, 2014                                                                               Figure 2
+                                                                      June 21st—Summer Solstice—Pacific Daylight Savings Time
+                                                                                       970 Denny Way
+                                                                                       EIS Addendum
+
+
+
+
+                                                                                                                                                                             590’ Elevation
+
+
+
+
+                                                                                                                                                                             490’ Elevation
+
+
+
+
+                                                                                                                                                                             390’ Elevation
+
+
+
+
+                                                                                                                                                                             290’ Elevation
+
+
+
+
+                                                                                                                                                                             190’ Elevation
+
+
+
+
+                                                                                                                                                                             90’ Elevation
+
+
+        Dexter                                 Denny Park                 9th Ave     (proposed             (proposed     Westlake     Rollin           970
+         Ave                                                                          residential             office       Ave         Street          Denny
+                                                                                       building)             building)                 Flats            Way                  0’ Elevation
+                                                                                                    Block 48
+             1200’
+
+
+
+
+                              1100’
+
+
+
+
+                                       1000’
+
+
+
+
+                                                     900’
+
+
+
+
+                                                                                    600’
+
+
+
+
+                                                                                                                                300’
+
+
+
+
+                                                                                                                                                200’
+                                                                   700’
+
+
+
+
+                                                                                                                   400’
+
+
+
+
+                                                                                                                                                               100’
+                                                            800’
+
+
+
+
+                                                                                                     500’
+
+
+
+
+                                                                                                                                                                        0’
+Source: City of Seattle and EA, 2015                                                                                                                   Figure 2a—Denny Way Cross Section—5PM
+                                                                                                                                                June 21st—Summer Solstice—Pacific Daylight Savings Time
+                Reflected solar glare occurring at this time of the day and day of the year from the
+                west façade of the building would be within the cone of influence for eastbound
+                motorists on Denny Way and could affect motorists for approximately 5 seconds,
+                assuming normal travel speeds. However, glare is not expected to cause problems
+                for motorists due to the fact that: 1) during this time of day, traffic is usually moving
+                very slowly due to high levels of congestion along eastbound Denny Way giving
+                drivers adequate time to react to potential glare-related impacts, and 2) the 11-story
+                Rollin Street Flats building, which is located directly to the west of the proposed 970
+                Denny Way building, as well as the large trees located within Denny Park that
+                overhang onto Denny Way in the vicinity of the park would block a substantial amount
+                of street-level glare from the proposed building.7
+
+                Reflected solar glare extending to the southeast from the south façade of the
+                proposed building could potentially affect westbound traffic on Denny Way, but only
+                in the vicinity of its intersection with Terry Ave. While noticeable, this glare would be
+                mostly outside the cone-of-influence for motorists on this street and would not be
+                expected to cause problems for motorists nor differ substantially from periodic glare
+                from stationary and mobile sources that motorists typically experience.
+
+Autumnal Equinox – Approximately September 21st (refer to Figures 3 and 3a)
+
+Climatic data indicate that September typically has 8 clear days, 9 partly cloudy days and 13
+cloudy days. 8 Glare is not likely off the building on the cloudy 13 days/month, or the cloudy
+portions of 9 days/month.
+
+              At 8 AM, reflected solar glare would extend from portions of the south and east facades
+               of the proposed building to the southwest and northeast, respectively. Reflected solar
+               glare could potentially affect eastbound vehicular traffic on Denny Way, but only in the
+               vicinity of Westlake Ave. N. Reflected solar glare occurring at this time of the day and
+               day of the year from the south façade of the building would be within the cone of
+               influence for eastbound motorists on Denny Way and could affect motorists for less
+               than 1 second. However, it is not expected to cause problems for motorists nor differ
+               substantially from periodic glare from stationary and mobile sources that motorists
+               typically experience.
+
+
+
+
+7   In addition, proposed residential and office buildings (MUP #s 3017320, 3017687, 3017321 and 3017686), represented by dotted lines on
+    the Block 48/89 project site in Figure 2a, if built, would essentially block most of the solar glare that could potentially be reflected by the
+    proposed 970 Denny Way building. Since the MUPs for these structures have not been approved, the probable effect of these buildings
+    has not been depicted in plan-view on Figure 2.
+8   U.S. Dept. of Commerce, NOAA, 1992.
+
+970 Denny Way Development                                                                                                    Appendix C
+ EIS Addendum                                                           9                                               Aesthetics - Glare
+                                                      970 Denny Way
+                                                      EIS Addendum
+
+
+
+
+           8 AM
+
+           5 PM
+
+ Note: The solid color within the glare outline
+ represents the actual glare from the proposed
+ building that would be experienced in the sur-
+ rounding area. The area that is not shaded
+ represents the potential glare area that would be
+ interrupted by an intervening structure/vegetation
+ of some kind.
+
+
+
+ 1” = 250’
+
+
+
+
+Source: EA and City of Seattle, 2014                                                                                     Figure 3
+                                                                      September 21st—Autumnal Equinox—Pacific Daylight Savings Time
+                                                                                       970 Denny Way
+                                                                                       EIS Addendum
+
+
+
+
+                                                                                                                                                                           590’ Elevation
+
+
+
+
+                                                                                                                                                                           490’ Elevation
+
+
+
+
+                                                                                                                                                                           390’ Elevation
+
+
+
+
+                                                                                                                                                                           290’ Elevation
+
+
+
+
+                                                                                                                                                                           190’ Elevation
+
+
+
+
+                                                                                                                                                                           90’ Elevation
+
+
+        Dexter                                 Denny Park                 9th Ave     (proposed             (proposed     Westlake     Rollin           970
+         Ave                                                                          residential             office       Ave         Street          Denny
+                                                                                       building)             building)                 Flats            Way                0’ Elevation
+                                                                                                    Block 48
+             1200’
+
+
+
+
+                              1100’
+
+
+
+
+                                       1000’
+
+
+
+
+                                                                                                                                300’
+                                                     900’
+
+
+
+
+                                                                                    600’
+
+
+
+
+                                                                                                                                                200’
+                                                                   700’
+
+
+
+
+                                                                                                                   400’
+
+
+
+
+                                                                                                                                                               100’
+                                                            800’
+
+
+
+
+                                                                                                     500’
+
+
+
+
+                                                                                                                                                                      0’
+Source: City of Seattle and EA, 2015                                                                                                                   Figure 3a—Denny Way Cross Section—5PM
+                                                                                                                                        September 21st—Autumnal Equinox—Pacific Daylight Savings Time
+               At 5 PM, reflected solar glare would extend from the south and west facades of the
+                proposed building in westerly and limited southeasterly directions. As illustrated in
+                Figure 3, reflected solar glare extending to the west could be noticeable to motorists
+                on Westlake Ave. N. between John St. and Denny Way, but outside their cone of
+                influence. As illustrated in Figure 3a, reflected solar glare extending to the west could
+                also affect eastbound motorists on Denny way between Dexter Ave. N. and 9th Ave.
+                N. Reflected solar glare occurring at this time of the day and day of the year from the
+                west façade of the building would be within the cone of influence for eastbound
+                motorists on Denny Way and could affect motorists for approximately 13 seconds,
+                assuming normal travel speeds. However, glare is not expected to cause problems
+                for motorists due to the fact that: 1) during this time of day, traffic is usually moving
+                very slowly due to high levels of congestion along eastbound Denny Way giving drivers
+                adequate time to react to potential glare-related impacts, and 2) the 11-story Rollin
+                Street Flats building, which is located directly to the west of the proposed 970 Denny
+                Way building, as well as the large trees located within Denny Park that overhang onto
+                Denny Way in the vicinity of the park would block a substantial amount of street-level
+                glare from the proposed building.9
+
+                Reflected solar glare extending to the southeast from the south façade of the proposed
+                building could be noticeable to westbound traffic on Denny Way between Terry Ave.
+                and Boren Ave (2 blocks). Such, however, would be outside the cone-of-influence for
+                westbound motorists on this street and would not be expected to cause problems for
+                motorists nor differ substantially from periodic glare from stationary and mobile
+                sources that motorists typically experience.
+
+Winter Solstice – Approximately December 21st (refer to Figures 4 and 4a)
+
+Climatic data indicate that December typically has 2 clear days, 4 partly cloudy days and 25 cloudy
+days.10 On this day of the year at 8:30 AM and 4 PM the altitude of the sun above the horizon is
+approximately 2 degrees, therefore, reflected solar glare distances are great. Glare is not likely
+off the building on the cloudy 25 days/month, or the cloudy portions of 4 days/month.
+
+               At 8:30 AM, reflected solar glare would extend from portions of the south and east
+                facades of the proposed building in limited southwesterly and narrow northeasterly
+                directions. Reflected solar glare could be noticeable to motorists eastbound on Denny
+                Way, but only between Westlake Ave. N. and Terry Ave (1 block). Reflected solar
+                glare occurring at this time of the day and day of the year from the south façade of the
+                building, however, would be outside the cone of influence for eastbound motorists on
+                Denny Way and is not expected to cause problems for motorists nor differ
+                substantially from periodic glare from stationary and mobile sources that motorists
+                typically experience.
+
+
+
+
+9    In addition, proposed residential and office buildings (MUP #s 3017320, 3017687, 3017321 and 3017686), represented by dotted lines on
+     the Block 48/89 project site in Figure 3a, if built, would essentially block most of the solar glare that could potentially be reflected by the
+     proposed 970 Denny Way building. Since the MUPs for these structures have not been approved, the probable effect of these buildings
+     has not been depicted in plan-view on Figure 3
+10   Ibid.
+
+970 Denny Way Development                                                                                                     Appendix C
+ EIS Addendum                                                           12                                               Aesthetics - Glare
+                                                      970 Denny Way
+                                                      EIS Addendum
+
+
+
+
+           8:30 AM
+
+           4 PM
+
+ Note: The solid color within the glare outline
+ represents the actual glare from the proposed
+ building that would be experienced in the sur-
+ rounding area. The area that is not shaded
+ represents the potential glare area that would be
+ interrupted by an intervening structure/vegetation
+ of some kind.
+
+
+
+ 1” = 250’
+
+
+
+
+Source: EA and City of Seattle, 2014                                                                           Figure 4
+                                                                      December 21st—Winter Solstice—Pacific Standard Time
+                                                                                      970 Denny Way
+                                                                                      EIS Addendum
+
+
+
+
+                                                                                                                                                                                 590’ Elevation
+
+
+
+
+                                                                                                                                                                                 490’ Elevation
+
+
+
+
+                                                                                                                                                                                 390’ Elevation
+
+
+
+
+                                                                                                                                                                                 290’ Elevation
+
+
+
+
+                                                                                                                                                                                 190’ Elevation
+
+
+
+
+                                                                                                                                                                                 90’ Elevation
+
+
+         Dexter                                Denny Park                 9th Ave     (proposed             (proposed     Westlake     Rollin             970
+          Ave                                                                         residential             office       Ave         Street            Denny
+                                                                                       building)             building)                 Flats              Way                    0’ Elevation
+                                                                                                    Block 48
+              1200’
+
+
+
+
+                               1100’
+
+
+
+
+                                       1000’
+
+
+
+
+                                                     900’
+
+
+
+
+                                                                                                                                300’
+                                                                                    600’
+
+
+
+
+                                                                                                                                                200’
+                                                                   700’
+
+
+
+
+                                                                                                                   400’
+
+
+
+
+                                                                                                                                                                 100’
+                                                            800’
+
+
+
+
+                                                                                                     500’
+
+
+
+
+                                                                                                                                                                            0’
+Source: City of Seattle and EA, 2015                                                                                                                    Figure 4a—Denny Way Cross Section—5PM
+                                                                                                                                                       December 21st—Winter Solstice—Pacific Standard Time
+                   At 4 PM, reflected solar glare would extend from the south and west facades of the
+                    proposed building in limited southeast and broad northwest directions. As illustrated
+                    in Figure 4, reflected solar glare extending to the northwest and southeast could
+                    potentially affect motorists on Denny Way. As illustrated in Figure 4a, reflected solar
+                    glare occurring at this time of the day and day of the year from the west façades of the
+                    building would not affect eastbound or west bound motorists on Denny Way due to the
+                    fact that the 11-story Rollin Street Flats building, which is located directly to the west
+                    of the proposed 970 Denny Way building, would block a substantial amount of street-
+                    level glare from the proposed building.11
+
+                    Reflected solar glare occurring at this time of the day and day of the year from the
+                    south façade of the building could be noticeable to westbound motorists on Denny
+                    Way, but only in the vicinity of Terry Ave. Such, however, would be outside their cone
+                    of influence and would not be expected to cause problems for motorists nor differ
+                    substantially from periodic glare from stationary and mobile sources that motorists
+                    typically experience.
+
+Potential Mitigation Measures
+
+The following measures could help reduce any overall potential light and reflected solar glare-
+related impacts from the proposed project.
+
+          Building façade materials are finalized, and the facades of the building tower include a metal
+           and glass window wall structure with glass spandrel panels and metal frames. The east and
+           west tower facades are curved which will fragment any generated glare. The east, west and
+           south tower facades are composed of approximately 55% dark gray spandrel glass, 10%
+           white spandrel glass, 5% dark gray louvers, and 30% clear vision glass. All spandrel and
+           vision glass is non-mirrored, non-reflective glass. The City’s West Design Review Board
+           (DRB) recommended approval of these material elements and design, as well as the
+           façade modulation and curvature, which is expected to lessen potential reflected solar glare-
+           related impacts. Final, actual reflectivity of the glazing will be dictated by the nature of glass
+           that is specified and the requirements set forth by the City's Energy Code and the LEED
+           energy requirements. No excessively-reflective surfaces (i.e., mirrored glass, or polished
+           metals) that go beyond what is required to meet energy-related code provisions are
+           proposed anywhere on the exterior of the project buildings.
+
+          The proposed street trees and the use of building materials with relatively low-reflectivity at
+           street level would minimize reflective glare-related impacts to pedestrians, motorists and
+           nearby residents.
+
+          Pedestrian-scale lighting would be provided consistent with code, function and safety
+           requirements. Exterior lighting would include fixtures to direct the light downward and/or
+           upward and away from off-site land uses.
+
+
+
+
+11       In addition, proposed residential and office buildings (MUP #s 3017320, 3017687, 3017321 and 3017686), represented by dotted lines on
+         the Block 48/89 project site in Figure 4a, if built, would essentially block most of the solar glare that could potentially be reflected by the
+         proposed 970 Denny Way building. Since the MUPs for these structures have not been approved, the probable effect of these buildings
+         has not been depicted in plan-view on Figure 4
+
+970 Denny Way Development                                                                                                         Appendix C
+ EIS Addendum                                                               15                                               Aesthetics - Glare
+    The project site is adjacent to existing and proposed high-rise developments to the west,
+     southwest, and south (Rollin Street Flats, 2200 Westlake, ENSO, Block 48), and is near the
+     lowest point of Denny Way between I-5 and Broad St. As well, the large trees located within
+     Denny Park overhang on Denny Way in the vicinity of Denny Park and could block a
+     substantial amount of street-level glare along Denny Way from the proposed building.
+     These factors may block or lessen incoming rays from the sun and reflected solar glare at
+     street-level during the AM and PM peak hours, thereby minimizing reflective solar glare-
+     related impacts to pedestrians, motorists and nearby residents at these times of day.
+
+Significant Unavoidable Adverse Impacts
+
+No significant unavoidable adverse impacts are anticipated.
+
+
+
+
+970 Denny Way Development                                                          Appendix C
+ EIS Addendum                                 16                              Aesthetics - Glare
+     APPENDIX D
+
+
+Aesthetics - Shadows
+                                           APPENDIX D
+
+                                AESTHETICS - SHADOWS
+
+South Lake Union EIS
+
+Comparison of the alternatives in the South Lake Union EIS reveals slight differences in the
+shadow impacts to Denny Park, Cascade Park, and Lake Union Park, as well as other SEPA-
+protected places. The location and extent of shadows vary, with the impacts associated with
+Alternative 1 representing greater impacts than the other alternatives. The South Lake Union
+EIS notes that shadows would generally be longest during winter afternoons when the sun is
+lower on the horizon. At noon on winter solstice, when the sun angle is low on the horizon,
+shadow impacts could extend great distances and result from each alternative. Conversely, in
+the noon timeframe on summer solstice, when the sun is at its greatest height above the
+horizon, shadow impacts would be shorter and would be less likely to cause impacts. However,
+overall, the shadow impacts are not expected to result in significant adverse environmental
+impacts. The impacts are typical of an urbanizing area that is transitioning from lower intensity
+development to that of more intensive development.
+
+EIS Addendum – Project Specific Impacts
+
+Seattle’s SEPA policies aim to “minimize or prevent light blockage and the creation of shadows
+on open spaces most used by the public.”1 Since the project site is north of Denny Way, areas
+outside of Downtown that are to be protected2 include:
+
+       publicly-owned parks;
+       public schoolyards;
+       private schools which allow public use of schoolyards during non-school hours; and
+       publicly owned street ends in shoreline areas.
+
+The nearest such protected areas that are proximate to the project site are Denny Park, Lake
+Union Park, and Cascade Playground and P-Patch.
+
+Factors that influence the extent of shading include: weather (e.g., cloud cover); building height,
+width and facade orientation; and the proximity of other intervening structures, topographic
+variations and significant landscaping. The extent of possible shading from the proposed
+development must also be considered within the context of climatic data for the month (e.g., on
+average the number of clear, partly cloudy and cloudy days).
+
+The project site is part of the South Lake Union Urban Center; surrounding development is a
+mix of low-, mid- and high-rise buildings. The maximum height of existing buildings within
+several blocks of the project site ranges from one to approximately 15 stories. There are
+several large buildings within several blocks in all directions of the project site that are either
+under construction or have received the required land use approvals to begin construction.
+
+
+
+1   Seattle Municipal Code Chapter 25.05.675 Q2.
+2   25.05.675.Q.2
+
+970 Denny Way Development                                                              Appendix D
+ EIS Addendum                                      1                                     Shadows
+These together with existing buildings surrounding the project site will influence the amount of
+localized, area-wide shading that occurs at and proximate to the project site.
+
+This section of the EIS Addendum contains shadow diagrams that depict shading from the
+Proposed Action for vernal equinox (approx. March 21st), summer solstice (approx. June 21st),
+autumnal equinox (approx. Sept. 21st) and winter solstice (approx. December 21st). Potential
+impacts depicting shadows from the proposed project, together with shadows from other nearby
+existing buildings, were evaluated at 8 AM, 12 PM, and 5 PM (9 AM, 12 PM and 4 PM on the
+winter solstice). The figures and the accompanying text below describe probable shadow
+impacts to the three parks in the site vicinity (Denny Park, Lake Union Park, and Cascade
+Playground and P-Patch) as a result of the Proposed Action, within the context of shading that
+presently occurs from existing buildings proximate to the site. The City’s SEPA policies address
+shadow impacts with consideration given to the effect “at times when the public most frequently
+uses that space.”3
+
+The following analysis summarizes shadow impacts for various times of the day on each of the
+key days of the solar year. These key days of the solar year and times of the day depict worst-
+case impacts. Shadow-related impacts, however, can also occur at other times of the day
+throughout the year. Because of the earth’s rotation, the duration of shadow-related impacts
+varies for a stationary observer4 based on season, depending upon the width of the shadow.
+The shadow graphics have been adjusted to compensate for topography and, in the case of
+vernal equinox, summer solstice, and autumnal equinox, daylight savings time.5
+
+Vernal (Spring) Equinox (refer to Figure 1)
+
+Sunrise on vernal equinox (approx. March 21st) occurs at about 6:11 AM and sunset at 6:21 PM.
+Data6 indicate that on average March has 4 clear days, 8 partly cloudy days and 19 cloudy
+days.7 Pacific Daylight Savings Time is in-effect on this day.
+
+       At 8 AM, shadows from the Proposed Action would extend in a northwesterly direction
+        and would not affect Denny Park, Lake Union Park or Cascade Playground and P-Patch.
+
+       At 12 PM, shadows from the Proposed Action would extend in a northerly direction and
+        would not affect Denny Park, Lake Union Park or Cascade Playground and P-Patch.
+
+       At 5 PM, shadows from the Proposed Action would extend in a northeasterly direction
+        and would not affect Denny Park, Lake Union Park or Cascade Playground and P-Patch.
+
+
+
+
+3   Ibid.
+4   The rate of change of the sun’s angle relative to the earth varies widely by season – from about 5 degrees
+    horizontally and 2 degrees vertically every 15 minutes in June to 3 degrees horizontally and 1 degree vertically
+    every 15 minutes in December.
+5   Pacific Daylight Savings Time (PDST) applies to shadow impacts associated with spring equinox, summer
+    solstice and autumnal equinox.
+6   NOAA, 2005.
+7   NOAA defines a clear day as one with zero to 3/10 average sky cover, a partly cloudy is one with 4/10 to 7/10
+    tenths average sky cover and a cloudy day is one with 8/10 to 10/10 tenths average sky cover.
+
+970 Denny Way Development                                                                             Appendix D
+ EIS Addendum                                            2                                              Shadows
+                                  970 Denny Way Development
+                                        EIS Addendum
+
+
+
+
+  8 AM                         12 PM                          5 PM
+
+
+
+
+                                                                                          North
+
+
+Source: Weber Thompson, 2015                                                           Figure 1
+                                                               Shadows—Vernal Equinox—March 21st
+Summer Solstice (refer to Figure 2)
+
+Sunrise on summer solstice (approx. June 21st) occurs at about 5:11 AM and sunset at 9:10
+PM. Data8 indicate that on average June has 7 clear days, 8 partly cloudy days and 15 cloudy
+days. Pacific Daylight Savings Time remains in-effect on this day.
+
+        At 8 AM, shadows from the Proposed Action would extend in a westerly direction and
+         would not affect Lake Union Park or Cascade Playground and P-Patch. Shadows could
+         extend into a small portion of Denny Park, along the eastern edge. This area of the park
+         is in open space and pedestrian pathways and is used for passive recreation. Shadows
+         from other buildings in the vicinity would also contribute to shading Denny Park at this
+         time of day. Overall, less than 5 percent of Denny Park would be shaded by the
+         proposed building, and the Park already has extensive tree canopy under existing
+         conditions, which contributes to shading. Therefore no significant impacts would be
+         anticipated.
+
+        At 12 PM, shadows from the Proposed Action would extend in a northerly direction and
+         would not affect Denny Park, Lake Union Park or Cascade Playground and P-Patch.
+
+        At 5 PM, shadows from the Proposed Action would extend in an easterly direction and
+         would not affect Denny Park, Lake Union Park or Cascade Playground and P-Patch.
+
+Autumnal Equinox (refer to Figure 3)
+
+Sunrise on autumnal equinox (approx. September 21st) occurs at about 6:13 AM and
+sunset at 8:11 PM. Climatic data9 for the month of September indicate that on average
+September typically has 3 clear days, 6 partly cloudy days and 22 cloudy days. Pacific
+Daylight Savings Time remains in-effect on this day.
+
+        At 8 AM, shadows from the Proposed Action would extend in a northwesterly direction
+         and would not affect Denny Park, Lake Union Park or Cascade Playground and P-Patch.
+
+        At 12 PM, shadows from the Proposed Action would extend in a northerly direction and
+         would not affect Denny Park, Lake Union Park or Cascade Playground and P-Patch
+
+        At 5 PM, shadows from the Proposed Action would extend in an easterly direction and
+         would not affect Denny Park, Lake Union Park or Cascade Playground and P-Patch.
+
+Winter Solstice (refer to Figure 4)
+
+Sunrise on winter solstice (approx. December 21st) occurs at about 7:54 AM and sunset at 5:19
+PM. Data10 indicate that on average December has 3 clear days, 4 partly cloudy days and 23
+cloudy days.11 Pacific Standard Time remains in-effect on this day.
+
+
+
+8    op cit.
+9    op cit.
+10   op cit.
+11   NOAA defines a clear day as one with zero to 3/10 average sky cover, a partly cloudy is one with 4/10 to 7/10
+     tenths average sky cover and a cloudy day is one with 8/10 to 10/10 tenths average sky cover.
+
+970 Denny Way Development                                                                           Appendix D
+ EIS Addendum                                           4                                             Shadows
+                                  970 Denny Way Development
+                                        EIS Addendum
+
+
+
+
+  8 AM                         12 PM                          5 PM
+
+
+
+
+                                                                                          North
+
+
+Source: Weber Thompson, 2015                                                          Figure 2
+                                                              Shadows—Summer Solstice—June 21st
+                                   970 Denny Way Development
+                                         EIS Addendum
+
+
+
+
+  8 AM                         12 PM                           5 PM
+
+
+
+
+                                                                                           North
+
+
+Source: Weber Thompson, 2015                                                            Figure 3
+                                                               Shadows—Vernal Equinox—August 21st
+                                   970 Denny Way Development
+                                         EIS Addendum
+
+
+
+
+  9 AM                         12 PM                            4 PM
+
+
+
+
+                                                                                              North
+
+
+Source: Weber Thompson, 2015                                                               Figure 4
+                                                               Shadows—Winter Solstice—December 21st
+      At 9 AM, shadows from the Proposed Action would extend in a northwesterly direction
+       and would not affect Denny Park, Lake Union Park or Cascade Playground and P-Patch.
+
+      At 12 PM, shadows from the Proposed Action would extend in a northerly direction and
+       would not affect Denny Park, Lake Union Park or Cascade Playground and P-Patch.
+
+      At 4 PM, the sun is lower on the horizon and shadows extend a greater distance.
+       Shadows would extend in a northeasterly direction and shadows from the Proposed
+       Action would not affect Denny Park or Lake Union Park. Shadows could extend into a
+       portion of Cascade Playground, within the north half of the park. This area of the park is
+       in open space, a playground and playfield and is used for passive and active recreation.
+       The P-Patch would not be affected. Shadows from other buildings in the vicinity would
+       also contribute to shading Cascade Park at this time of day; nearly the entire park would
+       be shaded. Overall, because other buildings are contributing to shading, and given the
+       time of year, typical weather, and lack of sunny days, shading impacts would not be
+       considered significant. This would not be expected to be a time of high park use.
+
+As described above, the proposed development would not affect Lake Union Park or the
+Cascade P-Patch. The development would contribute to shading a small portion of Denny Park
+during the Summer Solstice at 8 AM, and to shading a portion of Cascade Park during the
+Winter Solstice at 4 PM. However, because only a very small portion of Denny Park would be
+affected during the Summer Solstice, and shading would occur to Cascade Playground during a
+time of the year when less use of the park would be anticipated, overall, shadow impacts
+associated with the Proposed Action are not considered significant.
+
+Potential Mitigation Measures
+
+No significant impacts would occur and no mitigation is proposed.
+
+Significant Unavoidable Adverse Impacts
+
+No significant unavoidable adverse impacts are anticipated.
+
+
+
+
+970 Denny Way Development                                                            Appendix D
+ EIS Addendum                                  8                                       Shadows
+          APPENDIX E
+
+
+Aesthetics - Viewshed Analysis
+                                             APPENDIX E
+
+                                AESTHETICS - VIEWSHED
+
+South Lake Union EIS
+
+The South Lake Union EIS notes that all of the alternatives assume that every vacant or
+underdeveloped site is built out to its maximum potential. Therefore, all alternatives – even No
+Action – envision a significantly denser urban environment. A number of views inside and
+outside the South Lake Union neighborhood will be potentially impacted by all alternatives at full
+build-out, although none of the protected views are significantly impacted. It was noted that the
+most significant changes would involve views from Lake Union Park and the I-5/Mercer Off-
+ramp; less significant changes would occur to views from Volunteer Park.
+
+While no significant impacts were identified relative to protected viewpoints as a result of the
+programmatic analysis, notable impacts to views valued within the neighborhood were
+identified. These currently unprotected views include views toward the Space Needle from Lake
+Union Park, along Thomas and John Streets, and views toward the open sky above Lake Union
+looking north along Fairview Avenue N, Boren Avenue N and Westlake Avenue N.
+
+EIS Addendum – Project Impacts
+
+The proposed 970 Denny Way Development would result in impacts similar to those described
+in the South Lake Union EIS. The proposed complex has been designed to be consistent with
+provisions of the South Lake Union Neighborhood Plan and the existing zoning. The proposed
+project would blend into the Downtown and South Lake Union skyline and would be consistent
+with other high-rise buildings proposed in this portion of the City (such as the 42-story tower
+proposed to the west, 111 Westlake Avenue N) and as allowed by the City’s Land Use Code.
+The proposed 970 Denny Way Development would not result in any significant impacts to
+designated view corridors, scenic views, City Landmarks, or scenic routes (see Figures 1 and 2
+of this appendix for locations of viewshed images). Views of the Downtown skyline, the Space
+Needle, the Olympic Mountains, Elliott Bay and Lake Union would still be possible from
+designated public viewpoints.
+
+The City’s public view protection policies are intended to “protect public views of significant
+natural and human-made features: Mount Rainier, the Olympic and Cascade Mountains, the
+downtown skyline, and major bodies of water including Puget Sound, Lake Washington, Lake
+Union and the Ship Canal, from public places consisting of specified viewpoints, parks, scenic
+routes, and view corridors identified in Attachment 1” to the SEPA code.1 Of the City’s 87
+officially-designated public viewpoints, only three could be affected by the proposed project –
+Plymouth Pillars Park, Volunteer Park, and Bhy Kracke Park. These viewpoints are described
+below:
+
+       Volunteer Park is a 48-acre park containing many features including: paths, open
+        space, a museum, conservatory, tennis courts, and a bandstand. The park’s viewpoint
+        is located at the observation deck of the Water Tower. A 360-degree view of the City is
+        possible from the deck at a height of approximately 75 ft. above street level (520 ft.
+
+1   Seattle Municipal Code Chap. 25.05.675 P.2.a.i.
+
+970 Denny Way Development                                                            Appendix E
+ EIS Addendum                                         1                    Aesthetics - Viewshed
+                         970 Denny Way
+                         EIS Addendum
+
+
+
+
+2                                             4
+
+
+2                                                  1
+
+
+                                                   1
+
+
+
+
+    Project Site
+    Viewpoint Location
+
+                                                       Figure 1
+                                         Viewpoint Location Map 1
+                     970 Denny Way
+                     EIS Addendum
+
+
+
+
+                                                1
+
+
+
+
+                               5
+                           3
+
+
+
+
+                                      3b
+
+
+                                     3a
+
+
+
+
+Project Site
+Viewpoint Location
+
+                                                         Figure 2
+                                           Viewpoint Location Map 2
+        elevation). The Volunteer Park Water Tower is located in the Capitol Hill Neighborhood,
+        roughly 1.1 miles northeast of the project site. This designated viewpoint provides
+        southwesterly views toward the project area from the tower including views of the Space
+        Needle, the Downtown Seattle skyline, the Olympic Mountains and Puget Sound. During
+        part of the year, views of portions of the South Lake Union neighborhood from this
+        location are obscured by mature deciduous trees.
+
+       Bhy Kracke Park - This park is located on the southeast side of Queen Anne Hill, west
+        of Lake Union (1215 - 5th Avenue N) and approximately 0.8 mile northwest of the site.
+        This designated viewpoint provides southeasterly views toward the project area. The
+        park is situated on a hillside and features a narrow pedestrian path that winds from the
+        bottom to the top of the hill. From the outlook at its highest point, Bhy Kracke Park offers
+        views of the Downtown Seattle skyline, Mount Rainier, the Space Needle and Lake
+        Union. Only portions of the South Lake Union neighborhood are visible from higher
+        elevations in the park and even then, part of the view of the study area is obscured
+        during portions of the year by mature deciduous trees.
+
+       Plymouth Pillars Park – is located at the base of Capitol Hill within the Pike-Pine
+        corridor, roughly 0.35 miles southeast of the project site. Amenities within this linear 0.6
+        acre park include an off-leash dog area, seating, public art and a pedestrian corridor.2
+        This designated viewpoint provides westerly views toward the project area that include a
+        close-in panoramic view of the Downtown Seattle Skyline.
+
+The viewshed from each of these viewpoints was analyzed and a photosimulation has been
+prepared to depict the massing of the new building as it would appear from each viewpoint. The
+analysis shows the proposed project, in context with existing development.
+
+       Viewpoint 1 - Figure 3 shows the existing and potential views from the Volunteer Park
+        Water Tower. As demonstrated, while portions of the 970 Denny Way Development
+        would be visible and would partially obstruct a portion of water and mountains visible in
+        the distance, the proposed new building would blend into the existing Downtown building
+        massing that occurs surrounding the project site. The visual density of the skyline would
+        slightly increase and extend to the north. Overall, no significant view impacts are
+        anticipated from this viewpoint.
+
+       Viewpoint 2 - Figure 4 depicts the existing view from Bhy Kracke Park and includes a
+        panoramic view of the South Lake Union Neighborhood and the Downtown Seattle
+        skyline. The Space Needle is also visible. As shown, the site is partially obstructed from
+        certain locations in the park due to the presence of existing trees and vegetation. As
+        illustrated in Figure 4, the new development would appear as a continuation of the
+        existing massing of Downtown high-rise buildings and no significant view impacts are
+        anticipated from this viewpoint.
+
+       Viewpoints 3a and 3b - Figures 5 and 6 show the existing and potential views from two
+        locations at Plymouth Pillars Park; Viewpoint 3a is from the south end of the park, near
+        the Pillars, and Viewpoint 3b is from the north end, near the area of the off leash dog
+        area.
+
+
+
+2   City of Seattle, Seattle Parks and Recreation Department
+
+970 Denny Way Development                                                              Appendix E
+ EIS Addendum                                           4                    Aesthetics - Viewshed
+                               970 Denny Way Development
+                                     EIS Addendum
+
+
+
+
+         Existing View
+
+
+
+
+        Proposed View
+
+Source: Weber Thompson, 2015
+                                                                             Figure 3
+                                                 Viewpoint 1—Volunteer Park Water Tower
+                               970 Denny Way Development
+                                     EIS Addendum
+          Existing
+
+
+
+
+       Proposed
+
+
+
+
+Source: Weber Thompson, 2015                                                 Figure 4
+                                                           Viewpoint 2—Bhy Kracke Park
+                               970 Denny Way Development
+                                     EIS Addendum
+                 Existing
+
+
+
+
+               Proposed
+
+
+
+
+Source: Weber Thompson, 2015                                                       Figure 5
+                                                           Viewpoint 3a—Plymouth Pillars Park
+                               970 Denny Way Development
+                                     EIS Addendum
+                 Existing
+
+
+
+
+               Proposed
+
+
+
+
+Source: Weber Thompson, 2015                                                       Figure 6
+                                                           Viewpoint 3b—Plymouth Pillars Park
+As demonstrated, from Viewpoint 3a, the new building associated with the 970 Denny Way
+Development would appear as an extension of the massing of existing Downtown
+development. From Viewpoint 3b, the proposed building would not be visible due to
+intervening buildings in the foreground.
+
+In addition to view protection policies associated with officially-designated viewpoints, it is also
+City policy to “protect public views of historic landmarks designated by the City’s Landmarks
+Preservation Board which, because of their prominence of location or contrasts of siting, age, or
+scale are easily identifiable visual features of their neighborhood or the City and contribute to
+the distinctive quality or identity of their neighborhood or the City.”3 In the Downtown
+neighborhood, the City has designated 62 structures or objects as official City Landmarks.
+Each of these structures is at least 25 years old and each meets one or more of the City’s
+designation criteria.4 There are no designated Landmarks in the immediate vicinity of the site.
+
+The most visible Landmark from many parts of the City is the Space Needle, which is located
+approximately one and one-quarter miles northwest of the project site. The City has identified
+ten viewpoints from which views of the Space Needle are to be protected.5. The designated
+Space Needle view corridor that is closest to the project site is Volunteer Park on Capitol Hill. 6
+The Volunteer Park viewpoint is from the water feature/reservoir in front of the Seattle Asian Art
+Museum. The existing and proposed view from this location is described below.
+
+       Viewpoint 4 - Figure 7 depicts the Volunteer Park reservoir in the foreground, with the
+        Space Needle visible in the distance, partially obscured by existing vegetation. As
+        demonstrated, the proposed project would be partially visible to the left of the Space
+        Needle. Views of the Space Needle would not be affected.
+
+City ordinances7 also identify specific scenic routes throughout the City in which view protection
+is to be encouraged of the significant natural and human-made features listed in the City’s
+public view protection policies. In the vicinity of the project site, there is one designated Scenic
+Route; Fairview Avenue N. Scenic views from Fairview Avenue N include views of Lake Union
+to the north and Downtown Seattle to the south.
+
+       Viewpoint 5 - Figure 8 depicts the view from Fairview Avenue N at the intersection with
+        Denny Way looking west. The proposed project site is to the west (right). The Space
+        Needle is visible in the mid-field view. As indicated by Figure 8, the new 970 Denny
+        Way tower would be visible from this viewpoint and would partially obstruct the view of
+        the Space Needle. The overall visual effect would be an intensification of the existing
+        urban density and greater vertical definition of the South Lake Union Neighborhood. No
+        significant viewshed impacts are anticipated from this scenic route. Although the view of
+        the Space Needle would be affected, this is not a protected Space Needle viewpoint and
+        therefore this impact is not considered significant.
+
+
+
+
+3   Seattle Municipal Code Chap. 25.05.675 P.2.b.i.
+4   Refer to Seattle Municipal Code Chap. 25.12.350 for the specific standards associated with designation.
+5   Seattle Municipal Code Chap. 25.05.675 P. and Seattle DCLU, 2001,
+6   14th Ave. E. and E. Prospect
+7   Ord. #97025 (Scenic Routes Identified by the Seattle Engineering Department’s Traffic Division) and Ord.
+    #114057 (Seattle Mayor’s Recommended Open Space Policies). The SEPA Scenic Routes Map incorrectly
+    references Ord. # 97027, whereas the reference should be to Ord. # 97025.
+
+970 Denny Way Development                                                                    Appendix E
+ EIS Addendum                                        9                             Aesthetics - Viewshed
+                               970 Denny Way Development
+                                     EIS Addendum
+
+
+
+
+          Existing View
+
+
+
+
+           Proposed View
+
+Source: Weber Thompson, 2015
+                                                                                 Figure 7
+                                Viewpoint 5—Space Needle Viewpoint-Volunteer Park Reservoir
+ www.idaxdata.com
+
+
+                                         WESTLAKE AVE
+                                           JOHN ST
+                                                                                                                                Date: Tue, Apr 21, 2015
+                N                              Peak Hour                                                                Count Period: 4:00 PM to 6:00 PM
+                                                                                                                          Peak Hour: 5:00 PM to 6:00 PM
+                          WESTLAKE AVE
+
+
+
+
+                                               404
+
+
+
+                                                               462
+
+
+
+
+                                                                                                                                                              22
+                                                   360
+                                         26
+
+
+
+
+                                                              18
+                                                                                               JOHN ST                                                             47
+
+
+      79                                                                                        21            54                                                                               1
+                    19                            TEV: 1,068                                    10
+
+
+
+
+                                                                                                                                                  370
+
+
+
+
+                                                                                                                                                                                       832
+                    30                            PHF: 0.88                                     23
+      112           63                                                                                        81                           1
+
+
+                JOHN ST                                                                                                                                            46
+                                                   43
+
+                                                              422
+
+                                                                         33
+
+
+
+
+                                                                                                                HV %:             PHF
+                                                                                WESTLAKE AVE
+
+
+
+
+                                                                                                                                                                            30
+                                                                                                       EB       0.0%              0.82
+                                                                                                       WB       0.0%              0.84
+                                                                                                       NB       5.2%              0.95
+                                               446
+
+
+
+                                                               498
+
+
+
+
+                                                                                                       SB       3.2%              0.81
+                                                                                                     TOTAL      3.7%              0.88
+Two-Hour Count Summaries
+                            JOHN ST                                     JOHN ST                           WESTLAKE AVE                          WESTLAKE AVE
+    Interval                                                                                                                                                                 15-min           Rolling
+      Start               Eastbound                                  Westbound                                Northbound                         Southbound                   Total          One Hour
+                    LT                   TH        RT         LT           TH                   RT       LT        TH             RT        LT          TH         RT
+    4:00 PM         3                    3          7          1           0                     3       5             82           2       4           65         5             180
+    4:15 PM         6                    5          7          4           4                     8       7             80           11      3           58         3             196
+    4:30 PM         7                    7          6          3           1                     6       7             81           8       3           79         9             217
+    4:45 PM         1                    4         11          1           7                     8       4         104              9       3           58         8             218           811
+    5:00 PM         4                    3         15          5           5                     6       14        106              8       8           77         10            261           892
+    5:15 PM         6                    9         19          6           2                     8       8         114              9       4           116        4             305          1,001
+    5:30 PM         2                    4         19          5           3                     0       10            95           8       2           88         4             240          1,024
+    5:45 PM         7                    14        10          7           0                     7       11        107              8       4           79         8             262          1,068
+  Count Total       36                   49        94         32           22                   46       66        769              63      31          620        51        1,879
+    Peak Hr         19                   30        63         23           10                   21       43        422              33      18          360        26        1,068
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                       Bicycles                                      Pedestrians (Crossing Leg)
+      Start         EB          WB            NB         SB        Total      EB                WB     NB       SB          Total        East       West           North           South           Total
+    4:00 PM         0                0        10         1          11         0                 1       3         1         5           145            50             9                9          213
+    4:15 PM         0                1        8          3          12         0                 0       0         2         2           133            57             16              11          217
+    4:30 PM         0                0        5          2          7          0                 0       0         2         2           174            65             8                3          250
+    4:45 PM         0                0        7          2          9          0                 0       0         2         2           187            59             11               8          265
+    5:00 PM         0                0        5          5          10         0                 1       15        7         23          200            86             12              10          308
+    5:15 PM         0                0        9          1          10         0                 0       5         4         9           247            98             11              13          369
+    5:30 PM         0                0        6          3          9          1                 0       5         3         9           198            107            17              10          332
+    5:45 PM         0                0        6          4          10         0                 0       5         8         13          187            79             7               13          286
+  Count Total       0                1        56         21         78         1                 2       33     29           65          1,471          601            91              77       2,240
+    Peak Hr         0                0        26         13         39         1                 1       30     22           54          832            370            47              46       1,295
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                 mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                         TERRY AVE N
+                                           JOHN ST
+                                                                                                                        Date: Tue, Apr 21, 2015
+                N                             Peak Hour                                                         Count Period: 4:00 PM to 6:00 PM
+                                                                                                                  Peak Hour: 4:45 PM to 5:45 PM
+
+
+
+
+                                              32
+
+
+
+                                                             190
+                          TERRY AVE N
+
+
+
+
+                                                                                                                                                         3
+                                        11
+
+                                                  21
+                                                                                                                                                             24
+
+
+      33
+                                                 TEV: 255
+
+
+
+
+                                                                                                                                             138
+                    70                           PHF: 0.92
+      81            11                                                                                                               3
+
+
+                JOHN ST                                                                                                                                      3
+                                                                             TERRY AVE N
+                                                            22
+
+                                                                      120
+
+
+
+
+                                                                                                           HV %:          PHF
+
+
+
+
+                                                                                                                                                                      4
+                                                                                                  EB       2.5%             0.81
+                                                                                                  NB       4.2%             0.85
+                                                                                                  SB       0.0%             0.67
+                                                             142
+                                              32
+
+
+
+
+                                                                                                TOTAL      3.1%             0.92
+
+
+Two-Hour Count Summaries
+                            JOHN ST                                  JOHN ST                           TERRY AVE N                          TERRY AVE N                              Rolling
+    Interval                                                                                                                                                          15-min
+                          Eastbound                               Westbound                             Northbound                           Southbound                               One
+      Start                                                                                                                                                            Total
+                    LT                  TH        RT        LT          TH                 RT     LT        TH              RT       LT            TH        RT                       Hour
+    4:00 PM         6                   0         2         0           0                  0       5           17            0          0          2         0            32
+    4:15 PM         11                  0         3         0           0                  0       9           18            0          0          7         5            53
+    4:30 PM         11                  0         2         0           0                  0       6           25            0          0          3         3            50
+    4:45 PM         16                  0         3         0           0                  0       6           32            0          0          6         6            69          204
+    5:00 PM         13                  0         4         0           0                  0       7           35            0          0          5         4            68          240
+    5:15 PM         22                  0         3         0           0                  0       8           27            0          0          5         0            65          252
+    5:30 PM         19                  0         1         0           0                  0       1           26            0          0          5         1            53          255
+    5:45 PM         21                  0         5         0           0                  0       2           23            0          0          2         6            59          245
+  Count Total       119                 0         23        0           0                  0      44        203              0          0          35        25           449
+    Peak Hr         70                  0         11        0           0                  0      22        120              0          0          21        11           255
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                  Bicycles                                     Pedestrians (Crossing Leg)
+      Start         EB          WB           NB        SB       Total       EB             WB     NB       SB       Total          East        West          North          South       Total
+    4:00 PM         0               0        2         0         2          0              0       2       0          2             0              24            5              1        30
+    4:15 PM         2               0        2         1         5          1              0       0       0          1             0              24            3              5        32
+    4:30 PM         1               0        1         0         2          1              0       0       4          5             0              13            5              1        19
+    4:45 PM         0               0        2         0         2          0              0       2       1          3             0              36            4              2        42
+    5:00 PM         1               0        2         0         3          1              0       0       0          1             0              39            11             0        50
+    5:15 PM         1               0        0         0         1          0              0       2       1          3             0              39            5              0        44
+    5:30 PM         0               0        2         0         2          2              0       0       1          3             0              24            4              1        29
+    5:45 PM         0               0        1         0         1          0              0       1       3          4             0              19            7              0        26
+  Count Total       5               0        12        1         18         5              0       7       10        22             0              218           44             10      272
+    Peak Hr         2               0        6         0         8          3              0       4       3         10             0              138           24             3       165
+
+Mark Skaggs: 425 - 250 - 0777                                                                                                                            mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                               WESTLAKE AVE N
+                                 DENNY WAY
+                                                                                                                                      Date: Tue, Apr 21, 2015
+                N                                 Peak Hour                                                                   Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                Peak Hour: 4:45 PM to 5:45 PM
+                          WESTLAKE AVE N
+
+
+
+
+                                                  413
+
+
+
+                                                                  506
+
+
+
+
+                                                                                                                                                                   16
+                                                      220
+
+                                                                 150
+                                            43
+
+
+
+                                                                                                     DENNY WAY                                                          424
+
+
+      874                                                                                             90           874                                                                                4
+                     16                              TEV: 2,607                                      784
+
+
+
+
+                                                                                                                                                                                            2,202
+                                                                                                                                                       334
+                    775                              PHF: 0.96                                         0
+      807            16                                                                                            991                           4
+
+
+          DENNY WAY                                                                                                                                                     522
+                                                      47
+
+                                                                 400
+
+                                                                             66
+
+
+
+
+                                                                                                                       HV %:            PHF
+                                                                                    WESTLAKE AVE N
+
+
+
+
+                                                                                                                                                                                 10
+                                                                                                              EB       0.9%             0.85
+                                                                                                              WB       0.6%             0.94
+                                                                                                              NB       5.5%             0.92
+                                                  236
+
+
+
+                                                                  513
+
+
+
+
+                                                                                                              SB       2.7%             0.81
+                                                                                                            TOTAL      2.0%             0.96
+Two-Hour Count Summaries
+                          DENNY WAY                                    DENNY WAY                               WESTLAKE AVE N                     WESTLAKE AVE N
+    Interval                                                                                                                                                                      15-min             Rolling
+      Start               Eastbound                                     Westbound                                  Northbound                          Southbound                  Total            One Hour
+                    LT                     TH         RT         LT            TH                     RT      LT         TH             RT        LT         TH         RT
+    4:00 PM          1                     251         8          0           184                     25       8             67           21      29         36         6             636
+    4:15 PM          0                     262         3          0           172                     22      13             74           16      24         35         9             630
+    4:30 PM          0                     245         5          0           158                     19       9             77           19      27         54         8             621
+    4:45 PM          0                     237         1          0           192                     24      11         100              18      23         41         8             655            2,542
+    5:00 PM          5                     198         2          0           180                     24       7             96           15      28         53         11            619            2,525
+    5:15 PM          2                     167         9          0           209                     24      13         107              20      53         63         12            679            2,574
+    5:30 PM          9                     173         4          0           203                     18      16             97           13      46         63         12            654            2,607
+    5:45 PM          4                     190         8          0           205                     28       9             92           16      33         46         18            649            2,601
+  Count Total       21                1,723           40          0           1,503                   184     86         710            138      263         391        84        5,143
+    Peak Hr         16                     775        16          0           784                     90      47         400              66     150         220        43        2,607
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                              Bicycles                                    Pedestrians (Crossing Leg)
+      Start         EB           WB              NB         SB        Total       EB                  WB      NB       SB         Total        East      West           North           South             Total
+    4:00 PM          7                 7         10         2          26         0                   0        3         2         5           379           79             43              99            600
+    4:15 PM          2                 4         7          3          16         0                   1        1         0         2           450           77             63              126           716
+    4:30 PM          4                 3         7          2          16         0                   1        0         2         3           452           60             64              110           686
+    4:45 PM          1                 0         8          2          11         1                   0        3         2         6           738           70             90              107        1,005
+    5:00 PM          2                 3         7          5          17         3                   1        3         7         14          505           73             98              104           780
+    5:15 PM          1                 1         7          1          10         0                   2        2         4         8           487           106         131                131           855
+    5:30 PM          3                 1         6          3          13         0                   1        2         3         6           472           85          105                180           842
+    5:45 PM          1                 5         7          3          16         0                   1        3       10          14          396           58             84              94            632
+  Count Total       21              24           59         21         125        4                   7       17       30          58          3,879         608         678                951        6,116
+    Peak Hr          7                 5         28         11         51         4                   4       10       16          34          2,202         334         424                522        3,482
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                                      mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                         TERRY AVE N
+                                          DENNY WAY
+                                                                                                                                 Date: Tue, Apr 21, 2015
+                N                              Peak Hour                                                                 Count Period: 4:00 PM to 6:00 PM
+                                                                                                                           Peak Hour: 4:00 PM to 5:00 PM
+
+
+
+
+                                               24
+
+
+
+                                                               109
+                          TERRY AVE N
+
+
+
+
+                                                                                                                                                            1
+                                         14
+
+                                                   4
+
+                                                              6
+                                                                                              DENNY WAY                                                         98
+
+
+      761                                                                                      44          828                                                                             3
+                   61                             TEV: 2,062                                  743
+
+
+
+
+                                                                                                                                                  11
+
+
+
+
+                                                                                                                                                                                   5
+                 1,029                            PHF: 0.97                                    41
+      1,165        75                                                                                   1,072                            0
+
+
+          DENNY WAY                                                                                                                                             108
+                                                                                TERRY AVE N
+                                                   4
+
+                                                              4
+
+                                                                        37
+
+
+
+
+                                                                                                               HV %:            PHF
+
+
+
+
+                                                                                                                                                                         0
+                                                                                                      EB       1.2%             0.95
+                                                                                                      WB       2.4%             0.93
+                                                                                                      NB       8.9%             0.70
+                                               120
+
+
+
+                                                               45
+
+
+
+
+                                                                                                      SB       0.0%             0.60
+                                                                                                    TOTAL      1.8%             0.97
+Two-Hour Count Summaries
+                          DENNY WAY                                DENNY WAY                               TERRY AVE N                           TERRY AVE N
+    Interval                                                                                                                                                             15-min           Rolling
+      Start               Eastbound                                 Westbound                               Northbound                            Southbound              Total          One Hour
+                    LT                  TH         RT         LT           TH                  RT     LT         TH             RT       LT            TH       RT
+    4:00 PM         10                  276        14         10          203                  9       0             0            7         0          0        3            532
+    4:15 PM         15                  270        20         12          181                  8       0             0            16        1          4        2            529
+    4:30 PM         19                  249        27         8           176                  13      1             1            6         2          0        2            504
+    4:45 PM         17                  234        14         11          183                  14      3             3            8         3          0        7            497          2,062
+    5:00 PM         18                  192        16         16          215                  18      6             3            9         2          1        1            497          2,027
+    5:15 PM         15                  191        36         9           224                  14      2             2            4         2          4        4            507          2,005
+    5:30 PM         12                  193        21         3           219                  13      5             3            6         3          0        2            480          1,981
+    5:45 PM         12                  182        24         6           229                  8       1             3            1         5          1        1            473          1,957
+  Count Total       118            1,787           172        75          1,630                97     18             15           57        18         10       22       4,019
+    Peak Hr         61             1,029           75         41          743                  44      4             4            37        6          4        14       2,062
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                                      Bicycles                                       Pedestrians (Crossing Leg)
+      Start         EB          WB            NB         SB       Total      EB                WB     NB       SB         Total        East         West        North          South           Total
+    4:00 PM         7             10          1          0         18        0                 1       0         0         1            0              2            18             15          35
+    4:15 PM         1               5         1          0         7         0                 1       0         0         1            4              4            21             29          58
+    4:30 PM         5               4         0          0         9         0                 1       0         1         2            1              0            26             33          60
+    4:45 PM         1               1         2          0         4         0                 0       0         0         0            0              5            33             31          69
+    5:00 PM         3               4         0          0         7         0                 2       0         0         2            2              1            80             44          127
+    5:15 PM         1               0         1          0         2         0                 2       0         1         3            1              3            83             63          150
+    5:30 PM         1               2         1          0         4         0                 1       0         0         1            2              1            63             60          126
+    5:45 PM         2               7         0          0         9         0                 3       0         0         3            8              5            60             28          101
+  Count Total       21            33          6          0         60        0                 11      0         2         13          18              21        384               303         726
+    Peak Hr         14            20          4          0         38        0                 3       0         1         4            5              11           98             108         222
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                              mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                         ALLEY
+                                        JOHN ST
+                                                                                                                    Date: Tue, Apr 21, 2015
+                N                        Peak Hour                                                          Count Period: 4:00 PM to 6:00 PM
+                                                                                                              Peak Hour: 5:00 PM to 6:00 PM
+
+
+
+
+                                         22
+
+
+
+                                                        2
+                          ALLEY
+
+
+
+
+                                                                                                                                              2
+                                   14
+
+                                             1
+
+                                                       7
+                                                                                JOHN ST                                                           46
+
+
+      56                                                                          0            31                                                                            2
+                    2                       TEV: 160                             25
+
+
+
+
+                                                                                                                                    12
+
+
+
+
+                                                                                                                                                                     4
+                    66                      PHF: 0.93                             6
+      77            9                                                                          86                           2
+
+
+                JOHN ST                                                                                                                           91
+                                                                        ALLEY
+                                             17
+
+                                                       0
+
+                                                                13
+
+
+
+
+                                                                                                 HV %:             PHF
+
+
+
+
+                                                                                                                                                           1
+                                                                                        EB       2.6%              0.88
+                                                                                        WB       0.0%              0.60
+                                                                                        NB       0.0%              0.83
+                                         16
+
+
+
+                                                        30
+
+
+
+
+                                                                                        SB       0.0%              0.55
+                                                                                      TOTAL      1.3%              0.93
+Two-Hour Count Summaries
+                          JOHN ST                               JOHN ST                          ALLEY                               ALLEY
+    Interval                                                                                                                                               15-min           Rolling
+      Start               Eastbound                          Westbound                         Northbound                           Southbound              Total          One Hour
+                    LT            TH         RT        LT          TH            RT       LT        TH             RT       LT           TH       RT
+    4:00 PM         1             8          1         3           4              0       1             0            2         1         0        0            21
+    4:15 PM         1             10         4         2           11             1       3             0            1         0         0        0            33
+    4:30 PM         1             14         4         2           6              1       3             0            0         0         0        1            32
+    4:45 PM         1             15         2         0           12             0       4             0            3         2         0        2            41            127
+    5:00 PM         1             12         5         4           9              0       3             0            2         3         0        0            39            145
+    5:15 PM         0             20         1         1           7              0       6             0            2         1         0        3            41            153
+    5:30 PM         0             15         1         0           3              0       2             0            6         1         1        8            37            158
+    5:45 PM         1             19         2         1           6              0       6             0            3         2         0        3            43            160
+  Count Total       6             113        20        13          58             2       28            0            19        10        1        17           287
+    Peak Hr         2             66         9         6           25             0       17            0            13        7         1        14           160
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval              Heavy Vehicle Totals                                        Bicycles                                       Pedestrians (Crossing Leg)
+      Start         EB      WB          NB        SB       Total     EB          WB     NB       SB          Total        East        West        North          South           Total
+    4:00 PM         1         0         0         0         1          0          1       0         1         2            0             2            6              24          32
+    4:15 PM         1         1         0         0         2          1          0       0         0         1            0             1            12             17          30
+    4:30 PM         1         0         0         0         1          0          0       0         1         1            1             1            14             4           20
+    4:45 PM         0         0         0         0         0          0          1       0         0         1            3             5            5              22          35
+    5:00 PM         1         0         0         0         1          0          1       0         1         2            3             4            8              37          52
+    5:15 PM         1         0         0         0         1          0          0       1         0         1            1             4            16             22          43
+    5:30 PM         0         0         0         0         0          2          0       0         1         3            0             1            7              20          28
+    5:45 PM         0         0         0         0         0          0          1       0         0         1            0             3            15             12          30
+  Count Total       5         1         0         0         6          3          4       1         4         12           8             21           83             158         270
+    Peak Hr         2         0         0         0         2          2          2       1         2         7            4             12           46             91          153
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                mark.skaggs@idaxdata.com
+ www.idaxdata.com
+
+
+                                     ALLEY
+                                   DENNY WAY
+                                                                                                             Date: Tue, Apr 21, 2015
+                N                       Peak Hour                                                    Count Period: 4:00 PM to 6:00 PM
+                                                                                                       Peak Hour: 4:00 PM to 5:00 PM
+
+
+
+
+                                        3
+
+
+
+                                                       1
+                         ALLEY
+
+
+
+
+                                                                                                                                      0
+                                  2
+
+                                            1
+                                                                          DENNY WAY                                                       171
+
+
+      803                                                                  1           802                                                                       2
+                                           TEV: 1,961                     801
+
+
+
+
+                                                                                                                             0
+
+
+
+
+                                                                                                                                                          0
+                   0                       PHF: 0.97
+      1,156      1,156                                                              1,157                             1
+
+
+          DENNY WAY
+                                                                                           HV %:           PHF
+                                                                                  EB       0.3%              0.96
+                                                                                  WB       1.1%              0.93
+                                                                                  SB       0.0%              0.38
+                                                                                TOTAL      0.7%              0.97
+
+
+Two-Hour Count Summaries
+                         DENNY WAY                         DENNY WAY                       ALLEY                              ALLEY
+    Interval                                                                                                                                       15-min       Rolling
+      Start              Eastbound                          Westbound                  Northbound                            Southbound             Total      One Hour
+                    LT           TH         RT        LT           TH      RT     LT         TH              RT       LT         TH       RT
+    4:00 PM         0            296        0         0           212      0       0             0            0          0       0        0         508
+    4:15 PM         0            301        0         0           192      1       0             0            0          0       0        1         495
+    4:30 PM         0            295        0         0           181      0       0             0            0          0       0        0         476
+    4:45 PM         0            264        0         0           216      0       0             0            0          1       0        1         482         1,961
+    5:00 PM         1            226        0         0           206      0       0             0            0          0       0        0         433         1,886
+    5:15 PM         0            235        0         0           233      3       0             0            0          0       0        0         471         1,862
+    5:30 PM         0            226        0         0           231      1       0             0            0          1       0        0         459         1,845
+    5:45 PM         1            221        0         0           233      0       0             0            0          0       0        0         455         1,818
+  Count Total       2        2,064          0         0           1,704    5       0             0            0          2       0        2        3,779
+    Peak Hr         0        1,156          0         0           801      1       0             0            0          1       0        2        1,961
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval             Heavy Vehicle Totals                                   Bicycles                                      Pedestrians (Crossing Leg)
+      Start         EB     WB          NB        SB       Total     EB     WB     NB       SB        Total          East       West       North       South          Total
+    4:00 PM         1        6         0         0         7         0     0       0         0         0             0           0            31           0         31
+    4:15 PM         1        2         0         0         3         1     1       0         0         2             0           0            25           0         25
+    4:30 PM         0        1         0         0         1         0     0       0         0         0             0           0            53           0         53
+    4:45 PM         2        0         0         0         2         0     1       0         0         1             0           0            62           0         62
+    5:00 PM         0        2         0         0         2         1     0       0         0         1             0           0            99           0         99
+    5:15 PM         1        2         0         0         3         0     0       0         0         0             0           0         112             0         112
+    5:30 PM         1        1         0         0         2         1     0       0         0         1             0           0            80           0         80
+    5:45 PM         0        2         0         0         2         0     1       0         0         1             0           0            74           0         74
+  Count Total       6       16         0         0         22        3     3       0         0         6             0           0         536             0         536
+    Peak Hr         4        9         0         0         13        1     2       0         0         3             0           0         171             0         171
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                        mark.skaggs@idaxdata.com

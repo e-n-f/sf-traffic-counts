@@ -1,0 +1,2486 @@
+3026306
+8612 PALATINE AVE N
+   Section I: Buildings
+                                                                                            Emissions Per Unit or Per Thousand Square Feet
+                                                                                                               (MTCO2e)
+                                                                          Square Feet (in                                                       Lifespan
+   Type (Residential) or Principal Activity                                thousands of                                                        Emissions
+                    (Commercial)                                  # Units square feet)        Embodied         Energy        Transportation    (MTCO2e)
+   Single-Family Home.............................                      0                                98            672              792              0
+   Multi-Family Unit in Large Building ......                           0                                33            357              766              0
+   Multi-Family Unit in Small Building ......                        141                                 54            681              766        211525
+   Mobile Home........................................                  0                                41            475              709              0
+   Education ............................................                            0.0                 39            646              361              0
+   Food Sales ..........................................                             0.0                 39          1,541              282              0
+   Food Service .......................................                              0.0                 39          1,994              561              0
+   Health Care Inpatient ...........................                                 0.0                 39          1,938              582              0
+   Health Care Outpatient ........................                                   0.0                 39            737              571              0
+   Lodging ...............................................                           0.0                 39            777              117              0
+   Retail (Other Than Mall).......................                               3,820.0                 39            577              247       3295727
+   Office ...................................................                        0.0                 39            723              588              0
+   Public Assembly ..................................                                0.0                 39            733              150              0
+   Public Order and Safety ......................                                    0.0                 39            899              374              0
+   Religious Worship ...............................                                 0.0                 39            339              129              0
+   Service ................................................                          0.0                 39            599              266              0
+   Warehouse and Storage ......................                                      0.0                 39            352              181              0
+   Other ...................................................                         0.0                 39          1,278              257              0
+   Vacant .................................................                          0.0                 39            162                47             0
+
+   Section II: Pavement..........................
+
+   Pavement.............................................                          550.00                                                            27500
+
+                                                                Total Project Emissions:                                                         3534752
+
+
+
+
+Version 1.7 12/26/07
+                                                                                           TENW
+                                                                     Transportation Engineering NorthWest
+
+
+
+
+MEMORANDUM
+DATE:       April 3, 2017
+
+TO:         Michael Houston, Seattle DCI
+            Marijana Cvenček, Baylis Architects
+
+FROM:       Michael Read, PE, Principal, TENW
+
+SUBJECT:     Greenwood Phase 3 Mixed Use (MUP 3026306) ă Traffic and Parking Impact Analysis
+             TENW Project No. 3499
+This memorandum summarizes the results of a traffic impact and parking demand analysis
+associated with a proposed development of a mixed use project known as the Greenwood Phase
+3 Mixed Use project in the Greenwood neighborhood of Seattle, WA. Upon completion, the
+proposed project would construct a multi-story complex with up to 154 apartment units and
+approximately 4,000 square-feet of ground floor commercial retail uses. In addition to review of
+traffic and parking demand, traffic operational impacts at the vicinity intersections that would serve
+as site access to the project are also included.
+
+Project Description
+The proposed project is located at 8612 Palentine Avenue N (MUP 3026306). A project site
+vicinity map is provided in Figure 1. A ground-floor conceptual site plan is provided in Figure 2.
+The proposed project would include 154 apartment units and approximately 4,000 square-feet of
+ground floor specialty retail uses fronting along a mid-block alleyway that has been developed
+between Greenwood Avenue N and Palentine Avenue N. The site is currently undeveloped, and
+as such, there is no formal vehicle access. On-site parking for 105 vehicles would be provided
+within a 2-level underground level garage. A single site access driveway onto Palentine Avenue N
+is proposed. Project completion and full occupancy is expected by 2020.
+
+
+Project Trip Generation Analysis
+Published trip rate equations compiled by the Institute of Transportation Engineers (ITE) Trip
+Generation, 9th Edition, 2012, were used to estimate daily, a.m. and p.m. peak hour traffic that
+would be generated by the proposed development assuming new Mid-Rise Apartment uses (ITE
+Land Use Code 223) and Specialty Retail Uses (ITE Land Use Code 826), with consideration for
+removal of existing land uses (residential apartment units only).
+
+As shown in Table 1, an estimated net increase of approximately 1,192 daily, 57 a.m. (19
+entering and 38 exiting), and 74 p.m. peak hour vehicular trips (41 entering and 33 exiting)
+would be generated with redevelopment of the site when applying standard ITE trip generation
+
+
+
+                     Transportation Planning | Design | Traffic Impact & Operations
+                        PO Box 65254, Seattle, WA 98155 | Office (206) 361-7333
+       Traffic and Parking Impact Analysis
+           Greenwood Phase 3 Mixed Use
+
+
+
+
+TENW                      April 3, 2017
+                                Page 2
+       Traffic and Parking Impact Analysis
+           Greenwood Phase 3 Mixed Use
+
+
+
+
+TENW                      April 3, 2017
+                                Page 3
+                                                                                         Traffic and Parking Impact Analysis
+                                                                                             Greenwood Phase 3 Mixed Use
+
+
+
+
+rates. However, given the siteÊs proximity to the vicinity retail, banking, entertainment, civic, and
+restaurant uses and the frequent fixed route transit service on Greenwood Avenue and N 85th
+Street, a mode share adjustment is warranted to refine standard trip generation rates. Applying a
+moderate access mode shares adjustment from other similar studies completed by TENW, a 10
+percent reduction in residential trips would result in a net increase of approximately 1,090 new
+daily, 52 new a.m. peak hour trips, and 67 p.m. peak hour trips. A detailed summary of trip
+generation calculations is provided in Attachment A.
+
+                                      Table 1
+                Greenwood Phase 3 Mixed Use - Trip Generation Summary
+              Time Period                                   In             Out               Total
+                                             Standard ITE Rates
+
+              Weekday AM Peak Hour                          19              38                 57
+
+              Weekday PM Peak Hour                          41              33                 74
+              Weekday Daily                                596             596               1,192
+
+                         With Transit Mode Share Adjustments for Residential
+
+              Weekday AM Peak Hour                          17              35                 52
+
+              Weekday PM Peak Hour                          37              30                 67
+              Weekday Daily                                545             545               1,090
+                  Source: Trip Generation Manual,   9th   Edition, ITE, 2012 and TENW.
+
+
+
+Parking Demand Analysis
+A parking impact analysis was conducted to evaluate the removal of existing supply/demand
+generated by the proposed project. The parking impact analysis reviewed:
+     City of Seattle parking requirements.
+     Parking demand of proposed commercial development using ITE rates.
+
+
+City of Seattle Parking Requirements
+
+Based upon City of Seattle off-street parking standards (Seattle Municipal Code Title 23.54.015 ă
+Chart A Parking), Table 2 summarizes minimum off-street parking stalls required. As shown the
+project is within a designated Urban Village of Greenwood, the City of Seattle would require no
+off-street parking for either proposed residential use given the frequent transit service available
+along Greenwood Avenue and N 85th Street that is within 500 feet of the subject property (less
+than the required 1,320 feet). As the project is proposing 105 stalls, the on-site parking would
+exceed this minimum requirement.
+
+
+
+
+     TENW                                                                                                   April 3, 2017
+                                                                                                                  Page 4
+                                                                                                Traffic and Parking Impact Analysis
+                                                                                                    Greenwood Phase 3 Mixed Use
+
+
+
+
+      Table 2
+      Greenwood Phase 3 Mixed Use NE Parking Requirements
+                                                   Minimum Off-Street Parking
+      Parking Component                                 Requirements1                             Size            Total
+      Residential Uses2                                     0 stalls per unit                      154                0
+
+      Retail3                                       No minimum requirement                      4,000 SF              0
+                             Total Minimum Off-Street Parking Supply                                                  0
+    1 - Per City of Seattle Municipal Code, Title 23.54.015 Chart A Parking.
+    2 - All residential uses in commercial and multifamily zones within urban villages that are not within urban center or the
+    Station Area Overlay District, if the residential use is located within 1,320 feet of a street with frequent transit service,
+    measured as the walking distance from the nearest transit stop to the lot line of the lot containing the residential use.
+    3 - Non-residential uses in urban villages that are not within an urban center or the Station Area Overlay District, if the non-
+    residential use is located within 1,320 feet of a street with frequent transit service, measured as the walking distance from the
+    nearest transit stop to the lot line of the lot containing the non-residential use.
+
+
+Project Parking Demand
+
+For the project, the Institute of Transportation Engineers Parking Generation, Fourth Edition, 2010,
+transit availability, walkability factors, and the size/location of office use were all considered to
+determine parking demand for the proposed mixed use project at 8612 Palentine Avenue. Based
+upon Land Use Code 221 for Low/Mid-Rise Apartments and Shopping Center (LUC 820) for
+specialty retail uses, direct application of published rates in Parking Generation, 4th Edition,
+estimate the peak development parking demand at a total of 156 parking stalls (see Table 3).
+
+   Table 3: Greenwood Phase 3 Mixed Use Off-Street Parking Demand
+                                                                                                          Peak Parking
+   Demand Component                                                Rate or Adjustment                       Demand
+   Low/Mid-Rise Apartments (ITE LUC 221)1                      Stalls = 0.92 X 154 Units +4                     146
+
+                                                                  Stalls = 2.55 for Every
+   Specialty Retail/Live-Work Commercial                                                                         10
+                                                                     1,000 SF of LFA
+
+                     Total Parking Demand Using ITE Rates (Without discounts)                                   156
+
+                                                                     20% reduction in
+   Transit Service                                                                                              -29
+                                                                        residential
+
+                                                                     20% reduction in
+   Walkscore/Mixed Land Use                                                                                     -29
+                                                                     residential/retail
+
+                                             Total Parking Demand With Adjustment                                98
+    1 - Parking Generation Manual,    4th
+                                        Edition, ITE, 2010 and does not discount for vehicle availability factors, time of
+    day variations or shared parking demands.
+
+
+Given transit service availability immediately adjacent to the site on Greenwood Avenue and N
+85th Street (within 50 feet of the site), a 20 percent reduction in parking demand is expected for
+these factors. In addition, with a high Walk Score of 95, this particular project site and vicinity
+demonstrates that many typical trips can be achieved via nonmotorized modes. Given the location
+and size of the proposed use, it is very likely that may types of residential-based trips destined
+would walk to available commercial, retail, and service uses in the vicinity. As such, a cumulative
+
+    TENW                                                                                                              April 3, 2017
+                                                                                                                            Page 5
+                                                                         Traffic and Parking Impact Analysis
+                                                                             Greenwood Phase 3 Mixed Use
+
+
+
+
+40 percent reduction in residential parking demand is estimated in ITE parking generation rates.
+This finding is nearly equivalent to the King County Right Size Parking model (see Attachment B),
+which recommends a „built‰ parking stall ratio of 0.61 stalls per unit or 94 stalls when charging for
+parking that is charged separately than the lease rate itself.
+
+The parking demand analysis above does not consider time of day factors, when during typical
+weekday days residential demand decreases down to 75 percent of peak when specialty retail
+peak occurs, and evening hours when residential uses peak and no retail demand is generated.
+Based upon the proposed on-site supply of 105 stalls, no on-street parking during peak evening
+hours or during typical daytime periods is expected.
+
+Traffic Operational Impacts and Site Access Evaluation
+
+Baseline Traffic Volumes and Trip Distribution
+
+Peak hour traffic volumes represent the highest hourly volume of vehicles passing through an
+intersection during a typical 4-6 p.m. weekday peak period. Peak period turning movement counts
+at study intersections were conducted in October 2016 by IDAX Data Solutions, and are provided
+in Attachment C and shown on Figure 3. Based on existing traffic patterns and routes to/from the
+vicinity arterials, a general distribution of 20 percent north on Greenwood Avenue N, 5 percent
+west on N 87th Street, 15 percent west and 35 percent east on N 85th Street, and 25 percent
+south on Greenwood Avenue N was applied (Figure 4). Intersection level of service (LOS)
+analyses were conducted at the study intersections during the weekday PM peak hour of existing
+conditions and with project traffic generated at full buildout of the Greenwood Phase 3 Mixed Use
+project. 2020 baseline traffic volumes were estimated by applying a 1 percent per year
+background growth factor and additional project traffic generated by pipeline projects:
+
+   9002 Greenwood Ave N (28 residential units)
+   9038 Greenwood Avenue N (78 apartments and 6 live-work units)
+   308 N 90th Street (37 efficiency dwelling units)
+
+Attachment D summarizes 2016, pipeline project trips, and 2020 forecasts with and without the
+proposed Greenwood Phase 3 Mixed Use project, while Figure 5 overviews p.m. peak hour
+turning movement impacts of the project.
+
+
+Intersection Level of Service (LOS) Impacts
+
+LOS refers to the degree of congestion on a roadway or intersection. It is a measure of vehicle
+operating speed, travel time, travel delays, and driving comfort. A letter scale from A to F
+generally describes LOS. At signalized intersections, LOS A represents free-flow conditions-
+motorists experience little or no delays, and LOS F represents forced-flow conditions-motorists
+experience an average delay in excess of 80 seconds per vehicle. The LOS reported for
+signalized intersections represents the average control delay for all vehicles entering the
+intersection. The LOS reported at stop-controlled intersections is also based on the average control
+delay (sec/veh), but is reported for stop controlled and yield movements only. Table 4 outlines the
+LOS criteria for signalized and unsignalized intersections based on these methodologies.
+
+    TENW                                                                                    April 3, 2017
+                                                                                                  Page 6
+       Traffic and Parking Impact Analysis
+           Greenwood Phase 3 Mixed Use
+
+
+
+
+TENW                      April 3, 2017
+                                Page 7
+       Traffic and Parking Impact Analysis
+           Greenwood Phase 3 Mixed Use
+
+
+
+
+TENW                      April 3, 2017
+                                Page 8
+       Traffic and Parking Impact Analysis
+           Greenwood Phase 3 Mixed Use
+
+
+
+
+TENW                      April 3, 2017
+                                Page 9
+                                                                                       Traffic and Parking Impact Analysis
+                                                                                           Greenwood Phase 3 Mixed Use
+
+
+
+
+      Table 4: Level of Service Criteria for Intersections
+                                             Signalized Intersection              Unsignalized Intersection
+             Level of Service            Average Delay Range (sec)                    Delay Range (sec)
+                     A                                  10                                    10
+                     B                             > 10 to  20                           > 10 to  15
+                     C                             > 20 to  35                           > 15 to  25
+                     D                             > 35 to  55                           > 25 to  35
+                     E                             > 55 to  80                           > 35 to  50
+                     F                                 > 80                                   > 50
+
+      Source: “Highway Capacity Manual”, Special Report 209, Transportation Research Board, 2010.
+
+
+Estimated project intersection LOS impacts during the p.m. peak hour in 2020 are summarized in
+Table 5. As shown, the proposed redevelopment results in negligible level of service impacts at the
+study intersections (operating at LOS c or better). As such, no significant adverse traffic impacts would
+occur as a result of the project. Detailed LOS summary worksheets for existing conditions and in
+2020 with and without the project are included in Attachment E.
+
+Table 5: 2020 PM Peak Hour Intersection Level of Service Impacts
+                                               PM Peak Hour Without Project              PM Peak Hour With Project
+                                                         Average       V/C                     Average        V/C
+Study Intersection                                LOS   Delay (sec)   Ratio             LOS   Delay (sec)    Ratio
+Signalized Intersections
+2 – N 85th Street/Palentine Avenue N                  B          10.6          0.36       B           10.3            0.37
+3–N   85th   Street/Greenwood Avenue N               C           27.5          0.72       C           31.6            0.73
+5 – N 87th Street/Greenwood Avenue N                  B          12.9          0.43       B           13.0            0.44
+Yield Mini-Roundabout Intersection
+1 - N 87th Street/Palentine Avenue N                 A            8.1          0.12       A           8.0             0.10
+Note: Results based on Synchro 6 Traffic Signal Coordination Software and HCS2000 results using HCM 2000 control delays
+(seconds) and LOS.
+
+
+Site Access and Safety Issues
+
+Vehicular site access is proposed via one site access driveway onto Palentine Avenue N. Entering
+sight distance along this is in excess of 300 feet in either direction. Existing and future „roadway
+friction‰ factors that would be present along this local street (street trees, landscape strip, on-street
+parking) limit vehicle speeds, and as such, no site access, safety, or circulation issues are expected
+to occur with the distribution of the proposed parking garages onto Palentine Avenue N.
+
+An existing alleyway that serves the subject property and adjacent/adjoining properties to the north
+ends in a dead-end near the southeast quadrant of the subject property and ranges between 14
+and 16 feet wide where paved. Per Table C in SMC 23.53.030, Required Minimum Right-of-
+Way Widths for Existing Alleys, the current alleyway does not have the minimum width for the
+underlying land use NC2 zone to be considered as „improved‰. In addition, given the existing
+width and the lack of property control along its entire length, the code required alleyway access is
+not feasible as safe and adequate two-way circulation for garage access/egress via the alleyway
+would not be provided. Furthermore, per Figure 4-26, Seattle Right-of-Way Manual and
+
+     TENW                                                                                                   April 3, 2017
+                                                                                                               Page 10
+                                                                                Traffic and Parking Impact Analysis
+                                                                                    Greenwood Phase 3 Mixed Use
+
+
+
+
+23.53.025, Access easement standards D, the minimum paved width for 2-way circulation of 10
+or more residential units is 20 feet, which canÊt be met along the entire alleyway length to NE 87th
+Street.
+
+The proposed driveway location onto Palentine Avenue N is offset by approximately 35 feet
+(measured centerline-to-centerline) from an opposing driveway that serves a surface parking lot
+behind a commercial retail mixed use building. Given this off-set is less than 50 feet, driver
+alignment and sight distance between exiting volumes from either driveway while not ideal would
+be adequate to avoid turning conflicts of exiting vehicles.
+
+Given the level of residential density added in comparison to „built‰ conditions within the
+neighborhood, no significant impacts are expected given high levels of transit service and
+nonmotorized facilities already present and in use within the Greenwood neighborhood.
+
+Transportation Concurrency
+
+Prior to development approval, a transportation concurrency analysis is conducted based on the
+City of SeattleÊs DirectorÊs Rule 5-2009. Transportation concurrency standards are used to
+determine the acceptable balance between the demand for use of the arterial systems and the
+capacity of the transportation system. Total capacity is based not only on the facilities currently in
+existence, but also on known future projects.
+
+Transportation concurrency review in the City of Seattle is evaluated first by determining applicable
+screenlines. A screenline is an imaginary line drawn across several arterials at a particular location
+where the volume to-capacity ratio (v/c) is calculated. The following screenlines were evaluated:
+            1.11 North City Limit ă 3rd Avenue NW to Aurora Avenue N
+            6.12 South of NE 80th Street ă 8th Avenue NW to Greenwood Avenue N
+
+Baseline traffic volumes for the screenline were obtained from the DirectorÊs Rule 5-2009. Project-
+generated traffic was then added to baseline traffic volumes at the screenline. The total traffic
+volume, including the proposed developments trips, was then divided by the capacity of all
+roadways crossing the screenline to obtain a volume to capacity (v/c) ratio. This ratio was then
+compared to the LOS standard. Table 6 summarizes the transportation concurrency review results
+for the Greenwood Phase 3 Mixed Use development. As shown, the v/c ratios with the
+development were less than the LOS standard for all screenlines. Therefore, no system concurrency
+mitigation is required.
+
+Table 6: Greenwood Phase 3 Mixed Use Transportation Concurrency Review
+                                                     Baseline      Proposed
+                                           2008      Peak Hour      Project     With Project          LOS
+Screenline          Description          Capacity    Volume           Trips      V/C Ratio         Standard
+1.13                                 North City Limit – 30th Avenue NE to Lake City Way NE
+                          NB              4,760           3,441          13          0.73             1.20
+                          SB              4,760           2,402           8          0.51             1.20
+6.15                            South of NE 80th Street – 20th Avenue NE to Sand Point Way NE
+                          NB              4,200          1,763         10           0.42              1.00
+                          SB              4,200          1,232          8           0.30              1.00
+1.     Data obtained from DirectorÊs Rule 5-2009.
+
+
+       TENW                                                                                        April 3, 2017
+                                                                                                      Page 11
+                                                                       Traffic and Parking Impact Analysis
+                                                                           Greenwood Phase 3 Mixed Use
+
+
+
+
+Conclusions
+The proposed Greenwood Phase 3 Mixed Use development at 8612 Palentine Avenue N was
+evaluated for increased traffic demands, traffic operational impacts, and parking demands. A net
+increase of approximately 1,090 new daily, 52 new a.m. peak hour trips, and 67 new p.m.
+peak hour vehicular trips are estimated, and are not expected to generate any significant adverse
+traffic impacts. No off-site traffic operational impacts are expected to occur as a result of the
+proposed project at the study intersections that serve the immediate site vicinity.
+
+With the proposed on-site supply of 105 stalls, the project is expected to generate demand no
+new demand for on-street parking during peak evening hours or during typical daytime periods.
+
+If you have any questions regarding the information presented in this memo, please call me at
+(206) 361-7333 x 101 or mikeread@tenw.com.
+
+
+
+
+    TENW                                                                                  April 3, 2017
+                                                                                             Page 12
+         Attachment A
+Project Trip Generation Estimate
+ITE Trip Generation, 9th Edition, 2012
+8612 Palentine Ave N
+
+                                                      LU          AM Peak        PM Peak       Daily
+Proposed                                    X        Code    Enter Exit Trips Enter Exit Trips Trips Daily Rate         AM Rate        PM Rate
+Program from Baylis Architets
+Mid‐Rise Apartment                          154      223      16      35      50   36     27    63     1015     6.59   fitted curve   fitted curve
+Specialty Retail                           4,000     826       3       4       7    5     6     11      177    44.32       1.77           2.71
+
+Net Trips without Mode Split Adjustments                      19      38      57   41     33    74     1192
+
+Frequent Transit Walk Access1
+10% reduction for residential trips only                      ‐2      ‐3      ‐5    ‐4    ‐3    ‐6      ‐102
+
+Net Total with Project                                        17      35      52   37     30    67     1090
+
+1.  Source:  Frequent Fixed Route Transit Service to Northgate/Seattle CBD.
+
+
+
+
+                                                                                   Piper Phase 3 PM Vols.xls
+           Attachment B
+King County Right Size Parking Model
+       Attachment C
+PM Peak Hour Traffic Counts
+www.idaxdata.com                                                                                                                                                                                       03
+
+
+
+
+                            PALENTINE AVE N
+                               N 87TH ST
+                                                                                                                                      Date: Tue, Oct 25, 2016
+                 N                                Peak Hour                                                                   Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                Peak Hour: 4:00 PM to 5:00 PM
+
+
+
+                                                  8
+
+
+
+                                                                15
+                        PALENTINE
+                        AVE N
+
+
+
+
+                                                                     0
+                                                   4
+                                          2
+
+
+
+                                                            2
+
+
+
+
+                                                                                                                                                           0
+                                                                                      N 87TH ST
+
+                        2                                                             5
+                                                                                                                                                                       15
+       117                                                                                                    132                                                                              0
+                        3                     TEV:          357                       105
+
+
+
+
+                                                                                                                                                          10
+
+
+
+
+                                                                                                                                                                                4
+                     149                      PHF:          0.93                      18
+       168                                                                                                    189
+                                                                                     4                                                  1                              17
+                       14
+
+                N 87TH ST
+                                                                                     AVE N
+                                                                                 PALENTINE
+                                                                      34
+                                                       8
+
+                                                                7
+                                              0
+
+
+
+
+                                                                                                                                                                            0
+                                                                                                                    HV %:       PHF
+                                                                                                          EB        0.0%        0.89
+                                                                                                          WB        0.0%        0.83
+                                                  36
+
+
+
+                                                                49
+
+
+
+
+                                                                                                          NB        0.0%        0.82
+                                                                                                          SB        0.0%        0.40
+                                                                                                      TOTAL         0.0%        0.93
+
+
+Two-Hour Count Summaries
+                       N 87TH ST                                    N 87TH ST                            PALENTINE AVE N                        PALENTINE AVE N
+   Interval                                                                                                                                                                         15-min          Rolling
+                       Eastbound                                    Westbound                                 Northbound                             Southbound
+     Start                                                                                                                                                                           Total         One Hour
+                UT     LT    TH               RT           UT       LT    TH             RT          UT        LT    TH          RT     UT            LT    TH              RT
+   4:00 PM       0      0           41        3            1         5      34               0       0         2          1      7          0         0            0        0         94              0
+   4:15 PM       1      2           38        6            0         2      19               2       0         1          2      10         0         1            2        2         88              0
+   4:30 PM       1      0           28        4            1         6      22               1       0         1          2      12         0         0            1        0         79              0
+   4:45 PM       0      1           42        1            2         5      30               2       0         4          2      5          0         1            1        0         96             357
+   5:00 PM       0      4           39        1            1         5      20               1       0         3          0      14         0         0            1        1         90             353
+   5:15 PM       0      0           26        3            1         4      24               1       0         3          3      8          0         0            0        2         75             340
+   5:30 PM       0      1           33        1            1         3      27               1       0         1          4      8          0         0            0        2         82             343
+   5:45 PM       0      1           33        4            1         6      20               3       2         3          2      16         0         0            3        0         94             341
+ Count Total     2      9           280       23           8         36     196           11         2         18     16         80         0         2            8        7        698              0
+ Peak Hour       2      3           149       14           4         18     105              5       0         8          7      34         0         2            4        2        357              0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval             Heavy Vehicle Totals                                                         Bicycles                                             Pedestrians (Crossing Leg)
+     Start      EB      WB      NB      SB                          Total   EB               WB         NB           SB         Total       East           West      North    South                   Total
+   4:00 PM       0          0             0            0             0      1                    0        0           0          1              0              4                2          5           11
+   4:15 PM       0          0             0            0             0      0                    0        0           0          0              1              2                2          2              7
+   4:30 PM       0          0             0            0             0      0                    0        0           0          0              1              0                5          6           12
+   4:45 PM       0          0             0            0             0      0                    0        0           0          0              2              4                6          4           16
+   5:00 PM       1          0             0            0             1      1                    0        0           0          1              3              0                2          5           10
+   5:15 PM       0          0             0            0             0      0                    1        0           0          1              1              3                4          8           16
+   5:30 PM       0          0             0            0             0      2                    0        0           0          2              1              3                2          7           13
+   5:45 PM       0          0             0            0             0      0                    0        0           0          0              5              4                2          5           16
+ Count Total     1          0             0            0             1      4                    1        0           0          5              14             20            25            42         101
+ Peak Hour       0          0             0            0             0      1                    0        0           0          1              4              10            15            17          46
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                            mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                                         02
+
+
+
+
+                            PALENTINE AVE N
+                               N 85TH ST
+                                                                                                                              Date: Tue, Oct 25, 2016
+                 N                              Peak Hour                                                             Count Period: 4:00 PM to 6:00 PM
+                                                                                                                        Peak Hour: 5:00 PM to 6:00 PM
+
+
+
+                                               49
+
+
+
+                                                                82
+                        PALENTINE
+                        AVE N
+
+
+                                          17
+
+                                                   32
+
+                                                            0
+
+
+
+
+                                                                                                                                                   0
+                                                                                  N 85TH ST
+
+                                                                                  70
+                                                                                                                                                           71
+       757                                                                                        810                                                                           1
+                        0                      TEV: 1,376                         740
+
+
+
+
+                                                                                                                                                                   17
+                                                                                                                                               22
+                      12                       PHF: 0.94                          0
+      517                                                                                         537                           1
+                      505
+                                                                                                                                                            0
+               N 85TH ST
+                                                                                                          HV %:         PHF
+                                                                                                 EB       1.5%          0.90
+                                                                                                 WB       1.0%          0.93
+                                                                                                 NB           -           -
+                                                                                                 SB       0.0%          0.88
+                                                                                             TOTAL        1.2%          0.94
+
+
+Two-Hour Count Summaries
+                       N 85TH ST                                     N 85TH ST                            0                             PALENTINE AVE N
+   Interval                                                                                                                                                              15-min       Rolling
+                       Eastbound                                     Westbound                       Northbound                              Southbound
+     Start                                                                                                                                                                Total      One Hour
+                UT     LT    TH                RT       UT           LT    TH         RT    UT        LT    TH           RT         UT        LT    TH            RT
+   4:00 PM       0      5           117        0            0         0   175         19    0         0           0      0          0         4            0       2      322           0
+   4:15 PM       0      5           139        0            0         0   167         12    0         0           0      0          0         6            0       4      333           0
+   4:30 PM       0      4           107        0            0         0   164         13    0         0           0      0          0         11           0       4      303           0
+   4:45 PM       0      6           121        0            0         0   172         16    0         0           0      0          0         3            0       2      320         1,278
+   5:00 PM       0      2           108        0            0         0   176         15    0         0           0      0          0         8            0       6      315         1,271
+   5:15 PM       0      1           127        0            0         0   191         10    0         0           0      0          0         9            0       3      341         1,279
+   5:30 PM       0      5           138        0            0         0   186         14    0         0           0      0          0         8            0       4      355         1,331
+   5:45 PM       0      4           132        0            0         0   187         31    0         0           0      0          0         7            0       4      365         1,376
+ Count Total     0     32           989        0            0         0   1,418       130   0         0           0      0          0         56           0       29    2,654          0
+ Peak Hour       0     12           505        0            0         0   740         70    0         0           0      0          0         32           0       17    1,376          0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval              Heavy Vehicle Totals                                               Bicycles                                              Pedestrians (Crossing Leg)
+     Start      EB       WB      NB      SB                      Total     EB          WB      NB          SB           Total       East           West      North    South             Total
+   4:00 PM       4          3             0             0             7    0            0        0            0          0              3              9            17           0       29
+   4:15 PM       3          1             0             0             4    0            2        0            0          2              1              5            17           0       23
+   4:30 PM       4          2             0             0             6    0            0        0            0          0              2              7            20           0       29
+   4:45 PM       2          2             0             0             4    0            0        0            0          0              1              6            15           0       22
+   5:00 PM       1          2             0             0             3    0            1        0            0          1              3              0            12           0       15
+   5:15 PM       3          2             0             0             5    0            0        0            0          0              3              3            20           0       26
+   5:30 PM       2          2             0             0             4    1            0        0            0          1              5              6            15           0       26
+   5:45 PM       2          2             0             0             4    0            0        0            0          0              6              13           24           0       43
+ Count Total     21         16            0             0            37    1            3        0            0          4              24             49          140           0      213
+   Peak Hr       8          8             0             0            16    1            1        0            0          2              17             22           71           0      110
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                    mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                                                        01
+
+
+
+
+                        GREENWOOD AVE N
+                            N 85TH ST
+                                                                                                                                        Date: Tue, Oct 25, 2016
+                 N                                Peak Hour                                                                     Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                  Peak Hour: 5:00 PM to 6:00 PM
+
+
+
+                                                  507
+
+
+
+                                                                     467
+                        GREENWOOD
+                        AVE N
+
+
+
+
+                                                    352
+
+                                                               105
+                                          50
+
+
+
+
+                                                                           0
+
+
+
+
+                                                                                                                                                              7
+                                                                                            N 85TH ST
+
+                        0                                                                   139
+                                                                                                                                                                        52
+       744                                                                                                         846                                                                          2
+                       80                      TEV: 2,289                                   617
+
+
+
+
+                                                                                                                                                             104
+
+
+
+
+                                                                                                                                                                                  90
+                      371                      PHF: 0.97                                    90
+       536                                                                                                         551
+                                                                                            0                                             0                             97
+                       85
+
+                N 85TH ST
+                                                                                            AVE N
+                                                                                       GREENWOOD
+                                                                            75
+                                                        77
+
+                                                                  248
+                                              0
+
+
+
+
+                                                                                                                                                                              8
+                                                                                                                         HV %:    PHF
+                                                                                                              EB         1.5%     0.88
+                                                                                                              WB         1.4%     0.96
+                                                  527
+
+
+
+                                                                     400
+
+
+
+
+                                                                                                              NB         0.8%     0.88
+                                                                                                              SB         2.2%     0.89
+                                                                                                          TOTAL          1.5%     0.97
+
+
+Two-Hour Count Summaries
+                       N 85TH ST                                        N 85TH ST                        GREENWOOD AVE N                      GREENWOOD AVE N
+   Interval                                                                                                                                                                            15-min        Rolling
+                       Eastbound                                        Westbound                                  Northbound                          Southbound
+     Start                                                                                                                                                                              Total       One Hour
+                UT     LT    TH                RT            UT         LT    TH                RT       UT         LT    TH       RT     UT            LT    TH             RT
+   4:00 PM       0     19           89         21             0            23    153            34       0         23      58      15         0         27          83       12         557            0
+   4:15 PM       0     20           92         26             0            26    142            21       0         21      42      12         0         21          99       10         532            0
+   4:30 PM       0     18           97         22             0            22    148            20       0         24      49      9          0         17          77       17         520            0
+   4:45 PM       0     21           83         14             0            24    147            33       0         26      59      13         0         22          84       12         538          2,147
+   5:00 PM       0     21           90         21             0            26    136            42       0         25      54      21         0         27          79       15         557          2,147
+   5:15 PM       0     19           86         20             0            24    151            35       0         15      65      22         0         31         101       10         579          2,194
+   5:30 PM       0     25           101        26             0            26    159            27       0         17      54      14         0         20          82       14         565          2,239
+   5:45 PM       0     15           94         18             0            14    171            35       0         20      75      18         0         27          90       11         588          2,289
+ Count Total     0     158          732        168            0         185      1,207        247        0         171     456    124         0        192         695       101       4,436           0
+ Peak Hour       0     80           371        85             0            90    617          139        0         77      248     75         0        105         352       50        2,289           0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval             Heavy Vehicle Totals                                                             Bicycles                                        Pedestrians (Crossing Leg)
+     Start      EB      WB      NB      SB                              Total     EB                WB      NB            SB      Total       East        West      North    South                     Total
+   4:00 PM       2          4             1               0                7      0                 0         0            0       0              23               11         12              30        76
+   4:15 PM       2          1             1               2                6      0                 3         2            3       8              19               18         14              22        73
+   4:30 PM       3          3             1               2                9      0                 0         0            1       1              18               20         13              16        67
+   4:45 PM       2          2             2               2                8      1                 1         1            2       5              14               14          4              23        55
+   5:00 PM       1          3             0               2                6      0                 1         4            1       6              11               20         10              26        67
+   5:15 PM       2          3             1               2                8      0                 0         1            2       3              29               30         14              22        95
+   5:30 PM       3          3             1               4                11     0                 0         2            1       3              21               27         18              19        85
+   5:45 PM       2          3             1               3                9      0                 1         1            3       5              29               27         10              30        96
+ Count Total     17       22              8               17               64     1                 6         11          13       31         164              167            95           188         614
+ Peak Hour       8        12              3               11               34     0                 2         8            7       17             90           104            52              97       343
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                             mark.skaggs@idaxdata.com
+              Attachment D
+2020 PM Peak Hour Traffic Volume Forecasts
+Greenwood Village Phase 3 - Seattle WA
+Weekday PM Peak Turning Movement Forecasts                                                                                                   Growth Factor = 1%
+                                                                                                                                              Existing Year = 2016
+                                                                                                                                             Baseline Year = 2020
+                                                                                                                                                                                                     Enter Exit
+                                                                                                                                                                                                       37     30
+            2016 Existing                            TOTAL PIPELINE                            2020 Without Project                                Project Distribution                              Project Trips                             2020 With Project
+
+ 1                                           1                                           1                                                    1                                           1                                              1
+        N 87th St/Palentine Ave N                    N 87th St/Palentine Ave N                      N 87th St/Palentine Ave N                         N 87th St/Palentine Ave N                    N 87th St/Palentine Ave N                     N 87th St/Palentine Ave N
+
+
+
+
+                                                                                                                                                          0%
+
+
+
+
+                                                                                                                                                                         0%
+                           17
+
+
+
+
+                                                                                                                        17
+
+
+
+
+                                                                                                                                                                                                                                                                     17
+             8
+
+
+
+
+                                                         0
+
+
+
+
+                                                                       0
+
+
+
+
+                                                                                                        8
+
+
+
+
+                                                                                                                                                                                                       0
+
+
+
+
+                                                                                                                                                                                                                     0
+
+
+
+
+                                                                                                                                                                                                                                                     8
+             2
+
+                    4
+
+                           2
+
+
+
+
+                                                         0
+
+                                                                0
+
+                                                                       0
+
+
+
+
+                                                                                                        2
+
+                                                                                                               4
+
+                                                                                                                        2
+
+
+
+
+                                                                                                                                                                                                                                                     2
+
+                                                                                                                                                                                                                                                            4
+
+                                                                                                                                                                                                                                                                     2
+115    5                          5    132   0   0                               0   0   119    5                              5      137    5%                                      40% 2                                          15   121    5                            5      152
+      149          357           105             0               0               0             155            370             109                                 90%                                         30                               155         400              109
+168   14                         22    185   0   0                               0   0   175   15                             23      192    5%    5%                          40% 40% 2       2                               15   12   177   17                           38      204
+
+
+
+
+                                                                                                                                                                         40%
+                                                                                                                                                          5%
+                           34
+
+
+
+
+                                                                                                                        35
+
+
+
+
+                                                                                                                                                                                                                     12
+
+
+
+
+                                                                                                                                                                                                                                                     10
+
+
+
+
+                                                                                                                                                                                                                                                                     47
+             8
+
+                    7
+
+
+
+
+                                                         0
+
+                                                                0
+
+                                                                       0
+
+
+
+
+                                                                                                        8
+
+                                                                                                               7
+
+
+
+
+                                                                                                                                                                                                       2
+
+
+
+
+                                                                                                                                                                                                                                                            7
+                                                                                                                                                          45%
+
+
+
+
+                                                                                                                                                                         45%
+             40
+
+
+
+
+                           49
+
+
+
+
+                                                                                                        42
+
+
+
+
+                                                                                                                        50
+
+
+
+
+                                                                                                                                                                                                       17
+
+
+
+
+                                                                                                                                                                                                                     14
+
+
+
+
+                                                                                                                                                                                                                                                     59
+
+
+
+
+                                                                                                                                                                                                                                                                     64
+                                                         0
+
+
+
+
+                                                                       0
+                                                                                                                       % Increase =   3.6%                                                                                                                        Project Share =   7.5%
+ 2                                           2                                           2                                                    2                                           2                                              2
+        N 85th St/Palentine Ave N                    N 85th St/Palentine Ave N                      N 85th St/Palentine Ave N                         N 85th St/Palentine Ave N                    N 85th St/Palentine Ave N                     N 85th St/Palentine Ave N
+
+
+
+
+                                                                                                                                                          55%
+
+
+
+
+                                                                                                                                                                         55%
+
+
+
+
+                                                                                                                                                                                                                                                                     105
+             60
+
+
+
+
+                           82
+
+
+
+
+                                                                                                        63
+
+
+
+
+                                                                                                                        85
+
+
+
+
+                                                                                                                                                                                                       17
+
+
+
+
+                                                                                                                                                                                                                     20
+
+
+
+
+                                                                                                                                                                                                                                                     80
+                                                         0
+
+
+
+
+                                                                       0
+
+
+
+
+                                                                                                                                                          15%
+
+
+
+
+                                                                                                                                                                         40%
+             17
+
+
+
+
+                           43
+
+
+
+
+                                                                                                        18
+
+
+
+
+                                                                                                                        45
+
+
+
+
+                                                                                                                                                                                                                     12
+
+
+
+
+                                                                                                                                                                                                                                                     23
+
+
+
+
+                                                                                                                                                                                                                                                                     57
+                                                         0
+
+                                                                0
+
+                                                                       0
+
+
+
+
+                                                                                                               0
+
+
+
+
+                                                                                                                                                                                                       5
+
+
+
+
+                                                                                                                                                                                                                                                            0
+757   12                         70    810   4   0                               0   4   792   12                             73      847    20% 15%                           40%   40% 5     6                               15   15   797   18                           88      862
+      505          1,387         740             4               8               4             530            1,452           774                                 115%                                        37                               530         1,489            774
+517                                    548   4   0                               0   4   542    0                              0      575    15%                                     40% 6                                          12   548    0                            0      587
+
+
+
+
+                                                                                                                                                          5%
+                                                         0
+
+                                                                0
+
+                                                                       0
+
+
+
+
+                                                                                                        0
+
+                                                                                                               0
+
+                                                                                                                        0
+
+
+
+
+                                                                                                                                                                                                                                                     0
+
+                                                                                                                                                                                                                                                            0
+
+                                                                                                                                                                                                                                                                     0
+                                                                                                                                                          0%
+
+
+
+
+                                                                                                                                                                         5%
+             0
+
+
+
+
+                           0
+
+
+
+
+                                                         0
+
+
+
+
+                                                                       0
+
+
+
+
+                                                                                                        0
+
+
+
+
+                                                                                                                        0
+
+
+
+
+                                                                                                                                                                                                       0
+
+
+
+
+                                                                                                                                                                                                                     0
+
+
+
+
+                                                                                                                                                                                                                                                     0
+
+
+
+
+                                                                                                                                                                                                                                                                     0
+                                                                                                                       % Increase =   4.7%                                                                                                                        Project Share =   2.5%
+ 3                                           3                                           3                                                    3                                           3                                              3
+       N 85th St/Greenwood Ave N                 N 85th St/Greenwood Ave N                      N 85th St/Greenwood Ave N                            N 85th St/Greenwood Ave N                 N 85th St/Greenwood Ave N                        N 85th St/Greenwood Ave N
+
+
+
+
+                                                                                                                                                          15%
+
+
+
+
+                                                                                                                                                                         20%
+             507
+
+
+
+
+                           467
+
+
+
+
+                                                                                                        535
+
+
+
+
+                                                                                                                        500
+
+
+
+
+                                                                                                                                                                                                                                                     540
+
+
+
+
+                                                                                                                                                                                                                                                                     507
+                                                                       14
+                                                         7
+
+
+
+
+                                                                                                                                                                                                       5
+
+
+
+
+                                                                                                                                                                                                                     7
+                                                                                                                                                                   10%
+                    352
+
+                           105
+
+
+
+
+                                                                                                               369
+
+                                                                                                                        112
+
+
+
+
+                                                                                                                                                                                                                                                            372
+
+                                                                                                                                                                                                                                                                     114
+                                                                                                                                                                         5%
+             50
+
+
+
+
+                                                                                                        54
+
+
+
+
+                                                                                                                                                                                                                                                     54
+                                                         2
+
+                                                                3
+
+                                                                       3
+
+
+
+
+                                                                                                                                                                                                              3
+
+                                                                                                                                                                                                                     2
+744   80                         139   846   4   3                               5   7   778   86                             150     888    40%                               15% 35% 15                                      6    13   793   86                           156     901
+      370          2,288         617             1              24               2             386            2,405           644                30%              115%         20%             9              39               7               395         2,444            651
+535   85                         90    550   4   0                               0   4   560   88                             94      576    40% 10%                               35% 12      3                                    11   572   91                           94      587
+
+
+
+
+                                                                                                                                                          20%
+                    248
+
+
+
+
+                                                                                                               264
+
+
+
+
+                                                                                                                                                                                                                                                            266
+                                                                                                                                                                   5%
+             77
+
+
+
+
+                           75
+
+
+
+
+                                                                                                        80
+
+
+
+
+                                                                                                                        78
+
+
+
+
+                                                                                                                                                                                                                                                     87
+
+
+
+
+                                                                                                                                                                                                                                                                     78
+                                                         0
+
+                                                                6
+
+                                                                       0
+
+
+
+
+                                                                                                                                                                                                       7
+
+                                                                                                                                                                                                              2
+                                                                                                                                                          20%
+
+
+
+
+                                                                                                                                                                         25%
+             527
+
+
+
+
+                           400
+
+
+
+
+                                                                                                        551
+
+
+
+
+                                                                                                                        422
+
+
+
+
+                                                                                                                                                                                                                                                     557
+
+
+
+
+                                                                                                                                                                                                                                                                     431
+                                                         3
+
+
+
+
+                                                                       6
+
+
+
+
+                                                                                                                                                                                                       6
+
+
+
+
+                                                                                                                                                                                                                     9
+                                                                                                                       % Increase =   5.1%                                                                                                                        Project Share =   1.6%
+ 4                                           4                                           4                                                    4                                           4                                              4
+       N 87th St/Greenwood Ave N                 N 87th St/Greenwood Ave N                      N 87th St/Greenwood Ave N                            N 87th St/Greenwood Ave N
+                                                                                                                                                          20%                                  N 87th St/Greenwood Ave N                        N 87th St/Greenwood Ave N
+
+
+
+
+                                                                                                                                                                         20%
+             510
+
+
+
+
+                           465
+
+
+
+
+                                                                                                        539
+
+
+
+
+                                                                                                                        498
+
+
+
+
+                                                                                                                                                                                                                                                     546
+
+
+
+
+                                                                                                                                                                                                                                                                     504
+                                                                       14
+                                                         7
+
+
+
+
+                                                                                                                                                                                                       7
+
+
+
+
+                                                                                                                                                                                                                     6
+                                                                                                                                                          20%
+                    450
+
+
+
+
+                                                                                                               476
+
+
+
+
+                                                                                                                                                                                                                                                            476
+             40
+
+
+
+
+                           20
+
+
+
+
+                                                                                                        42
+
+
+
+
+                                                                                                                        21
+
+
+
+
+                                                                                                                                                                                                                                                     49
+
+
+
+
+                                                                                                                                                                                                                                                                     21
+                                                         0
+
+                                                                7
+
+                                                                       0
+
+
+
+
+                                                                                                                                                                                                       7
+
+
+
+
+                                                                                                                                                                                                                     0
+90    40                         25    65    0   0                               0   0   94    42                               26    68     40% 20%                                 0%   15   6                                    0    109   48                            26     68
+      45           1,185         25              0              21               0             47             1,256             26                                80%                                         27                               47          1,283             26
+160   75                         15    90    0   0                               0   0   167   78                               16    94     40% 20%                                 0%   12   6                                    0    179   84                            16     94
+                                                                                                                                                          20%
+                    400
+
+
+
+
+                                                                                                               430
+
+
+
+
+                                                                                                                                                                                                                                                            430
+             25
+
+
+
+
+                           25
+
+
+
+
+                                                                14
+
+
+
+
+                                                                                                        26
+
+
+
+
+                                                                                                                        26
+
+
+
+
+                                                                                                                                                                                                                                                     33
+
+
+
+
+                                                                                                                                                                                                                                                                     26
+                                                         0
+
+
+
+
+                                                                       0
+
+
+
+
+                                                                                                                                                                                                       7
+                                                                                                                                                          20%
+
+
+
+
+                                                                                                                                                                         20%
+             540
+
+
+
+
+                           450
+
+
+
+
+                                                                                                        570
+
+
+
+
+                                                                                                                        482
+
+
+
+
+                                                                                                                                                                                                                                                     576
+
+
+
+
+                                                                                                                                                                                                                                                                     489
+                                                                       14
+                                                         7
+
+
+
+
+                                                                                                                                                                                                       6
+
+
+
+
+                                                                                                                                                                                                                     7
+                                                                                                                       % Increase =   6.0%                                                                                                                        Project Share =   2.1%
+
+
+
+
+                                                                                                                                                                                                                                                                                           Date Printed: 3/30/2017
+                                                                                                                      Transportation Engineering Northwest, LLC                                                                                                                                       Page 1 of 1
+         Attachment E
+Intersection LOS Summary Sheets
+HCM Unsignalized Intersection Capacity Analysis
+1: N 87th St & Palentine Ave                                                                               3/30/2017
+
+
+
+Movement                   EBL      EBT      EBR     WBL     WBT     WBR    NBL    NBT     NBR    SBL    SBT     SBR
+Lane Configurations
+Sign Control                        Yield                    Yield                 Yield                 Yield
+Volume (vph)                  5      155       15      23     109       5      8       7     35      2       4      2
+Peak Hour Factor           0.95     0.95     0.95    0.95    0.95    0.95   0.95   0.95    0.95   0.95   0.95    0.95
+Hourly flow rate (vph)        5      163       16      24     115       5      8       7     37      2       4      2
+Direction, Lane #     EB 1 WB 1              NB 1    SB 1
+Volume Total (vph)     184  144                 53       8
+Volume Left (vph)         5   24                 8       2
+Volume Right (vph)       16    5                37       2
+Hadj (s)              -0.01 0.05             -0.35   -0.07
+Departure Headway (s)   4.2  4.3               4.3     4.6
+Degree Utilization, x  0.21 0.17              0.06    0.01
+Capacity (veh/h)       843  824               778     712
+Control Delay (s)       8.3  8.1               7.6     7.7
+Approach Delay (s)      8.3  8.1               7.6     7.7
+Approach LOS              A    A                 A       A
+Intersection Summary
+Delay                                          8.1
+HCM Level of Service                             A
+Intersection Capacity Utilization           27.6%        ICU Level of Service                A
+Analysis Period (min)                           15
+
+
+
+
+Piper Village Phase 3 5:00 pm 11/3/2016 2020 Baseline                                              Synchro 6 Report
+Transportation Engineering Northwest                                                                        Page 1
+HCM Signalized Intersection Capacity Analysis
+2: N 85th St & Palentine Ave                                                                   3/30/2017
+
+
+
+Movement                EBL         EBT      WBT     WBR       SBL    SBR
+Lane Configurations
+Ideal Flow (vphpl)     1900         1900     1900    1900     1900    1900
+Total Lost time (s)                   4.0      4.0              4.0
+Lane Util. Factor                    0.95     0.95             1.00
+Frt                                  1.00     0.99             0.96
+Flt Protected                        1.00     1.00             0.97
+Satd. Flow (prot)                   3535     3493             1729
+Flt Permitted                        0.93     1.00             0.97
+Satd. Flow (perm)                   3292     3493             1729
+Volume (vph)              12         530      774      73        45     18
+Peak-hour factor, PHF   0.95         0.95     0.95   0.95      0.95   0.95
+Adj. Flow (vph)           13         558      815      77        47     19
+RTOR Reduction (vph)       0            0       18      0        11      0
+Lane Group Flow (vph)      0         571      874       0        55      0
+Turn Type              Perm
+Protected Phases                       4        8                 6
+Permitted Phases           4
+Actuated Green, G (s)                14.1    14.1             16.1
+Effective Green, g (s)               14.1    14.1             16.1
+Actuated g/C Ratio                   0.37    0.37             0.42
+Clearance Time (s)                    4.0     4.0              4.0
+Vehicle Extension (s)                 3.0     3.0              3.0
+Lane Grp Cap (vph)                  1215    1289              729
+v/s Ratio Prot                              c0.25            c0.03
+v/s Ratio Perm                      0.17
+v/c Ratio                           0.47     0.68              0.08
+Uniform Delay, d1                    9.2     10.1               6.6
+Progression Factor                  1.00     1.00              1.00
+Incremental Delay, d2                0.3      1.4               0.2
+Delay (s)                            9.5     11.6               6.8
+Level of Service                       A        B                 A
+Approach Delay (s)                   9.5     11.6               6.8
+Approach LOS                           A        B                 A
+Intersection Summary
+HCM Average Control Delay                     10.6          HCM Level of Service    B
+HCM Volume to Capacity ratio                  0.36
+Actuated Cycle Length (s)                     38.2          Sum of lost time (s)   8.0
+Intersection Capacity Utilization           34.0%           ICU Level of Service     A
+Analysis Period (min)                           15
+c Critical Lane Group
+
+
+
+
+Piper Village Phase 3 5:00 pm 11/3/2016 2020 Baseline                                    Synchro 6 Report
+Transportation Engineering Northwest                                                              Page 2
+HCM Signalized Intersection Capacity Analysis
+3: N 85th St & Greenwood Ave                                                                                    3/30/2017
+
+
+
+Movement                 EBL        EBT      EBR      WBL      WBT     WBR    NBL     NBT     NBR      SBL    SBT     SBR
+Lane Configurations
+Ideal Flow (vphpl)      1900        1900     1900     1900     1900    1900   1900    1900    1900    1900    1900    1900
+Total Lost time (s)                   4.0                        4.0            4.0     4.0     4.0     4.0     4.0     4.0
+Lane Util. Factor                    0.95                       0.95           1.00    1.00    1.00    1.00    1.00    1.00
+Frt                                  0.98                       0.97           1.00    1.00    0.85    1.00    1.00    0.85
+Flt Protected                        0.99                       0.99           0.95    1.00    1.00    0.95    1.00    1.00
+Satd. Flow (prot)                   3429                       3431           1770    1863    1583    1770    1863    1583
+Flt Permitted                        0.62                       0.79           0.95    1.00    1.00    0.95    1.00    1.00
+Satd. Flow (perm)                   2159                       2736           1770    1863    1583    1770    1863    1583
+Volume (vph)               86        386       88       94      644    150       80    264       78    112     369       54
+Peak-hour factor, PHF    0.95        0.95    0.95     0.95      0.95   0.95    0.95    0.95    0.95    0.95    0.95    0.95
+Adj. Flow (vph)            91        406       93       99      678    158       84    278       82    118     388       57
+RTOR Reduction (vph)        0          26       0        0        30      0       0       0      55       0       0      37
+Lane Group Flow (vph)       0        564        0        0      905       0      84    278       27    118     388       20
+Turn Type              pm+pt                         pm+pt                     Prot           Perm     Prot           Perm
+Protected Phases            7          4                 3         8              5      2                1      6
+Permitted Phases            4                            8                                       2                       6
+Actuated Green, G (s)               16.9                        16.9           3.8    16.6    16.6      4.5 17.3      17.3
+Effective Green, g (s)              16.9                        16.9           3.8    16.6    16.6      4.5 17.3      17.3
+Actuated g/C Ratio                  0.34                        0.34          0.08    0.33    0.33     0.09 0.35      0.35
+Clearance Time (s)                   4.0                         4.0           4.0     4.0     4.0      4.0   4.0      4.0
+Vehicle Extension (s)                3.0                         3.0           3.0     3.0     3.0      3.0   3.0      3.0
+Lane Grp Cap (vph)                  730                         925           135     619     526      159   645      548
+v/s Ratio Prot                                                                0.05    0.15            c0.07 c0.21
+v/s Ratio Perm                      0.26                      c0.33                           0.02                    0.01
+v/c Ratio                           0.77                       0.98           0.62    0.45    0.05    0.74    0.60    0.04
+Uniform Delay, d1                   14.8                       16.4           22.4    13.1    11.4    22.2    13.5    10.8
+Progression Factor                  1.00                       1.00           1.00    1.00    1.00    1.00    1.00    1.00
+Incremental Delay, d2                5.1                       24.2            8.6     2.3     0.2    16.9     4.1     0.1
+Delay (s)                           19.9                       40.5           31.0    15.5    11.5    39.1    17.6    11.0
+Level of Service                       B                          D              C       B       B       D       B       B
+Approach Delay (s)                  19.9                       40.5                   17.7                    21.5
+Approach LOS                           B                          D                      B                       C
+Intersection Summary
+HCM Average Control Delay                     27.5           HCM Level of Service                C
+HCM Volume to Capacity ratio                  0.72
+Actuated Cycle Length (s)                     50.0           Sum of lost time (s)               8.0
+Intersection Capacity Utilization           78.5%            ICU Level of Service                D
+Analysis Period (min)                           15
+c Critical Lane Group
+
+
+
+
+Piper Village Phase 3 5:00 pm 11/3/2016 2020 Baseline                                                   Synchro 6 Report
+Transportation Engineering Northwest                                                                             Page 3
+HCM Signalized Intersection Capacity Analysis
+4: N 87th St & Greenwood Ave                                                                           3/30/2017
+
+
+
+Movement                EBL EBT       EBR     WBL      WBT     WBR    NBL     NBT     NBR     SBL     SBT    SBR
+Lane Configurations
+Ideal Flow (vphpl)     1900 1900      1900    1900     1900    1900   1900    1900    1900   1900    1900    1900
+Total Lost time (s)            4.0                       4.0            4.0     4.0            4.0     4.0
+Lane Util. Factor             1.00                      1.00           1.00    1.00           1.00    1.00
+Frt                           0.94                      0.95           1.00    0.99           1.00    0.99
+Flt Protected                 0.99                      0.99           0.95    1.00           0.95    1.00
+Satd. Flow (prot)            1723                      1746           1770    1848           1770    1840
+Flt Permitted                 0.93                      0.93           0.32    1.00           0.35    1.00
+Satd. Flow (perm)            1615                      1646            600    1848            652    1840
+Volume (vph)              42    47      78       16       26     26      26    460      26      21    476      42
+Peak-hour factor, PHF   0.95 0.95     0.95     0.95     0.95   0.95    0.95    0.95   0.95    0.95    0.95   0.95
+Adj. Flow (vph)           44    49      82       17       27     27      27    484      27      22    501      44
+RTOR Reduction (vph)       0    52       0        0       17      0       0       4      0       0       6      0
+Lane Group Flow (vph)      0  123        0        0       54      0      27    508       0      22    540       0
+Turn Type              Perm                   Perm                    Perm                   Perm
+Protected Phases                 4                         8                     2                      6
+Permitted Phases           4                     8                       2                      6
+Actuated Green, G (s)         22.0                      22.0          30.0    30.0           30.0     30.0
+Effective Green, g (s)        22.0                      22.0          30.0    30.0           30.0     30.0
+Actuated g/C Ratio            0.37                      0.37          0.50    0.50           0.50     0.50
+Clearance Time (s)             4.0                       4.0           4.0     4.0            4.0      4.0
+Lane Grp Cap (vph)            592                       604           300     924            326      920
+v/s Ratio Prot                                                                0.27                   c0.29
+v/s Ratio Perm               c0.08                      0.03          0.05                   0.03
+v/c Ratio                     0.21                      0.09          0.09    0.55           0.07     0.59
+Uniform Delay, d1             13.0                      12.4           7.9    10.3            7.8     10.6
+Progression Factor            1.00                      1.00          1.00    1.00           1.00     1.00
+Incremental Delay, d2          0.8                       0.3           0.6     2.3            0.4      2.7
+Delay (s)                     13.8                      12.7           8.4    12.7            8.2     13.3
+Level of Service                 B                         B             A       B              A        B
+Approach Delay (s)            13.8                      12.7                  12.5                    13.1
+Approach LOS                     B                         B                     B                       B
+Intersection Summary
+HCM Average Control Delay              12.9          HCM Level of Service               B
+HCM Volume to Capacity ratio           0.43
+Actuated Cycle Length (s)              60.0          Sum of lost time (s)              8.0
+Intersection Capacity Utilization    47.4%           ICU Level of Service                A
+Analysis Period (min)                    15
+c Critical Lane Group
+
+
+
+
+Piper Village Phase 3 5:00 pm 11/3/2016 2020 Baseline                                          Synchro 6 Report
+Transportation Engineering Northwest                                                                    Page 4
+HCM Unsignalized Intersection Capacity Analysis
+1: N 87th St & Palentine Ave                                                                              3/30/2017
+
+
+
+Movement                EBL         EBT      EBR     WBL    WBT     WBR    NBL    NBT     NBR    SBL    SBT     SBR
+Right Turn Channelized
+Volume (veh/h)             5         155       17      29      38      5     10       7     47      2       4      2
+Peak Hour Factor        0.95         0.95    0.95    0.95    0.95   0.95   0.95    0.95   0.95   0.95    0.95   0.95
+Hourly flow rate (vph)     5         163       18      31      40      5     11       7     49      2       4      2
+Approach Volume (veh/h)              186                       76                    67                     8
+Crossing Volume (veh/h)                37                      23                  171                     81
+High Capacity (veh/h)               1345                    1360                  1212                  1300
+High v/c (veh/h)                     0.14                    0.06                  0.06                  0.01
+Low Capacity (veh/h)                1126                    1139                  1004                  1084
+Low v/c (veh/h)                      0.17                    0.07                  0.07                  0.01
+Intersection Summary
+Maximum v/c High                              0.14
+Maximum v/c Low                               0.17
+Intersection Capacity Utilization           27.9%       ICU Level of Service                A
+
+
+
+
+Piper Village Phase 3 5:00 pm 11/3/2016 2020 with Project                                         Synchro 6 Report
+Transportation Engineering Northwest                                                                       Page 1
+HCM Signalized Intersection Capacity Analysis
+2: N 85th St & Palentine Ave                                                                   3/30/2017
+
+
+
+Movement                EBL         EBT      WBT     WBR       SBL    SBR
+Lane Configurations
+Ideal Flow (vphpl)     1900         1900     1900    1900     1900    1900
+Total Lost time (s)                   4.0      4.0              4.0
+Lane Util. Factor                    0.95     0.95             1.00
+Frt                                  1.00     0.98             0.96
+Flt Protected                        1.00     1.00             0.97
+Satd. Flow (prot)                   3533     3485             1729
+Flt Permitted                        0.92     1.00             0.97
+Satd. Flow (perm)                   3240     3485             1729
+Volume (vph)              18         530      774      88        57     23
+Peak-hour factor, PHF   0.95         0.95     0.95   0.95      0.95   0.95
+Adj. Flow (vph)           19         558      815      93        60     24
+RTOR Reduction (vph)       0            0       23      0        14      0
+Lane Group Flow (vph)      0         577      885       0        70      0
+Turn Type              Perm
+Protected Phases                       4        8                 6
+Permitted Phases           4
+Actuated Green, G (s)                14.2    14.2             16.1
+Effective Green, g (s)               14.2    14.2             16.1
+Actuated g/C Ratio                   0.37    0.37             0.42
+Clearance Time (s)                    4.0     4.0              4.0
+Vehicle Extension (s)                 3.0     3.0              3.0
+Lane Grp Cap (vph)                  1201    1292              727
+v/s Ratio Prot                              c0.25            c0.04
+v/s Ratio Perm                      0.18
+v/c Ratio                           0.48     0.69              0.10
+Uniform Delay, d1                    9.2     10.2               6.7
+Progression Factor                  1.00     1.00              1.00
+Incremental Delay, d2                0.3      1.5               0.3
+Delay (s)                            9.5     11.7               7.0
+Level of Service                       A        B                 A
+Approach Delay (s)                   9.5     11.7               7.0
+Approach LOS                           A        B                 A
+Intersection Summary
+HCM Average Control Delay                     10.6          HCM Level of Service    B
+HCM Volume to Capacity ratio                  0.37
+Actuated Cycle Length (s)                     38.3          Sum of lost time (s)   8.0
+Intersection Capacity Utilization           38.9%           ICU Level of Service     A
+Analysis Period (min)                           15
+c Critical Lane Group
+
+
+
+
+Piper Village Phase 3 5:00 pm 11/3/2016 2020 with Project                                Synchro 6 Report
+Transportation Engineering Northwest                                                              Page 2
+HCM Signalized Intersection Capacity Analysis
+3: N 85th St & Greenwood Ave                                                                                    3/30/2017
+
+
+
+Movement                 EBL        EBT      EBR      WBL      WBT     WBR    NBL     NBT     NBR      SBL    SBT     SBR
+Lane Configurations
+Ideal Flow (vphpl)      1900        1900     1900     1900     1900    1900   1900    1900    1900    1900    1900    1900
+Total Lost time (s)                   4.0                        4.0            4.0     4.0     4.0     4.0     4.0     4.0
+Lane Util. Factor                    0.95                       0.95           1.00    1.00    1.00    1.00    1.00    1.00
+Frt                                  0.98                       0.97           1.00    1.00    0.85    1.00    1.00    0.85
+Flt Protected                        0.99                       0.99           0.95    1.00    1.00    0.95    1.00    1.00
+Satd. Flow (prot)                   3429                       3429           1770    1863    1583    1770    1863    1583
+Flt Permitted                        0.62                       0.79           0.95    1.00    1.00    0.95    1.00    1.00
+Satd. Flow (perm)                   2146                       2716           1770    1863    1583    1770    1863    1583
+Volume (vph)               86        395       91       94      651    156       87    266       78    114     372       54
+Peak-hour factor, PHF    0.95        0.95    0.95     0.95      0.95   0.95    0.95    0.95    0.95    0.95    0.95    0.95
+Adj. Flow (vph)            91        416       96       99      685    164       92    280       82    120     392       57
+RTOR Reduction (vph)        0          27       0        0        30      0       0       0      54       0       0      37
+Lane Group Flow (vph)       0        576        0        0      918       0      92    280       28    120     392       20
+Turn Type              pm+pt                         pm+pt                     Prot           Perm     Prot           Perm
+Protected Phases            7          4                 3         8              5      2                1      6
+Permitted Phases            4                            8                                       2                       6
+Actuated Green, G (s)               16.9                        16.9           3.8    17.3    17.3      3.8 17.3      17.3
+Effective Green, g (s)              16.9                        16.9           3.8    17.3    17.3      3.8 17.3      17.3
+Actuated g/C Ratio                  0.34                        0.34          0.08    0.35    0.35     0.08 0.35      0.35
+Clearance Time (s)                   4.0                         4.0           4.0     4.0     4.0      4.0   4.0      4.0
+Vehicle Extension (s)                3.0                         3.0           3.0     3.0     3.0      3.0   3.0      3.0
+Lane Grp Cap (vph)                  725                         918           135     645     548      135   645      548
+v/s Ratio Prot                                                                0.05    0.15            c0.07 c0.21
+v/s Ratio Perm                      0.27                      c0.34                           0.02                    0.01
+v/c Ratio                           0.79                       1.00           0.68    0.43    0.05    0.89    0.61    0.04
+Uniform Delay, d1                   15.0                       16.5           22.5    12.6    10.9    22.9    13.5    10.8
+Progression Factor                  1.00                       1.00           1.00    1.00    1.00    1.00    1.00    1.00
+Incremental Delay, d2                6.0                       29.3           13.3     2.1     0.2    45.2     4.2     0.1
+Delay (s)                           21.0                       45.9           35.8    14.7    11.1    68.1    17.8    11.0
+Level of Service                       C                          D              D       B       B       E       B       B
+Approach Delay (s)                  21.0                       45.9                   18.3                    27.7
+Approach LOS                           C                          D                      B                       C
+Intersection Summary
+HCM Average Control Delay                     31.2           HCM Level of Service                C
+HCM Volume to Capacity ratio                  0.81
+Actuated Cycle Length (s)                     50.0           Sum of lost time (s)             12.0
+Intersection Capacity Utilization           79.8%            ICU Level of Service               D
+Analysis Period (min)                           15
+c Critical Lane Group
+
+
+
+
+Piper Village Phase 3 5:00 pm 11/3/2016 2020 with Project                                               Synchro 6 Report
+Transportation Engineering Northwest                                                                             Page 3
+HCM Signalized Intersection Capacity Analysis
+4: N 87th St & Greenwood Ave                                                                            3/30/2017
+
+
+
+Movement                EBL EBT        EBR    WBL      WBT      WBR    NBL     NBT     NBR     SBL     SBT    SBR
+Lane Configurations
+Ideal Flow (vphpl)     1900 1900       1900   1900     1900     1900   1900    1900    1900   1900    1900    1900
+Total Lost time (s)            4.0                       4.0             4.0     4.0            4.0     4.0
+Lane Util. Factor             1.00                      1.00            1.00    1.00           1.00    1.00
+Frt                           0.94                      0.95            1.00    0.99           1.00    0.99
+Flt Protected                 0.99                      0.99            0.95    1.00           0.95    1.00
+Satd. Flow (prot)            1722                      1746            1770    1848           1770    1836
+Flt Permitted                 0.92                      0.93            0.32    1.00           0.35    1.00
+Satd. Flow (perm)            1599                      1643             588    1848            652    1836
+Volume (vph)              48    47       84      16       26      26      32    460      26      21    476      49
+Peak-hour factor, PHF   0.95 0.95      0.95    0.95     0.95    0.95    0.95    0.95   0.95    0.95    0.95   0.95
+Adj. Flow (vph)           51    49       88      17       27      27      34    484      27      22    501      52
+RTOR Reduction (vph)       0    53        0       0       17       0       0       4      0       0       6      0
+Lane Group Flow (vph)      0  135         0       0       54       0      34    508       0      22    547       0
+Turn Type              Perm                   Perm                     Perm                   Perm
+Protected Phases                 4                          8                     2                      6
+Permitted Phases           4                     8                        2                      6
+Actuated Green, G (s)         22.0                      22.0           30.0    30.0           30.0     30.0
+Effective Green, g (s)        22.0                      22.0           30.0    30.0           30.0     30.0
+Actuated g/C Ratio            0.37                      0.37           0.50    0.50           0.50     0.50
+Clearance Time (s)             4.0                       4.0            4.0     4.0            4.0      4.0
+Lane Grp Cap (vph)            586                       602            294     924            326      918
+v/s Ratio Prot                                                                 0.27                   c0.30
+v/s Ratio Perm               c0.08                      0.03           0.06                   0.03
+v/c Ratio                     0.23                      0.09           0.12    0.55           0.07     0.60
+Uniform Delay, d1             13.1                      12.4            8.0    10.3            7.8     10.7
+Progression Factor            1.00                      1.00           1.00    1.00           1.00     1.00
+Incremental Delay, d2          0.9                       0.3            0.8     2.3            0.4      2.8
+Delay (s)                     14.1                      12.7            8.8    12.7            8.2     13.5
+Level of Service                 B                         B              A       B              A        B
+Approach Delay (s)            14.1                      12.7                   12.4                    13.3
+Approach LOS                     B                         B                      B                       B
+Intersection Summary
+HCM Average Control Delay              13.0          HCM Level of Service                B
+HCM Volume to Capacity ratio           0.44
+Actuated Cycle Length (s)              60.0          Sum of lost time (s)               8.0
+Intersection Capacity Utilization    49.1%           ICU Level of Service                 A
+Analysis Period (min)                    15
+c Critical Lane Group
+
+
+
+
+Piper Village Phase 3 5:00 pm 11/3/2016 2020 with Project                                       Synchro 6 Report
+Transportation Engineering Northwest                                                                     Page 4
+                  Seattle
+                  Department of Planning and Development
+                    Permit and Plans / Engineering Services / Site Development Services
+
+                             SMC 25.09 WETLAND DETERMINATION
+PROJECT NUMBER: __3003519/3003514                                  ___
+CONTACT: _____ Michael Whalen_ ____________________
+PROJECT ADDRESS:
+________200 N 85th Street________________________________________________
+
+REGULATORY DETERMINATION (RD):
+
+Name of Wetland: _N/A______________
+
+Completed:       Office determination      _X_ Date: _6-8-06____
+                 Site visit(s)             _X Date(s): _6-8-06____
+
+SMC 25.09 Regulatory Determination (RD):
+
+__      Regulated Wetland(s) *
+
+X       No Regulatory Wetland *
+
+WETLAND RATING BASED ON WDOE WETLAND RATING SYSTEM:
+
+CATEGORY __N/A__
+
+BASIS OF REGULATORY DETERMINATION:
+_X    Wetland Delineation Report (Prepared by: ___Talasae                 ____
+_X    Site visit by DPD Staff
+__    Wetland is greater than 100 SF (As Determined by DPD Staff and/or Wetland Report)
+__    Area consists entirely of uplands.
+__    Wetland is less than 100 SF (As Determined by DPD Staff and/or Wetland Report)
+__    Area is an artificial wetland intentionally created from nonwetland sites, including, but not limited to,
+      irrigation and drainage ditches, grass-lined swales, canals, detention facilities, wastewater treatment
+      facilities, farm ponds, and landscape amenities, or those wetlands created after July 1, 1990, that were
+      unintentionally created as a result of the construction of a road, street, or highway.
+__    Other (Additional studies, maps, photos, historical evidence, etc...).
+
+COMMENTS:
+
+Hydrology not present based on report by The Riley Group, Inc. and confirmed with site visit.
+
+*Please note: A Wetland that is determined by the City of Seattle to be non-regulatory under SMC 25.09 maybe regulated by
+the U.S. Army Corps of Engineers under Section 404 of the Federal Clean Water Act. It is your responsibility to coordinate
+with the U.S. Army Corps of Engineers and the Washington State Department of Ecology to determine if they have wetland
+jurisdiction and permit requirements under Section 404 of the Federal Clean Water Act.
+
+
+DPD Reviewer: ___Robert Knable, PWS_______________ Date: _____6-8-06
+                  Seattle
+                  Department of Planning and Development
+                    Permit and Plans / Engineering Services / Site Development Services
+
+                             SMC 25.09 WETLAND DETERMINATION
+PROJECT NUMBER: __3003519/3003514                                  ___
+CONTACT: _____ Michael Whalen_ ____________________
+PROJECT ADDRESS:
+________200 N 85th Street________________________________________________
+
+REGULATORY DETERMINATION (RD):
+
+Name of Wetland: _N/A______________
+
+Completed:       Office determination      _X_ Date: _6-8-06____
+                 Site visit(s)             _X Date(s): _6-8-06____
+
+SMC 25.09 Regulatory Determination (RD):
+
+__      Regulated Wetland(s) *
+
+X       No Regulatory Wetland *
+
+WETLAND RATING BASED ON WDOE WETLAND RATING SYSTEM:
+
+CATEGORY __N/A__
+
+BASIS OF REGULATORY DETERMINATION:
+_X    Wetland Delineation Report (Prepared by: ___Talasae                 ____
+_X    Site visit by DPD Staff
+__    Wetland is greater than 100 SF (As Determined by DPD Staff and/or Wetland Report)
+__    Area consists entirely of uplands.
+__    Wetland is less than 100 SF (As Determined by DPD Staff and/or Wetland Report)
+__    Area is an artificial wetland intentionally created from nonwetland sites, including, but not limited to,
+      irrigation and drainage ditches, grass-lined swales, canals, detention facilities, wastewater treatment
+      facilities, farm ponds, and landscape amenities, or those wetlands created after July 1, 1990, that were
+      unintentionally created as a result of the construction of a road, street, or highway.
+__    Other (Additional studies, maps, photos, historical evidence, etc...).
+
+COMMENTS:
+
+Hydrology not present based on report by The Riley Group, Inc. and confirmed with site visit.
+
+*Please note: A Wetland that is determined by the City of Seattle to be non-regulatory under SMC 25.09 maybe regulated by
+the U.S. Army Corps of Engineers under Section 404 of the Federal Clean Water Act. It is your responsibility to coordinate
+with the U.S. Army Corps of Engineers and the Washington State Department of Ecology to determine if they have wetland
+jurisdiction and permit requirements under Section 404 of the Federal Clean Water Act.
+
+
+DPD Reviewer: ___Robert Knable, PWS_______________ Date: _____6-8-06
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     #8258
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  REGISTERED
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ARCHITECT
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           STATE OF WASHINGTON
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         KEVIN CLEARY
+                                                                                                                                        EXISTING MIXED-USE                                                                                                                                             EXISTING MIXED-USE
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                         P.S.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   COPYRIGHT C    2017
+                                                                                                                                        THE TOWERS ON GREENWOOD                                                                                                                                        3 APARTMENT UNITS                                                                                                                                           BAYLIS ARCHITECTS INCORPORATED
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                         1
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ALL RIGHTS RESERVED
+                                                                                                                                        8551 GREENWOOD AVE                                                                                                                                             8537 GREENWOOD AVE N                                                                                                                                        THIS DOCUMENT, AND THE IDEAS AND DESIGNS INCORPORATED
+
+                                                                                                                                        PARCEL #9231900005                                                                                                                                             PARCEL #9231900030
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   HEREIN, IS THE PROPERTY OF BAYLIS ARCHITECTS INC., AND MAY
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   NOT BE REUSED, IN WHOLE OR IN PART, WITHOUT THE WRITTEN
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   CONSENT OF BAYLIS ARCHITECTS INCORPORATED.
+
+
+
+
+                                                                                             11
+
+
+
+
+                                                                                                                          10
+
+
+
+
+                                                                                                                                             9
+
+
+
+
+                                                                                                                                                                               8
+
+
+
+
+                                                                                                                                                                                                      7
+
+
+
+
+                                                                                                                                                                                                                                           5
+
+
+
+
+                                                                                                                                                                                                                                                                              4
+
+
+
+
+                                                                                                                                                                                                                                                                                                   3
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                   2
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                       1
+                                                                                                                                                                                                                                                                                                                                                                                                                                                LK
+                                                                                                                                                                                                                                                       ALLEY                                                                                                                                                                                             SSW
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            A
+
+
+
+
+                                                                                                                                  16'
+                                                                                                            UNRECORDED                                                                                                                                                                                                                                                                                                                               CR O
+                                                                                                            EASEMENT:
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          GREENWOOD PHASE III
+                                                                                                            OVERHEAD
+                                                                                                            POWER LINES
+                                                                                                                                                                  S00° 43' 42" W
+
+
+
+
+                                                     G
+                                                                                                                                                                     227.41'
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                               G
+                                                                  5"
+                                                                                                                                                                                                                                                                          24"
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                8612 Palatine Ave N,
+                                                                                                                                                                                                                                                                          CON
+                                                                                                                                                                                                                PRIVATE PATIOS
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Seattle WA 98103
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              MIXED-USE
+                                                                                                                                                                                                                                                                                                                                                                                                             ENTRY TO
+                                                                                                                                                                                                                                                                                                                                                                                                             RETAIL
+
+                                                                                                                                                                                                                      26" CON
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                               F
+                                                                                                                                                                                                                                                                                                                                                                                                 11' CW/BW
+                                                                                                                                                                                                                                                                                                                                                                                                                                    EXISTING TREES
+                                                                                                                                                                                                                                               EXIST. TREES TO BE REMOVED TYP.                                                                                                                                                      TO REMAIN
+                                                                                                                                                                                                                                               NO EXISTING STRUCTURES
+                                                                                                                                                                                                                                               NO STREET TREES
+                                                     E
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                               E
+                                                                                                                                                                                                          GREENWOOD -PHASE III MIXED USE
+                                                                                                                                                                                                              PROPOSED MIXED-USE BUILDING CONSISTING                                                                                                           PRIVATE
+                                                                                                                                                                                                              OF (5) LEVELS OF TYPE V-A, WOOD FRAMED                                  EXIST. ROW, OVER THROUGH AND ACROSS FOR OPERATION                        PATIOS
+                                                                                                  PRIVATE
+                                                                 119'-4"
+
+
+
+
+                                                                                                                                                                                                              OVER (2) LEVELS OF TYPE I-A CONCRETE,
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                   126' - 4"
+                                                                                                                                                                                                                                                                                      OF A DRAINAGE PIPE ON LOTS 6 & 7. COMMISSIONERS
+                                                                                                                                                                                                                     R                                     R                      R
+                                                                                                                                                                                                              ABOVE-GRADE PARKING.
+                                                                                                  PATIOS                                                                                                                                                                              RECORDS: VOL 29, PG 34
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                     MORROW LANE
+                                                                                                                                                                                                                                                                                                                                                                                                                                        P.S.
+                                                                                                                                                                                                              PARCEL #9231900035, 040, 045, 050
+                                                                            S88° 24' 01" E
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                        5
+                                                                                                                                                                                                                                                                                                                                                                                                        ENTRY TO
+                                                                              127.05'
+                                                     D
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                        RETAIL
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                               D
+                                NEW DEVELOPMENT
+                                PARCEL #9231900055                                                                                                  26" DEC                                                                  24" CON
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                      S88° 30' 15" W
+                                                                                                                                                                                                                                                                                                   ROOF AT
+                                                                                                                                                                                                                                                                                                   STAIR AND
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                     MASTER USE PERMIT
+                                                                                                                                                                                                                                                                                                                                                                                       127.03'
+                                                                                                                                                                                                                                                                                                   ELEVATOR
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      08/22/2017
+                                                     C
+
+
+
+
+                                                                                                                                                                      R
+                                                         EXISTING
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                               C
+                                                         SHEAD
+
+
+
+                                                                                                                                                                                                                                                     OPEN COURTYARD                                                                                                                                                                EXISTING TREES
+
+
+
+
+                                                                                                                                                                                                                         R
+                                                                                                                                                                                                                                                                                                                                                                                                                                   TO REMAIN
+
+                                                                                                                                    R                         R                                           R
+
+
+                                                                                                        R                                                                                                                                                                                                                                                                                               ENTRY TO
+                                                                                                                                                                                                  R                                                                                                                                                                                                     RETAIL
+                                                                                                                              R
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                   B
+                                                                                                                                                                                         R
+
+
+
+
+                                                                                                                                                                                                                                                                                                                R
+                                                                                                                                                                                                                                EXIT
+                                                                                                                                                                                                                                                         LEVEL 1
+                                                               7'-5"
+
+
+
+
+                                                                                                                                                                                                                                                         GARAGE
+                                                                                                                                                                                                                                                         ACCESS
+                                                                                                                                                                                                                                                      N00° 43' 21" E
+                                                     A
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   PROJECT NUMBER:  16-0583
+                                                                                                                                                                                                                                                         227.64'
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                   A
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   PROJECT MANAGER: Checker
+                                                                                                                                                                                                                                       NEW CURB-CUT PER SDOT STDS.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   DRAWN BY:                                      Author
+                                                                                                               RESIDENTIAL                                                         RESIDENTIAL                                                         24' - 0"                                                RESIDENTIAL
+                                                                                                               UNIT ENTRIES                                                        UNIT ENTRIES                                                                                                                LOBBY ENTRY
+
+                                                                                                                                                                                                      224' - 10"
+                        2.000
+
+
+
+
+                                                                           2.000
+
+
+
+
+                                                                                                                                                                                                                                                                                                          30'
+                                                                                                                      1.935
+
+
+
+
+                                                                                                                                                 GARAGE
+                                                                                                                                                 ENTRY
+                                                                                       11
+
+
+
+
+                                                                                                                     10
+
+
+
+
+                                                                                                                                         9
+
+
+
+
+                                                                                                                                                                           8
+
+
+
+
+                                                                                                                                                                                                  7
+
+
+
+
+                                                                                                                                                                                                                     6
+
+
+
+
+                                                                                                                                                                                                                                       5
+
+
+
+
+                                                                                                                                                                                                                                                                          4
+
+
+
+
+                                                                                                                                                                                                                                                                                               3
+
+
+
+
+                                                                                                                                                                                                                                                                                                                               2
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                      1
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   REVISIONS:
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                     NO.                 DESCRIPTION               DATE
+
+
+                                                                                                                                                                                                                                                                       PALATINE AVE. N.
+
+
+
+
+                                                                                                                                                                                                                                                                                                         30'
+                                                                                                                                                                    24'DWY
+
+
+                                                                                                                                                                      (2)OHG                                                                                                                                                                                                                                                       12'DWY
+
+
+
+                                                                                                                                                                                                                                                                  CRW
+                                                                                                                                                                                                                         G(P)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                     PIPER VILLAGE - SEDGES
+                                                                                                                                                                                                                                                                                                                     8623 PALANTINE AVE N
+                                                                                                                                                                                                                                                                                                                     PARCEL #9231900105
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                              2.5 5   10                           20                                      40
+                                                                                                                                                                                                                                                                                                                                              1"=10'-0"                                                                                                            SITE PLAN
+
+                                                                                                                                                                                                                                                                                                                                                          0
+8/21/2017 11:22:46 AM
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                A100
+

@@ -1,0 +1,972 @@
+TG: 17205.00
+
+July 14, 2017
+
+Mr. Harry Schneider
+Schneider Homes, Inc.
+6510 Southcenter Boulevard
+Tukwila, WA 98188
+
+SUBJECT:         WAYNE’S PLACE APARTMENTS TRAFFIC IMPACT ANALYSIS
+
+
+Dear Harry:
+
+This letter report and supporting attachments summarize the traffic impact analysis (TIA) for the proposed
+Wayne’s Place Apartments. It provides a description of the proposed project, study scope and area, roadway
+network, existing and future traffic volumes, traffic safety, vehicle trip generation and distribution, traffic
+operations, site access and sight distance analysis, traffic safety impacts, and school walkways. It was
+determined that the proposed development would not generate any significant traffic-related impacts and
+therefore, no off-site mitigation measures would be necessary.
+
+Project Description. The project site is currently undeveloped and located immediately north of SE 180th
+Street and west of 140th Avenue SE in unincorporated King County. The proposed project would include the
+construction of up to 79 mid-rise apartment units. Vehicular access is proposed via one driveway on SE 180th
+Street, approximately 140 feet west of 140th Avenue SE. Figure 1 illustrates the site vicinity and a preliminary
+site plan is shown in Figure 2.
+
+
+
+
+                                   Figure 1. Site Vicinity & Study Intersections
+
+    12131 113th Avenue N.E., Suite 203, Kirkland, WA 98034 | 425.821.3665 |
+Mr. Harry Schneider
+July 14, 2017
+Page 2 of 8
+
+
+
+
+                                 Figure 2. Preliminary Site Plan
+
+
+Study Scope and Area. The TIA scope follows requirements set forth in the King County Integrated
+Transportation Program (ITP) and has been coordinated with development review staff from KCDOT. Based
+on ITP requirements, one off-site intersection (140th Avenue SE / SE 180th Street) would be impacted by
+30 or more peak hour project trips and at least 20 percent of total peak hour project traffic and is studied
+accordingly.
+
+Traffic operations are evaluated during average weekday AM and PM peak hour traffic conditions. This
+reflects the highest hourly traffic volumes throughout an average day and typically occurs between 7:00 and
+9:00 a.m. and between 4:00 and 6:00 p.m., respectively.
+
+Roadway Network. The following section summarizes the roadways and intersections within the study area
+as well as existing non-motorized and transit facilities. The two roadways within the study area include:
+
+       140th Avenue SE is a five-lane principal arterial with a posted speed limit of 40 miles per hour (mph).
+        Two northbound through lanes, two southbound through lanes, and a two-way center left-turn lane
+        exist on 140th Avenue SE east of the project site. On-street bicycle lanes and sidewalks exist on both
+        sides of the roadway.
+
+       SE 180th Street is a two-lane neighborhood collector roadway with a posted speed limit of 25 mph,
+        providing one eastbound through lane and one westbound through lane. There are no bicycle
+        facilities or sidewalks provided on this roadway.
+Mr. Harry Schneider
+July 14, 2017
+Page 3 of 8
+
+
+
+
+       140th Avenue SE / SE 180th Street Intersection includes a single eastbound approach lane, two
+        northbound through lanes, two southbound through lanes and a two-way left-turn lane that is currently
+        used by northbound-to-westbound left-turning traffic and eastbound-to-northbound left-turning traffic.
+
+Transit facilities are provided north of the site on 140th Avenue SE and SE Petrovitsky Road. The nearest
+transit stop is approximately 1,700 feet walking distance from the site on SE Petrovitsky Road west of 140th
+Avenue SE. In total, there are three transit routes available (operated by King County Metro) within the study
+area and are summarized below:
+
+       Route 102 operates between Fairwood and Downtown Seattle on weekdays from approximately
+        4:45 a.m. to 7:15 a.m. in the mornings to Downtown Seattle and from approximately 3:30 p.m. to
+        6:00 p.m. in the afternoons to Fairwood.
+
+       Route 148 operates between Fairwood and the Renton Transit Center seven days a week. On
+        weekdays, the route runs from approximately 5:45 a.m. to 10:00 p.m. every 30 minutes. On
+        weekends, the route runs from approximately 8:00 a.m. to 8:00 p.m. every hour.
+
+       DART Route 906 operates between Fairwood and Southcenter from Monday to Saturday. On
+        weekdays, the route runs from approximately 6:00 a.m. to 6:00 p.m. every hour. On Saturdays, the
+        route runs from approximately 8:00 a.m. to 6:00 p.m. every hour.
+
+Traffic Volumes. Existing weekday AM and PM peak hour traffic volumes at the intersection of 140th
+Avenue SE and SE 180th Street were collected on a typical weekday in May 2017 and are provided in
+Attachment 1.
+
+Future without-project weekday traffic volumes at 140th Avenue SE / SE 180th Street were estimated by
+increasing existing volumes annually by 6 percent and 1 percent during the AM and PM peak hour,
+respectively. In addition, project trips from three nearby pipeline projects (28-lot Fairwood Assemblage
+development, 88-lot Addison Park development, and 117-bed Fairwood Memory Care Assisted Living
+development) were also assigned to the study intersection. This is a reasonable approach in forecasting
+future volumes in that AM and PM peak hour traffic volumes at the nearby intersection of SE Petrovitsky Road
+/ 140th Avenue SE increased by about 6 percent per year and 0.2 percent per year, respectively, between
+2015 and 2017.
+
+Traffic Safety Analysis. Collision data from January 1, 2014 to December 31, 2016 at the 140th Avenue SE
+/ SE 180th Street intersection and SE 180th Street west of 140th Avenue SE was obtained from the
+Washington State Department of Transportation (WSDOT). These records represent the most recent
+complete 3-year period for which complete collision data are available. No collisions were reported during the
+three-year period, which suggests that there are no traffic safety issues within the study area.
+
+Existing Traffic Operations. Existing AM and PM peak hour traffic operations were evaluated at the
+intersection of 140th Avenue SE and SE 180th Street. Traffic operations were evaluated based on the
+procedures identified in the 2010 Highway Capacity Manual. Table 1 summarizes future AM and PM peak
+hour levels of service (LOS); detailed LOS worksheets are provided in Attachment 2.
+Mr. Harry Schneider
+July 14, 2017
+Page 4 of 8
+
+
+
+
+Table 1.           Existing Weekday Peak Hour Levels of Service
+                                                                                    AM Peak Hour                                  PM Peak Hour
+                                                                                1                               3
+Intersection                                                              LOS          Delay2          WM                   LOS          Delay    WM
+
+140th Ave SE / SE 180th St                                                  B            14             EB                  D             26      EB
+1.    Level of Service (A – F) as defined by the Highway Capacity Manual (TRB, 2010)
+2.    Average delay per vehicle in seconds.
+3.    Worst movement where EB = eastbound approach
+
+
+As shown in Table 1, the study intersection currently meets the King County operational standard of LOS E or
+better during the weekday AM and PM peak hours.
+
+Trip Generation. Table 2 illustrates the anticipated number of new daily, AM peak hour, and PM peak hour
+vehicle trips the proposed development would likely generate. These estimates were derived by multiplying
+the proposed number of units (79) by the average daily and peak hour trip generation rates for Land Use
+Code No. 223 (“Mid-Rise Apartment”) published by the Institute of Transportation Engineers (ITE) in the Trip
+Generation Manual (9th Edition, 2012).
+
+Table 2.           Trip Generation Estimates
+                                                                                                                             Project Trips
+                                                                                                            1
+Land Use (Code)                                                             Size                     Rate           Total          In            Out
+
+Mid-Rise Apartments (LU 223)                                              79 units
+                     2
+     Weekday Daily                                                                                   6.65           526            263           263
+     Weekday AM Peak Hour                                                                            0.30            24             7            17
+     Weekday PM Peak Hour                                                                            0.39            31            18            13
+1.    Average vehicle trip rates from the Trip Generation Manual (ITE, 9th Edition, 2012).
+2.    No daily trip rate available for LU 223, daily rate for LU 220 (Apartment) was used instead.
+
+
+As illustrated above, the proposed development is anticipated to generate approximately 526 daily vehicle
+trips, including 24 and 31 vehicle trips during the AM and PM peak hours, respectively.
+
+Trip Distribution & Assignment. It was assumed that approximately one-half of project trips would be
+oriented to/from the north and one-half to/from the south during the AM and PM peak hours based on analysis
+of travel patterns at the study intersection. Weekday AM and PM peak hour project trip assignment at the
+study intersection is illustrated in Figure 3. Project-generated peak hour traffic volumes were added to future
+without-project traffic volumes at the site access and study intersections; the resulting future with-project peak
+hour traffic volumes (along with existing and future without-project volumes) are all illustrated in Figure 4.
+Mr. Harry Schneider
+July 14, 2017
+Page 5 of 8
+
+
+
+
+                      Figure 3. Project Trip Distribution and Assignment
+
+
+
+
+                  Figure 4. Existing and Future Weekday Peak Hour Traffic Volumes
+
+Traffic Volume Impact. After project trips were added to future without-project traffic volumes, the project
+share at the study intersection is expected to represent approximately 1 percent of the total entering volumes
+during the future AM and PM peak hours.
+Mr. Harry Schneider
+July 14, 2017
+Page 6 of 8
+
+
+
+
+Future Traffic Operations. Future without-project and with-project AM and PM peak hour traffic operations
+were evaluated at the intersection of 140th Avenue SE and SE 180th Street; no changes to the existing
+channelization were made at the 140th Avenue SE / SE 180th Street intersection. Traffic operations were
+evaluated based on the procedures identified in the 2010 Highway Capacity Manual. Table 4 summarizes
+future AM and PM peak hour LOS.
+
+Table 3.         Weekday Peak Hour Levels of Service
+                                                                       Future Without-Project            Future With-Project
+                                                                                                    3
+Intersection                                                         LOS1         Delay2       WM       LOS       Delay      WM
+
+AM Peak Hour
+140th Ave SE / SE 180th St                                             C              15       EB       C          17        EB
+PM Peak Hour
+140th Ave SE / SE 180th St                                             D              28       EB       D          30        EB
+1.   Level of Service (A – F) as defined by the Highway Capacity Manual (TRB, 2010)
+2.   Average delay per vehicle in seconds.
+3.   Worst movement where EB = eastbound approach
+
+
+As shown in the table above, the study intersection would operate at the same LOS with or without project
+traffic. With the addition of project trips, the eastbound approach at the study intersection would experience
+approximately two seconds of additional delay during both peak hours. Thus, the intersection would continue
+to meet the King County LOS standard of LOS E or better.
+
+Site Access Analysis. Future with-project AM and PM peak hour traffic operations were evaluated at the
+site access driveway on SE 180th Street. Traffic operations were evaluated based on the procedures
+identified in the 2010 Highway Capacity Manual. Table 4 summarizes future AM and PM peak hour LOS.
+
+Table 4.         Site Access Weekday Peak Hour Levels of Service
+                                                                               AM Peak Hour                   PM Peak Hour
+                                                                           1               2        3
+Intersection                                                         LOS          Delay        WM       LOS       Delay      WM
+
+Site Access / SE 180th St                                              A              9        SB        A         9         SB
+1.   Level of Service (A – F) as defined by the Highway Capacity Manual (TRB, 2010)
+2.   Average delay per vehicle in seconds.
+3.   Worst movement where SB = southbound approach
+
+
+As seen in Table 4, the site access driveway would operate at LOS A during both future peak hours, meeting
+the King County LOS standard of LOS E or better.
+Left- and right-turn lane warrants were analyzed at the site access driveway. Based on the WSDOT Design
+Manual1, it was determined that no dedicated left-turn or right-turn lanes are required or recommended based
+on the projected future turning movement volumes.
+
+
+
+
+1
+ Exhibit 1310-7a Left-Turn Storage Guidelines and Exhibit 1310-11 Right-Turn Lane Guidelines from WSDOT Design Manual M 22-
+01.12. November 2015
+Mr. Harry Schneider
+July 14, 2017
+Page 7 of 8
+
+
+
+
+Sight Distance. Stopping and entering sight distance was evaluated at the proposed site access intersection
+as well as the 140th Avenue SE / SE 180th Street intersection. Stopping sight distance is the distance
+necessary to enable a motorist to stop before reaching a stationary object in its path. In contrast, entering
+sight distance is the distance necessary for a motorist to enter the traffic stream without causing traffic on the
+major street to reduce its travel speed. The methods and standards used to measure available sight distance
+are defined in the King County Road Design and Construction Standards (2016) and are summarized below:
+
+       For the 140th Avenue SE / SE 180th Street intersection with an estimated 50-mph design speed
+        along 140th Avenue SE (equal to 10 mph above the posted speed limit as defined on page 1-13 of
+        these Standards), the recommended minimum stopping sight distance is 425 feet and the
+        recommended minimum entering sight distance is 555 feet.
+
+       For the site access driveway on SE 180th Street with an estimated 35-mph design speed, the
+        recommended minimum stopping sight distance is 250 feet and the recommended minimum entering
+        sight distance is 390 feet.
+
+Field measurements demonstrate that existing stopping sight distance is more than 425 feet north and south
+of the 140th Avenue SE / SE 180th Street intersection. Similarly, field measurements demonstrate that
+existing entering sight distance is more than 555 feet looking south. Existing shrubbery and overgrown weeds
+at the eastern edge of the lot currently obstructs entering sight distance looking north. However, it is expected
+that the entering sight distance requirement looking north will be met following development of the property.
+
+At the site access intersection, field measurements demonstrate that both the entering sight distance (390
+feet) and stopping sight distance (250 feet) requirements would be met west of the driveway. East of the
+proposed driveway, entering and stopping sight distance is available to/from the adjacent 140th Avenue SE /
+SE 180th Street intersection, approximately 140 feet east of the driveway. Therefore, King County’s minimum
+sight distance standards would be met at both the 140th Avenue SE / SE 180th Street intersection and site
+access intersection.
+
+Traffic Safety Impact. Traffic generated by the proposed project would likely result in a proportionate
+increase in the probability of vehicular collisions. It is unlikely, however, that this traffic would create a safety
+hazard or significantly increase the number of reported collisions at 140th Avenue SE / SE 180th Street or
+along SE 180th Street west of 140th Avenue SE because no collisions were reported during the last three
+complete years.
+
+School Walkways. Public school for children living in the proposed multi-family development would be
+provided by the Kent School District (KSD). Depending on age, future students would be assigned to Carriage
+Crest Elementary School (CCES), Northwood Middle School, or Kentridge High School and busing would not
+be provided for students attending CCES but would be provided for students attending Northwood Middle
+School and Kentridge High School. The nearest bus stop for middle school and high school students is
+located at CCES.
+
+Safe walking conditions will exist between the project site and CCES as frontage improvements will include
+new sidewalk on the north side of SE 180th Street west of 140th Avenue SE. Students will cross SE 180th
+Street on the west side of 140th Avenue SE. Sidewalk exists on the west side of 140th Avenue SE between
+SE 180th Street and the access driveway to CCES.
+Mr. Harry Schneider
+July 14, 2017
+Page 8 of 8
+
+
+
+
+Mitigation Measures. No mitigation measures are proposed or required.
+
+Please let me know if you have any questions or would like to discuss the findings of this TIA.
+
+Sincerely,
+Transpo Group
+
+
+
+
+Kevin L. Jones, P.E., PTOE
+Principal
+
+Attachments
+    Attachment 1: Traffic Counts
+        
+www.idaxdata.com                                                                                                                                                                                                    02
+
+
+
+
+                                           140TH AVE SE
+                                            SE 180TH ST
+                                                                                                                                                         Date: Tue, May 23, 2017
+                N                                   Peak Hour                                                                                    Count Period: 7:00 AM to 9:00 AM
+                                                                                                                                                   Peak Hour: 7:30 AM to 8:30 AM
+
+
+
+                                                    648
+
+
+
+                                                                       1,260
+                            140TH AVE SE
+
+
+
+
+                                                        643
+
+                                                                   0
+                                               5
+
+
+
+
+                                                                                                                                                                                0
+                                                                                                                                                                                    1
+     12
+                       0                            TEV: 1,934
+
+
+
+
+                                                                                                                                                                                                     0
+                                                                                                                                                                            0
+                      11                            PHF: 0.90
+     30
+                                                                                                                                                            0
+                      19                                                                                                                                                            0
+
+              SE 180TH ST
+                                                                                                    140TH AVE SE
+                                                                      7
+
+                                                                                   1,249
+                                                          0
+
+
+
+
+                                                                                                                                          HV %:    PHF
+
+
+
+
+                                                                                                                                                                                                0
+                                                                                                                                EB        3.3%     0.54
+                                                                                                                                WB          -        -
+                                                                       1256
+
+
+
+
+                                                                                                                                NB        0.7%     0.96
+                                                    662
+
+
+
+
+                                                                                                                                SB        1.9%     0.82
+                                                                                                                            TOTAL         1.1%     0.90
+
+
+Two-Hour Count Summaries
+                      SE 180TH ST                                                          0                                    140TH AVE SE                       140TH AVE SE
+   Interval                                                                                                                                                                                     15-min           Rolling
+                       Eastbound                                          Westbound                                                 Northbound                      Southbound
+     Start                                                                                                                                                                                       Total          One Hour
+                 UT    LT    TH                     RT         UT         LT    TH                                 RT      UT        LT    TH       RT     UT        LT    TH       RT
+   7:00 AM        0     2                  0        2             0            0               0                   0       0         0      283     0      0         0      205         1           493            0
+   7:15 AM        0     5                  0        3             0            0               0                   0       0         1      273     0      0         0      247         1           530            0
+   7:30 AM        0     2                  0        3             0            0               0                   0       0         0      307     0      0         0      146         1           459            0
+   7:45 AM        0     4                  0        3             0            0               0                   0       0         2      294     0      0         0      130         1           434          1,916
+   8:00 AM        0     1                  0        3             0            0               0                   0       0         1      327     0      0         0      171         1           504          1,927
+   8:15 AM        0     4                  0        10            0            0               0                   0       0         4      321     0      0         0      196         2           537          1,934
+   8:30 AM        0     2                  0        2             0            0               0                   0       0         1      238     0      0         0      186         1           430          1,905
+   8:45 AM        0     5                  0        1             0            0               0                   0       0         1      218     0      0         0      168         2           395          1,866
+ Count Total     0     25                  0        27            0            0               0                   0       0         10    2,261    0      0         0      1,449   10              3,782          0
+ Peak Hour        0    11                  0        19            0            0               0                   0       0         7     1,249    0      0         0      643         5           1,934          0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval             Heavy Vehicle Totals                                                                               Bicycles                                      Pedestrians (Crossing Leg)
+     Start       EB     WB      NB      SB                                Total                EB                  WB         NB           SB      Total   East           West      North    South                 Total
+   7:00 AM        0         0                  1              9               10               0                       0        0           0       0          0            0               0               0          0
+   7:15 AM        0         0                  0              1                1               0                       0        0           0       0          0            0               0               0          0
+   7:30 AM        0         0                  1              2                3               0                       0        0           0       0          0            0               0               0          0
+   7:45 AM        0         0                  2              4                6               0                       0        0           0       0          0            0               0               0          0
+   8:00 AM        0         0                  4              5                9               0                       0        0           0       0          0            0               1               0          1
+   8:15 AM        1         0                  2              1                4               0                       0        0           0       0          0            0               0               0          0
+   8:30 AM        0         0                  0              5                5               0                       0        0           0       0          0            1               0               0          1
+   8:45 AM        0         0                  1              8                9               0                       0        0           1       1          0            0               0               0          0
+ Count Total      1         0                  11             35              47               0                       0        0           1       1          0            1               1               0          2
+   Peak Hr        1         0                  9              12              22               0                       0        0           0       0          0            0               1               0          1
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                                     mark.skaggs@idaxdata.com
+www.idaxdata.com                                                                                                                                                                                                02
+
+
+
+
+                                            140TH AVE SE
+                                             SE 180TH ST
+                                                                                                                                                     Date: Tue, May 23, 2017
+                  N                                  Peak Hour                                                                               Count Period: 4:00 PM to 6:00 PM
+                                                                                                                                               Peak Hour: 4:15 PM to 5:15 PM
+
+
+
+                                                      1315
+
+
+
+                                                                           910
+                             140TH AVE SE
+
+
+
+
+                                                          1,297
+                                                18
+
+
+
+                                                                       0
+
+
+
+
+                                                                                                                                                                         2
+                                                                                                                                                                                0
+     29
+                        0                            TEV: 2,241
+
+
+
+
+                                                                                                                                                                                                0
+                                                                                                                                                                        4
+                       11                            PHF: 0.95
+     16
+                                                                                                                                                       0
+                        5                                                                                                                                                       0
+
+               SE 180TH ST
+                                                                                                140TH AVE SE
+
+
+
+
+                                                                                                                                      HV %:    PHF
+                                                                                     899
+                                                                          11
+                                                             0
+
+
+
+
+                                                                                                                                                                                            0
+                                                                                                                            EB        6.3%     0.80
+                                                                                                                            WB          -        -
+                                                     1,302
+
+
+
+
+                                                                                                                            NB        0.4%     0.98
+                                                                           910
+
+
+
+
+                                                                                                                            SB        0.8%     0.91
+                                                                                                                        TOTAL         0.7%     0.95
+
+
+Two-Hour Count Summaries
+                       SE 180TH ST                                                     0                                    140TH AVE SE                       140TH AVE SE
+   Interval                                                                                                                                                                                 15-min           Rolling
+                        Eastbound                                              Westbound                                        Northbound                      Southbound
+     Start                                                                                                                                                                                   Total          One Hour
+                 UT     LT    TH                     RT            UT          LT    TH                        RT      UT        LT    TH       RT     UT        LT    TH           RT
+   4:00 PM        0      6                  0        2                0          0         0                   0       0         4      212     0      0         0      308         4           536            0
+   4:15 PM        0      4                  0        1                0          0         0                   0       0         3      221     0      0         0      358         4           591            0
+   4:30 PM        0      1                  0        2                0          0         0                   0       0         4      221     0      0         0      307         6           541            0
+   4:45 PM        0      4                  0        0                0          0         0                   0       0         2      229     0      0         0      314         3           552          2,220
+   5:00 PM        0      2                  0        2                0          0         0                   0       0         2      228     0      0         0      318         5           557          2,241
+   5:15 PM        0      4                  0        0                0          0         0                   0       0         0      236     0      0         0      302         4           546          2,196
+   5:30 PM        0      3                  0        1                0          0         0                   0       1         3      228     0      0         0      338         6           580          2,235
+   5:45 PM        0      0                  0        3                0          0         0                   0       0         0      231     0      0         0      288         4           526          2,209
+ Count Total      0     24                  0        11               0          0         0                   0       1         18    1,806    0      0         0      2,533       36          4,429          0
+ Peak Hour        0     11                  0        5                0          0         0                   0       0         11     899     0      0         0      1,297       18          2,241          0
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+   Interval              Heavy Vehicle Totals                                                                          Bicycles                                      Pedestrians (Crossing Leg)
+     Start        EB     WB      NB      SB                                    Total       EB                  WB         NB           SB      Total   East           West      North    South                 Total
+   4:00 PM        0          0                  2                 4              6         0                       0        0           0       0          0            0               0               0          0
+   4:15 PM        1          0                  0                 5              6         0                       0        0           0       0          0            2               0               0          2
+   4:30 PM        0          0                  1                 2              3         0                       0        0           0       0          0            1               0               0          1
+   4:45 PM        0          0                  1                 2              3         0                       0        0           0       0          0            1               0               0          1
+   5:00 PM        0          0                  2                 2              4         0                       0        0           2       2          0            0               0               0          0
+   5:15 PM        0          0                  0                 1              1         0                       0        0           0       0          0            1               0               0          1
+   5:30 PM        0          0                  0                 0              0         0                       0        1           0       1          0            3               0               0          3
+   5:45 PM        0          0                  0                 0              0         0                       0        0           0       0          0            3               0               0          3
+ Count Total      1          0                  6                 16            23         0                       0        1           2       3          0           11               0               0       11
+   Peak Hr        1          0                  4                 11            16         0                       0        0           2       2          0            4               0               0          4
+
+
+
+
+Mark Skaggs: (425) 250-0777                                                                                                                                                 mark.skaggs@idaxdata.com
+Attachment 2: LOS Worksheets
+HCM 2010 TWSC                                                                            Wayne's Place
+1: SE 180th St & 140th Ave SE                                                          Existing AM Peak Period
+
+
+
+Intersection
+Int Delay, s/veh           0.2
+Movement                           EBL          EBR         NBL    NBT      SBT SBR
+Lane Configurations
+Traffic Vol, veh/h                   10          20           5    1250     645    5
+Future Vol, veh/h                    10          20           5    1250     645    5
+Conflicting Peds, #/hr                1           0           0       0       0    1
+Sign Control                       Stop        Stop        Free    Free    Free Free
+RT Channelized                        -        None           -    None       - None
+Storage Length                        0           -          50       -       -    -
+Veh in Median Storage, #              1           -           -       0       0    -
+Grade, %                              0           -           -       0       0    -
+Peak Hour Factor                     90          90          90      90      90   90
+Heavy Vehicles, %                     3           3           1       1       2    2
+Mvmt Flow                            11          22           6    1389     717    6
+
+Major/Minor                      Minor2                   Major1          Major2
+Conflicting Flow All              1427          362         723       0        -   0
+       Stage 1                      720            -           -      -        -   -
+       Stage 2                      707            -           -      -        -   -
+Critical Hdwy                      6.86         6.96       4.12       -        -   -
+Critical Hdwy Stg 1                5.86            -           -      -        -   -
+Critical Hdwy Stg 2                5.86            -           -      -        -   -
+Follow-up Hdwy                     3.53         3.33       2.21       -        -   -
+Pot Cap-1 Maneuver                  125         632         882       -        -   -
+       Stage 1                      440            -           -      -        -   -
+       Stage 2                      447            -           -      -        -   -
+Platoon blocked, %                                                    -        -   -
+Mov Cap-1 Maneuver                 124           631        882       -        -   -
+Mov Cap-2 Maneuver                 258             -          -       -        -   -
+       Stage 1                     440             -          -       -        -   -
+       Stage 2                     444             -          -       -        -   -
+
+Approach                            EB                       NB              SB
+HCM Control Delay, s               14.2                       0               0
+HCM LOS                               B
+
+Minor Lane/Major Mvmt              NBL     NBT EBLn1   SBT SBR
+Capacity (veh/h)                    882      - 426       -    -
+HCM Lane V/C Ratio                0.006      - 0.078     -    -
+HCM Control Delay (s)                9.1     - 14.2      -    -
+HCM Lane LOS                           A     -     B     -    -
+HCM 95th %tile Q(veh)                  0     -   0.3     -    -
+
+
+
+
+Transpo Group                                                                                Synchro 9 Report
+HCM 2010 TWSC                                                                          Wayne's Place
+1: SE 180th St & 140th Ave SE                                                        Existing PM Peak Period
+
+
+
+Intersection
+Int Delay, s/veh           0.2
+Movement                           EBL         EBR         NBL    NBT     SBT SBR
+Lane Configurations
+Traffic Vol, veh/h                  10           5          10 900       1295   20
+Future Vol, veh/h                   10           5          10 900       1295   20
+Conflicting Peds, #/hr               4           4           4    0         0    4
+Sign Control                      Stop        Stop        Free Free      Free Free
+RT Channelized                       -        None           - None         - None
+Storage Length                       0           -          50    -         -    -
+Veh in Median Storage, #             1           -           -    0         0    -
+Grade, %                             0           -           -    0         0    -
+Peak Hour Factor                    95          95          95   95        95   95
+Heavy Vehicles, %                    6           6           0    0         1    1
+Mvmt Flow                           11           5          11 947       1363   21
+
+Major/Minor                      Minor2                  Major1         Major2
+Conflicting Flow All              1877         700        1388      0        -   0
+       Stage 1                    1378            -           -     -        -   -
+       Stage 2                      499           -           -     -        -   -
+Critical Hdwy                      6.92        7.02         4.1     -        -   -
+Critical Hdwy Stg 1                5.92           -           -     -        -   -
+Critical Hdwy Stg 2                5.92           -           -     -        -   -
+Follow-up Hdwy                     3.56        3.36         2.2     -        -   -
+Pot Cap-1 Maneuver                   60        373         500      -        -   -
+       Stage 1                      192           -           -     -        -   -
+       Stage 2                      564           -           -     -        -   -
+Platoon blocked, %                                                  -        -   -
+Mov Cap-1 Maneuver                  58          370        498      -        -   -
+Mov Cap-2 Maneuver                 148            -          -      -        -   -
+       Stage 1                     191            -          -      -        -   -
+       Stage 2                     549            -          -      -        -   -
+
+Approach                            EB                      NB             SB
+HCM Control Delay, s               26.3                     0.1             0
+HCM LOS                              D
+
+Minor Lane/Major Mvmt              NBL    NBT EBLn1   SBT SBR
+Capacity (veh/h)                    498     - 185       -    -
+HCM Lane V/C Ratio                0.021     - 0.085     -    -
+HCM Control Delay (s)              12.4     - 26.3      -    -
+HCM Lane LOS                          B     -     D     -    -
+HCM 95th %tile Q(veh)               0.1     -   0.3     -    -
+
+
+
+
+Transpo Group                                                                              Synchro 9 Report
+HCM 2010 TWSC                                                                                Wayne's Place
+1: SE 180th St & 140th Ave SE                                                Future Without-Project AM Peak Period
+
+
+
+Intersection
+Int Delay, s/veh           0.2
+Movement                           EBL          EBR         NBL    NBT      SBT SBR
+Lane Configurations
+Traffic Vol, veh/h                   10          20           5    1380     705    5
+Future Vol, veh/h                    10          20           5    1380     705    5
+Conflicting Peds, #/hr                1           0           0       0       0    1
+Sign Control                       Stop        Stop        Free    Free    Free Free
+RT Channelized                        -        None           -    None       - None
+Storage Length                        0           -          50       -       -    -
+Veh in Median Storage, #              1           -           -       0       0    -
+Grade, %                              0           -           -       0       0    -
+Peak Hour Factor                     90          90          90      90      90   90
+Heavy Vehicles, %                     3           3           1       1       2    2
+Mvmt Flow                            11          22           6    1533     783    6
+
+Major/Minor                      Minor2                   Major1          Major2
+Conflicting Flow All              1566          395         790       0        -     0
+       Stage 1                      787            -           -      -        -     -
+       Stage 2                      779            -           -      -        -     -
+Critical Hdwy                      6.86         6.96       4.12       -        -     -
+Critical Hdwy Stg 1                5.86            -           -      -        -     -
+Critical Hdwy Stg 2                5.86            -           -      -        -     -
+Follow-up Hdwy                     3.53         3.33       2.21       -        -     -
+Pot Cap-1 Maneuver                  101         601         832       -        -     -
+       Stage 1                      406            -           -      -        -     -
+       Stage 2                      410            -           -      -        -     -
+Platoon blocked, %                                                    -        -     -
+Mov Cap-1 Maneuver                 100           600        832       -        -     -
+Mov Cap-2 Maneuver                 231             -          -       -        -     -
+       Stage 1                     406             -          -       -        -     -
+       Stage 2                     407             -          -       -        -     -
+
+Approach                            EB                       NB              SB
+HCM Control Delay, s                15                        0               0
+HCM LOS                              C
+
+Minor Lane/Major Mvmt              NBL     NBT EBLn1   SBT SBR
+Capacity (veh/h)                    832      - 392       -    -
+HCM Lane V/C Ratio                0.007      - 0.085     -    -
+HCM Control Delay (s)                9.4     -    15     -    -
+HCM Lane LOS                           A     -     C     -    -
+HCM 95th %tile Q(veh)                  0     -   0.3     -    -
+
+
+
+
+Transpo Group                                                                                    Synchro 9 Report
+HCM 2010 TWSC                                                                              Wayne's Place
+1: SE 180th St & 140th Ave SE                                              Future Without-Project PM Peak Period
+
+
+
+Intersection
+Int Delay, s/veh           0.2
+Movement                           EBL         EBR         NBL    NBT     SBT SBR
+Lane Configurations
+Traffic Vol, veh/h                  10           5          10 945       1370   20
+Future Vol, veh/h                   10           5          10 945       1370   20
+Conflicting Peds, #/hr               4           4           4    0         0    4
+Sign Control                      Stop        Stop        Free Free      Free Free
+RT Channelized                       -        None           - None         - None
+Storage Length                       0           -          50    -         -    -
+Veh in Median Storage, #             1           -           -    0         0    -
+Grade, %                             0           -           -    0         0    -
+Peak Hour Factor                    95          95          95   95        95   95
+Heavy Vehicles, %                    6           6           0    0         1    1
+Mvmt Flow                           11           5          11 995       1442   21
+
+Major/Minor                      Minor2                  Major1         Major2
+Conflicting Flow All              1979         740        1467      0        -     0
+       Stage 1                    1457            -           -     -        -     -
+       Stage 2                      522           -           -     -        -     -
+Critical Hdwy                      6.92        7.02         4.1     -        -     -
+Critical Hdwy Stg 1                5.92           -           -     -        -     -
+Critical Hdwy Stg 2                5.92           -           -     -        -     -
+Follow-up Hdwy                     3.56        3.36         2.2     -        -     -
+Pot Cap-1 Maneuver                   51        350         466      -        -     -
+       Stage 1                      174           -           -     -        -     -
+       Stage 2                      549           -           -     -        -     -
+Platoon blocked, %                                                  -        -     -
+Mov Cap-1 Maneuver                  49          347        464      -        -     -
+Mov Cap-2 Maneuver                 135            -          -      -        -     -
+       Stage 1                     173            -          -      -        -     -
+       Stage 2                     534            -          -      -        -     -
+
+Approach                            EB                      NB             SB
+HCM Control Delay, s               28.3                     0.1             0
+HCM LOS                              D
+
+Minor Lane/Major Mvmt              NBL    NBT EBLn1   SBT SBR
+Capacity (veh/h)                    464     - 170       -    -
+HCM Lane V/C Ratio                0.023     - 0.093     -    -
+HCM Control Delay (s)              12.9     - 28.3      -    -
+HCM Lane LOS                          B     -     D     -    -
+HCM 95th %tile Q(veh)               0.1     -   0.3     -    -
+
+
+
+
+Transpo Group                                                                                  Synchro 9 Report
+HCM 2010 TWSC                                                                                   Wayne's Place
+1: SE 180th St & 140th Ave SE                                                      Future With-Project AM Peak Period
+
+
+
+Intersection
+Int Delay, s/veh           0.4
+Movement                           EBL          EBR         NBL    NBT      SBT SBR
+Lane Configurations
+Traffic Vol, veh/h                   19          28           8    1380     705    9
+Future Vol, veh/h                    19          28           8    1380     705    9
+Conflicting Peds, #/hr                1           0           0       0       0    1
+Sign Control                       Stop        Stop        Free    Free    Free Free
+RT Channelized                        -        None           -    None       - None
+Storage Length                        0           -          50       -       -    -
+Veh in Median Storage, #              1           -           -       0       0    -
+Grade, %                              0           -           -       0       0    -
+Peak Hour Factor                     90          90          90      90      90   90
+Heavy Vehicles, %                     3           3           1       1       2    2
+Mvmt Flow                            21          31           9    1533     783   10
+
+Major/Minor                      Minor2                   Major1          Major2
+Conflicting Flow All              1574          398         794       0        -        0
+       Stage 1                      789            -           -      -        -        -
+       Stage 2                      785            -           -      -        -        -
+Critical Hdwy                      6.86         6.96       4.12       -        -        -
+Critical Hdwy Stg 1                5.86            -           -      -        -        -
+Critical Hdwy Stg 2                5.86            -           -      -        -        -
+Follow-up Hdwy                     3.53         3.33       2.21       -        -        -
+Pot Cap-1 Maneuver                  100         599         830       -        -        -
+       Stage 1                      405            -           -      -        -        -
+       Stage 2                      407            -           -      -        -        -
+Platoon blocked, %                                                    -        -        -
+Mov Cap-1 Maneuver                  99           598        830       -        -        -
+Mov Cap-2 Maneuver                 229             -          -       -        -        -
+       Stage 1                     405             -          -       -        -        -
+       Stage 2                     402             -          -       -        -        -
+
+Approach                            EB                       NB              SB
+HCM Control Delay, s               16.6                      0.1              0
+HCM LOS                              C
+
+Minor Lane/Major Mvmt              NBL     NBT EBLn1   SBT SBR
+Capacity (veh/h)                    830      - 362       -    -
+HCM Lane V/C Ratio                0.011      - 0.144     -    -
+HCM Control Delay (s)                9.4     - 16.6      -    -
+HCM Lane LOS                           A     -     C     -    -
+HCM 95th %tile Q(veh)                  0     -   0.5     -    -
+
+
+
+
+Transpo Group                                                                                       Synchro 9 Report
+HCM 2010 TWSC                                                                                 Wayne's Place
+1: SE 180th St & 140th Ave SE                                                    Future With-Project PM Peak Period
+
+
+
+Intersection
+Int Delay, s/veh           0.5
+Movement                           EBL         EBR         NBL    NBT     SBT SBR
+Lane Configurations
+Traffic Vol, veh/h                  17          11          19 945       1370   29
+Future Vol, veh/h                   17          11          19 945       1370   29
+Conflicting Peds, #/hr               4           4           4    0         0    4
+Sign Control                      Stop        Stop        Free Free      Free Free
+RT Channelized                       -        None           - None         - None
+Storage Length                       0           -          50    -         -    -
+Veh in Median Storage, #             1           -           -    0         0    -
+Grade, %                             0           -           -    0         0    -
+Peak Hour Factor                    95          95          95   95        95   95
+Heavy Vehicles, %                    6           6           0    0         1    1
+Mvmt Flow                           18          12          20 995       1442   31
+
+Major/Minor                      Minor2                  Major1         Major2
+Conflicting Flow All              2002         744        1477      0        -        0
+       Stage 1                    1461            -           -     -        -        -
+       Stage 2                      541           -           -     -        -        -
+Critical Hdwy                      6.92        7.02         4.1     -        -        -
+Critical Hdwy Stg 1                5.92           -           -     -        -        -
+Critical Hdwy Stg 2                5.92           -           -     -        -        -
+Follow-up Hdwy                     3.56        3.36         2.2     -        -        -
+Pot Cap-1 Maneuver                   50        348         462      -        -        -
+       Stage 1                      173           -           -     -        -        -
+       Stage 2                      536           -           -     -        -        -
+Platoon blocked, %                                                  -        -        -
+Mov Cap-1 Maneuver                  47          345        460      -        -        -
+Mov Cap-2 Maneuver                 133            -          -      -        -        -
+       Stage 1                     172            -          -      -        -        -
+       Stage 2                     511            -          -      -        -        -
+
+Approach                            EB                      NB             SB
+HCM Control Delay, s               29.7                     0.3             0
+HCM LOS                              D
+
+Minor Lane/Major Mvmt              NBL    NBT EBLn1   SBT SBR
+Capacity (veh/h)                    460     - 175       -    -
+HCM Lane V/C Ratio                0.043     - 0.168     -    -
+HCM Control Delay (s)              13.2     - 29.7      -    -
+HCM Lane LOS                          B     -     D     -    -
+HCM 95th %tile Q(veh)               0.1     -   0.6     -    -
+
+
+
+
+Transpo Group                                                                                     Synchro 9 Report
+HCM 2010 TWSC                                                                                     Wayne's Place
+2: SE 180th St & Site Access                                                         Future With-Project AM Peak Period
+
+
+
+Intersection
+Int Delay, s/veh           2.3
+Movement                           EBL    EBT                  WBT WBR       SBL       SBR
+Lane Configurations
+Traffic Vol, veh/h                   0   30                      10    7       17        0
+Future Vol, veh/h                    0   30                      10    7       17        0
+Conflicting Peds, #/hr               0    0                       0    0        0        0
+Sign Control                      Free Free                    Free Free     Stop     Stop
+RT Channelized                       - None                       - None        -     None
+Storage Length                       -    -                       -    -        0        -
+Veh in Median Storage, #             -    0                       0    -        0        -
+Grade, %                             -    0                       0    -        0        -
+Peak Hour Factor                    90   90                      90   90       90       90
+Heavy Vehicles, %                    3    3                       0    0        0        0
+Mvmt Flow                            0   33                      11    8       19        0
+
+Major/Minor                      Major1                       Major2       Minor2
+Conflicting Flow All                 19     0                      -   0       48        15
+       Stage 1                        -     -                      -   -       15         -
+       Stage 2                        -     -                      -   -       33         -
+Critical Hdwy                      4.13     -                      -   -      6.4       6.2
+Critical Hdwy Stg 1                   -     -                      -   -       5.4        -
+Critical Hdwy Stg 2                   -     -                      -   -       5.4        -
+Follow-up Hdwy                    2.227     -                      -   -      3.5       3.3
+Pot Cap-1 Maneuver                1591      -                      -   -      967      1070
+       Stage 1                        -     -                      -   -    1013          -
+       Stage 2                        -     -                      -   -      995         -
+Platoon blocked, %                          -                      -   -
+Mov Cap-1 Maneuver                1591      -                      -   -     967       1070
+Mov Cap-2 Maneuver                   -      -                      -   -     967          -
+       Stage 1                       -      -                      -   -    1013          -
+       Stage 2                       -      -                      -   -     995          -
+
+Approach                            EB                          WB            SB
+HCM Control Delay, s                 0                           0            8.8
+HCM LOS                                                                         A
+
+Minor Lane/Major Mvmt              EBL    EBT WBT WBR SBLn1
+Capacity (veh/h)                  1591      -   -    - 967
+HCM Lane V/C Ratio                   -      -   -    - 0.02
+HCM Control Delay (s)                0      -   -    -  8.8
+HCM Lane LOS                         A      -   -    -    A
+HCM 95th %tile Q(veh)                0      -   -    -  0.1
+
+
+
+
+Transpo Group                                                                                         Synchro 9 Report
+HCM 2010 TWSC                                                                                      Wayne's Place
+2: SE 180th St & Site Access                                                          Future With-Project PM Peak Period
+
+
+
+Intersection
+Int Delay, s/veh           1.5
+Movement                           EBL    EBT                   WBT WBR       SBL       SBR
+Lane Configurations
+Traffic Vol, veh/h                   0   15                       30   18       13        0
+Future Vol, veh/h                    0   15                       30   18       13        0
+Conflicting Peds, #/hr               0    0                        0    0        0        0
+Sign Control                      Free Free                     Free Free     Stop     Stop
+RT Channelized                       - None                        - None        -     None
+Storage Length                       -    -                        -    -        0        -
+Veh in Median Storage, #             -    0                        0    -        0        -
+Grade, %                             -    0                        0    -        0        -
+Peak Hour Factor                    95   95                       95   95       95       95
+Heavy Vehicles, %                    6    6                        0    0        0        0
+Mvmt Flow                            0   16                       32   19       14        0
+
+Major/Minor                      Major1                        Major2       Minor2
+Conflicting Flow All                 51     0                       -   0       57        41
+       Stage 1                        -     -                       -   -       41         -
+       Stage 2                        -     -                       -   -       16         -
+Critical Hdwy                      4.16     -                       -   -      6.4       6.2
+Critical Hdwy Stg 1                   -     -                       -   -       5.4        -
+Critical Hdwy Stg 2                   -     -                       -   -       5.4        -
+Follow-up Hdwy                    2.254     -                       -   -      3.5       3.3
+Pot Cap-1 Maneuver                1530      -                       -   -      955      1036
+       Stage 1                        -     -                       -   -      987         -
+       Stage 2                        -     -                       -   -    1012          -
+Platoon blocked, %                          -                       -   -
+Mov Cap-1 Maneuver                1530      -                       -   -     955       1036
+Mov Cap-2 Maneuver                   -      -                       -   -     955          -
+       Stage 1                       -      -                       -   -     987          -
+       Stage 2                       -      -                       -   -    1012          -
+
+Approach                            EB                           WB            SB
+HCM Control Delay, s                 0                            0            8.8
+HCM LOS                                                                          A
+
+Minor Lane/Major Mvmt              EBL    EBT WBT WBR SBLn1
+Capacity (veh/h)                  1530      -   -    - 955
+HCM Lane V/C Ratio                   -      -   -    - 0.014
+HCM Control Delay (s)                0      -   -    -   8.8
+HCM Lane LOS                         A      -   -    -     A
+HCM 95th %tile Q(veh)                0      -   -    -     0
+
+
+
+
+Transpo Group                                                                                          Synchro 9 Report
+

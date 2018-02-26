@@ -1,0 +1,788 @@
+MEMORANDUM
+Date:          July 30, 2015                                                    TG:      15191.00
+To:            John Shaw - DPD
+From:          Kurt Gahnberg – Transpo Group
+               Stefanie Herzstein PE, PTOE – Transpo Group
+cc:            Allison Shephard and Marty Goodman – Holland Partners
+Subject:       1001 Minor Transportation/Parking Analysis (DPD # 3019363)
+
+This memorandum summarizes the transportation and parking analysis completed for the
+proposed residential and retail project located at 1001 Minor Avenue in Seattle, WA. The scope of
+this analysis was coordinated with City of Seattle staff. The proposed development plan,
+anticipated trip generation, review of access operations, and anticipated peak parking demand are
+reviewed.
+
+Project Description
+The project is located at 1001 Minor Avenue on the west side of Minor Avenue, north of Madison
+Street. The site is currently occupied by an approximately 4,200 square feet fast food restaurant
+without drive-through with driveways located on both Madison Street and Minor Avenue. The
+project site carries a NC3P-160 Zoning designation.
+
+The proposed project includes residential/retail use with up to 207 residential apartment units and
+approximately 5,300 gsf of ground floor retail space. Site access would be consolidated to a single
+driveway located along Minor Avenue north of Madison Street at the eastern property line of the
+project site. Approximately 160 parking spaces would be provided. Garbage pick-up is proposed
+along Minor Avenue and would be wheeled out onto Minor on an as needed bases for pick-up,
+likely 2 to 3 times per week. The project is anticipated to be constructed and occupied by 2018.
+The first floor site plan is shown in Figure 1.
+                               Figure 1 – Preliminary First Floor Site Plan
+
+
+Transportation Network
+The following provide a summary of the key roadways in the vicinity of the site.
+
+Madison Street is classified as a principal arterial by the City of Seattle and accommodates two-
+way traffic with a center two-way left turn-lane. Parking is allowed on the south side of the street
+except during the PM peak hour from 3 to 7 PM. Sidewalks are provided along both sides of the
+street within the vicinity of the project site. King County Metro operates two routes with stops in the
+vicinity of the proposed project along Madison Street. Route 12 operates at approximately 10–15
+minute headways depending on the time of day. This route connects between downtown Seattle
+with the Capitol Hill and First Hill neighborhoods. Route 60 operates at approximately 20-30
+minute headways depending on the time of day. This route operates between Broadway and
+White Center with stops in First Hill, Beacon Hill, and Georgetown.
+
+Minor Avenue is classified as an access street by the City of Seattle and accommodates two-way
+traffic with on-street parking on both sides of the street. In the site vicinity, north of Madison Street,
+on-street parking is part of the restricted parking zone (RPZ) 21 but paid 2-hour parking is allowed
+for non-permit holding vehicles.
+
+In addition to the current transit service described above, improvements to First Hill Streetcar are
+underway in the area. The City of Seattle is constructing Streetcar stations throughout the First Hill
+neighborhood. The closest station is located along Broadway at Marion Street, approximately one-
+quarter of a mile away or approximately a 5 to 6 minute walk. The First Hill Streetcar will provide
+connectivity between First Hill and Pioneer Square with stops along S Jackson Street near King
+Street Station.
+
+Trip Generation
+Trip generation estimates have been prepared for the project based on trip rates identified using
+the Institute of Transportation Engineers (ITE) Trip Generation Manual, 9th Edition (2012) and
+consideration for average vehicle occupancies and mode splits typical the First Hill neighborhood.
+This methodology has been approved by City staff and is consistent with previous studies
+conducted in the area.
+
+Some ITE land uses represent vehicle trip rates observed in more suburban settings than the
+proposed project. To calibrate the trip generation to the local character of the proposed project, the
+vehicle trips based on ITE trip rates are converted to person trips through the use of average
+vehicle occupancy (AVO) rates derived from NCHRP Report 365. Once person trips were derived,
+local mode split information was applied to arrive at transit, non-motorized, carpool and single
+occupant vehicles (SOV) trips. Person trips by mode were determined by multiplying the person
+trips by the estimated mode splits.
+
+The basis of residential trip generation was ITE Apartment (#220) land use and mode splits from
+the American Community Survey (ACS) data1 for the First Hill neighborhood. The proposed retail
+trip generation was based on ITE Specialty Retail (#826) land use due to the proposed small size
+and neighborhood serving use. The retail would serve the local area including residents and
+employees living and working nearby. This would result in a high proportion of walking trips to and
+from the surrounding neighborhood. The analysis assumes that 10 percent of the retail customers
+would drive to the site.
+
+Table 1 summarizes the resulting net new weekday daily, AM and PM peak hour vehicle trip
+generation. Trip credits for the existing uses were estimated using a similar method as described
+above, with the exception of the weekday PM peak hour. Weekday PM peak hour trips for the
+existing fast food restaurant without drive-through were based on driveway counts conducted in
+June 2015. No pass-by data was collected; therefore, the pass-by rate was based on ITE Trip
+Generation Handbook, 3rd Edition (2014). Detailed trip generation calculations for the proposed
+development are provided in Attachment A.
+
+
+
+
+1
+    ACS 2013, Census Tract 83
+Table 1. Estimated Weekday Vehicle Trip Generation
+                                                                  AM Peak-Hour Trips1                      PM Peak-Hour Trips1
+                                                  Daily
+Land Use                             Size         Trips          In          Out         Total            In      Out      Total
+Proposed
+     Apartment                     207 DU          340           5           20           25              21       11        32
+     Specialty Retail              5,300 sf         30           1            0            1              1        1         2
+     Total Proposed Trips                          370           6           20           26              22       12        34
+Existing Land Uses
+     Fast Food Restaurant w/o
+     Drive-Through                 4,182 sf        680           36          23           59              30       31        61
+           -less pass-by (34%)         -           -340         -14          -14          -28             -15      -15      -30
+     Total Existing Trips                          340           22           9           31              15       16        31
+Net New Vehicle Trips                               30          -16          11            -5             7        -4        3
+Notes: sf = square-feet.
+1. Vehicle trips were estimated based on person trip calculations and localized mode split information.
+
+
+As shown in the Table 1, the development is anticipated to generate approximately 30 net new
+vehicular weekday daily trips with a net decrease in trips during the weekday AM peak hour and 3
+additional trips occurring during the weekday PM peak hour. Due to the consolidation of driveways
+it is anticipated that Minor Avenue may experience a slight increase in traffic volumes.
+
+Driveway Evaluation
+There is no alley available for site so garage access is proposed along Minor Avenue. Traffic
+operations at the site access were evaluated for the weekday PM peak hour period. Future 2018
+traffic volumes were forecast by increasing existing traffic counts2 along Minor Avenue by 2.5-
+percent per year and adding project generated traffic. This growth rate was determined from
+forecasts included in the Swedish Cherry Hill Final Environmental Impact Statement.3 Growth
+rates for other studies in the City of Seattle are typically 1.0 or 1.5 percent per year and the site
+access is located on a local residential street, which typically experience little to no growth. Based
+on this, a 2.5-percent growth rate provides a conservative estimate of future traffic volumes on
+Minor Avenue.
+
+Project trips were assigned to the driveway turning movements based on the roadway network in
+the project vicinity and existing work travel patterns of residents living within ¼ mile of the site.4 It
+is anticipated that traffic associated with the development would travel to/from the south and west
+along Madison Street and Boren Avenue. The total proposed project traffic was then added to
+2018 weekday PM peak hour background traffic volumes to estimate traffic volumes at the site
+access driveway under buildout conditions.
+
+Intersection level of service (LOS) for future with-project conditions were evaluated at the site
+access driveway using the Synchro 9 software program based on the procedures identified in the
+Highway Capacity Manual (HCM, 2010). At side-street stop-controlled intersections such as
+access driveways, LOS is measured in average delay per vehicle during the peak hour of traffic
+
+2
+    Turning movement counts collected in June 2015. Detailed count data provided in Attachment B
+3
+ Final Environmental Impact Statement for the Swedish Cherry Hill for the Major Institution Master Plan Appendix C:
+Transportation Technical Report, Transpo Group, November 2014
+4
+ Based on the US Census Bureau’s OnTheMap online mapping tool. Provided data is based on the Census Bureau’s
+American Community Survey and Longitudinal Employer-Household Dynamics programs.
+and is reported for the worst operating movement of the intersection. Attachment C provides a
+detailed explanation of LOS criteria and definitions.
+
+The site access with Minor Avenue is anticipated to operate at LOS B on the eastbound approach
+with approximately 10 seconds of delay per vehicle. A detailed LOS worksheet is included in
+Attachment D.
+
+Parking Analysis
+An analysis of the parking code requirements, and the proposed parking supply and demand for
+the proposed project was completed. The following sections describe parking supply requirements
+under the City of Seattle parking code, the proposed parking supply, and the estimated peak
+parking demand of the project.
+
+Parking Code Requirements
+Auto Parking Requirements. Because this project is located in an Urban Center no parking is
+required by Code; however, the proposal includes 160 on-site parking spaces, in a secure garage.
+
+Bicycle Parking Requirements. Secure covered bike storage for at least 52 bicycles would be
+provided on-site with access to Minor Avenue. In addition, short term bicycle parking is proposed
+along Madison Street. Per SMC 23.54.015, bicycle parking is required to be provided by new
+developments. The SMC requires long-term and short-term bicycle parking for the retail uses and
+long-term bicycle parking for the residential component of the development. The short-term and
+long-term bicycle parking requirements are shown in Table 2.
+
+Table 2. Bicycle Parking Code Requirements
+                                                       Short-Term     Short-Term     Long-Term       Long-Term
+              Land Use                       Size1       Rate2         Required        Rate2          Required
+Residential                                207 DU         None            0         1 per 4 DUs         52
+Retail                                     5,300 SF    1 / 4,000 SF       2        1 per 12,000 SF       0
+Total Bicycle Parking Supply                                              2                             52
+1.   DU = Dwelling Unit, SF = Square Feet
+2.   From Seattle Municipal Code 23.54.015, Table E.
+
+
+The proposed development is required to provide 2 short-term bicycle parking spaces and 52
+long-term bicycle parking spaces. Short-term spaces are generally provided on the street for easy
+access for the retail customers of the site. Long-term spaces are located off-street to provide
+secure storage for tenants and employees.
+
+The proposed project meets all Code requirements for auto and bicycle parking.
+
+On-Site Parking Supply
+The proposed project would provide secured on-site parking for 160 residential parking spaces,
+below-grade. The parking garage will be accessed via a 22 foot wide driveway on Minor Avenue.
+
+Parking Demand
+Parking demand for a residential development peaks during nighttime conditions, after 10:00 p.m.
+The weekday peak parking demand for the proposed residential units was estimated using local
+vehicle ownership rates from US Census data. 5 The peak parking demand for this type of
+residential project is expected to be below national averages because the project is located near
+frequent transit service and is well-connected with bicycle and pedestrian facilities described
+earlier. Based on local vehicle ownership rates and the proposed mix of residential units, a peak
+parking demand rate of 0.49 vehicles per dwelling unit was estimated. This results in a weekday
+peak resident parking demand of 101 vehicles. The detailed ownership rate calculations are
+provided in Attachment E. This estimated peak demand would be accommodated by the proposed
+supply of 160 parking spaces. The parking garage is anticipated to be secured and would not
+accommodate visitor parking.
+
+Residential visitor parking demand peaks in the early evening hours. Residential visitor peak
+parking demand rates are 0.15 vehicles per dwelling unit based on information provided in Shared
+Parking (ULI, 2nd Edition). This results in a visitor weekday peak parking demand of
+approximately 31 vehicles. It is assumed that visitors associated with the residential uses will be
+accommodated by on-street parking within the project vicinity.
+
+In addition to the residential parking demand, weekday retail parking demand was calculated
+based on Parking Generation (ITE, 4th Edition). A rate of 2.55 stalls per 1,000 square feet, which
+is reduced by the mode split of vehicles representing only 10 percent of anticipated retail travel,
+gives a rate of 0.26 stalls per 1,000 square feet of retail. Using these rates, the anticipated peak
+parking demand is estimated to be 2 vehicles for the retail land use and is anticipated to be
+accommodated on-street within the project vicinity.
+
+An off-site peak parking demand of approximately 33 is anticipated and is comprised of 31
+residential visitor vehicles and 2 retail vehicles. This off-site peak parking demand is anticipated to
+occur after 7 PM.
+
+A review of the 2014 SDOT parking study was conducted in the area to determine if the
+anticipated off-site peak parking demand could be accommodated on-street. The review was
+conducted for the anticipated peak parking demand during the 7 p.m. evening hour. Parking
+availability was reviewed within approximately an 800-foot and 1,200-foot walking distance from
+the project site. This review showed that approximately 22 parking stalls are available to be used
+by visitors and retail patrons within 800-feet and 54 are available within 1,200-feet of the project
+site. The anticipated off-site peak parking demand can be met within a 1,200-foot walking radius
+from the project site. Thus, evening visitor and retail demand can be accommodated in the
+immediate area. In addition, as described in the discussion of the transportation network, the site
+is within close proximity of bus and streetcar service. Drivers having difficulty finding parking may
+consider other modes.
+
+Transportation Concurrency
+The City of Seattle has implemented a Transportation Concurrency system to comply with one of
+the requirements of the Washington State Growth Management Act (GMA). The system,
+described in the DPD Director’s Rule 5-2009 and the City’s Land Use and Zoning Code, is
+designed to provide a mechanism that determines whether adequate transportation facilities would
+be available “concurrent” with proposed development projects.
+
+The screenlines closest to the project site were chosen for review. Screenlines are imaginary lines
+drawn across primary roadways to monitor traffic going from one side to the other. The
+screenlines that were analyzed for concurrency review include South of S Jackson Street – 12th
+
+5
+ Selected Economic Characteristics (U.S. Census Bureau, American Community Survey 2011), Commuting to Work,
+Census Tract 83 combined (Report #B25044).
+Avenue S to Lakeside Avenue S (Screenline 10.12) and East of the Central Business District
+(CBD) (Screenline 12.12, as shown in Table 3. As a conservative estimate, it was assumed that all
+project-generated traffic traveling in the direction of the screenlines would extend across the
+screenlines included in this analysis. Some directional traffic is anticipated to be reduced with
+completion of the proposed project, as a conservative estimate reduced volumes were not taken
+into account for concurrency purposes.
+
+Table 3. Transportation Concurrency Analysis
+                                                                             2008     Project   V/C Ratio      LOS
+ SL#1 Location                                         Dir2    Capacity     Volume    Traffic   w/ Project   Standard
+
+         South of Jackson Street                        NB       7,400        3,355     1         0.45         1.00
+ 10.12
+         12th Avenue S to Lakeside Avenue S             SB       7,400        4,366     0         0.59         1.00
+         East of CBD                                    EB      13,300        8,266     4         0.62         1.20
+ 12.12
+                                                        WB      11,736        6,491     0         0.55         1.20
+1.   SL# = Screenline Number
+2.   Direction: NB = Northbound, SB = Southbound, EB = Eastbound, WB = Westbound
+
+
+The transportation concurrency analysis indicates that with traffic generated by the project, the
+screenlines would have v/c ratios that are less than the City v/c threshold; thus, the project would
+meet the City’s concurrency requirements.
+
+Summary and Findings
+The proposed project includes the development of a residential project with 207 units and 5,300 sf
+of retail space. A parking garage with 160 stalls is proposed for residential tenants.
+
+As noted, a total weekday peak parking demand of 101 vehicles has been estimated for the
+residential uses (after 10:00 p.m.); and a total of 33 visitor and retail spaces could be demanded
+between 7:00 and 10:00 p.m. The on-site supply of 160 spaces (secured) is more than adequate
+to accommodate peak residential demand. Visitor and retail demand can be accommodated on-
+street.
+
+An analysis of the site driveway was conducted evaluating the weekday PM peak hour conditions.
+This analysis showed that all movements to/from the driveway would operate at LOS B. As such
+no operational or safety issues are anticipated with the proposed access point. Minor Avenue may
+experience a slight increase in traffic volumes do to the consolidation of the driveways.
+                                                                  Attachment A: Trip Generation
+
+
+
+1001 Minor Ave
+
+
+
+Person Trips
+       Land Use                                     Size                                   Trip Rate1                 Inbound %           AVO Rate2           Person Trips
+       Proposed Use
+       Residential (LU 220)                                207 units                                                                         1.11
+         Daily                                                                        T = 6.06(X)+123.56                 50%                                      1,530
+         AM Peak Hour                                                                  T = 0.49(X)+3.73                  20%                                       117
+         PM Peak Hour                                                                 T = 0.55(X)+17.65                  65%                                       146
+
+
+           Specialty Retail Center (LU 826)                 5,300 sf                                                                         1.48
+            Daily                                                                   44.32 trips/1,000 sq. ft.            50%                                       348
+            AM Peak Hour³                                                            0.96 trips/1,000 sq. ft.            62%                                         8
+            PM Peak Hour                                                             2.71 trips/1,000 sq. ft.            44%                                        21
+
+
+           Existing Use
+           Fast Food Rest. w/o DT (LU 933)                  4,182 sf                                                                         1.48
+           Daily4                                                                   496.12 trips/1,000 sq. ft.           50%                                      3,071
+           AM Peak Hour                                                              43.87 trips/1,000 sq. ft.           60%                                       272
+           PM Peak Hour5                                                             45.04 trips/1,000 sq. ft.           50%                                       279
+
+
+
+
+Notes:
+1. Trip rates based on Institute of Transportation Engineers' (ITE) Trip Generation Manual 9th Edition average trip rate and equation as shown for the land uses noted.
+
+
+2. AVO = average vehicle occupancy is based on rates published in NCHRP 365 for Urban Areas for the residential and retail use.
+
+
+3. Rate for the AM Peak Hour was not provided; Shopping Center (LU 820) is listed as a related use and was used for the AM Peak Hour.
+4. Daily rate for LU 933 based on only 1 study; therefore, daily rate for LU 934 (Fast Food Restaurant with Drive Through) was used.
+5. PM Peak hour trip generation based on actual driveway counts conducted June 2015. Transit, walk, bike, and other trips were estimated by scaling based on the counted
+driveway vehicle trips.
+
+
+
+
+Q:\Projects\15\15191.00 - 1001 Minor Avenue Traffic Study\Traffic Analysis\Trip Generation\1001_Minor_Trip_Gen_JLLedits                                                   7/20/2015
+                                                                                Attachment A: Trip Generation
+
+
+
+1001 Minor Ave
+
+    Person Trips by Mode of Travel
+                                                      Percent                Daily                         AM Peak Hour                             PM Peak Hour
+    Trip Generation Summary                          By Mode1            Person Trips                 In       Out      Total                In         Out      Total
+    Proposed Use
+    Residential1
+      Walk, Bike, Other Trips                            61%                    930                  14        57            71              58             31              89
+      Transit Trips                                      16%                    240                   4        15            19              15              8              23
+      Person Trips by Vehicle                            23%                    360                   5        22            27              22             12              34
+      Total                                             100%                   1,530                 23        94           117              95             51             146
+
+    Retail2
+     Walk, Bike, Other Trips                             85%                    300                   4         3             7              8              10              18
+     Transit Trips                                        5%                     20                   0         0             0              0               1               1
+     Person Trips by Vehicle                             10%                     28                   1         0             1              1               1               2
+     Total                                              100%                    348                   5         3             8              9              12              21
+
+    Existing Use
+    Fast Food1
+     Walk, Bike, Other Trips                             61%                   1,860                  99        66          165              85             84             169
+     Transit Trips                                       16%                    490                   26        18           44              23             22              45
+     Person Trips by Vehicle                             23%                    721                   38        25           63              32             33              65
+     Total                                              100%                   3,071                 163       109          272             140            139             279
+
+
+    Net New Project Person Trips
+     Walk, Bike, Other Trips                                                   -630                  -81        -6           -87            -19            -43             -62
+     Transit Trips                                                             -230                  -22        -3           -25             -8            -13             -21
+     Person Trips by Vehicle                                                   -333                  -32        -3           -35             -9            -20             -29
+     Total                                                                    -1,193                -135       -12          -147            -36            -76            -112
+
+    1. Person trip mode splits based on 2009 - 2013 American Community Survey 5-Year Estimates for census tract (#83).
+    2. Mode split considers that the retail space is anticipated to serve mainly the immediate vicinity.
+
+
+
+                                                   Vehicle Trip Generation
+                                                                         Daily Vehicle              AM Peak Hour Vehicle Trips              PM Peak Hour Vehicle Trips
+    Land Use                                             AVO1                  Trips                  In       Out         Total             In            Out            Total
+    Proposed Use
+    Residential1                                         1.06                   340                   5        20            25             21              11             32
+    Retail1                                              1.06                    30                   1         0             1              1               1              2
+    Subtotal                                                                    370                   6        20            26             22              12             34
+    Existing Use
+    Fast Food Restaurant w/o DT1                         1.06                   680                  36        23            59             30              31             61
+                     Pass-by Trips 2                                            -340                 -14       -14           -28            -15             -15            -30
+    Subtotal                                                                    340                  22         9            31             15              16             31
+    Net New Trips                                                                30                  -16       11             -5             7               -4             3
+    1. Average Vehicle Occupancy (AVO) based on 2009 - 2013 American Community Survey 5-Year Estimates for census tract (#83), report B08137.
+
+
+    2. No pass-by rate listed for LU 933. AM and PM rates used are for LU 934 (Fast Food Restaurant with Drive-Through Window). The Daily rate is an average of the AM and PM rate.
+
+
+
+
+Q:\Projects\15\15191.00 - 1001 Minor Avenue Traffic Study\Traffic Analysis\Trip Generation\1001_Minor_Trip_Gen_JLLedits                                                               7/20/2015
+ www.idaxdata.com                                                                                                                         Attachment B: Traffic Counts
+
+                                             MINOR AVE
+                                             DRIVEWAY
+                                                                                                                              Date: Tue, Jun 09, 2015
+                N                                 Peak Hour                                                           Count Period: 4:00 PM to 6:00 PM
+                                                                                                                        Peak Hour: 4:15 PM to 5:15 PM
+
+
+
+
+                                                     69
+
+
+
+                                                                    104
+                         MINOR AVE
+
+
+
+
+                                                                                                                                                               5
+                                                      61
+                                             8
+
+
+
+                                                                                                                                                                   4
+
+
+      10
+                                                     TEV: 188
+
+
+
+
+                                                                                                                                                   61
+                     6                               PHF: 0.92
+      19            13                                                                                                                     1
+
+
+           DRIVEWAY                                                                                                                                                7
+                                                                                     MINOR AVE
+                                                                2
+
+                                                                            98
+
+
+
+
+                                                                                                                 HV %:          PHF
+
+
+
+
+                                                                                                                                                                           13
+                                                                                                        EB       0.0%             0.68
+                                                                                                        NB       0.0%             0.83
+                                                                                                        SB       1.4%             0.82
+                                                                    100
+                                                     74
+
+
+
+
+                                                                                                      TOTAL      0.5%             0.92
+
+
+Two-Hour Count Summaries
+                         DRIVEWAY                                         DRIVEWAY                           MINOR AVE                            MINOR AVE                                Rolling
+    Interval                                                                                                                                                                15-min
+      Start              Eastbound                                        Westbound                          Northbound                           Southbound                 Total
+                                                                                                                                                                                            One
+                    LT               TH               RT        LT           TH                  RT     LT        TH              RT       LT           TH         RT                       Hour
+    4:00 PM         0                    0            5         0                0               0       0           20            0          0          13        0            38
+    4:15 PM         2                    0            3         0                0               0       0           25            0          0          17        4            51
+    4:30 PM         0                    0            2         0                0               0       2           20            0          0          16        2            42
+    4:45 PM         2                    0            5         0                0               0       0           23            0          0          19        1            50          181
+    5:00 PM         2                    0            3         0                0               0       0           30            0          0          9         1            45          188
+    5:15 PM         1                    0            3         0                0               0       0           31            0          0          9         0            44          181
+    5:30 PM         0                    0            1         0                0               0       1           25            0          0          9         1            37          176
+    5:45 PM         0                    0            11        0                0               0       3           19            0          0          7         2            42          168
+  Count Total       7                    0            33        0                0               0       6        193              0          0          99        11           349
+    Peak Hr         6                    0            13        0                0               0       2           98            0          0          61        8            188
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval             Heavy Vehicle Totals                                                         Bicycles                                     Pedestrians (Crossing Leg)
+      Start         EB        WB                 NB        SB       Total        EB              WB     NB       SB       Total          East           West       North          South       Total
+    4:00 PM         0                0           0         0          0              0           0       1       1          2             0              13            1              1        15
+    4:15 PM         0                0           0         0          0              0           0       3       2          5             0              16            0              0        16
+    4:30 PM         0                0           0         1          1              0           0       5       0          5             0              20            0              2        22
+    4:45 PM         0                0           0         0          0              1           0       3       1          5             0              7             0              1        8
+    5:00 PM         0                0           0         0          0              0           0       2       2          4             3              18            4              4        29
+    5:15 PM         0                0           0         1          1              0           0       4       1          5             0              19            0              1        20
+    5:30 PM         0                0           0         0          0              0           0       2       1          3             0              15            0              0        15
+    5:45 PM         0                0           0         0          0              0           0       3       1          4             0              14            0              3        17
+  Count Total       0                0           0         2          2              1           0      23       9         33             3             122            5              12      142
+    Peak Hr         0                0           0         1          1              1           0      13       5         19             3              61            4              7        75
+
+Mark Skaggs: 425 - 250 - 0777                                                                                                                                  mark.skaggs@idaxdata.com
+ www.idaxdata.com                                                                                                              Attachment B: Traffic Counts
+
+                                           DRIVEWAY
+                                          MADISON ST
+                                                                                                                      Date: Tue, Jun 09, 2015
+                N                               Peak Hour                                                     Count Period: 4:00 PM to 6:00 PM
+                                                                                                                Peak Hour: 5:00 PM to 6:00 PM
+
+
+
+
+                                                   12
+
+
+
+                                                                  21
+                           DRIVEWAY
+
+
+
+
+                                                                                                                                                 0
+                                          12
+
+                                                    0
+                                                                                   MADISON ST                                                        178
+
+
+      605                                                                           12          605                                                                         1
+                                                   TEV: 1,429                      593
+
+
+
+
+                                                                                                                                      0
+
+
+
+
+                                                                                                                                                                     0
+                     9                             PHF: 0.99
+      812           803                                                                         803                            5
+
+
+          MADISON ST
+                                                                                                    HV %:            PHF
+                                                                                           EB       2.1%              0.89
+                                                                                           WB       2.8%              0.91
+                                                                                           SB       0.0%              0.60
+                                                                                         TOTAL      2.4%              0.99
+
+
+Two-Hour Count Summaries
+                          MADISON ST                               MADISON ST                   DRIVEWAY                              DRIVEWAY
+    Interval                                                                                                                                                  15-min       Rolling
+      Start                Eastbound                                   Westbound                Northbound                            Southbound               Total      One Hour
+                    LT                TH            RT        LT           TH       RT     LT         TH              RT       LT         TH         RT
+    4:00 PM          3                158           0         0           165       0       0             0            0          0        0         4         330
+    4:15 PM          2                164           0         0           158       2       0             0            0          0        0         1         327
+    4:30 PM          1                168           0         0           161       6       0             0            0          0        0         2         338
+    4:45 PM          2                185           0         0           161       5       0             0            0          0        0         2         355         1,350
+    5:00 PM          2                181           0         0           161       5       0             0            0          0        0         5         354         1,374
+    5:15 PM          2                199           0         0           152       4       0             0            0          0        0         2         359         1,406
+    5:30 PM          2                197           0         0           150       3       0             0            0          0        0         2         354         1,422
+    5:45 PM          3                226           0         0           130       0       0             0            0          0        0         3         362         1,429
+  Count Total       17            1,478             0         0           1,238     25      0             0            0          0        0         21       2,779
+    Peak Hr          9                803           0         0           593       12      0             0            0          0        0         12       1,429
+Note: Two-hour count summary volumes include heavy vehicles but exclude bicycles in overall count.
+
+
+    Interval               Heavy Vehicle Totals                                          Bicycles                                      Pedestrians (Crossing Leg)
+      Start         EB         WB              NB        SB       Total     EB      WB     NB       SB        Total          East         West       North       South          Total
+    4:00 PM          2                4        0         0         6         0      2       0         0         2             0            0             39           0         39
+    4:15 PM          4                5        0         0         9         0      4       0         0         4             0            0             38           0         38
+    4:30 PM          4                5        0         0         9         0      3       0         0         3             0            0             47           0         47
+    4:45 PM          7                3        0         0         10        2      1       0         0         3             0            0             36           0         36
+    5:00 PM          3                6        0         0         9         1      1       0         0         2             0            0             40           0         40
+    5:15 PM          5                4        0         0         9         4      0       1         0         5             0            0             56           0         56
+    5:30 PM          5                5        0         0         10        0      0       0         0         0             0            0             44           0         44
+    5:45 PM          4                2        0         0         6         0      0       0         0         0             0            0             38           0         38
+  Count Total       34           34            0         0         68        7      11      1         0         19            0            0          338             0         338
+    Peak Hr         17           17            0         0         34        5      1       1         0         7             0            0          178             0         178
+
+ Mark Skaggs: 425 - 250 - 0777                                                                                                                   mark.skaggs@idaxdata.com
+                                                                                                                                         Attachment C
+
+
+
+
+                                                    Highway Capacity Manual 2010
+
+Signalized intersection level of service (LOS) is defined in terms of a weighted average control delay for
+the entire intersection. Control delay quantifies the increase in travel time that a vehicle experiences due
+to the traffic signal control as well as provides a surrogate measure for driver discomfort and fuel
+consumption. Signalized intersection LOS is stated in terms of average control delay per vehicle (in
+seconds) during a specified time period (e.g., weekday PM peak hour). Control delay is a complex
+measure based on many variables, including signal phasing and coordination (i.e., progression of
+movements through the intersection and along the corridor), signal cycle length, and traffic volumes with
+respect to intersection capacity and resulting queues. Table 1 summarizes the LOS criteria for signalized
+intersections, as described in the Highway Capacity Manual 2010 (Transportation Research Board,
+2010).
+
+Table 1. Level of Service Criteria for Signalized Intersections
+                           Average Control Delay
+ Level of Service            (seconds/vehicle)                  General Description
+          A                           ≤10                       Free Flow
+          B                         >10 – 20                    Stable Flow (slight delays)
+          C                         >20 – 35                    Stable flow (acceptable delays)
+                                                                Approaching unstable flow (tolerable delay, occasionally wait through more
+          D                         >35 – 55
+                                                                than one signal cycle before proceeding)
+          E                         >55 – 80                    Unstable flow (intolerable delay)
+             1
+         F                            >80                       Forced flow (congested and queues fail to clear)
+Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+1. If the volume-to-capacity (v/c) ratio for a lane group exceeds 1.0 LOS F is assigned to the individual lane group. LOS for overall approach or
+      intersection is determined solely by the control delay.
+
+
+
+
+Unsignalized intersection LOS criteria can be further reduced into two intersection types: all-way stop
+and two-way stop control. All-way stop control intersection LOS is expressed in terms of the weighted
+average control delay of the overall intersection or by approach. Two-way stop-controlled intersection
+LOS is defined in terms of the average control delay for each minor-street movement (or shared
+movement) as well as major-street left-turns. This approach is because major-street through vehicles are
+assumed to experience zero delay, a weighted average of all movements results in very low overall
+average delay, and this calculated low delay could mask deficiencies of minor movements. Table 2 shows
+LOS criteria for unsignalized intersections.
+
+                 Table 2. Level of Service Criteria for Unsignalized Intersections
+                                   Level of Service                            Average Control Delay (seconds/vehicle)
+                                            A                                                        0 – 10
+                                            B                                                      >10 – 15
+                                            C                                                      >15 – 25
+                                            D                                                      >25 – 35
+                                            E                                                      >35 – 50
+                                            F1                                                        >50
+                 Source: Highway Capacity Manual 2010, Transportation Research Board, 2010.
+                 1. If the volume-to-capacity (v/c) ratio exceeds 1.0, LOS F is assigned an individual lane group for all unsignalized
+                    intersections, or minor street approach at two-way stop-controlled intersections. Overall intersection LOS is
+                    determined solely by control delay.
+                                                                        Attachment D: LOS Worksheet
+HCM 2010 TWSC                                                                     1001 Minor Mixed Use
+1: Minor Ave & Site Access                                                             Future (2018) With-Project
+
+
+
+Intersection
+Int Delay, s/veh           1.4
+
+Movement                           EBL         EBR          NBL NBT        SBT SBR
+Traffic Vol, veh/h                    0          12           22 110         65    0
+Future Vol, veh/h                     0          12           22 110         65    0
+Conflicting Peds, #/hr               65          68           68    0         0   65
+Sign Control                       Stop        Stop         Free Free      Free Free
+RT Channelized                        -        None            - None         - None
+Storage Length                        -           -            -    -         -    -
+Veh in Median Storage, #              0           -            -    0         0    -
+Grade, %                              0           -            -    0         0    -
+Peak Hour Factor                     92          92           92   92        92   92
+Heavy Vehicles, %                     0           0            0    0         1    1
+Mvmt Flow                             0          13           24 120         71    0
+
+Major/Minor                      Minor2                    Major1        Major2
+Conflicting Flow All                306          207         139    0         -    0
+       Stage 1                      139             -           -   -         -    -
+       Stage 2                      167             -           -   -         -    -
+Critical Hdwy                        6.4          6.2         4.1   -         -    -
+Critical Hdwy Stg 1                  5.4            -           -   -         -    -
+Critical Hdwy Stg 2                  5.4            -           -   -         -    -
+Follow-up Hdwy                       3.5          3.3         2.2   -         -    -
+Pot Cap-1 Maneuver                  690          839        1457    -         -    -
+       Stage 1                      893             -           -   -         -    -
+       Stage 2                      867             -           -   -         -    -
+Platoon blocked, %                                                  -         -    -
+Mov Cap-1 Maneuver                  592          734        1363    -         -    -
+Mov Cap-2 Maneuver                  592            -           -    -         -    -
+       Stage 1                      835            -           -    -         -    -
+       Stage 2                      795            -           -    -         -    -
+
+Approach                            EB                        NB            SB
+HCM Control Delay, s                10                        1.3            0
+HCM LOS                              B
+
+Minor Lane/Major Mvmt              NBL     NBT EBLn1    SBT SBR
+Capacity (veh/h)                  1363       - 734        -    -
+HCM Lane V/C Ratio                0.018      - 0.018      -    -
+HCM Control Delay (s)               7.7      0    10      -    -
+HCM Lane LOS                          A      A     B      -    -
+HCM 95th %tile Q(veh)               0.1      -   0.1      -    -
+
+
+
+
+1001 Minor Mixed Use 6/16/2015 Future (2018) With-Project                                      Synchro 9 Report
+Transpo Group                                                                                           Page 1
+                                           Appendix E - Parking Demand
+                                 Seattle Apartment Parking Demand Rate Calculation
+          Project Information
+          Project:                   1001 Minor
+          Project No:                15191.00
+          Unit Mix
+          Studio & Open one bedroom units:                 100
+          One bedroom units:                                52
+          Two bedroom units:                                55
+          Three bedroom units                               0
+          Total apartment units:                           207  *Assumed breakdown based on unit mix
+                                                                percentages
+          Census Data
+          Census Tract Number:               83
+
+          Renter occupied housing with:
+          No Vehicle                       762
+          1 Vehicle                        639
+          2 vehicles                       64
+          3 vehicles                        0
+          *US Census Bureau, 2009 - 2013 American Community Survey, Online "FactFinder"
+
+          Vehicle Ownership Rate Calculation
+
+          Studio, open, and one bedroom unit auto ownership:1
+                     0.46           autos/unit
+
+          One, two, and three bedroom unit auto ownership:2
+                     0.52           autos/unit
+
+          1. Assumes no vehicle or one vehicle ownership
+          2. Assumes no vehicle, one vehicle, two, and three vehicle ownership
+
+          Weighted Average Vehicle Ownership Rate for Proposed Apartments:
+                    0.49           autos/unit
+
+          Residential Peak Parking Demand
+
+                      101               Vehicles
+
+          ULI Apartment Visitor Parking Demand Rate
+
+                      0.15              autos/unit
+
+          Visitor Parking Demand Rate Calculation
+
+          Wtd. Avg. Vehicle Ownership + ULI Visitor Rate=
+                      31            Vehicles
+
+          Total Localized Peak Parking Demand
+
+                      132               vehicles
+
+
+
+Apartment Demand                                                                                       7/20/2015
+                                      Appendix E - Parking Demand
+                                 Seattle Retail Parking Demand Rate Calculation
+Project Information
+Project:                1001 Minor
+Project No:             15191.00
+Retail Size:
+Commercial Space
+                  5,300 sf                Specialty Retail
+
+Local Mode Split Data1:
+
+Vehicle                           10%
+Walk / Bicycle                    85%
+Transit                            5%
+                                  100%
+
+Parking Demand Rate2:
+
+           2.55            stalls / 1,000 sf (ITE Shopping Center #820)
+
+Localized Parking Demand Rate:
+
+Parking Demand Rate x Vehicle Mode Split
+          0.26         vehicles / 1,000 sf                  (Specialty Retail)
+
+Parking Demand:
+Retail Size x Localized Parking Demand Rate
+             2             vehicles
+
+Notes:
+1. Based on the assumption that retail serves the local residents and employees and the majority of trips would be walking.
+
+2 Based on ITE Parking Generation (4th Edition, 2010) shopping center land use 820 for non-Friday weekday, non-December.
+
+
+
+
+Retail Demand                                                                                                         7/20/2015
+
