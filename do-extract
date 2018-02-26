@@ -10,4 +10,4 @@ cat sf.csv | ./process-sf | ./geocode > counts-sf-misc.csv
 ./extract-db > counts-sf-db.csv
 
 ./extract-idax misc/*.txt | ./geocode-misc > counts-misc.csv
-./extract-idax sanjose/*.txt > counts-sanjose.csv
+./extract-idax sanjose/*.txt | ./geocode-misc > counts-sanjose.csv
